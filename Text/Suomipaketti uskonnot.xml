@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+		<Row Tag="TXT_KEY_RELIGION_BUDDHISM">
+			<Text>Buddhalaisuus|Buddhalaisuuden|buddhalaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHRISTIANITY">
+			<Text>Kristinusko|Kristinuskon|kristinuskon</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HINDUISM">
+			<Text>Hindulaisuus|Hindulaisuuden|hindulaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ISLAM">
+			<Text>Islam|Islamin|islamin</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_POLYTHEISM">
+			<Text>Polyteismi|Polyteismin|polyteismin</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHINTOISM">
+			<Text>Shintoisuus|Shintoisuuden|shintoisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SPIRITUALISM">
+			<Text>Spiritualaisuus|Spiritualaisuuden|spiritualaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZOROASTRIANISM">
+			<Text>Zarathustralaisuus|Zarathustralaisuuden|zarathustralaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<!-- Jumalat ja kuninkaat -->
+		<Row Tag="TXT_KEY_RELIGION_CATHOLICISM">
+			<Text>Katolilaisuus|Katolilaisuuden|katolilaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CONFUCIANISM">
+			<Text>Kungfutselaisuus|Kungfutselaisuuden|kungfutselaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JUDAISM">
+			<Text>Juutalaisuus|Juutalaisuuden|juutalaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
+			<Text>Ortodoksisuus|Ortodoksisuuden|ortodoksisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PANTHEON">
+			<Text>Kantausko|Kantauskon|kantauskon</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
+			<Text>Protestanttisuus|Protestanttisuuden|protestanttisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHINTO">
+			<Text>Shintolaisuus|Shintolaisuuden|shintolaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row><Row Tag="TXT_KEY_RELIGION_SIKHISM">
+			<Text>Sikhiläisyys|Sikhiläisyyden|sikhiläisyyden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row><Row Tag="TXT_KEY_RELIGION_TAOISM">
+			<Text>Taolaisuus|Taolaisuuden|taolaisuuden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row><Row Tag="TXT_KEY_RELIGION_TENGRIISM">
+			<Text>Tengriläisyys|Tengriläisyyden|tengriläisyyden</Text><Plurality>masculine:nominatiivi|masculine:akkusatiivi|feminine:akkusatiivi</Plurality>
+		</Row>
+		<!-- uskomukset -->
+		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP">
+			<Text>+1 [ICON_CULTURE] kulttuuria pyhätöistä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP_SHORT">
+			<Text>Esi-isien palvonta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ASCETISM">
+			<Text>Pyhätöt tarjoavat +1 [ICON_HAPPINESS_1] onnellisuutta kaupungeissa, joissa on 3 uskonnon harjoittajaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ASCETISM_SHORT">
+			<Text>Asketismi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
+			<Text>[ICON_PEACE] Uskolla voi ostaa katedraaleja (+1 [ICON_PEACE] uskoa, +1 [ICON_CULTURE] kulttuuria, +1 [ICON_HAPPINESS_1] onnellisuutta, 1 tila taiteen merkkiteoksille)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS_SHORT">
+			<Text>Katedraalit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL">
+			<Text>+1 [ICON_HAPPINESS_1] yleistä onnellisuutta joka toisesta uskontoa noudattavasta kaupungista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL_SHORT">
+			<Text>Seremoniallinen hautaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS">
+			<Text>Vaikutusvalta [ICON_GOLD] kultalahjoista kaupunkivaltioille nousee 30%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS_SHORT">
+			<Text>Hyväntekeväisyys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHORAL_MUSIC">
+			<Text>Temppelit tarjoavat +2 [ICON_CULTURE] kulttuuria kaupungeissa, joissa on 5 uskonnon harjoittajaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHORAL_MUSIC_SHORT">
+			<Text>Kuoromusiikki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_PROPERTY">
+			<Text>+2 [ICON_GOLD] kultaa jokaisesta tätä uskontoa noudattavasta kaupungista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_PROPERTY_SHORT">
+			<Text>Kirkon omaisuus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE">
+			<Text>+3 [ICON_HAPPINESS_1] onnellisuutta pyhätöistä ja temppeleistä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE_SHORT">
+			<Text>Kirkkohäät</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA">
+			<Text>+1 [ICON_PEACE] uskoa metsättömistä tundraruuduista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_SHORT">
+			<Text>Auroran tanssi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH">
+			<Text>+20% [ICON_STRENGTH] taisteluetua lähellä tätä uskontoa noudattavia ystävällisiä kaupunkeja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH_SHORT">
+			<Text>Uskon puolustaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE">
+			<Text>+1 [ICON_PEACE] uskoa aavikkoruuduista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_SHORT">
+			<Text>Aavikon kansantarut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DIVINE_INSPIRATION">
+			<Text>Jokainen maailmanihme tarjoaa +2 [ICON_PEACE] uskoa kaupungilleen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DIVINE_INSPIRATION_SHORT">
+			<Text>Jumalallinen inspiraatio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER">
+			<Text>+1 [ICON_PEACE] uskoa kustakin kuparista, raudasta ja suolasta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER_SHORT">
+			<Text>Äiti Maa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EVANGELISM">
+			<Text>Lähetyssaarnaajien uskonlevitys syö muiden uskontojen olemassa olevaa painetta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EVANGELISM_SHORT">
+			<Text>Evankeliikka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALERS">
+			<Text>Paraneminen +30 kestopistettä vuorossa ystävällisen kaupungin lähellä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALERS_SHORT">
+			<Text>Uskonparantajat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD">
+			<Text>Pyhätöt ja temppelit tarjoavat +1 [ICON_FOOD] ruokaa jokaisessa kaupungissa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD_SHORT">
+			<Text>Maailman ruokinta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
+			<Text>10% nopeampi [ICON_FOOD] kasvuvauhti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES_SHORT">
+			<Text>Hedelmällisyysriitit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FLOURISHING_OF_ARTS">
+			<Text>+10% [ICON_CULTURE] kulttuuria rauhan aikana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FLOURISHING_OF_ARTS_SHORT">
+			<Text>Taiteiden kukoistus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FORMAL_LITURGY">
+			<Text>+1 [ICON_CULTURE] kulttuuria ja +1 [ICON_PEACE] uskoa kustakin kullasta ja hopeasta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FORMAL_LITURGY_SHORT">
+			<Text>Uskonnolliset ikonit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT">
+			<Text>+1 [ICON_FOOD] ruokaa leireistä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT_SHORT">
+			<Text>Metsästyksen jumalatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE">
+			<Text>+1 [ICON_HAPPINESS_1] onnellisuutta kaupungeissa, joiden väliluku on 6 tai suurempi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE_SHORT">
+			<Text>Rakkauden jumala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY">
+			<Text>+30% voimakkaampi [ICON_RANGE_STRENGTH] etätaisteluvoimakkuus kaupungeille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY_SHORT">
+			<Text>Suojeluksen jumalatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN">
+			<Text>+1 [ICON_PRODUCTION] tuottavuutta kaupungeissa, joiden väkiluku on 3 tai suurempi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN_SHORT">
+			<Text>Käsityöläisten jumala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FESTIVALS">
+			<Text>+1 [ICON_CULTURE] kulttuuria ja +1 [ICON_PEACE] uskoa kustakin viinistä ja suitsukkeesta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FESTIVALS_SHORT">
+			<Text>Juhlien jumalatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_KING">
+			<Text>Palatsi tarjoaa +1 näille: [ICON_CULTURE] , [ICON_PEACE] , [ICON_GOLD], [ICON_PRODUCTION], [ICON_RESEARCH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_KING_SHORT">
+			<Text>Jumalkuningas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
+			<Text>+1 [ICON_PRODUCTION] tuottavuutta kalastusaluksista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SEA_SHORT">
+			<Text>Merenjumala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
+			<Text>[ICON_PEACE] Uskoa voitetusta taistelusta 4 ruudun sisällä kaupungistamme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_WAR_SHORT">
+			<Text>Sodanjumala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURUSHIP">
+			<Text>+2 [ICON_PRODUCTION] tuottavuutta mikäli kaupungissa on osaaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURUSHIP_SHORT">
+			<Text>Gurukeskeisyys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HAJJ">
+			<Text>+5 [ICON_CULTURE] kulttuuria ja +5 [ICON_PEACE] uskoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HAJJ_SHORT">
+			<Text>Hadz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HARVEST_FESTIVAL">
+			<Text>Sadonkorjuujuhla</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HARVEST_FESTIVAL_SHORT">
+			<Text>Sadonkorjuun juhla</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION">
+			<Text>Lähetyssaarnaajat kääntävät läheiset barbaarit kansakunnalleen.</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT">
+			<Text>Pakanoiden käännytys</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HOLY_ORDER">
+			<Text>Lähetyssaarnaajat ja inkvisiittorit vaativat 30% vähemmän [ICON_PEACE] uskoa</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HOLY_ORDER_SHORT">
+			<Text>Pyhä veljeskunta</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HOLY_WARRIORS">
+			<Text>[ICON_PEACE] Uskolla voi ostaa teollista aikaa edeltäviä maayksiköitä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_HOLY_WARRIORS_SHORT">
+			<Text>Pyhät soturit</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY">
+			<Text>+2 [ICON_CULTURE] kulttuuria ja +1 [ICON_PEACE] uskoa temppeleistä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY_SHORT">
+			<Text>Ikonografia</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_INDULGENCES">
+			<Text>+2 [ICON_GOLD] kultaa kustakin [ICON_CONNECTED] kauppareitistä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_INDULGENCES_SHORT">
+			<Text>Aneet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_INITIATION_RITES">
+			<Text>+100 [ICON_GOLD] kultaa kaupungin kääntyessä ensimmäistä kertaa tähän uskontoon</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_INITIATION_RITES_SHORT">
+			<Text>Siirtymäriitit</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_INTERFAITH_DIALOGUE">
+			<Text>[ICON_RESEARCH] Tiedettä lähetyssaarnaajan tai profeetan levittäessä tätä uskontoa toisten uskontojen kaupunkeihin</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_INTERFAITH_DIALOGUE_SHORT">
+			<Text>Uskojenvälinen dialogi</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS">
+			<Text>Uskonto leviää 30% kauempana oleviin kaupunkeihin</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS_SHORT">
+			<Text>Kiertävät saarnaajat</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION">
+			<Text>[ICON_PEACE] Uskolla voi ostaa yliopistoja, julkisia kouluja ja tutkimuslaboratorioita.</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION_SHORT">
+			<Text>Jesuiittakoulutus</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_JUST_WAR">
+			<Text>+20% [ICON_STRENGTH] taisteluvoimakkuutta tätä uskontoa noudattavien viholliskaupunkien lähellä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_JUST_WAR_SHORT">
+			<Text>Sodan oikeutus</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
+			<Text>Amfiteatterit tarjoavat +1 [ICON_PEACE] uskoa kaupungeissa, joissa on 3 uskonnon harjoittajaa</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA_SHORT">
+			<Text>Uskonnollinen draama</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
+			<Text>+2 [ICON_RESEARCH] tiedettä kaupungeissa, joilla on [ICON_CONNECTED] kaupunkiyhteys</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS_SHORT">
+			<Text>Jumalten sanansaattaja</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MESSIAH">
+			<Text>Profeetat ovat 25% vahvempia ja niitä saa 25% vähemmällä [ICON_PEACE] uskolla</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MESSIAH_SHORT">
+			<Text>Messias</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MISSIONARY_ZEAL">
+			<Text>Lähetyssaarnaajat ovat +25% voimakkaampia</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MISSIONARY_ZEAL_SHORT">
+			<Text>Lähetyssaarnaajien kiihko</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MONASTERIES">
+			<Text>[ICON_PEACE] Uskolla voi ostaa luostareita (+2 [ICON_PEACE] uskoa, +2 [ICON_CULTURE] kulttuuria, enemmän jos on [ICON_RES_WINE] viiniä tai [ICON_RES_INCENSE] suitsukkeita)</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MONASTERIES_SHORT">
+			<Text>Luostarit</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS">
+			<Text>+15% [ICON_PRODUCTION] tuottavuutta muinaisten ja antiikin ihmeiden valmistukseen</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS_SHORT">
+			<Text>Jumalten monumentti</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MOSQUES">
+			<Text>[ICON_PEACE] Uskolla voi ostaa moskeijoita (+3 [ICON_PEACE] uskoa, +2 [ICON_CULTURE] kulttuuria, +1 [ICON_HAPPINESS_1] onnellisuutta)</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_MOSQUES_SHORT">
+			<Text>Moskeijat</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE">
+			<Text>+4 [ICON_PEACE] uskoa luonnonihmeistä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_SHORT">
+			<Text>Luonnon palvonta</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
+			<Text>+1 [ICON_CULTURE] kulttuuria laitumista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_OPEN_SKY_SHORT">
+			<Text>Taivaanjumala</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
+			<Text>+1 [ICON_CULTURE] kulttuuria plantaaseista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_SHORT">
+			<Text>Suulliset perinteet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PAGODAS">
+			<Text>[ICON_PEACE] Uskolla voi ostaa pagodeja (+2 [ICON_PEACE] uskoa, +2 [ICON_CULTURE] kulttuuria, +2 [ICON_HAPPINESS_1] onnellisuutta)</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PAGODAS_SHORT">
+			<Text>Pagodit</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PAPAL_PRIMACY">
+			<Text>+15 [ICON_INFLUENCE] vaikutusvallan perustasoon niissä kaupunkivaltioissa, jotka noudattavat tätä uskontoa</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PAPAL_PRIMACY_SHORT">
+			<Text>Paavin hallitseva asema</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PEACE_GARDENS">
+			<Text>Puutarhat tarjoavat +2 [ICON_HAPPINESS_1] onnellisuutta kaupungilleen</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PEACE_GARDENS_SHORT">
+			<Text>Rauhan puutarhat</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PEACE_LOVING">
+			<Text>+1 [ICON_HAPPINESS_1] yleistä onnellisuutta joka kahdeksannesta uskonnon harjoittajasta ulkomaisissa kaupungeissa, jotka eivät ole vihollisiamme</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PEACE_LOVING_SHORT">
+			<Text>Rauhan rakastajat</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PILGRIMAGE">
+			<Text>+2 [ICON_PEACE] uskoa jokaisesta ulkomaisesta tätä uskontoa noudattavasta kaupungista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_PILGRIMAGE_SHORT">
+			<Text>Pyhiinvaellus</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART">
+			<Text>Eremitaasi tarjoaa +5 [ICON_CULTURE] kulttuuria ja +5 [ICON_TOURISM] turismia</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART_SHORT">
+			<Text>Uskonnollinen taide</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER">
+			<Text>Temppelit tarjoavat +2 [ICON_HAPPINESS_1] onnellisuutta kaupungeissa, joissa on 5 uskonnon harjoittajaa</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER_SHORT">
+			<Text>Uskonnollinen keskus</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_COMMUNITY">
+			<Text>+1% [ICON_PRODUCTION] tuottavuutta kustakin uskonnon harjoittajasta (korkeintaan +15%)</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_COMMUNITY_SHORT">
+			<Text>Uskonnollinen yhteisö</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR">
+			<Text>[ICON_PEACE] Uskolla voi ostaa teollisen ja myöhempien aikojen maayksiköitä.</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR_SHORT">
+			<Text>Uskonnollinen palo</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS">
+			<Text>+15% nopeampi rajojen laajeneminen</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS_SHORT">
+			<Text>Uskonnolliset asutukset</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
+			<Text>Uskonto leviää 25% vikkelämmin (50% kehitettyämme kirjapainon)</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS_SHORT">
+			<Text>Uskonkappaleet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_UNITY">
+			<Text>Uskonto leviää ystävällismielisiin kaupunkivaltioihin kaksinkertaisella vimmalla</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIGIOUS_UNITY_SHORT">
+			<Text>Uskonnollinen yhtenäisyys</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIQUARY">
+			<Text>50 [ICON_PEACE] uskoa aina merkittävän henkilön poistuessa pelistä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_RELIQUARY_SHORT">
+			<Text>Pyhäinjäännökset</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_ANIMALS">
+			<Text>Pyhät eläimet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_ANIMALS_SHORT">
+			<Text>Pyhät eläimet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_PATH">
+			<Text>+1 [ICON_CULTURE] kulttuuria viidakkoruuduista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_PATH_SHORT">
+			<Text>Pyhä polku</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_SITES">
+			<Text>Kaikki [ICON_PEACE] uskolla ostetut rakennukset tarjoavat 2 [ICON_TOURISM] turismia.</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_SITES_SHORT">
+			<Text>Pyhät paikat</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_WATERS">
+			<Text>+1 [ICON_HAPPINESS_1] onnellisuutta jokaisesta joen varrella sijaitsevasta kaupungista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_SHORT">
+			<Text>Pyhät vedet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SALAT">
+			<Text>+2 [ICON_PEACE] uskoa pyhätöistä ja temppeleistä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SALAT_SHORT">
+			<Text>Salat-rukoilu</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
+			<Text>+2 [ICON_PEACE] uskoa louhoksista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES_SHORT">
+			<Text>Kivikehät</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SUN_GOD">
+			<Text>+1 [ICON_FOOD] ruokaa kustakin banaanista, sitruksesta ja vehnästä</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SUN_GOD_SHORT">
+			<Text>Aurinkojumala</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES">
+			<Text>15% nopeampi [ICON_FOOD] kasvutahti kaupungissa rauhan aikana</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES_SHORT">
+			<Text>Miekoista aurojen siiviksi</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS">
+			<Text>+2 [ICON_PEACE] uskoa kustakin jalokivi ja helmiresurssista</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS_SHORT">
+			<Text>Jumalten kyyneleet</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_THIRD_ROME">
+			<Text>Pyhä kaupunki siirtyy kaapattaessa seuraavaksi suurimpaan uskonnon harjoittajien kaupunkiin</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_THIRD_ROME_SHORT">
+			<Text>Kolmas Rooma</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_TITHE">
+			<Text>+1 [ICON_GOLD] kulta joka neljännestä uskonnon harjoittajasta</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_TITHE_SHORT">
+			<Text>Kymmenykset</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD">
+			<Text>[ICON_PEACE] Uskolla voi ostaa minkä tahansa [ICON_GREAT_PEOPLE] merkittävän henkilön teollisesta ajasta alkaen.</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD_SHORT">
+			<Text>Jumalan mahti</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT">
+			<Text>Vakoilijamme luovat uskonnollista painetta asemapaikoissaan.</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT_SHORT">
+			<Text>Maanalainen lahko</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS">
+			<Text>Inkvisiittorit ja profeetat kykenevät ainoastaan puolittamaan uskonnon aseman kaupungeista (täyden poiston sijasta).</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS_SHORT">
+			<Text>Profeetallinen yhtenäisyys</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_WORK_ETHIC">
+			<Text>+8 [ICON_PRODUCTION] tuottavuutta jokaisessa uskontoa harjoittavassa kaupungissa</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_WORK_ETHIC_SHORT">
+			<Text>Työetiikka</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH">
+			<Text>+1 [ICON_CULTURE] kulttuuria joka viidennestä ulkomaisesta tämän uskonnon harjoittajasta (kaupunkivaltioita ei huomioida)</Text>
+		</Row><Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH_SHORT">
+			<Text>Maailmankirkko</Text>
+		</Row><Row Tag="TXT_KEY_APU_SHORT"><Text>Apu-henget</Text></Row><Row Tag="TXT_KEY_BELIEF_APU"><Text>+3 [ICON_PEACE] uskoa kaupungeissa, joilla on [ICON_CONNECTED] kaupunkiyhteys, +1 [ICON_GOLD] kultaa kauppapaikoista ja [ICON_PEACE] uskolla voi ostaa työläisiä.</Text></Row><Row Tag="TXT_KEY_BELIEF_COQUIHANI"><Text>+2 [ICON_PEACE] uskoa louhoksista, +15% [ICON_PRODUCTION] tuottavuutta ihmeiden rakentamiseen ja työpajoja voi ostaa [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_COYOTE"><Text>+1 [ICON_PEACE] uskoa ja +1 [ICON_RESEARCH] tiedettä plantaaseista ja kirjastoja voi ostaa [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS"><Text>+2 [ICON_PEACE] uskoa metsättömistä tundraruuduista ja +4 [ICON_PEACE] uskoa lumiruuduista.</Text></Row><Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS"><Text>+2 [ICON_PEACE] uskoa aavikkoruudista</Text></Row><Row Tag="TXT_KEY_BELIEF_EARTHS_BOUNTY"><Text>+2 [ICON_PEACE] uskoa kustakin rauda-, jalokivi-, kulta-, hopea-, kupari- ja suolaluonnonvarasta</Text></Row><Row Tag="TXT_KEY_BELIEF_HOLY_ANIMALS"><Text>+3 [ICON_PEACE] uskoa kustakin laidunruudusta</Text></Row><Row Tag="TXT_KEY_BELIEF_HOLY_HIGH_GROUND"><Text>+1 [ICON_PEACE] uskoa kustakin mäkiruudusta</Text></Row><Row Tag="TXT_KEY_BELIEF_HOLY_LOW_GROUND"><Text>+3 [ICON_PEACE] uskoa suo- ja tulvatasankoruudusta</Text></Row><Row Tag="TXT_KEY_BELIEF_HUNAHPU"><Text>+1 [ICON_FOOD] ruokaa leireistä, +1 [ICON_PEACE] uskoa kustakin banaani-, sitrus- ja vehnäluonnonvarasta, sekä temppeleitä voi ostaa [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_INTI"><Text>+15% vikkelämpi rajojen laajentuminen, temppelit tarjoavat +2 [ICON_HAPPINESS_1] ja +1 [ICON_PEACE] uskoa, sekä uudisasuttajia voi ostaa [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES"><Text>Tapaamistaloja voi ostaa [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES_SHORT"><Text>Tapaamistalot</Text></Row><Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS"><Text>+8 [ICON_PEACE] uskoa luonnonihmeistä</Text></Row><Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS"><Text>+2 [ICON_PEACE] uskoa plantaaseista</Text></Row><Row Tag="TXT_KEY_BELIEF_QUETZALCOATL"><Text>10% vikkelämpi [ICON_FOOD] kasvutahti, +3 [ICON_PEACE] uskoa puutarhoista, sekä mahdollistaa vesimyllyjen ja akveduktien ostamisen [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_SACRED_PATH_NWS"><Text>+2 [ICON_PEACE] uskoa aavikkoruuduista</Text></Row><Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_NWS"><Text>+2 [ICON_PEACE] uskoa järvistä ja rannikko- sekä meriruuduista. +1 [ICON_HAPPINESS_1] onnellisuutta joenvartisissa kaupungeissa</Text></Row><Row Tag="TXT_KEY_BELIEF_SEDNA"><Text>+1 [ICON_PEACE] uskoa kalastusaluksista, +1 [ICON_PRODUCTION] tuottavuutta järvistä ja rannikko- sekä meriruuduista. Mahdollistaa majakoiden ostamisen [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_SOSONDOWAH"><Text>+4 [ICON_PEACE] uskoa linnoituksista ja +2 [ICON_PEACE] uskoa linnakkeista, +30% kaupungin [ICON_RANGE_STRENGTH] etäiskujen voimakkuuteen, sekä mahdollistaa muurien ostamisen [ICON_PEACE] uskolla.</Text></Row><Row Tag="TXT_KEY_BELIEF_TOTEMISM"><Text>+2 [ICON_PEACE] uskoa leireistä</Text></Row><Row Tag="TXT_KEY_BELIEF_WORLD_TREES"><Text>+2 [ICON_PEACE] uskoa metsäruuduista</Text></Row><Row Tag="TXT_KEY_BELIEF_XBALANQUE"><Text>Saamme [ICON_PEACE] uskoa voittaessamme taistelun ja [ICON_PEACE] uskolla voi ostaa antiikin ajan maayksiköitä.</Text></Row>
+	</Language_fi_FI>
+</GameData>

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_BISMARCK">
+			<Text>Harald Ankara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_ELIZABETH">
+			<Text>Harold Godwininpoika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARALD">
+			<Text>Sven II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_NAPOLEON">
+			<Text>Vilhelm Valloittaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ASKIA">
+			<Text>Geiserik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_AUGUSTUS">
+			<Text>Honorius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BISMARCK">
+			<Text>Alarik I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_DARIUS">
+			<Text>Bahram V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_NAPOLEON">
+			<Text>Chlodio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_KHAN">
+			<Text>Nurhaci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR">
+			<Text>Ahmad al-Mansur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER">
+			<Text>Aleksanteri</Text>
+		</Row><Row Tag="TXT_KEY_LEADER_ASHURBANIPAL">
+			<Text>Assurbanipal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA">
+			<Text>Askia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA">
+			<Text>Attila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS">
+			<Text>Augustus Caesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BARBARIAN">
+			<Text>Barbaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK">
+			<Text>Bismarck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA">
+			<Text>Boudica</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_CASIMIR">
+			<Text>Kasimir III</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_CATHERINE">
+			<Text>Katariina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS">
+			<Text>Darius I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO">
+			<Text>Dido</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH">
+			<Text>Elisabet</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO">
+			<Text>Enrico Dandolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA">
+			<Text>Gajah Mada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI">
+			<Text>Gandhi</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_GENGHIS_KHAN">
+			<Text>Tsingis-kaani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Kustaa Aadolf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD">
+			<Text>Harald Sinihammas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN">
+			<Text>Harun al-Rashid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA">
+			<Text>Hiawatha</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>Isabella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA">
+			<Text>Kamehameha</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_MARIA">
+			<Text>Maria Teresia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I">
+			<Text>Maria I</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA">
+			<Text>Montezuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON">
+			<Text>Napoleon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR">
+			<Text>Nebukadressar II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_NOBUNAGA">
+			<Text>Oda Nobunaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL">
+			<Text>Pacal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACHACUTI">
+			<Text>Pachacutec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO">
+			<Text>Pedro II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO">
+			<Text>Pocatello</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_RAMESSES">
+			<Text>Ramses II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG">
+			<Text>Ramkhamhaeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG">
+			<Text>Sejong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>Haile Selassie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA">
+			<Text>Shaka</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_SULEIMAN">
+			<Text>Suleiman</Text>
+		</Row><Row Tag="TXT_KEY_LEADER_THEODORA">
+			<Text>Theodora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WASHINGTON">
+			<Text>Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM">
+			<Text>Vilhelm Oranialainen</Text>
+		</Row><Row Tag="TXT_KEY_LEADER_WU_ZETIAN">
+			<Text>Wu Zetian</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA">
+			<Text>Saladin</Text>
+		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">
+			<Text>Ya'qub al-Mansur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON">
+			<Text>Frans I</Text>
+		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER">
+			<Text>Mikael VIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG">
+			<Text>Zhangzong</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_NAME">
+			<Text>Frans I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON">
+			<Text>Frans I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BARBARIAN">
+			<Text>Ludiitti</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
+			<Text>Kyyros Pääjoki</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_NAME">
+			<Text>Kyyros Pääjoki</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
+			<Text>Panu Torvenpää</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CUTLER_NAME">
+			<Text>Octavius Leikonen</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
+			<Text>Octavius Leikonen</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GRIGGS_NAME">
+			<Text>Luther Valpas</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Luther Valpas</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
+			<Text>Otto Ikäheimo</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_NAME">
+			<Text>Otto Ikäheimo</Text>
+		</Row>
+	</Language_fi_FI>
+</GameData>

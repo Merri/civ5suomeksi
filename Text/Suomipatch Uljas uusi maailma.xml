@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_ABLTY_DEFENSIVE_EMBARK_STRING</Tag>
+			</Where>
+			<Set>
+				<Text>Kaksinkertaistaa uitossa olevien yksiköiden voiman</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_ALLIES_CSTATE_TT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CityStateName:textkey} on [COLOR_POSITIVE_TEXT]liitossa[ENDCOLOR] kanssamme, koska meillä on eniten [ICON_INFLUENCE] vaikutusvaltaa heihin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_ANGRY_CSTATE_TT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CityStateName:textkey} on suuttunut jonkin tekomme vuoksi, kuten suojelumaksun vaatimisen, luvattoman rajanylityksen tai sodanjulistuksen takia.  Voimme suorittaa tehtäviä tai lahjoittaa [ICON_GOLD] kultaa parantaaksemme tilannetta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_BUILD_CITADEL_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+100% [ICON_STRENGTH] puolustusvoimaa mille tahansa tähän ruutuun asetetulle yksikölle. Mikä tahansa vihollisyksikkö kärsii 30 pistettä vahinkoa ollessaan linnoituksen vieressä (useampi linnoitus ei kasvata vahinkoa). Linnoituksen rakentaminen poistaa yksikön ja valloittaa ympäröivän alueen omistukseemme. Muiden pelaajien alueiden valtaamisesta tulee diplomaattisia seurauksia.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_BUILD_LANDMARK_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksikkö poistuu pelistä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO</Tag>
+			</Where>
+			<Set>
+				<Text>Meillä ei ole {1_ResourceName ^ 'feminine:partitiivi'}, mutta {2_CityName:textkey} on lähellä kyseistä luonnonvaraa. Lähetä työläinen (maalla) tai työvene (merellä) alueelle, jotta pääsemme käsiksi siihen.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITYSTATE_PERMANENTWAR_HEADING4_TITLE</Tag>
+			</Where>
+			<Set>
+				<Text>Varuillaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PERMANENT_WAR</Tag>
+			</Where>
+			<Set>
+				<Text>Varuillaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITYVIEW_PURCHASE_TT</Tag>
+			</Where>
+			<Set>
+				<Text>Voit ostaa yksikön tai rakennuksen välittömästi, jos sinulla on tarpeeksi [ICON_GOLD] kultaa tai [ICON_FAITH] uskoa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITY_CONNECTED</Tag>
+			</Where>
+			<Set>
+				<Text>Kaupungilla on [ICON_CONNECTED] yhteys [ICON_CAPITAL] pääkaupunkiin!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITY_STATE_ALLY_TT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CivName:textkey} on heidän liittolaisensa. Tarvitsemme {2_NumInfluence} [ICON_INFLUENCE] vaikutusvaltaa ohittaaksemme heidät.[NEWLINE][NEWLINE]Pelaaja saa etuisuuksia ollessaan kaupunkivaltion liittolainen: osa etuisuuksista riippuu kaupunkivaltion tyypistä, ja loput siitä, mitkä ylelliset ja strategiset luonnonvarat heillä on käytössään.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITY_STATE_MILITARISTIC_TT</Tag>
+			</Where>
+			<Set>
+				<Text>Ystävällinen [COLOR_POSITIVE_TEXT]sotaisa[ENDCOLOR] kaupunkivaltio tarjoaa kehittyneitä sotilasyksiköitä väliajoin.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR] on heidän erikoisuutensa.  He lahjoittavat yksikköä ollessamme heidän liittolaisiaan ja tuntiessamme {@2_PrereqTech} salat.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CITY_STATE_QUEST_KILL_CAMP_FORMAL</Tag>
+			</Where>
+			<Set>
+				<Text>He palkitsevat pelaajan, joka tuhoaa läheisen barbaarien sotaleirin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CSTATE_CULTURE_BONUS</Tag>
+			</Where>
+			<Set>
+				<Text>Saamme heiltä [COLOR_POSITIVE_TEXT]{1_CultureBonus} [ICON_CULTURE] kulttuuria[ENDCOLOR] per vuoro.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_CITY_BUILDINGS</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_PLUS] Yleisestä onnellisuudesta</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_MINUS] Yleisestä onnellisuudesta</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_INCOME_TRADE</Tag>
+			</Where>
+			<Set>
+				<Text>Tulot kaupunkiyhteyksistä</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_INCOME_TRADE_DETAILS</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_PLUS] Kaupunkiyhteyksistä</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_INCOME_TRADE_DETAILS_COLLAPSE</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_MINUS] Kaupunkiyhteyksistä</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_TRADE</Tag>
+			</Where>
+			<Set>
+				<Text>Kaupunkiyhteydet</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_TRADE_ROUTES</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_PLUS] Kaupunkiyhteydet</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EO_TRADE_ROUTES_COLLAPSE</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_MINUS] Kaupunkiyhteydet</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_ERA_6</Tag>
+			</Where>
+			<Set>
+				<Text>Atomiaika|atomiaikaan|atomiajasta|atomiajassa</Text>
+				<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+				<Plurality>1</Plurality>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EUPANEL_EMPIRE_UNHAPPY_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Valtakunta on [ICON_HAPPINESS_3] tyytymätön</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_EUPANEL_REVERSE_GG_NEAR</Tag>
+			</Where>
+			<Set>
+				<Text>Lähellä pelottavaa vihollista</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_FRIENDS_CSTATE_TT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CityStateName:textkey} on [COLOR_POSITIVE_TEXT]ystävämme[ENDCOLOR]. Tarvitsemme enemmän [ICON_INFLUENCE] vaikutusvaltaa tullaksemme liittolaisiksi.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1</Tag>
+			</Where>
+			<Set>
+				<Text>{2_MajorCivName} suojelee kaupunkivaltiota {1_MinorCivName:textkey}. Sodan lietsominen kaupunkivaltiota vastaan tai suojelumaksun vaatiminen heiltä saattaa vahingoittaa suhteita suojelijaan ja johtaa jopa sotaan heitäkin vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_1</Tag>
+			</Where>
+			<Set>
+				<Text>Ajattelin teidän haluavan tietää, että olemme aloittaneet lellimänne kaupunkivaltion valtaamisen. {@1_MinorCivName} maineen on pian meidän.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_2</Tag>
+			</Where>
+			<Set>
+				<Text>Hupsis, {@1_MinorCivName} on tainnut jäädä vähän jalkoihimme. Kehtaatkohan tehdä mitään asian suhteen?</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Tämä käsky poistaa merkittävän henkilön pelistä ja luo uuden merkkiteoksen lähimpään kaupunkiin, jossa on sopivan tyyppinen vapaa paikka työlle.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_MISSION_HEAL_DISABLED_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Tämä yksikkö ei voi parantua uitossa eikä omien rajojen ulkopuolella.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_MISSION_START_GOLDENAGE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Tämä käsky poistaa merkittävän taiteilijan pelistä ja aloittaa [ICON_GOLDEN_AGE] kultakauden (ylimääräistä [ICON_PRODUCTION], [ICON_GOLD] ja [ICON_CULTURE]) seuraavaksi {1_Num}:ksi vuoroksi.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_MO_GENERAL_TT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_current}/{2_needed}[NEWLINE]Edistyminen kohden seuraavaa merkittävää kenraalia on riippuvainen maayksiköidesi taisteluissa saamasta kokemuksesta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NEUTRAL_CSTATE_TT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CityStateName:textkey} ei pidä meistä, muttei vihaakaan meitä. Suorittamalla tehtäviä tai lahjoittamalla [ICON_GOLD] kultaa voimme kohentaa [ICON_INFLUENCE] vaikutusvaltaamme.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CityName:textkey} saa nyt {3_Num}% lisän [ICON_PRODUCTION] tuottavuuteen rakennettaessa muinaisuuden ja antiikin ajan ihmeitä! {2_ResourceName:textkey} on yhdistetty kaupungin alueella.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_FREE_POLICY</Tag>
+			</Where>
+			<Set>
+				<Text>Voit valita ilmaisen sosiaalisen linjauksen tai ideologisen opin!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_GREAT_ARTIST_STOLE_PLOT</Tag>
+			</Where>
+			<Set>
+				<Text>{1_CivName:textkey} käytti merkittävää kenraalia varastakseen maitamme!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MILITARISTIC</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Sotaisana[ENDCOLOR] kaupunkivaltiona he lahjoittavat meille säännöllisesti armeijan yksiköitä. Ajoittain he saattavat lahjoittaa meille yksiköitä, joita emme voisi muutoin saada.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>{@1_MinorCivName} tarvitsee apua sotaansa. {2_CivName:textkey} pitäisi nujertaa, joten jokainen yksikkö on arvokas. Yksiköiden lahjoittaminen antaa tavanomista enemmän [ICON_INFLUENCE] vaikutusvaltaa sodan aikana. Yksikön voi lahjoittaa kaupunkivaltion diplomatianäkymästä etävalintana tai viemällä halutun yksikön heidän mailleen ja valitsemalla lahjoitustoiminnon.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONNECT_RESOURCE</Tag>
+			</Where>
+			<Set>
+				<Text>{1_ResourceName} on onnistuneesti lisätty kauppaverkostoomme, aivan kuten {2_MinorCivName:textkey} pyysi! Heidän kauppiaansa ovat mielissään ja [ICON_INFLUENCE] vaikutusvaltamme on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONSTRUCT_WONDER</Tag>
+			</Where>
+			<Set>
+				<Text>{1_WonderName} on rakennettu, aivan kuten {2_MinorCivName:textkey} pyysi! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_NATURAL_WONDER</Tag>
+			</Where>
+			<Set>
+				<Text>{1_MinorCivName:textkey} on inspiroitunut uuden luonnonihmeen löytymisestä! Vaivamme vuoksi [ICON_INFLUENCE] vaikutusvaltamme on kasvanut ([COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_PLAYER</Tag>
+			</Where>
+			<Set>
+				<Text>{1_TargetName:textkey} on paikannettu ja {2_MinorCivName:textkey} lähettää kauppiaansa matkaan. [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GREAT_PERSON</Tag>
+			</Where>
+			<Set>
+				<Text>{1_UnitName} on herättänyt huomiota maailmalla, kuten {2_MinorCivName:textkey} toivoikin! Heidän tutkijansa ovat ihmeissään ja [ICON_INFLUENCE] vaikutusvaltamme on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CAMP</Tag>
+			</Where>
+			<Set>
+				<Text>{1_MinorCivName:textkey} juhlii tuhoamamme barbaarien sotaleirin kunniaksi! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE</Tag>
+			</Where>
+			<Set>
+				<Text>{1_TargetName:textkey} on tuhottu, joten {2_MinorCivName:textkey} on tästä pyyntönsä toteutumisesta iloissaan! He ovat erittäin kiitollisia avustamme. Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]).</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_REBELS</Tag>
+			</Where>
+			<Set>
+				<Text>Valtakuntaamme on ilmestynyt kapinallisia, sillä 10 [ICON_HAPPINESS_4] tyytymättömyyttä on sietämätön tilanne!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>{@1_MinorCivName} pyytää yksiköitä</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_BROKEN</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_CONNECTED] Kaupunkiyhteys katkesi!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_CONNECTED] Kaupunkiyhteys muodostettu!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_TRADE_ROUTE_BROKEN</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_CONNECTED] Yhteys kaupunkien {1_CityName:textkey} ja {2_CityName:textkey} välillä on katkennut.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_TRADE_ROUTE_ESTABLISHED</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_CONNECTED] Yhteys kaupunkien {1_CityName:textkey} ja {2_CityName:textkey} välillä on muodostettu!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL</Tag>
+			</Where>
+			<Set>
+				<Text>Olemme menettäneet alkuperäisen [ICON_CAPITAL] pääkaupunkimme!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_ANTI_AIR</Tag>
+			</Where>
+			<Set>
+				<Text>Etu lentokoneita ja helikoptereita vastaan (150)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_ANTI_FIGHTER</Tag>
+			</Where>
+			<Set>
+				<Text>Etu hävittäjäkoneita vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I</Tag>
+			</Where>
+			<Set>
+				<Text>Etu sukellusveneitä vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_ANTI_TANK</Tag>
+			</Where>
+			<Set>
+				<Text>Etu tankkeja vastaan (100)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_CITY_ASSUALT</Tag>
+			</Where>
+			<Set>
+				<Text>Etu kaupunkeja vastaan (300)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_CITY_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Haitta kaupunkeja vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_CITY_SIEGE</Tag>
+			</Where>
+			<Set>
+				<Text>Etu kaupunkeja vastaan (200)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_DEFENSE_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Haitta puolustautuessa (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_HEAL_IF_DESTROY_ENEMY</Tag>
+			</Where>
+			<Set>
+				<Text>Parantuu 50 pistettä vihollisen tuhoamisesta</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_JAGUAR</Tag>
+			</Where>
+			<Set>
+				<Text>Taisteluetu metsässä/viidakossa (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_MOHAWK</Tag>
+			</Where>
+			<Set>
+				<Text>Taisteluetu metsässä/viidakossa (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_MOUNTED_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Haitta ratsuja vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PEDIA_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY</Tag>
+			</Where>
+			<Set>
+				<Text>Parantuu 25 pistettä tuhottaessa yksikön</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PLOTROLL_TRADE_ROUTE</Tag>
+			</Where>
+			<Set>
+				<Text>Kaupunkiyhteys</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_AESTHETICS_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Estetiikka[ENDCOLOR][NEWLINE][ICON_INFLUENCE] Vaikutusvallan perustaso kaikkiin kaupunkivaltioihin on 20 pistettä korkeampi.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_AUTOCRACY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Itsevaltius[ENDCOLOR] sopii sotaisille kansoille, jotka unelmoivat maailman valloittamisesta.[NEWLINE][NEWLINE]Itsevaltiuden omaksuminen leikkaa yksiköiden [ICON_GOLD] ylläpitokuluja 33%, jolloin valtakunnalla voi olla suurempi armeija. Kaapattaessa kaupungin sen tuottamaa [ICON_CULTURE] kulttuuria kohden saa 10 [ICON_CULTURE] kulttuuria.[NEWLINE][NEWLINE]Kaikkien itsevaltiuden haaran linjausten omaksuminen antaa 25% hyökkäysedun kaikille sotilasyksiköille 50 vuoron ajaksi.[NEWLINE][NEWLINE][ICON_PEACE] Uskolla voi ostaa merkittäviä kenraaleja ja amiraaleja.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Tämä haara ei voi olla käytössä samaan aikaan kuin tasa-arvon tai järjestyksen haara.[ENDCOLOR]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_COMMERCE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Kaupankäynti[ENDCOLOR] tarjoaa etuja [ICON_GOLD] kultaan keskittyville valtakunnille.[NEWLINE][NEWLINE]Kaupankäynnin omaksuminen kasvattaa [ICON_GOLD] kullantuottoa 25% [ICON_CAPITAL] pääkaupungissa. Mahdollistaa Big Benin rakentamisen.[NEWLINE][NEWLINE]Kaikkien kaupankäynnin haaran linjausten omaksuminen antaa +1 [ICON_GOLD] kultaa kustakin kauppapaikasta ja kaksinkertaistaa merkittävän kauppiaan kaupankäyntien tuottaman [ICON_GOLD] kullan.[NEWLINE][NEWLINE][ICON_PEACE] Uskolla voi ostaa merkittäviä kauppiaita teollisesta ajasta alkaen.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_FREEDOM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Tasa-arvo[ENDCOLOR] toimii parhaiten pienillä valtakunnilla. Se tarjoaa etuja kohden [ICON_GREAT_PEOPLE] merkittäviä henkilöitä sekä osaajia.[NEWLINE][NEWLINE][ICON_GREAT_PEOPLE] Merkittävien henkilöiden syntymisnopeus kasvaa 25% kun tasa-arvo omaksutaan.[NEWLINE][NEWLINE]Kaikkien tasa-arvon haaran linjausten omaksuminen kasvattaa merkittävien rakenteiden perustuottavuutta 100% sekä kasvattaa [ICON_GOLDEN_AGE] kultakausien pituutta 50%.[NEWLINE][NEWLINE][ICON_PEACE] Uskolla voi ostaa merkittäviä taiteilijoita.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Tämä haara ei voi olla käytössä samaan aikaan kuin itsevaltiuden tai järjestyksen haara.[ENDCOLOR]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_HONOR_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Kunnia[ENDCOLOR] edistää armeijan tehokkuutta monin eri keinoin.[NEWLINE][NEWLINE]Kunnian omaksuminen antaa +33% taisteluvoimaa barbaareja vastaan sekä paljastaa barbaarien sotaleirien sijainnin niiden ilmaantuessa kartalle. Valtakunta saa [ICON_CULTURE] kulttuuria kustakin tapetusta barbaarista. Mahdollistaa Zeuksen patsaan rakentamisen.[NEWLINE][NEWLINE]Kaikkien kunnian haaran linjausten omaksuminen antaa [ICON_GOLD] kultaa kustakin tapetusta vihollisyksiköstä, sekä merkittävien kenraalien ostamisen [ICON_PEACE] uskolla teollisesta ajasta alkaen.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_LIBERTY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Vapaus[ENDCOLOR] on oiva valinta nopeasti laajeneville kansoille. Mahdollistaa Pyramidien rakentamisen.[NEWLINE][NEWLINE]Vapauden omaksuminen tarjoaa 1 [ICON_CULTURE] kulttuuria kustakin kaupungista.[NEWLINE][NEWLINE]Kaikkien vapauden haaran linjausten omaksuminen tarjoaa ilmaisen vapaasti valittavan merkittävän henkilön [ICON_CAPITAL] pääkaupunkiin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_ORDER_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Järjestys[ENDCOLOR] on otollisin rönsyillen laajentuville suurille valtakunnille, sillä se tuo etuuksia kaupunkien määrän perusteella.[NEWLINE][NEWLINE]Järjestyksen omaksuminen kasvattaa [ICON_HAPPINESS_1] onnellisuutta +1 kunkin kaupungin osalta.[NEWLINE][NEWLINE]Kaikkien järjestyshaaran linjausten omaksuminen tarjoaa +2 [ICON_FOOD] ruokaa, [ICON_PRODUCTION] tuottavuutta, [ICON_RESEARCH] tiedettä, [ICON_GOLD] kultaa ja [ICON_CULTURE] kulttuuria kaupunkia kohden.[NEWLINE][NEWLINE][ICON_PEACE] Uskolla voi ostaa merkittäviä insinöörejä.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Tämä haara ei voi olla samaan aikaan käytössä kuin tasa-arvo tai itsevaltiushaara.[ENDCOLOR]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Mesenaatti[ENDCOLOR] kasvattaa hyötyjä kaupunkivaltiosuhteista.[NEWLINE][NEWLINE]Linjauksen valitseminen saa [ICON_INFLUENCE] vaikutusvallan heikkenemään kaupunkivaltioihin 25% hitaammin kuin muutoin. Mahdollistaa Kielletyn palatsin rakentamisen.[NEWLINE][NEWLINE]Kaikkien mesenaattihaaran linjausten omaksuminen saa liittoutuneet kaupunkivaltiot satunnaisesti lahjoittamaan [ICON_GREAT_PEOPLE] merkittäviä henkilöitä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_PIETY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Hurskaus[ENDCOLOR] edistää [ICON_PEACE] uskoa.[NEWLINE][NEWLINE]Hurkaushaaran omaksuminen puolittaa pyhättöjen ja temppelien valmistusajan. Mahdollistaa Djennen moskeijan.[NEWLINE][NEWLINE]Kaikkien hurkaushaaran linjausten omaksuminen antaa ilmaisen merkittävän profeetan. Lisäksi pyhät paikat tarjoavat +3 [ICON_GOLD] kultaa ja +3 [ICON_CULTURE] kulttuuria.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Järki[ENDCOLOR] kehittää kykyä käyttää ja luoda [ICON_RESEARCH] tiedettä.[NEWLINE][NEWLINE]Järjen omaksuminen nostaa [ICON_RESEARCH] tiedettä 15% valtakunnan ollessa [ICON_HAPPINESS_1] onnellinen. Mahdollistaa Posliinitornin rakentamisen.[NEWLINE][NEWLINE]Kaikkien järjen haaran linjausten omaksuminen tarjoaa ilmaisen tekniikan. Lisäksi [ICON_PEACE] uskolla voi ostaa merkittäviä tiedemiehiä teollisesta ajasta alkaen.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_TRADITION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Perinteet[ENDCOLOR] toimii parhaiten pienille valtakunnille.[NEWLINE][NEWLINE]Perinteiden omaksuminen kasvattaa rajojen laajentumistahtia huomattavasti sekä antaa 3 [ICON_CULTURE] kulttuuria [ICON_CAPITAL] pääkaupungille. Mahdollistaa Riippuvien puutarhojen rakentamisen.[NEWLINE][NEWLINE]Kaikkien perinnehaaran linjausten omaksuminen antaa +15% [ICON_FOOD] kasvua ja ilmaisen akveduktin neljässä ensimmäisessä kaupungissa. Tämän lisäksi [ICON_PEACE] uskolla voi ostaa merkittäviä insinöörejä teollisesta ajasta alkaen.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_COLLECTIVE_RULE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Yhteisöllinen hallinto[ENDCOLOR][NEWLINE]Nopeuttaa [COLOR_POSITIVE_TEXT]uudisasuttajien[ENDCOLOR] tuotantoa 50% [ICON_CAPITAL] pääkaupungissa ja ilmainen uudisasuttaja ilmestyy [ICON_CAPITAL] pääkaupungin viereen. (Venetsia saa venetsialaisen kauppiaan uudisasuttajan sijasta.)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_COMMUNISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Kommunismi[ENDCOLOR][NEWLINE]+2 [ICON_PRODUCTION] tuottavuus kussakin kaupungissa ja +1 [ICON_PRODUCTION] tuottavuutta kustakin kaivoksesta ja louhoksesta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_DISCIPLINE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Kurinalaisuus[ENDCOLOR][NEWLINE]+15% [ICON_STRENGTH] taisteluvoimaa meleeyksiköille, joiden vieressä on toinen sotilasyksikkö.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_FASCISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Fasismi[ENDCOLOR][NEWLINE]Strategisten luonnonvarojen määrä kasvaa 100%. Kaikki merkittävät kenraalit saavat +2 [ICON_MOVES] liikkuvuutta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_FREE_RELIGION</Tag>
+			</Where>
+			<Set>
+				<Text>Suvaitsevaisuus</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_FREE_RELIGION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Suvaitsevaisuus[ENDCOLOR][NEWLINE]Valtauskonnon omaksuneet kaupungit saavat myös toiseksi suosituimman uskonnon kantauskomuksen edun.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_HUMANISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Humanismi[ENDCOLOR][NEWLINE]Merkittävät tiedemiehet edistyvät 25% nopeammin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Taivaan mandaatti[ENDCOLOR][NEWLINE]20% alennus uskonnollisten yksiköiden ja rakennusten ostamisesta [ICON_FAITH] uskolla.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_MERCANTILISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Merkantilismi[ENDCOLOR][NEWLINE]Kaupungissa tehtävät ostokset vaativat 25% vähemmän [ICON_GOLD] kultaa. +1 [ICON_RESEARCH] tiedettä kustakin rahapajasta, torista, pankista ja pörssistä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_MERCHANT_NAVY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Kauppalaivasto[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] kultaa kustakin satamasta, meriportista ja majakasta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_MILITARISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Militarismi[ENDCOLOR][NEWLINE]+2 paikallista [ICON_HAPPINESS_1] onnellisuutta kustakin parakista, asevarastosta ja sota-akademiasta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_MILITARY_CASTE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Sotilaskasti[ENDCOLOR][NEWLINE]Kukin varuskunnallinen kaupunki nostaa paikallista [ICON_HAPPINESS_1] onnellisuutta 1:llä ja [ICON_CULTURE] kulttuuria 2:lla.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_NATIONALISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Isänmaallisuus[ENDCOLOR][NEWLINE]Vähentää yksiköistä koituvia [ICON_GOLD] ylläpitokuluja 33%.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_NAVAL_TRADITION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Laivaston perinteet[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] onnellisuutta kustakin satamasta, meriportista ja majakasta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_OLIGARCHY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Oligarkia[ENDCOLOR][NEWLINE]Varuskuntayksiköt ovat ylläpitokuluttomia ja +50% [ICON_RANGE_STRENGTH] etätaisteluvoimaa kaupungeille, joissa on varuskunta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Järjestäytynyt uskonto[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] uskoa pyhätöistä ja temppeleistä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_PLANNED_ECONOMY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Suunnitelmatalous[ENDCOLOR][NEWLINE]Tehtaat kasvattavat kaupungin [ICON_RESEARCH] tiedettä 25%. Tehtaat rakentuvat kaksinkertaisella vauhdilla.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_POLICE_STATE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Poliisivaltio[ENDCOLOR][NEWLINE]+3 paikallista [ICON_HAPPINESS_1] onnellisuutta kustakin raatihuoneesta. Raatihuoneet rakentuvat kaksinkertaisella nopeudella.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Ammattiarmeija[ENDCOLOR][NEWLINE]Sotilasyksiköiden [ICON_GOLD] ylläpito halventuu 33% ja parakit, asevarastot ja sota-akademiat rakentuvat 50% nopeammin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_PROTECTIONISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Protektionismi[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] onnellisuutta kustakin ylellisestä luonnonvarasta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_REFORMATION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Reformaatio[ENDCOLOR][NEWLINE]Voimme valita reformaatiouskomuksen, mikäli perustimme uskonnon.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Tieteellinen vallankumous[ENDCOLOR][NEWLINE]Pönkittää tutkimus-sopimuksista saatua [ICON_RESEARCH] tiedettä 50%:lla.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_SOVEREIGNTY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Suvereniteetti[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] kultaa [ICON_SCIENCE] tiederakennuksista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_THEOCRACY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Teokratia[ENDCOLOR][NEWLINE]Temppelit kasvattavat kaupunkien [ICON_GOLD] kultatuloja 10%. Pyhät paikat tarjoavat +3 [ICON_GOLD] kultaa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_TOTAL_WAR_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Totaalinen sodankäynti[ENDCOLOR][NEWLINE]+25% [ICON_PRODUCTION] tuottavuutta sotilasyksiköitä tehdessä ja uudet yksiköt saavat +15 kokemusta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_TRADE_UNIONS_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Ammattiliitto[ENDCOLOR][NEWLINE]Teiden ja rautateiden ylläpitokulut vähenevät 50%.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_UNIVERSAL_SUFFRAGE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Yleinen äänioikeus[ENDCOLOR][NEWLINE]Kaupunkien osaajat tuottavat vain puolet normaalista määrästään [ICON_HAPPINESS_4] tyytymättömyyttä. [ICON_GOLDEN_AGE] Kultakaudet ovat 50% pidempiä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_WARRIOR_CODE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Soturiperinteet[ENDCOLOR][NEWLINE]+15% [ICON_PRODUCTION] tuottavuutta meleeyksiköitä kouluttaessa. [ICON_CAPITAL] Pääkaupungin viereen ilmestyy merkittävä kenraali. Merkittävät kenraalit ilmaantuvat 25% nopeammin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POPUP_ARE_YOU_SURE_IMPROVEMENT_REBUILD_WARN_TRADE_ROUTE</Tag>
+			</Where>
+			<Set>
+				<Text>Oletko varma?[NEWLINE]{@1_ActionName} tuhoaa nykyisen rakenteen ja kaupunkiyhteys voi katketa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POP_CSTATE_ALLIED_WITH</Tag>
+			</Where>
+			<Set>
+				<Text>LIITTO:</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POP_CSTATE_GIFT_UNIT</Tag>
+			</Where>
+			<Set>
+				<Text>Lahjoita yksikkö - saamme {1_Influence} [ICON_INFLUENCE] vaikutusvaltaa</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POP_CSTATE_GIFT_UNIT_TT</Tag>
+			</Where>
+			<Set>
+				<Text>Voit lahjoittaa tälle kaupunkivaltiolle taisteluyksikön mistä tahansa päin karttaa. Yksiköllä kestää matkaan {1_TurnsUntilArrival} vuoroa, etkä voi lähettää seuraavaa lahjaa ennen kuin se on perillä. Saapumisen jälkeen saamme {2_Influence} [ICON_INFLUENCE] vaikutusvaltaa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POP_CSTATE_PLEDGE_TT</Tag>
+			</Where>
+			<Set>
+				<Text>Sitoutumalla kaupunkivaltion suojelijaksi annat muiden suurempien kansakuntien tietää, että suojelet kaupunkivaltiota hyökkäyksiltä ja suojelumaksun vaatimisilta. Tämä saattaa estää muita pelaajia käymästä sotaan kaupunkivaltiota vastaan, mutta he olettavat myös meidän toimivan heidän hyväkseen tarvittaessa.[NEWLINE][NEWLINE]Suojelun aikana [ICON_INFLUENCE] vaikutusvaltamme perustaso nousee {1_InfluenceMinimum} pisteellä.  Suojelu voidaan lakkauttaa aikaisintaan {2_TurnsMinimum} vuoron kuluttua julistuksesta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POP_CSTATE_RESOURCES</Tag>
+			</Where>
+			<Set>
+				<Text>Varallisuus:</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ACCURACY_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_RANGE_STRENGTH] voimaa etähyökkäykseen [COLOR_POSITIVE_TEXT]AVOIMESSA[ENDCOLOR] maastossa olevia yksiköitä vastaan. (EI mäkiä, metsää tai viidekkoa)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ACCURACY_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_RANGE_STRENGTH] voimaa etähyökkäykseen [COLOR_POSITIVE_TEXT]AVOIMESSA[ENDCOLOR] maastossa olevia yksiköitä vastaan. (EI mäkiä, metsää tai viidekkoa)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ACCURACY_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_RANGE_STRENGTH] voimaa etähyökkäykseen [COLOR_POSITIVE_TEXT]AVOIMESSA[ENDCOLOR] maastossa olevia yksiköitä vastaan. (EI mäkiä, metsää tai viidekkoa)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_AIR_SIEGE_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] taisteluvoimaa [COLOR_POSITIVE_TEXT]kaupunkeja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_AIR_SIEGE_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] taisteluvoimaa [COLOR_POSITIVE_TEXT]kaupunkeja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_AIR_SIEGE_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+34% [ICON_STRENGTH] taisteluvoimaa [COLOR_POSITIVE_TEXT]kaupunkeja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_AMBUSH_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]panssaroituja[ENDCOLOR] yksiköitä vastaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_AMBUSH_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]panssaroituja[ENDCOLOR] yksiköitä vastaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ANTI_AIR</Tag>
+			</Where>
+			<Set>
+				<Text>Etu lentokoneita ja helikoptereita vastaan (150)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ANTI_FIGHTER</Tag>
+			</Where>
+			<Set>
+				<Text>Etu hävittäjäkoneita vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ANTI_SUBMARINE_I</Tag>
+			</Where>
+			<Set>
+				<Text>Etu sukellusveneitä vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ANTI_SUBMARINE_II</Tag>
+			</Where>
+			<Set>
+				<Text>Etu sukellusveneitä vastaan (100)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_ANTI_TANK</Tag>
+			</Where>
+			<Set>
+				<Text>Etu panssarivaunuja vastaan (100)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BARRAGE_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_RANGE_STRENGTH] voimaa etähyökkäykseen [COLOR_POSITIVE_TEXT]VAIKEASSA[ENDCOLOR] maastossa olevia yksiköitä vastaan. (mäet, metsät ja viidakko)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BARRAGE_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_RANGE_STRENGTH] voimaa etähyökkäykseen [COLOR_POSITIVE_TEXT]VAIKEASSA[ENDCOLOR] maastossa olevia yksiköitä vastaan. (mäet, metsät ja viidakko)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BARRAGE_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_RANGE_STRENGTH] voimaa etähyökkäykseen [COLOR_POSITIVE_TEXT]VAIKEASSA[ENDCOLOR] maastossa olevia yksiköitä vastaan. (mäet, metsät ja viidakko)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BLITZ_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>1 lisähyökkäys per vuoro.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BOMBARDMENT_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]maayksiköitä[ENDCOLOR] vastaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BOMBARDMENT_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]maayksiköitä[ENDCOLOR] vastaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_BOMBARDMENT_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+34% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]maayksiköitä[ENDCOLOR] vastaan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_CHARGE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] taisteluvoimaa [COLOR_POSITIVE_TEXT]haavoittuneita yksiköitä[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_CITY_ASSUALT</Tag>
+			</Where>
+			<Set>
+				<Text>Etu kaupunkeja vastaan (300)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_CITY_ASSUALT_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+300% etu kaupunkeja vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_CITY_SIEGE</Tag>
+			</Where>
+			<Set>
+				<Text>Etu kaupunkeja vastaan (200)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_CITY_SIEGE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+200% etu kaupunkeja vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_COVER_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [COLOR_POSITIVE_TEXT]kestävyyttä[ENDCOLOR] kaikkia [COLOR_POSITIVE_TEXT]etäiskuja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_COVER_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [COLOR_POSITIVE_TEXT]kestävyyttä[ENDCOLOR] kaikkia [COLOR_POSITIVE_TEXT]etäiskuja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DEFENSE_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Haitta puolustautuessa (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksikkö voi siirtyä [COLOR_POSITIVE_TEXT]vesiruutuihin[ENDCOLOR]. Uitossa oleva yksikkö voi puolustautua kaksinkertaisella voimalla.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DISCIPLINE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] taisteluvoimaa samalla puolella taistelevien yksiköiden vieressä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa suoritettaessa [COLOR_POSITIVE_TEXT]ilmatilan vapautusta[ENDCOLOR].</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa suoritettaessa [COLOR_POSITIVE_TEXT]ilmatilan vapautusta[ENDCOLOR].</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+34% [ICON_STRENGTH] voimaa suoritettaessa [COLOR_POSITIVE_TEXT]ilmatilan vapautusta[ENDCOLOR].</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DRILL_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa taistellessa [COLOR_POSITIVE_TEXT]VAIKEASSA[ENDCOLOR] maastossa. (mäet, metsät ja viidakko)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DRILL_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa taistellessa [COLOR_POSITIVE_TEXT]VAIKEASSA[ENDCOLOR] maastossa. (mäet, metsät ja viidakko)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_DRILL_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa taistellessa [COLOR_POSITIVE_TEXT]VAIKEASSA[ENDCOLOR] maastossa. (mäet, metsät ja viidakko)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_EMBARKATION_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksikkö voi siirtyä [COLOR_POSITIVE_TEXT]vesiruutuihin[ENDCOLOR].</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_FORMATION_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]ratsu[ENDCOLOR]yksiköitä vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_FORMATION_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]ratsu[ENDCOLOR]yksiköitä vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_GREAT_GENERAL_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Kasvattaa läheisten maayksiköiden tehokkuutta.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY</Tag>
+			</Where>
+			<Set>
+				<Text>Parannu 50 pistettä yksikön tuhoamisesta</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Parantuu 50 pistettä tuhottaessa muun kuin barbaarien yksikön.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>[COLOR_POSITIVE_TEXT]Parantaa yksikköä[ENDCOLOR] 50 pistettä. Tämä [COLOR_POSITIVE_TEXT]tuhlaa mahdollisuuden[ENDCOLOR] antaa yksikölle ylennyksen.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_HOVERING_UNIT_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksikkö voi ylittää vuoria, mutta kärsii vahinkoa päättäessään vuoronsa vuorelle.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_INTERCEPTION_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa torjuttaessa viholliskoneita.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_INTERCEPTION_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+33% [ICON_STRENGTH] voimaa torjuttaessa viholliskoneita.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_INTERCEPTION_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+34% [ICON_STRENGTH] voimaa torjuttaessa viholliskoneita.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_JAGUAR</Tag>
+			</Where>
+			<Set>
+				<Text>Taisteluetu metsässä ja viidakossa (50)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Tämä ja kaikki läheiset yksiköt [COLOR_POSITIVE_TEXT]paranevat 15 ylimääräisellä kestopisteellä[ENDCOLOR] joka vuoro.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_MEDIC_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Kaikki läheiset yksiköt [COLOR_POSITIVE_TEXT]paranevat 5 ylimääräisellä kestopisteellä[ENDCOLOR] joka vuoro.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_MOHAWK</Tag>
+			</Where>
+			<Set>
+				<Text>Taisteluetu metsässä ja viidakossa (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_MOUNTED_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Haitta ratsuja vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_NATIONALISM_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% hyökkäysetua omalla alueella.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_NAVAL_PENALTY</Tag>
+			</Where>
+			<Set>
+				<Text>Haitta meriyksiköitä vastaan (50)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_NAVAL_TRADITION</Tag>
+			</Where>
+			<Set>
+				<Text>Tutkimusmatkailu</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY</Tag>
+			</Where>
+			<Set>
+				<Text>Parantuu 25 pistettä tuhottaessa yksikön</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SCOUTING_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+1 näkyvyys.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SCOUTING_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+1 liikkuvuus.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SENTRY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+1 näkyvyys</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SHOCK_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa taistellessa [COLOR_POSITIVE_TEXT]AVOIMESSA[ENDCOLOR] maastossa. (EI mäkiä, metsää tai viidakkoa)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SHOCK_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa taistellessa [COLOR_POSITIVE_TEXT]AVOIMESSA[ENDCOLOR] maastossa. (EI mäkiä, metsää tai viidakkoa)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SHOCK_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa taistellessa [COLOR_POSITIVE_TEXT]AVOIMESSA[ENDCOLOR] maastossa. (EI mäkiä, metsää tai viidakkoa)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SIEGE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+50% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]kaupunkeja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED</Tag>
+			</Where>
+			<Set>
+				<Text>Etu vahingoittunutta vastaan (33)</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SUPPLY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Kykenee korjaamaan vahinkoa [COLOR_POSITIVE_TEXT]oman alueen ulkopuolella[ENDCOLOR]. 15 kestopistettä vuorossa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SURVIVALISM_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+5 parantuminen per vuoro omien alueiden ulkopuolella ja +25% puolustautuessa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SURVIVALISM_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+5 parantuminen per vuoro omien alueiden ulkopuolella ja +25% puolustautuessa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_SURVIVALISM_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksikkö kykenee [COLOR_POSITIVE_TEXT]parantumaan joka vuoro[ENDCOLOR], myös suoritettuaan komentoja. Yksikkö pyrkii perääntymään kokiessaan meleehyökkäyksiä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_TARGETING_1_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]meriyksiköitä[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_TARGETING_2_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]meriyksiköitä[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_TARGETING_3_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+15% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]meriyksiköitä[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_PROMOTION_VOLLEY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+50% [ICON_STRENGTH] voimaa [COLOR_POSITIVE_TEXT]linnoittautuneita yksiköitä[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]kaupunkeja[ENDCOLOR] vastaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_SV_OVERLAY_TRADE_ROUTES</Tag>
+			</Where>
+			<Set>
+				<Text>Kaupunkiyhteydet</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_CULTURE_CITY_COST</Tag>
+			</Where>
+			<Set>
+				<Text>Jokainen hallitsemamme kaupunki nostaa sosiaalisten linjausten hintaa {1_Num}%.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_HAPPINESS_4] Tyytymättömyys on saavuttanut arvon 20, joten valtakunta kapinoi! Kaupungit saattavat hylätä valtakuntamme ja liittyä kulttuurisesti vaikutusvaltaisimpaan kilpailijaan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_EMPIRE_UNHAPPY</Tag>
+			</Where>
+			<Set>
+				<Text>Kaupungit kasvavat vain 1/4 nopeudella normaalista valtakunnan ollessa [ICON_HAPPINESS_3] tyytymätön![NEWLINE][ICON_GOLD] Kulta ja [ICON_PRODUCTION] tuottavuus kärsivät 2% kunkin tyytymättömyyspisteen edestä. Sama vähennys tehdään myös yksiköiden taistelukykyyn!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_EMPIRE_VERY_UNHAPPY</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_HAPPINESS_4] Tyytymättömyys on saavuttanut arvon 10, joten valtakunta on [ICON_HAPPINESS_4] levoton! Kansannousuja voi ilmaantua kapinallisten (barbaarien) muodossa. Tätä tapahtuu muutaman vuoron välein ellei ongelmaa korjata!</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_GOLDEN_AGE_EFFECT</Tag>
+			</Where>
+			<Set>
+				<Text>[ICON_GOLDEN_AGE] Kultakauden aikana jokainen vähintään 1 [ICON_GOLD] kultaa tuottava ruutu tuottaa yhden ylimääräisen ja kaupungit saavat +20% [ICON_PRODUCTION] tuotantoa. [ICON_CULTURE] Kulttuuri kasvaa 20% koko valtakunnan alueella.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_GOLD_FROM_TR</Tag>
+			</Where>
+			<Set>
+				<Text>{1_Num} kaikista [ICON_CONNECTED] yhteyksistä kaupunkiemme ja [ICON_CAPITAL] pääkaupungin välillä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_HAPPINESS_BUILDINGS</Tag>
+			</Where>
+			<Set>
+				<Text>{1_Num} yleistä onnellisuutta rakennuksista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_HAPPINESS_CITY_STATE_FRIENDSHIP</Tag>
+			</Where>
+			<Set>
+				<Text>{1_Num} kaupunkivaltioista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TP_HAPPINESS_POLICIES</Tag>
+			</Where>
+			<Set>
+				<Text>{1_Num} yleistä onnellisuutta linjauksista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_AMPHIB_WARLORD</Tag>
+			</Where>
+			<Set>
+				<Text>Kolminkertainen määrä [ICON_GOLD] kultaa barbaarien sotaleireistä ja kaupunkien tuhoamisesta. Maayksiköt saavat sotakanootti- ja maihinnousuylennykset, tehden niistä vahvempia uitossa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_CITY_STATE_BONUSES</Tag>
+			</Where>
+			<Set>
+				<Text>Ystävällisten kaupunkivaltioiden tarjoama [ICON_FOOD] ruoka, [ICON_CULTURE] kulttuuri ja [ICON_PEACE] usko ovat 50% suurempia.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS</Tag>
+			</Where>
+			<Set>
+				<Text>Kaikilla melee meriyksiköillä on palkintolaivaylennys, jolloin he voivat kaapata päihitetyt laivat. Meriyksiköiden ylläpito maksaa vain kolmanneksen normaalista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_ENHANCED_CULTURE</Tag>
+			</Where>
+			<Set>
+				<Text>Museon ja maailmanihmeiden teemaedut ovat kaksinkertaiset pääkaupungissa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT</Tag>
+			</Where>
+			<Set>
+				<Text>Valon kaupunki</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST</Tag>
+			</Where>
+			<Set>
+				<Text>Yksiköt kulkevat omilla alueilla metsän ja viidakon lävitse kuin ne olisivat teitä. Pyörän keksimisen jälkeen nämä ruudut toimivat [ICON_CONNECTED] kaupunkiyhteyksinä. Karavaanit kulkevat metsässä ja viidakoissa kuin ne olisivat teitä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_LAND_TRADE_GOLD</Tag>
+			</Where>
+			<Set>
+				<Text>+1 [ICON_GOLD] kultaa kustakin [ICON_CONNECTED] kaupunkiyhteydestä ja maastossa esiintyvät [ICON_RES_OIL] öljyvarannot ovat kaksinkertaiset.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_TRAIT_OCEAN_MOVEMENT</Tag>
+			</Where>
+			<Set>
+				<Text>Meriyksiköt saavat +2 [ICON_MOVES] liikkuvuutta. Yksi ylimääräinen vakooja.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_UNIT_HELP_CARRIER</Tag>
+			</Where>
+			<Set>
+				<Text>Kykenee aluksi kantamaan kaksi lentokonetta. Kantokykyä voi kasvattaa ylennyksillä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WE_ATTACKED_YOUR_MINOR_1</Tag>
+			</Where>
+			<Set>
+				<Text>Tietooni on tullut, että olen saattanut hyökätä suojeluksenne alaisen kaupunkivaltion {@1_MinorCivName} kimppuun. Tämä ei suinkaan ollut tarkoitukseni - en halua vaikeuttaa suhteitamme - mutta hyökkäys oli kannaltamme välttämätön.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WE_ATTACKED_YOUR_MINOR_2</Tag>
+			</Where>
+			<Set>
+				<Text>Minulle on kerrottu, että valtakuntani on suorittanut hyökkäyksen teille läheiseen kaupunkivaltioon {@1_MinorCivName}. Voin vakuuttaa ettei tämä ollut tarkoituksellista ja toivon, ettei tämä heikennä välejämme.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_BIG_BEN_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii kaupankäynnin linjauksen. Kaikkien kaupunkien [ICON_GOLD] kullalla maksettujen ostojen hinta vähenee 15%.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_CHICHEN_ITZA_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii vapauden linjauksen. Rakenteet rakennetaan 25% nopeammin ja kaksi työläistä ilmestyy kaupungin lähelle.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_COLOSSUS_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Saamme yhden kauppareitin lisää ja rahtilaiva ilmestyy kaupunkiin. Muiden pelaajien kaupunkiin tekemät kauppareitit antavat 2 [ICON_GOLD] kultaa ylimääräistä kaupungin omistajalle kun taas kauppareitin omistaja saa 1 [ICON_GOLD] kultaa ylimääräistä. Kaupungin tulee olla rannalla.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_EIFFEL_TOWER_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Antamiensa [ICON_HAPPINESS_1] onnellisuus- ja [ICON_CULTURE] kulttuurivaikutuksien lisäksi Eiffel-torni antaa +12 [ICON_TOURISM] turismia.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_FORBIDDEN_PALACE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii isänmaallisuuden linjauksen. Antaa 2 lisäedustajaa Maailman kongressiin -10% [ICON_HAPPINESS_4] tyytymättömyyttä miehittämättömien kaupunkien [ICON_CITIZEN] asukkaista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_GREAT_LIBRARY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksi ilmainen tekniikka. Kaupunki saa ilmaisen kirjaston. Kaksi paikkaa kirjallisuuden merkkiteoksille.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_HAGIA_SOPHIA_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Ilmainen merkittävä profeetta ilmestyy. Kaupunki saa ilmaisen temppelin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_HANGING_GARDEN_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii perinteiden linjauksen. Kaupunki saa ilmaisen puutarhan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_KREMLIN_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii järjestyksen linjauksen. +50% [ICON_PRODUCTION] tuottavuutta panssariyksiköiden valmistukseen. Yksi ilmainen sosiaalinen linjaus.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_LOUVRE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii tutkimusmatkailun linjauksen. Yksi ilmainen taiteilija ilmaantuu lähelle kaupunkia. Neljä paikkaa taiteen merkkiteoksille.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_MACHU_PICHU_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+25% [ICON_GOLD] kultaa [ICON_CONNECTED] kaupunkiyhteyksistä.[NEWLINE][NEWLINE]Kaupungin lähellä tulee olla alueisiimme kuuluva vuori kahden ruudun säteellä kaupungista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii hurskauden linjauksen. Kaikki tässä kaupungissa syntyneet lähetyssaarnaajat voivat levittää uskontoa kolme kertaa. Kaupunki saa ilmaisen moskeijan.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_PETRA_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+1 [ICON_FOOD] ruokaa, +1 [ICON_PRODUCTION] tuottavuutta kaikista tämän kaupungin työllistämistä aavikkoruuduista (tulvatasankoja ei huomioida). Antaa ylimääräisen kauppareitin ja karavaani ilmaantuu kaupunkiin. +6 [ICON_CULTURE] kulttuuria arkeologian löytämisen jälkeen. Kaupungin tulee olla aavikolla tai sen vieressä.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_PORCELAIN_TOWER_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii järjen linjauksen. Merkittävä tiedemies ilmaantuu kaupungin lähelle. 50% enemmän [ICON_RESEARCH] tiedettä tutkimus-sopimuksista.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_SISTINE_CHAPEL_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>+25% [ICON_CULTURE] kulttuuri kaikissa kaupungeissa. Kaksi paikkaa taiteen merkkiteoksille.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Vaatii tasa-arvon linjauksen. +1 [ICON_PRODUCTION] tuottavuutta kaikkien kaupunkien kustakin osaajasta. Yksi ilmainen sosiaalinen linjaus.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_SYDNEY_OPERA_HOUSE_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Yksi ilmainen sosiaalinen linjaus ja +50% [ICON_CULTURE] kulttuuria kaupungille. Kaksi paikkaa musiikin merkkiteoksille. Tulee rakentaa rantakaupunkiin.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WONDER_UNITED_NATIONS_HELP</Tag>
+			</Where>
+			<Set>
+				<Text>Maailman kongressista tulee YK ja diplomaattisen voiton äänestykset alkavat. YK:n hallinta antaa omistajalle kolme ylimääräistä edustajaa.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WORKERS_TRADEROUTES_ADV_QUEST</Tag>
+			</Where>
+			<Set>
+				<Text>Kuinka kaupunkiyhteydet toimivat?</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_WORKERS_TRADEROUTES_HEADING3_BODY</Tag>
+			</Where>
+			<Set>
+				<Text>Kaupunkien välillä on yhteys, mikäli pääkaupungin ja toisen kaupungin välillä on tie. Kaupunkiyhteydet antavat sivilisaatiollesi kultaa joka vuoro. Etuisuuden määrä riippuu kaupunkien koosta. (Satamat voivat myös luoda yhteyden kaupunkien välille.) Katso artikkeli kaupunkiyhteyksistä saadaksesi lisätietoa.</Text>
+			</Set>
+		</Update><Update>
+			<Where>
+				<Tag>TXT_KEY_BUILDING_THEATRE</Tag>
+			</Where>
+			<Set>
+				<Text>Eläintarha|eläintarhan</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_CIV5_POLICY_FREEDOM_HEADING</Tag>
+			</Where>
+			<Set>
+				<Text>Vapaudet</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_FREEDOM</Tag>
+			</Where>
+			<Set>
+				<Text>Vapaudet</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_POLICY_BRANCH_FREEDOM_CAP</Tag>
+			</Where>
+			<Set>
+				<Text>VAPAUDET</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where>
+				<Tag>TXT_KEY_SOCIALPOLICY_FREEDOM_HEADING3_TITLE</Tag>
+			</Where>
+			<Set>
+				<Text>Vapaudet</Text>
+			</Set>
+		</Update>
+	</Language_fi_FI>
+</GameData>

@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+		<Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED_SHORT">
+			<Text>Bushido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD_SHORT">
+			<Text>Jokien sotaherra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ART_OF_WAR_SHORT">
+			<Text>Sodankäynnin taito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER_SHORT">
+			<Text>Rooman mahti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_STATE_BONUSES_SHORT">
+			<Text>Isä johdattaa lapsiaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+			<Text>Helleenien liitto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT">
+			<Text>Teutonien raivo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT">
+			<Text>Barbareskikaapparit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS_SHORT">
+			<Text>Alttareiden uhrilahjat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT">
+			<Text>Ancien Régime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES_SHORT">
+			<Text>Akhaimenidien perintö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST_SHORT">
+			<Text>Suuri sotapolku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD_SHORT">
+			<Text>Kauppakaravaanit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT">
+			<Text>Meriyksiköt saavat +2 [ICON_MOVES] liikkuvuutta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT_SHORT">
+			<Text>Aurinko ei koskaan laske</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_POPULATION_GROWTH_SHORT">
+			<Text>Väestönkasvu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RIVER_EXPANSION_SHORT">
+			<Text>Selkeä kohtalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT">
+			<Text>Siperian rikkaudet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WONDER_BUILDER">
+			<Text>+20% [ICON_PRODUCTION] tuottavuutta ihmeitä rakennettaessa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WONDER_BUILDER_SHORT">
+			<Text>Monumenttien rakentajat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ART_OF_WAR">
+			<Text>Merkittäviä kenraaleja ilmaantuu 50% nopeammin ja niiden tarjoama taisteluetu on 15% korkeampi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER">
+			<Text>Jokaisen [ICON_CAPITAL] pääkaupungista jo löytyvän rakennuksen rakentaminen saa +25% [ICON_PRODUCTION] tuottavuutta rakennettaessa sitä muihin kaupunkeihin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_STATE_BONUSES">
+			<Text>Ystävällisten kaupunkivaltioiden tarjoama [ICON_FOOD] ruoka ja [ICON_CULTURE] kulttuuri ovat 50% suurempia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP">
+			<Text>[ICON_INFLUENCE] Vaikutusvalta kaupunkivaltioihin hupenee puolella tahdilla ja palautuu kaksinkertaisella vauhdilla.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS">
+			<Text>Voittamalla sotaleirissä oleva barbaari on 50% mahdollisuus tienata 25 [ICON_GOLD] kultaa, sekä saada yksikkö liittymään armeijaasi. Yksiköiden ylläpito on 25% edullisempaa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
+			<Text>50% mahdollisuus houkutella viereinen barbaarien meriyksikkö puolellesi sekä tienata 25 [ICON_GOLD] kultaa. Meriyksiköiden ylläpito maksaa vain kolmanneksen normaalista.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS">
+			<Text>Jokainen tuhottu vihollisyksikkö tuottaa [ICON_CULTURE] kulttuuria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
+			<Text>Ennen höyrykoneen keksimistä jokainen kaupunki saa +2 [ICON_CULTURE] kulttuuria per vuoro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES">
+			<Text>50% pidempään kestävät [ICON_GOLDEN_AGE] kultakaudet. Kultakauden aikana yksiköt saavat +1 [ICON_MOVES] liikkuvuutta sekä +10% [ICON_STRENGTH] voimaa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED">
+			<Text>Yksiköt taistelevat vahingoittuneinakin kuin olisivat täysissä voimissaan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS">
+			<Text>Astronomian keksimisestä saa ilmaisen uudisasuttajan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS_SHORT">
+			<Text>Hotu Matuan siirtolaiset</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
+			<Text>Yksiköt kulkevat omilla alueilla metsän ja viidakon lävitse kuin ne olisivat teitä. Pyörän keksimisen jälkeen nämä ruudut toimivat [ICON_CONNECTED] kauppareitteinä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD">
+			<Text>+1 [ICON_GOLD] kultaa kustakin [ICON_CONNECTED] kauppareitistä ja maastossa esiintyvät [ICON_RES_OIL] öljyvarannot ovat kaksinkertaiset.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_POPULATION_GROWTH">
+			<Text>[ICON_HAPPINESS_4] Tyytymättömyys kaupunkien määrästä kaksinkertaistuu, [ICON_HAPPINESS_4] tyytymättömyys [ICON_CITIZEN] asukkaiden määrästä puolittuu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RIVER_EXPANSION">
+			<Text>Kaikille maayksiköille +1 näkyvyyttä. 50% alennus ruutujen ostamisesta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES">
+			<Text>Strategiset luonnonvarat tarjoavat +1 [ICON_PRODUCTION] tuottavuutta. Hevoset, rauta ja uraani tulevat kaksinkertaisina.</Text>
+		</Row>
+		<!-- Inkat -->
+		<Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
+			<Text>Andien suuri tie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD">
+			<Text>Yksiköt eivät mäelle liikuttaessa huomioi maaston hidasteita. Mäellä olevat rakenteet eivät aiheuta ylläpitokuluja ja muuallakin ylläpito maksaa vain puolet.</Text>
+		</Row>
+		<!-- Korea -->
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL_SHORT">
+			<Text>Jadehallin oppineet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL">
+			<Text>+2 [ICON_RESEARCH] tiedettä kaikista osaajista ja kaikkien merkittävien henkilöiden perustamille rakennuksille. Tutkimus edistyy aina kun Korean pääkaupunki rakentaa tieteellisen rakennuksen tai ihmeen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS">
+			<Text>Miekkamiehet voivat rakentaa linnakkeen ja suojavallin samassa ajassa kuin työläinen rakentaa normaalin linnakkeen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS_SHORT">
+			<Text>Linnanrakentajat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY">
+			<Text>Eivät poistu koskaan pelistä, eivät edes menettäessään viimeisen kaupungin. Saavat aika-ajoin ilmaisia yksiköitä voidakseen vallata takaisin menettämänsä kaupungit. Näytä ovat kilpikonnalaivat ja jousimiehet, joilla on mahdollisuus perääntyä meleekamppailuista.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY_SHORT">
+			<Text>Oikeamielinen armeija</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS">
+			<Text>Edellinen leirinvartija liittyy puolellesi tuhottaessa barbaarien sotaleiriä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS_SHORT">
+			<Text>Kahdeksan lippua</Text>
+		</Row>
+		<!-- Tanska -->
+		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY_SHORT">
+			<Text>Viikinkien vimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY">
+			<Text>Uitossa oleville yksiköille +1 liikkuvuutta [ICON_MOVES] ja siirtyminen vedestä maalle vie vain 1 liikepisteen. Meleeyksiköt eivät menetä liikepisteitä ryöstelystä.</Text>
+		</Row>
+		<!-- Babylonia -->
+		<Row Tag="TXT_KEY_TRAIT_INGENIOUS_SHORT">
+			<Text>Kekseliäisyys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INGENIOUS">
+			<Text>Ilmainen merkittävä tiedemies kirjoitustaidon keksimisestä. Merkittäviä tiedemiehiä 50% nopeammin kuin yleensä.</Text>
+		</Row>
+		<!-- Mongolia -->
+		<Row Tag="TXT_KEY_TRAIT_TERROR">
+			<Text>+30% [ICON_STRENGTH] taisteluvoimaa kaupunkivaltioiden yksiköitä vastaan sekä hyökättäessä kaupunkivaltioon itseensä. Kaikilla ratsuyksiköillä on +1 [ICON_MOVES] liikkuvuutta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TERROR_SHORT">
+			<Text>Mongolien terrori</Text>
+		</Row>
+		<!-- Polynesia -->
+		<Row Tag="TXT_KEY_TRAIT_HEART_OF_POLYNESIA">
+			<Text>Kansalaisten määrästä johtuva [ICON_HAPPINESS_4] tyytymättömyys on 25% vähäisempää.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HEART_OF_POLYNESIA_SHORT">
+			<Text>Polynesian sydän</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WAYFINDING_SHORT">
+			<Text>Merenkulkijat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WAYFINDING">
+			<Text>Voi välittömästi ylittää meriä uitossa. +1 näkyvyys uitossa. +10% [ICON_STRENGTH] taisteluvoimaa kahden ruudun sisällä Moai-patsaasta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE">
+			<Text>[ICON_INFLUENCE] Vaikutusvalta kaupunkivaltioihin laskee kahden kolmasosan vauhdilla suhteessa normaaliin tasoon ja palautuu 50% nopeammin kuin yleensä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE_SHORT">
+			<Text>Tiu Tongan valtakunta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION">
+			<Text>Kaikki maa- ja meriyksiköt (myös tiedustelijat) saavat +1 näkyvyyttä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION_SHORT">
+			<Text>Tupaian navigointi</Text>
+		</Row>
+		<!-- Jumalat ja kuninkaat -->
+		<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION">
+			<Text>Säilyttää 50% ylellisen luonnonvaran [ICON_HAPPINESS_1] onnellisuuseduista kaupatessasi viimeisen kappaleen toiselle pelaajalle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION_SHORT">
+			<Text>Hollannin Itä-Intian kauppakomppania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE">
+			<Text>+1 [ICON_PEACE] uskoa kaupungeista, joiden lähellä on koskematonta metsää. Edusta tulee +2 [ICON_PEACE] uskoa, jos kaupungin lähellä on kolme tai useampi koskematon metsä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT">
+			<Text>Druidien perimätarinat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
+			<Text>Valitse yksi uskomus enemmän kuin yleensä uskontoa perustettaessa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT">
+			<Text>Konstantinopolin patriarkaatti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
+			<Text>Merkittävän henkilön lahjoittaminen kaupunkivaltiolle antaa 90 [ICON_INFLUENCE] vaikutusvaltaa. Ystävyys- ja yhteistyöjulistus antaa Ruotsille ja ystäväkansalle +10% merkittävien henkilöiden ilmaantumiseen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
+			<Text>Nobel-palkinto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
+			<Text>Kaupungit jyrätään kaksinkertaisella tahdilla. Kaupunkien nimet lainataan muilta pelin kansoilta. Karjanhoito on keksitty jo aloittaessa. +1 [ICON_PRODUCTION] tuottavuutta laitumesta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
+			<Text>Jumalan ruoska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE">
+			<Text>Voi ostaa kaupunkivaltion [ICON_GOLD] rahalla omaan hallintaan tai nukkevaltioksi sen oltua liittolainen viisi vuoroa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
+			<Text>Diplomaattinen avioliitto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
+			<Text>Kaikki rannikkokaupungit saavat ilmaisen sataman. Yksiköt voivat ylittää vuoria ensimmäisen merkittävän kenraalin jälkeen, mutta saavat 50 KP vahinkoa päättäessään vuoronsa vuorella.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT">
+			<Text>Foinikialainen perintö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT">
+			<Text>Teologian kehittämisen jälkeen syntyy uusi ilmainen merkittävä henkilö Mayojen pitkän ajanlaskun kierron vaihteessa (394 vuoden välein). Kukin henkilö voidaan valita vain kerran.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT_SHORT">
+			<Text>Baktun, eli pitkä ajanlasku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH">
+			<Text>Taisteluetu (+20%) taisteltaessa kansoja vastaan, joilla on enemmän kaupunkeja kuin Etiopialla.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT">
+			<Text>Adowan henki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
+			<Text>Seitsemän kultaista kaupunkia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
+			<Text>Luonnonihmeen löytämisestä saa [ICON_GOLD] kultaa (palkkio on suurempi löydettäessä ensimmäisenä). Luonnonihmeiden tarjoama [ICON_CULTURE] kulttuuri, [ICON_HAPPINESS_1] onnellisuus ja ruudun tuotto ovat kaksinkertaiset.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
+			<Text>Kolminkertainen määrä [ICON_GOLD] kultaa barbaarien sotaleireistä ja kaupunkien tuhoamisesta. Uitossa olevat yksiköt kykenevät puolustautumaan.</Text>
+		</Row>
+		<!-- Uljas uusi maailma -->
+		<Row Tag="TXT_KEY_TRAIT_BOER">
+			<Text>+1 [ICON_CULTURE] kulttuuria ja +1 [ICON_FOOD] ruokaa kustakin maatilasta.</Text>
+
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BOER_SHORT">
+			<Text>Suuri vaellus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS">
+			<Text>Meleeyksiköt vaativat 50% vähemmän ylläpitokuluja. Kaikki yksiköt tarvitsevat 25% vähemmän kokemusta saadakseen seuraavan ylennyksen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
+			<Text>Iklwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CARNIVAL">
+			<Text>Kultakauden aikana [ICON_TOURISM] turismi on kaksinkertainen. Merkittäviä taiteilijoita, muusikoita ja kirjailijoita ilmaantuu 50% nopeammin kultakauden aikana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CARNIVAL_SHORT">
+			<Text>Karnevaali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST">
+			<Text>Karavaaniseraljien ja satamien antama [ICON_GOLD] kultaetu kauppareiteille on kaksinkertainen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST_SHORT">
+			<Text>Muhammad Alin perintö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_BONUS">
+			<Text>Perustetut kaupungit aloittavat isommalla maa-alueella.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_BONUS_SHORT">
+			<Text>Kolmas tasavalta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE">
+			<Text>Luonnonvarojen monipuolisuus antaa Portugalille kaksinkertaisesti [ICON_GOLD] kultaa kauppareiteillä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE_SHORT">
+			<Text>Mare clausum, "suljettu meri"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT">
+			<Text>Yksiköt eivät huomioi maaston hidasteita kulkiessaan mäelle sekä liikkuvat nopeammin jokien varrella.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT_SHORT">
+			<Text>Ylhäisä sukupuu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS">
+			<Text>+1 [ICON_GOLD] kultaa strategisista luonnonvaroista ja [ICON_RES_ALUMINUM] eetteriinivarat ovat kaksinkertaiset.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS_SHORT">
+			<Text>Syrjäseudun markkinat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA">
+			<Text>+3 kultaa [ICON_GOLD] ja +1 [ICON_CULTURE] kulttuuria kustakin kauppareitistä kansaan tai kaupunkivaltioon, johon ei ole ennestään kauppareittiä. Kauppareitin omistajat saavat +2 [ICON_GOLD] kultaa jokaisesta Marokkoon saapuvasta kauppareitistä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT">
+			<Text>Portti Afrikkaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE">
+			<Text>Perustetut kaupungit aloittavat isommalla maa-alueella. Yksiköt saavat taisteluetua omalla maaperällä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT">
+			<Text>Suuri lakeus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY">
+			<Text>9 ylimääräistä [ICON_INFLUENCE] vaikutusvaltaa vuorossa kaupunkivaltioista, joilta olisi mahdollista vaatia suojelumaksu. Kaupunkivaltiot eivät hermostu tunkeilevista yksiköistä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY_SHORT">
+			<Text>Tykkivenediplomatia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS">
+			<Text>Kaksinkertainen ruutujen rakenteiden valmistumisnopeus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS_SHORT">
+			<Text>Rodoksen kolossi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD">
+			<Text>Merkittävät tiedemiehet ilmaantuvat 50% vikkelämmin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD_SHORT">
+			<Text>Keksijän kilta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES">
+			<Text>20% vähemmän [ICON_HAPPINESS_4] tyytymättömyyttä [ICON_CITIZEN] väestöstä.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES_SHORT">
+			<Text>Työkastit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2">
+			<Text>Karavaanit yltävät 50% kauemmas. Kauppareittimme levittävät kotikaupunkinsa uskontoa kaksi kertaa kiivaammin. Kaksinkertaiset [ICON_OIL] öljyvarat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2_SHORT">
+			<Text>Aavikon laivat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER">
+			<Text>Uusien sosiaalisten linjausten omaksuminen vaatii 10% vähemmän [ICON_CULTURE] kulttuuria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER_SHORT">
+			<Text>Uusi maailmanjärjestys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS">
+			<Text>Uitossa olevilla yksiköillä on +1 [ICON_MOVES] liikkuvuutta ja rantautuminen vie vain 1 liikepisteen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS_SHORT">
+			<Text>Mare nostrum, "meidän meremme"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU">
+			<Text>25% taisteluetu, mikäli yksikkömme taistelee sellaista vihollisen yksikköä vastaan, joka vaatii kehittyneemmän teknologian.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU_SHORT">
+			<Text>Auringonpimennys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS">
+			<Text>+1 [ICON_PRODUCTION] tuottavuutta strategisista luonnonvaroista ja [ICON_RES_URANIUM] lypöörivarat ovat kaksinkertaiset.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS_SHORT">
+			<Text>Optimoitu jalostus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT">
+			<Text>Ilmainen teknologia kaapatun kaupungin entiseltä omistajalta. Tämä voi tapahtua vain kerran kutakin kaupunkia kohden. Kaupattuja kaupunkeja ei myöskään huomioida.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT_SHORT">
+			<Text>Niniven rikkaudet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY">
+			<Text>Ilmainen sosiaalinen linjaus siirryttäessä uudelle aikakaudelle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT">
+			<Text>Solidaarisuus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SPICE">
+			<Text>Ensimmäiset 3 muulle kuin Indonesian aloitusmantereelle perustettua kaupunkia tarjoavat kukin 2 uniikkia ylellistä luonnonvaraa. Näitä kaupunkeja ei voi tuhota.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SPICE_SHORT">
+			<Text>Maustesaaret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS">
+			<Text>Joet ja niiden viereinen vaikea maasto huomioidaan kuin se olisi helppoa maastoa. Joet pidentävät maitse kulkevien kauppareittien pituutta kuin ne olisivat teitä. +2 [ICON_PRODUCTION] tuottavuutta plantaaseista.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS_SHORT">
+			<Text>Joen höyrylaivat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
+			<Text>Ei voi omistaa uudisasuttajia eikä ottaa kaupunkeja hallintaan. Kaksinkertaisesti kauppareittejä. Venetsialaiskauppias ilmaantuu optiikan kehittämisestä. Voi ostaa nukkevaltioissa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE_SHORT">
+			<Text>Serenissima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH">
+			<Text>Ilmalaivat saavat +2 [ICON_MOVES] liikkuvuutta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH_SHORT">
+			<Text>Lakkaamaton valvonta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BARBARIAN_RECRUITMENT">
+			<Text>Länsi-Rooman legioonat palkkaavat voittamansa viholliset puolelleen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BARBARIAN_RECRUITMENT_SHORT">
+			<Text>Barbaarien palkkaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST">
+			<Text>Taisteluyksiköt paranevat kokonaan ryöstettyään rakenteen, joka ei ole tie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST_SHORT">
+			<Text>Terveellistä ryöväilyä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES">
+			<Text>Meriyksiköt "palkkaavat" voitetut laivat taistelemaan puolellaan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES_SHORT">
+			<Text>Välimeren merirosvot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS">
+			<Text>+10% [ICON_STRENGTH] taisteluvoimaa mikäli yksikkö on 2 ruudun päässä linnakkeesta. Merkittävät kenraalit ilmaantuvat 50% nopeammin ja tarjoavat 10% tavanomaista enemmän taisteluetua.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS_SHORT">
+			<Text>Teodosiuksen muurit</Text>
+		</Row>
+	</Language_fi_FI>
+</GameData>

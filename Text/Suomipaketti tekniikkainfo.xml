@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+	
+    <Row Tag="TXT_KEY_TECH_ACOUSTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]oopperatalon[ENDCOLOR] rakentamisen, joka antaa paljon [ICON_CULTURE] kulttuuria.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ydinohjuksen[ENDCOLOR] rakentamisen, pelottavan [ICON_RES_URANIUM] uraania vaativan aseen, joka kykenee tuhoamaan yksiköitä ja kaupunkeja. Mahdollistaa myös [COLOR_POSITIVE_TEXT]ohjuksen[ENDCOLOR], joka on edullinen kertakäyttöinen vihollisyksikköihiin suunnattava ammus, sekä myös [COLOR_POSITIVE_TEXT]sukkulan lähtökiihdyttimen[ENDCOLOR], joka on yksi avaruussukkulan vaatimista osista tiellä [COLOR_POSITIVE_TEXT]tiedevoittoon[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_AGRICULTURE_HELP">
+			<Text>Mahdollistaa työläisten rakentaa [COLOR_POSITIVE_TEXT]maatiloja[ENDCOLOR], jotka ovat välttämättömiä [ICON_FOOD] [COLOR_POSITIVE_TEXT]ruuan[ENDCOLOR] tuotannon kasvattamiseksi.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]karavaanin[ENDCOLOR], jolla on mahdollista luoda kauppareittejä. Työläiset voivat myös rakentaa [COLOR_POSITIVE_TEXT]laitumia[ENDCOLOR] [ICON_RES_COW] [COLOR_POSITIVE_TEXT]naudoille[ENDCOLOR] ja [ICON_RES_SHEEP] [COLOR_POSITIVE_TEXT]lampaille[ENDCOLOR]. Paljastaa mysö [ICON_RES_HORSE] hevoset, joita voi käyttää voimakkaiden ratsuyksiköiden kouluttamiseen.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ARCHAEOLOGY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]museon[ENDCOLOR] rakentamisen, joka antaa kaupunkien [ICON_CULTURE] kulttuurille aikamoisen sysäyksen. Antaa myös muita [ICON_CULTURE] kulttuuriliitännäisiä etuja.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ARCHERY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]jousimiehen[ENDCOLOR] kouluttamisen, joka on pelin ensimmäinen ampuva yksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ARCHITECTURE_HELP">
+			<Text>Mahdollistaa useita ihmeitä, jotka kykenevät pönkittämään [ICON_CULTURE] kulttuuria, [ICON_RESEARCH] tiedettä ja [ICON_HAPPINESS_1] onnellisuutta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]karavelin[ENDCOLOR] rakentamisen, joka on ensimmäinen maailman merien tutkimiseen soveltuva yksikkö, sekä [COLOR_POSITIVE_TEXT]observatorion[ENDCOLOR], joka edistää huikeasti [ICON_RESEARCH] tiedettä. Uitossa olevat yksiköt kykenevät ylittämään meriä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ATOMIC_THEORY_HELP">
+			<Text>Paljastaa [ICON_RES_URANIUM] [COLOR_POSITIVE_TEXT]uraanin[ENDCOLOR] ja antaa mahdollisuuden aloittaa [COLOR_POSITIVE_TEXT]Manhattan-projektin[ENDCOLOR], jonka valmistuttua ydinaseiden valmistaminen tulee mahdolliseksi.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_BALLISTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ilmatorjuntatykin[ENDCOLOR] rakentamisen, joka on hyödyllinen viholliskoneiden pudottamiseen, sekä [COLOR_POSITIVE_TEXT]konekiväärin[ENDCOLOR], joka on tehokas viereiseen ruutuun tulittava yksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_BANKING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]pankin[ENDCOLOR] rakentamisen, joka kasvattaa kaupungin [ICON_GOLD] kullan tuottoa, sekä [COLOR_POSITIVE_TEXT]nimismiehen[ENDCOLOR], joka heikentää vihollisvakoojien kykyä varastaa tekniikoitamme.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_BIOLOGY_HELP">
+			<Text>Paljastaa [ICON_RES_OIL] [COLOR_POSITIVE_TEXT]öljyn[ENDCOLOR], joka on tärkeä loppupelin luonnonvara. Mahdollistaa myös [COLOR_POSITIVE_TEXT]sairaalan[ENDCOLOR] rakentamisen, joka nopeuttaa kaupunkien [ICON_FOOD] kasvua.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP">
+			<Text>Paljastaa [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]raudan[ENDCOLOR] ja antaa työläisille kyvyn [COLOR_POSITIVE_TEXT]raivata viidakon[ENDCOLOR], jolloin ruutuun voi rakentaa rakenteita. Mahdollistaa myös [COLOR_POSITIVE_TEXT]keihäsmiehen[ENDCOLOR] kouluttamisen, joka on vahva ratsuyksiköitä vastaan.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_CALENDAR_HELP">
+			<Text>Mahdollistaa työläisten rakentaa [COLOR_POSITIVE_TEXT]plantaaseja[ENDCOLOR] lukuisille ylellisille luonnonvaroille, jotka ovat erittäin tärkeitä [ICON_FOOD] kasvulle ja [ICON_HAPPINESS_1] onnellisuudelle. (Huomaa: monen luonnonvaran hyötykäyttö vaatii metsän tai viidakon raivaamisen, jotka vaativat omat tekniikkansa.)</Text>
+		</Row><Row Tag="TXT_KEY_TECH_CHEMISTRY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kanuunan[ENDCOLOR] rakentamisen, joka on renessanssin piiritysyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_CHIVALRY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ritarin[ENDCOLOR] kouluttamisen, joka on nopea ja tehokas ratsuyksikkö. Mahdollistaa myös [COLOR_POSITIVE_TEXT]linnan[ENDCOLOR] rakentamisen, joka kohentaa kaupunkien [ICON_STRENGTH] puolustusta. Puolustusliitot tulevat myös mahdolliseksi.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_HELP">
+			<Text>Jokien ja järvien rannoilla olevat [COLOR_POSITIVE_TEXT]maatilat[ENDCOLOR] tuottavat +1 [ICON_FOOD] ruokaa, joka on erittäin hyödyllistä. Mahdollistaa myös [COLOR_POSITIVE_TEXT]piikkimiehen[ENDCOLOR] kouluttamisen, joka on vahva yksikkö ratsumiehiä ja ritareita vastaan.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_COMBINED_ARMS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]hyökkäysvaunun[ENDCOLOR] rakentamisen, joka on nopea ja vahva panssaroitu yksikkö, sekä [COLOR_POSITIVE_TEXT]panssarintorjuntatykin[ENDCOLOR], joka on erikoistunut vihollisen panssarivaunujen tuhoamiseen.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_COMBUSTION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]maalaivan[ENDCOLOR] rakentamisen, joka on erittäin vahva panssaroitu yksikkö. Se kykenee liikkumaan hyökkäämisen jälkeen. Mahdollistaa myös [COLOR_POSITIVE_TEXT]hävittäjän[ENDCOLOR] valmistamisen, joka on nopea sukellusveneiden paikantamiseen erikoistunut laiva.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_COMPASS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]galeassin[ENDCOLOR] rakentamisen, joka on ensimmäinen etähyökkäävä meriyksikkö. Mahdollistaa myös [COLOR_POSITIVE_TEXT]sataman[ENDCOLOR] rakentamisen, joka luo kaupunkiyhteyden pääkaupunkiin meren ylitse tuottaen [ICON_GOLD] kultaa. Tämän lisäksi kalastajien [ICON_GOLD] kullan tuotto kasvaa.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_COMPUTERS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]taistelukopterin[ENDCOLOR] valmistamisen, joka on erikoistunut vihollispanssarien tuhoamiseen.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_CONSTRUCTION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]vastakaarijousen[ENDCOLOR] rakentamisen, joka on vahva tulittava yksikkö, sekä [COLOR_POSITIVE_TEXT]kolosseumin[ENDCOLOR], joka kohentaa [ICON_HAPPINESS_1] onnellisuutta valtakunnassa, mikä puolestaan auttaa kaupunkien kasvussa ja tekee [ICON_GOLDEN_AGE] kultakausista todennäköisempiä. Antaa myös työläisille mahdollisuuden rakentaa [COLOR_POSITIVE_TEXT]sahan[ENDCOLOR] metsäisiin ruutuihin, kasvattaen niiden [ICON_PRODUCTION] tuottavuutta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_CURRENCY_HELP">
+			<Text>Mahdollistaa lukuisten [ICON_GOLD] kullantuottoa kohentavien rakennusten valmistuksen, kuten [COLOR_POSITIVE_TEXT]rahapajan[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]torin[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_DRAMA_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]amfiteatterin[ENDCOLOR] rakentamisen, joka kohentaa [ICON_CULTURE] kulttuuria.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_DYNAMITE_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]tykin[ENDCOLOR] valmistamisen, joka on kuollettava yksikkö. Se kykenee ampumaan kauemmas kuin ainutkaan varhaisempi yksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ECOLOGY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]aurinkovoimalan[ENDCOLOR] rakentamisen, jonka voi pystyttää ainoastaan aavikolla tai sen vieressä oleviin kaupunkeihin kasvattaen niiden [ICON_PRODUCTION] tuottavuutta. Mahdollistaa myös [COLOR_POSITIVE_TEXT]kierrätyskeskuksen[ENDCOLOR] rakentamisen, joka tarjoaa lisää [ICON_RES_ALUMINUM] alumiinia.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ECONOMICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]tuulimyllyn[ENDCOLOR] rakentamisen tasaisella mailla sijaiseviin kaupunkeihin kasvattaen niiden [ICON_PRODUCTION] tuottavuutta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_EDUCATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]yliopiston[ENDCOLOR] rakentamisen, joka kohentaa [ICON_RESEARCH] tiedettä. Tarjoaa myös uusia [ICON_RESEARCH] tiedesidonnaisia mahdollisuuksia, kuten [COLOR_POSITIVE_TEXT]tutkimus-sopimuksen[ENDCOLOR], joka on erityinen muiden pelaajien kanssa muodostettava sopimus.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
+			<Text>Paljastaa [ICON_RES_ALUMINUM] alumiinin, joka on monien loppupelin yksiköiden vaatima luonnonvara. Mahdollistaa myös [COLOR_POSITIVE_TEXT]pörssin[ENDCOLOR] rakentamisen, joka kohentaa [ICON_GOLD] kullantuottoa. Lisäksi [COLOR_POSITIVE_TEXT]vesivoimalan[ENDCOLOR] rakentaminen tulee mahdolliseksi, jolloin joen varrella olevat kaupungit voivat saada lisää [ICON_PRODUCTION] tuottavuutta, sekä myös [COLOR_POSITIVE_TEXT]poliisiaseman[ENDCOLOR], jolla voi heikentää vihollisen vakoilijoiden kykyä varastaa tekniikoitamme.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ELECTRONICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]lentotukialuksen[ENDCOLOR] valmistamisen, joka kykenee kantamaan lentokoneita, sekä [COLOR_POSITIVE_TEXT]taistelulaivan[ENDCOLOR] eli loppupelin voimakkaan tulittavan meriyksikön.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ENGINEERING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]akveduktien[ENDCOLOR] rakentamisen kaupunkeihin, kasvattaen kaupungin kasvusta ylijäävän [ICON_FOOD] ruuan määrää. Mahdollistaa myös työläisten rakentaa [COLOR_POSITIVE_TEXT]linnakkeita[ENDCOLOR] ruutuihin, jolloin ruutuun asettuva yksikkö saa puolustautumisetua. Tämän lisäksi sillat rakennetaan kaikkiin joet ylittäviin teihin, jolloin yksiköt voivat ylittää joet teiden kohdalta hidastumatta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_EXPLORATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]karavelin[ENDCOLOR] rakentamisen, joka on kallis Uuden maailman tutkimista edustava meriyksikkö. Rakenna näitä ja matkaa kartan läntiselle reunalle saadaksesi voittopisteitä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_FERTILIZER_HELP">
+			<Text>Kasvattaa [ICON_FOOD] ruuan tuotantoa maatiloilla, joilla ei ole makeaa vettä. Tällä on suuri vaikutus kasvuun.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_FLIGHT_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kolmitason[ENDCOLOR] valmistamisen, joka on taivaan hallintaan luotu lentoyksikkö, sekä [COLOR_POSITIVE_TEXT]suursodan pommittajan[ENDCOLOR], joka voi kylvää tuhoa maayksiköille ja kaupungeille.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_GLOBALIZATION_HELP">
+			<Text>Globalisaation myötä jokainen toisen sivilisaation pääkaupunkiin [ICON_DIPLOMAT] diplomaatiksi määrätty vakoilija kasvattaa Maailmankongressin edustajien määrää, minkä myötä [COLOR_POSITIVE_TEXT]diplomaattisesta voitosta[ENDCOLOR] tulee helpompi saavuttaa.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_GUILDS_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]kauppapaikkoja[ENDCOLOR], joiden avulla ruutujen [ICON_GOLD] kullantuottoa voi kasvattaa. Mahdollistaa myös kaupunkien [ICON_PRODUCTION] tuottavuuden muuntamisen [ICON_GOLD] kullaksi yksikköjen ja rakennusten tuottamisen sijaan.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_GUNPOWDER_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]musketöörin[ENDCOLOR] kouluttamisen, joka on pelin ensimmäinen tuliasetta kantava yksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]hevosmiehen[ENDCOLOR] kouluttamisen, joka on nopea ja voimakas ratsuyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_HUMANISM_DESC">
+			<Text>Renessanssin humanismi oli kulttuurin ja koulutuksen uudistus, joka sai alkunsa 1500- ja 1600-lukujen Euroopassa. Humanistit pyrkivät edistämään humaanien aineiden tutkintaa, joita ovat filosofia, historia, kieli ja uskonto. Humanistien jäävuoren huippua edusti Desiderius Erasmus, jonka latinan- ja kreikankieliset käännökset Uudesta testamentista vaikuttivat protestanttisten uudistusten syntyyn.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP">
+			<Text>Paljastaa [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]hiilen[ENDCOLOR] ja mahdollistaa [COLOR_POSITIVE_TEXT]tehtaiden[ENDCOLOR] rakentamisen, joiden voimin kaupunkien [ICON_PRODUCTION] tuottavuus paranee merkittävästi.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_INTERNET_HELP">
+			<Text>Internet kaksinkertaistaa automaattisesti kaikkien kaupunkiemme [ICON_TOURISM] turismin, jolloin [COLOR_POSITIVE_TEXT]kulttuurivoiton[ENDCOLOR] saavuttaminen helpottuu.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_IRON_WORKING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]miekkamiehen[ENDCOLOR] kouluttamisen, joka on erittäin voimakas meleeyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_LASERS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]panssarivaunun[ENDCOLOR] valmistamisen, joka on erittäin nopea ja vahva panssariyksikkö, sekä [COLOR_POSITIVE_TEXT]suihkuhävittäjän[ENDCOLOR], joka on pelin voimakkain hävittäjäkone.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MACHINERY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]varsijousen[ENDCOLOR] kouluttamisen, vahvan keskiajan tulittavan yksikön. Yksiköt kykenevät myös matkaamaan nopeammin ollessaan [COLOR_POSITIVE_TEXT]tiellä[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MASONRY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]muurien[ENDCOLOR] rakentamisen, jotka merkittävästi kasvattavat kaupunkien puolustusta hyökkäyksiä vastaan. Mahdollistaa myös työläisten rakentaa [ICON_RES_MARBLE] [COLOR_POSITIVE_TEXT]marmorilouhoksia[ENDCOLOR] sekä [COLOR_POSITIVE_TEXT]ojittaa soita[ENDCOLOR], jolloin kuivatulle suolle voi rakentaa useammanlaisia rakenteita.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MASS_MEDIA_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]stadionin[ENDCOLOR] rakentamisen, joka kasvattaa valtakunnan [ICON_HAPPINESS_1] onnellisuutta, joka puolestaan mahdollistaa kaupunkien kasvamisen suuremmiksi ja tekee [ICON_GOLDEN_AGE] kultakausista todennäköisempiä. Lisäksi mahdollistaa [COLOR_POSITIVE_TEXT]Sydneyn ooppperatalon[ENDCOLOR], joka on erittäin hyödyllinen ihme tavoiteltaessa [COLOR_POSITIVE_TEXT]kulttuurivoittoa[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MATHEMATICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]katapultin[ENDCOLOR] rakentamisen, joka on tehokas piiritysase. Mahdollistaa myös [COLOR_POSITIVE_TEXT]raatihuoneen[ENDCOLOR], joka vähentää [ICON_OCCUPIED] miehitettyjen kaupunkien [ICON_HAPPINESS_4] tyytymättömyyttä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_METALLURGY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ratsukeihäsmiehen[ENDCOLOR] kouluttamisen, joka on nopea muita ratsuyksiköitä jahtaava yksikkö, sekä [COLOR_POSITIVE_TEXT]asehallin[ENDCOLOR] rakentamisen, joka kohottaa kaupungin puolustusta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_METAL_CASTING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]työpajan[ENDCOLOR] rakentamisen, jonka avulla rakennukset valmistuvat nopeammin, sekä [COLOR_POSITIVE_TEXT]ahjon[ENDCOLOR], joka vauhdittaa yksiköiden tuotantoa.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kivääriratsun[ENDCOLOR] kouluttamisen, joka kykenee panemaan kampoihin vahvoja tuliaseellisia yksiköitä vastaan, sekä [COLOR_POSITIVE_TEXT]sotilasakademian[ENDCOLOR] rakentamisen, joka antaa lisäkokemusta kaikille yksiköille.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MINING_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]kaivoksia[ENDCOLOR] ruutujen [ICON_PRODUCTION] tuottavuuden kohentamiseksi, sekä [COLOR_POSITIVE_TEXT]hakata metsän[ENDCOLOR], jolloin ruutuun voi rakentaa useampia rakenteita.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]rynnäkkövaunun[ENDCOLOR] valmistamisen, joka on nopea ja joustava pelin myöhäisen vaiheen yksikkö, eikä vaadi erityisiä luonnonvaroja.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_NANOTECHNOLOGY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]XCOM-ryhmän[ENDCOLOR] kouluttamisen, sekä [COLOR_POSITIVE_TEXT]sukkulan horroskammion[ENDCOLOR], joka on yksi avaruussukkulan vaatimista osista tiellä [COLOR_POSITIVE_TEXT]tiedevoittoon[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_NAVIGATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]fregatin[ENDCOLOR] rakentamisen, joka on vahva renessanssin sotalaiva, sekä [COLOR_POSITIVE_TEXT]kaapparin[ENDCOLOR], joka on erityinen meriyksikkö siinä, että se kykenee ansaitsemaan [ICON_GOLD] kultaa hyökätessään rannikkokaupunkeihin sekä kaappaamaan vihollisten laivoja. Tämän lisäksi rannikkokaupunkeihin voi rakentaa [COLOR_POSITIVE_TEXT]meriportin[ENDCOLOR], joka kasvattaa meriluonnonvarojen [ICON_PRODUCTION] tuottavuutta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]bazookan[ENDCOLOR] valmistamisen, joka on voimakkain tulittava yksikkö, sekä [COLOR_POSITIVE_TEXT]atomipommin[ENDCOLOR] eli pelin ensimmäisen ydinaseen (huomaa: Manhattan-projekti tulee myös saattaa valmiiksi ja [ICON_RES_URANIUM] uraania tulee olla saatavilla). Mahdollistaa myös [COLOR_POSITIVE_TEXT]ydinvoimalan[ENDCOLOR] rakentamisen, joka kasvattaa kaupungin [ICON_PRODUCTION] tuottavuutta kuluttamalla [ICON_RES_URANIUM] uraania.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_NUCLEAR_FUSION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kuolonrobotin[ENDCOLOR] eli pelin vahvimman yksikön valmistamisen.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_OPTICS_HELP">
+			<Text>Sallii maayksiköiden siirtyä [COLOR_POSITIVE_TEXT]uittoon[ENDCOLOR] vesiruutuihin ja siten matkaamaan merellä. Mahdollistaa myös [COLOR_POSITIVE_TEXT]majakan[ENDCOLOR] rakentamisen rannikkokaupunkeihin, jolloin niiden kasvu kohenee vesiruuduista saadun [ICON_FOOD] lisäruuan ansiosta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_PARTICLE_PHYSICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]sukkulan moottorin[ENDCOLOR] rakentamisen, joka on yksi avaruussukkulan vaatimista osista tiellä [COLOR_POSITIVE_TEXT]tiedevoittoon[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_PENICILIN_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]merijalkaväen[ENDCOLOR] kouluttamisen, joka on veden ylitse tapahtuviin hyökkäyksiin erikoistunut yksikkö. Mahdollistaa myös [COLOR_POSITIVE_TEXT]lääkelaboratorion[ENDCOLOR] rakentamisen, joka kasvattaa kaupunkien [ICON_FOOD] kasvua.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_PHILOSOPHY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]temppelin[ENDCOLOR] rakentamisen, joka kohentaa kaupungin [ICON_PEACE] uskoa.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_PHYSICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]vastapainokatapultin[ENDCOLOR] rakentamisen, joka on erittäin tehokas kaupunkien heikentämiseen erikoistunut piiritysyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_PLASTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]tutkimuslaboratorion[ENDCOLOR] rakentamisen, joka kasvattaa kaupunkien [ICON_RESEARCH] tiedettä, sekä [COLOR_POSITIVE_TEXT]rynnäkkökiväärin[ENDCOLOR], joka on myöhäispelin maasodan perusyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_POTTERY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]aitan[ENDCOLOR] rakentamisen, joka tarjoaa kaupungeille kasvua auttavaa [ICON_FOOD] ruokaa. Mahdollistaa myös [COLOR_POSITIVE_TEXT]pyhätön[ENDCOLOR] rakentamisen, joka on pelin ensimmäinen [ICON_PEACE] uskoa henkivä rakennus.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_PRINTING_PRESS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]eläintarhan[ENDCOLOR] rakentamisen, joka tuo valtakunnalle [ICON_HAPPINESS_1] onnellisuutta ja tekee [ICON_GOLDEN_AGE] kultakausista todennäköisempiä. Maailmankongressin perustaminen tulee myös mahdolliseksi.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_RADAR_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]pommikoneen[ENDCOLOR] rakentamisen, joka kykenee kylvämään tuhoa kaukaa, sekä [COLOR_POSITIVE_TEXT]ähvittäjäkoneen[ENDCOLOR], joka on taivaan hallintaan erikoistuva yksikkö. Mahdollistaa myös [COLOR_POSITIVE_TEXT]laskuvarjohyppääjän[ENDCOLOR], joka kykenee iskemään vihollislinjojen taakse.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_RADIO_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]lähetystornin[ENDCOLOR] rakentamisen, joka kasvattaa huomattavasti kaupunkien [ICON_CULTURE] kulttuuria.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_RAILROAD_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]rautateitä[ENDCOLOR] ruutuihin. Kaupunkien yhdistäminen rautateillä kasvattaa [ICON_PRODUCTION] tuottavuutta ja yksiköt kykenevät kulkemaan nopeammin niiden avulla.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_REFRIGERATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]sukellusveneen[ENDCOLOR] rakentamisen, joka on kaikille paitsi hävittäjille ja muille sukellusveneille näkymätön yksikkö, sekä [COLOR_POSITIVE_TEXT]stadionin[ENDCOLOR], joka kasvattaa kaupunkoien [ICON_HAPPINESS_1] onnellisuutta. Työveneet kykenevät myös rakentamaan porauslauttoja.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]suursodan kiväärin[ENDCOLOR] kouluttamisen sekä [COLOR_POSITIVE_TEXT]armeijan tukikohdan[ENDCOLOR] rakentamisen, joka kohentaa kaupungin puolustusta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_RIFLING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kiväärimiehen[ENDCOLOR] kouluttamisen, joka on pelin keskivaiheen eturintaman yksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ROBOTICS_HELP">
+			<Text>Tärkeänä tekniikkana kisassa avaruuteen robotiikka mahdollistaa [COLOR_POSITIVE_TEXT]sukkulatehtaan[ENDCOLOR] rakentamisen, joka nopeuttaa avaruussukkulan osien valmistusta. Tämän lisäksi voi valmistaa [COLOR_POSITIVE_TEXT]ohjusristelijän[ENDCOLOR], joka on kolme ohjusta kantava meriyksikkö ja kykenevä näkemään sukellusveneet.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_ROCKETRY_HELP">
+			<Text>Tärkeänä tekniikkana raketit mahdollistavat [COLOR_POSITIVE_TEXT]Apollo-ohjelman[ENDCOLOR], joka on vaatimus [COLOR_POSITIVE_TEXT]tiedevoittoon[ENDCOLOR]. Mahdollistaa myös [COLOR_POSITIVE_TEXT]raketinheittimen[ENDCOLOR] sekä [COLOR_POSITIVE_TEXT]IT-panssarivaunun[ENDCOLOR] rakentamisen, joista jälkimmäinen on erikoistunut viholliskoneiden alasampumiseen.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_SAILING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]rahtilaivan[ENDCOLOR] rakentamisen, jolla on mahdollista muodostaa tuottoisia meren yli kantavia kauppareittejä. Mahdollistaa myös sotilas- että talouslaivojen rakentamisen, jotka ovat hyödyllisiä tutkimusmatkailussa sekä vedessä olevien luonnonvarojen kuten [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]kalojen[ENDCOLOR] ja [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]helmien[ENDCOLOR] hyödyntämisessä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_SATELLITES_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]sukkulan ohjaamon[ENDCOLOR] rakentamisen, joka on yksi avaruussukkulan vaatimista osista tiellä [COLOR_POSITIVE_TEXT]tiedevoittoon[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]julkisen koulun[ENDCOLOR] rakentamisen, joka kohentaa kaupunkien [ICON_RESEARCH] tiedettä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_STEALTH_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]häivepommittajan[ENDCOLOR] rakentamisen, joka on tehokkain pommitusyksikkö pelissä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_STEAM_POWER_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]panssarilaivan[ENDCOLOR] rakentamisen, joka on voimakas sotalaiva erityisesti taisteltaessa rannikkovesillä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_STEEL_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]pitkämiekan[ENDCOLOR] kouluttamisen, joka on kuolettavan tehokas keskiajan meleeyksikkö, sekä [COLOR_POSITIVE_TEXT]asevarason[ENDCOLOR] rakentamisen, jonka avulla kaikki uudet yksiköt saavat lisäkokemusta.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_TELECOM_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ydinsukellusveneen[ENDCOLOR] rakentamisen, joka on lähes kaikille muille yksiköille näkymätön kaksi ohjusta kantamaan kykenevä meriyksikkö. Mahdollistaa myös [COLOR_POSITIVE_TEXT]pommisuojan[ENDCOLOR] rakentamisen, joka heikentää merkittävästi ydinhyökkäyksen aiheuttamaan väestökatoa.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_TELEGRAPH_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]taistelulaivan[ENDCOLOR] rakentamisen, joka on pelin vahvin eturintaman sotalaiva. Mahdollistaa myös [COLOR_POSITIVE_TEXT]armeijan tukikohdan[ENDCOLOR] rakentamisen kaupunkeihin, joka kasvattaa niiden [ICON_STRENGTH] taisteluvoimakkuutta että tekee niistä vaikeammin vallattavia.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_THEOLOGY_HELP">
+			<Text>Mahdollistaa lukuisia erikoistuneita rakennuksia ja ihmeitä, jotka mahdollistavat [ICON_PEACE] uskon kohentamisen sekä parantavat kykyä saada lisää [ICON_GREAT_PEOPLE] merkittäviä henkilöitä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_THE_WHEEL_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]jousivaunun[ENDCOLOR] rakentamisen, joka on nopea ja tehokas [ICON_RES_HORSE] hevosista riippuvainen tulittava yksikkö, sekä [COLOR_POSITIVE_TEXT]vesimyllyn[ENDCOLOR], joka antaa kaupungille [ICON_FOOD] ruoka- ja [ICON_PRODUCTION] tuottavuusetuja sen ollessa joen rannalla. Mahdollistaa myös työläisten rakentaa [COLOR_POSITIVE_TEXT]teitä[ENDCOLOR], jotka mahdollistavat yksiköiden nopeamman liikkumisen ruudusta toiseen sekä kohentavat [ICON_GOLD] kullan tuottoa kaupunkien ollessa yhteydessä pääkaupunkiin.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_TRAPPING_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]leirejä[ENDCOLOR] ruutuihin, joilla on [ICON_RES_DEER] peuroja, [ICON_RES_IVORY] norsunluuta, [ICON_RES_FUR] turkiksia tai [ICON_RES_TRUFFLES] tryffeleitä.</Text>
+		</Row><Row Tag="TXT_KEY_TECH_WRITING_HELP">
+			<Text>Mahdollistaa ensimmäisen [ICON_RESEARCH] tiederaknnuksen, [COLOR_POSITIVE_TEXT]kirjaston[ENDCOLOR], rakentamisen. Se mahdollistaa tekniikoiden nopeamman kehittämisen. Tämän lisäksi tulee mahdolliseksi perustaa lähetystöjä toisiin kansakuntiin.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ilmalaivan[ENDCOLOR] rakentamisen, joka kykenee kulkemaan niin maan kuin vetten yllä. Lisäksi mahdollistaa kansallisen ihmeen, [COLOR_POSITIVE_TEXT]keksijän hallin[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]differenssikoneen[ENDCOLOR] sekä kansallisen ihmeen, [COLOR_POSITIVE_TEXT]analyyttisen koneen[ENDCOLOR], rakentamisen. Jälkimmäinen kasvattaa kaupungin [ICON_PRODUCTION] tuottavuutta ja [ICON_RESEARCH] tiedettä.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_HELP">
+			<Text>Antaa mahdollisuuden rakentaa kansallisen ihmeen, [COLOR_POSITIVE_TEXT]analyyttisen koneen[ENDCOLOR], joka kohentaa huomattavasti [ICON_PRODUCTION] tuottavuutta.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]eettiinivalmistamon[ENDCOLOR] rakentamisen, joka tarjoaa [ICON_RES_ALUMINUM] eettiinivaroja.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ilmatorjuntatykin[ENDCOLOR] rakentamisen, joka on tehokas ase lentoyksiköitä vastaan, sekä [COLOR_POSITIVE_TEXT]armeijan tukikohdan[ENDCOLOR], joka kasvattaa merkittävästi kaupungin puolustusta.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]suurkartanon[ENDCOLOR] rakentamisen sekä sen kansallisihmevastaavan [COLOR_POSITIVE_TEXT]kauppakartanon[ENDCOLOR], jotka molemmat tarjoavat [ICON_GOLD] kultaa ja [ICON_CULTURE] kulttuuria.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_HELP">
+			<Text>Paljastaa [ICON_RES_URANIUM] lypöörin ja mahdollistaa [COLOR_POSITIVE_TEXT]taistelulaivan[ENDCOLOR] rakentamisen.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_HELP">
+			<Text>Paljastaa [ICON_RES_ALUMINUM] eettiinin ja mahdollistaa [COLOR_POSITIVE_TEXT]sukellusveneen[ENDCOLOR] rakentamisen. Näiden lisäksi mahdollistaa [COLOR_POSITIVE_TEXT]kauppakorkean[ENDCOLOR], jolla on myönteinen vaikutus kaupungin [ICON_RESEARCH] tieteelle että [ICON_CULTURE] kulttuurille.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]teslakäämin[ENDCOLOR] rakentamisen, jolla on reipas vaikutus kaupungin [ICON_RESEARCH] tieteeseen pienen [ICON_GOLD] rahallisen vaikutuksen lisäksi.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]filantroporian[ENDCOLOR] rakentamisen, joka ehostaa kaupungin [ICON_CULTURE] kulttuuria ja [ICON_HAPPINESS_1] onnellisuutta.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]lypöörijalostamon[ENDCOLOR] rakentamisen, tarjoten [ICON_RES_URANIUM] lypöörivaroja käytettäväksi.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]maalaivan[ENDCOLOR] rakentamisen, joka on vahva maayksikkö. Tämän lisäksi mahdollistaa [COLOR_POSITIVE_TEXT]patenttitoimiston[ENDCOLOR], joka kohentaa kaupungin [ICON_PRODUCTION] tuottavuutta ja [ICON_GOLD] kultaa.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_HELP">
+			<Text>Sallii rakennuttaa vahvimman maalaivan eli [COLOR_POSITIVE_TEXT]maaleviatanin[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]stadionin[ENDCOLOR] rakentamisen, jolla on myönteinen vaikutus valtakunnan [ICON_HAPPINESS_1] onnellisuuteen.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_HELP">
+			<Text>Mahdollistaa kansallisen ihmeen, [COLOR_POSITIVE_TEXT]ikiliikkujan[ENDCOLOR], rakentamisen. Se antaa valtavan sysäyksen [ICON_PRODUCTION] tuottavuuteen.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]hävittäjän[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]lenturin[ENDCOLOR] rakentamisen, joka on ensimmäinen lentoyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RADIO_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]lähetystornin[ENDCOLOR] rakentamisen, jolla on suuri vaikutus kaupungin [ICON_CULTURE] kulttuuriin. Lisäksi mahdollistaa kansallisen ihmeen, [COLOR_POSITIVE_TEXT]musiikkitalon[ENDCOLOR], jolla on oma myönteinen vaikutuksensa [ICON_CULTURE] kulttuuriin.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RAILROAD_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]maapanssarilaivan[ENDCOLOR] rakentamisen, joka on ensimmäinen maalaiva. Lisäksi sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]rautateitä[ENDCOLOR] ruutuihin.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_REPLACEABLE_PARTS_HELP">
+			<Text>Tuo [COLOR_POSITIVE_TEXT]suursodan kiväärimiehen[ENDCOLOR] saataville, joka on maailman kehittynein sotilasyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ROBOTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]itsenäistehtaan[ENDCOLOR] rakentamisen, jolla on merkittävä myönteinen vaikutus kaupungin [ICON_PRODUCTION] tuottavuuteen.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_HELP">
+			<Text>Tuo mahdolliseksi rakentaa tehokkaimman lentolaivan eli [COLOR_POSITIVE_TEXT]taivaslinnoituksen[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]maanalaisvartion[ENDCOLOR] sekä sen kansallisihmevastineen [COLOR_POSITIVE_TEXT]maanalaisen siirtokunnan[ENDCOLOR] rakentamisen, jotka tarjoavat molemmat suuren korotuksen kaupungin [ICON_PRODUCTION] tuottavuudelle.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_HELP">
+			<Text>Mahdollistaa pelin loppupään [COLOR_POSITIVE_TEXT]CN Tower[ENDCOLOR] -ihmeen, joka tarjoaa lähetystornin kaikkiin kaupunkeihin.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_HELP">
+			<Text>Tämän voi tutkia useammin kuin kerran. Tuottaa [ICON_CULTURE] kulttuuria jokaisesta kerrasta kun se on saatettu loppuun.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]lentolaivahangaarin[ENDCOLOR] rakentamisen, joka antaa lisää kokemusta uusille yksiköille.</Text>
+		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]pörssin[ENDCOLOR] rakentamisen, joka nostaa [ICON_GOLD] kullan tuottoa.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_HELP">
+			<Text>Kohentaa kalastuksen [ICON_GOLD] kullan tuottoa. Lisäksi mahdollistaa [COLOR_POSITIVE_TEXT]meriportin[ENDCOLOR] rakentamisen rannikkokaupunkeihin, jolloin niiden vesiruutujen [ICON_PRODUCTION] tuottavuus paranee.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ASTRONOMY_HELP">
+			<Text>Uitossa olevat yksiköt saavat +1 [ICON_MOVES] liikkuvuutta. Mahdollistaa [COLOR_POSITIVE_TEXT]observatorion[ENDCOLOR] rakentamisen, joka on ensimmäinen tiedettä kohentava rakennus. Mahdollistaa myös [COLOR_POSITIVE_TEXT]majakan[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]sataman[ENDCOLOR] rakentamisen, jotka kohentavat vesiruutujen [ICON_FOOD] ruuan tuotantoa ja yhdistävät kauppareitit veden ylitse.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]maorisoturin[ENDCOLOR] kouluttamisen, joka on voimakkain antiikin yksikkö pelissä. Mahdollistaa myös [COLOR_POSITIVE_TEXT]kansalliseepoksen[ENDCOLOR] valmistamisen.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_COMPASS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]karavelin[ENDCOLOR] rakentamisen, joka on renessanssin ensimmäinen meriyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CONSTRUCTION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]muurien[ENDCOLOR] rakentamisen, jotka parantavat merkittävästi kaupunkien puolustusta. Lisäksi sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]teitä[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]linnakkeita[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
+			<Text>Mahdollistaa [ICON_GOLD] kultaa kohottavan [COLOR_POSITIVE_TEXT]torin[ENDCOLOR] rakentamisen, ruutujen kehittämisen [COLOR_POSITIVE_TEXT]kauppapaikoilla[ENDCOLOR] sekä myös sallii kaupunkien muuttaa [ICON_PRODUCTION] tuottavuuden [ICON_GOLD] kullaksi yksiköiden tai rakennusten valmistamisen sijasta.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]musketöörin[ENDCOLOR] rakentamisen, joka on pelin ensimmäinen tuliasetta käyttävä yksikkö. Lisäksi tuo tarjolle lukuisia taloudellisia etuisuuksia, jotka edustavat eurooppalaisilta saatua uutta teknologiaa.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]monumenttien[ENDCOLOR] rakentamisen, jotka kasvattavat kaupunkien kulttuuria. Lisäksi sallii työläisten rakentaa louhoksia [ICON_RES_MARBLE] [COLOR_POSITIVE_TEXT]marmori[ENDCOLOR]esiintymille ja [COLOR_POSITIVE_TEXT]ojittaa suon[ENDCOLOR], jolloin entiseen suoruutuun voi rakentaa useammanlaisia rakenteita.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]kaivoksia[ENDCOLOR] ruutujen [ICON_PRODUCTION] tuottavuuden kasvattamiseksi, sekä [COLOR_POSITIVE_TEXT]hakata metsän[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]raivata viidakon[ENDCOLOR], sallien näin useammanlaisten rakenteiden rakentamisen.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kolmisoudun[ENDCOLOR] rakentamisen, joka on skenaarion ensimmäinen sotalaiva. Lisäksi sallii uitossa olevien yksiköiden puolustautua sotalaivoja vastaan.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_OPTICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]fregatin[ENDCOLOR] rakentamisen, joka on skenaarion vahvin sotalaiva.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]moaipatsaita[ENDCOLOR] rannikkoruutuihin, jolloin ne alkavat tuottaa [ICON_CULTURE] kulttuuria.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
+			<Text>Sallii työveneen rakentamisen, joka mahdollistaa vedessä sijaitsevien luonnonvarojen kuten [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]kalojen[ENDCOLOR] ja [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]helmien[ENDCOLOR] hyödyntämisen.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SCIENTIFIC_THEORY_HELP">
+			<Text>Tästä tekniikasta ei tule etuisuuksia, vaan se edustaa polynesian tekniikan jämähtäneisyyttä ennen tieteellisesti kehittyneempien kansojen tuloa ja siten toistuu kunnes eurooppalaiset ilmaantuvat Tyynen valtameren alueelle. Tekniikka tarjotaan ilmaiseksi kaikille kansoille heidän saadessaan kontaktin kapteeni James Cookin tutkimusmatkaan.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_HELP">
+			<Text>Sallii armeijan kehittämisen sellaisilla rakennuksilla kuin [COLOR_POSITIVE_TEXT]parakit[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]sankarieepos[ENDCOLOR].</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_THEOLOGY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]temppelin[ENDCOLOR] ja [COLOR_POSITIVE_TEXT]kirjaston[ENDCOLOR] rakentamisen, joista ensimmäinen kohentaa [ICON_CULTURE] kulttuuria ja jälkimmäinen [ICON_RESEARCH] tiedettä. Lisäksi mahdollistaa [COLOR_POSITIVE_TEXT]raatihuoneen[ENDCOLOR], joka vähentää [ICON_OCCUPIED] miehitettyjen kaupunkien [ICON_HAPPINESS_4] tyytymättömyyttä.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]keihäsmiehen[ENDCOLOR] kouluttamisen, joka on vahva sotilasyksikkö. Lisäksi sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]leirejä[ENDCOLOR] [ICON_RES_DEER] peurojen, [ICON_RES_IVORY] norsunluun ja [ICON_RES_FUR] turkisten saamiseksi.</Text>
+		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_HELP">
+			<Text>Tämä tekniikka on kehitetty juuri ennen tämän skenaarion alkua, jolloin uitto on tullut yksiköille mahdolliseksi jopa syvän meren ruuduissa.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]raatihuoneen[ENDCOLOR] rakentamisen, joka vähentää [ICON_OCCUPIED] miehitettyjen kaupunkien [ICON_HAPPINESS_4] tyytymättömyyttä. Lisäksi tarjoaa monenlaisia etuisuuksia [ICON_RESEARCH] tieteelle.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]konkistadorin[ENDCOLOR] kouluttamisen, joka on erikoistunut merentakaisten maiden kartoittamiseen ja asuttamiseen.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]katapultin[ENDCOLOR] rakentamisen, joka on voimakas piiritysase.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_HELP">
+			<Text>Uuden Maailman nousu</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]merikoulun[ENDCOLOR] rakentamisen, joka lakkauttaa keripukkiongelmat meriyksiköiltä. Lisäksi sallii rannikkokaupunkien rakentaa [COLOR_POSITIVE_TEXT]meriportin[ENDCOLOR], joka kohentaa meren luonnonvarojen [ICON_PRODUCTION] tuottavuutta.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kaapparin[ENDCOLOR] rakentamisen ja sallii Euroopan valtojen julistaa sodan toisilleen.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]tercion[ENDCOLOR] kouluttamisen, joka on hallitseva meleeyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]luostarin[ENDCOLOR] rakentamisen, joka sallii kaupungin rajojen laajentua vikkelästi.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]muskettisoturin[ENDCOLOR] kouluttamisen, joka on kehittyneempi versio musketööristä.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
+			<Text>Sallii työläisten rakentaa [COLOR_POSITIVE_TEXT]leirin[ENDCOLOR] [ICON_RES_DEER] peurojen, [ICON_RES_IVORY] norsunluun ja [ICON_RES_FUR] turkisten[ENDCOLOR] hyödyntämiseksi, jolloin ruutujen [ICON_GOLD] kullan tuotto kohoaa.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_HELP">
+			<Text>Tekee kaikista maayksiköistä paremman antamalla niille [COLOR_POSITIVE_TEXT]uitto ja puolustautuminen[ENDCOLOR] -ylennyksen, jolloin ne kykenevät puolustautumaan merihyökkäyksiä vastaan.</Text>
+		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]fregatin[ENDCOLOR] rakentamisen, joka on renessanssin voimakkain meriyksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_HELP">
+			<Text>Sallii ratsuyksiköiden ryövätä vihollisten ruutuja. Ennen tämän tekniikan kehittämistä ainutkaan yksikkö ei kykene tärvelemään vihollisen maita.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]sotilasinsinöörin[ENDCOLOR] kouluttamisen, joka on teitä ja rautateitä rakentava siviiliyksikkö. Yksikön voi myös käyttää linnoituksen tai ponttonisillan rakentamiseen, jolloin se poistuu pelistä.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_HELP">
+			<Text>Kaksinkertaistaa taisteluedun linnoituksessa.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_HELP">
+			<Text>Kaksinkertaistaa vahingoittuneiden yksiköiden parantumisen.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]kuularuiskun[ENDCOLOR] valmistamisen, joka on vahva viereisiin ruutuihinsa tulittamaan kykenevä yksikkö.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]panssarilaivan[ENDCOLOR] valmistamisen, joka on ylivoimainen yksikkö puisia meriyksiköitä vastaan.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_HELP">
+			<Text>Puolittaa rautateiden valmistusajan ja kaksinkertaistaa nopeuden rautateillä.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]armeijakunnan[ENDCOLOR] rakentamisen, joka on päivitys jalkaväkidivisioonaan. Se vaatii enemmän miesvoimaa, mutta sen [ICON_STRENGTH] taisteluvoimakkuus on huomattavasti korkeampi.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]karbiiniratsuväen[ENDCOLOR] kouluttamisen, joka on päivitys ratsuväen divisioonaan tarjoten kaksinkertaisen [ICON_STRENGTH] taisteluvoimakkuuden.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_HELP">
+			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]rihlatun kanuunan[ENDCOLOR] valmistamisen, joka kykenee tulittamaan kolmen ruudun säteelle sijainnistaan.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_HELP">
+			<Text>Sallii jalkaväen ryövätä vihollisen maita.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_1">
+			<Text>Sallii ratsuväen ryövätä maita.</Text>
+		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_2">
+			<Text>Sallii jalkaväen ryövätä maita.</Text>
+		</Row></Language_fi_FI>
+</GameData>

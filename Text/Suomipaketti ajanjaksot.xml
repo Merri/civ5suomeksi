@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+		<Row Tag="TXT_KEY_ERA_0">
+			<Text>Muinaisuus|muinaisuuteen|muinaisuudesta|muinaisuudessa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_1">
+			<Text>Antiikki|antiikkiin|antiikista|antiikissa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_2">
+			<Text>Keskiaika|keskiaikaan|keskiajasta|keskiajassa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_3">
+			<Text>Renessanssi|renessanssiin|renessanssista|renessanssissa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_4">
+			<Text>Teollinen|teolliseen aikakauteen|teollisesta aikakaudesta|teollisessa aikakaudessa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_5">
+			<Text>Moderni aika|moderniin aikaan|modernista ajasta|modernissa ajassa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_6">
+			<Text>Tulevaisuus|tulevaisuuteen|tulevaisuudesta|tulevaisuudessa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_7">
+			<Text>Informaatioaika|informaatioaikaan|informaatioajasta|informaatioajassa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- Tuhkataivaitten imperiumit -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_5">
+			<Text>Höyryaika|höyryaikaan|höyryajasta|höytyajassa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_6">
+			<Text>Ilmailuaika|ilmailuaikaan|ilmailuajasta|ilmailuajassa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_7">
+			<Text>Tulevaisuus|tulevaisuuteen|tulevaisuudesta|tulevaisuudessa</Text>
+			<Gender>masculine:nominatiivi|feminine:illatiivi|feminine:elatiivi|feminine:inessiivi</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_fi_FI>
+</GameData>

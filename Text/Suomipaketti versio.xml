@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+		<Row Tag="TXT_KEY_ESRB_BODY">
+			<Text>Suomennoksen versio on 2016-06[NEWLINE]Päivitykset: http://vesa.piittinen.name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEGAL_BODY">
+			<Text>© 1991-2014 Take-Two Interactive Software ja sen tytäryhtiöt. Kehittänyt Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software sekä näiden logot ovat Take-Two interactive Software, Inc. tavaramerkkejä. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Käyttää Granny Animationia. Copyright © 1999-2010 RAD Game Tools, Inc. Käyttää Miles Sound Systemiä. Copyright © 1991-2010 RAD Game Tools, Inc. Suositusmerkinnät ovat Entertainment Software Associationin tavaramerkkejä. Kaikki muut merkinnät ja tavaramerkit ovat omistajiensa omaisuutta. Kaikki oikeudet pidätetään. Tämän pelin sisältö on fiktiota ja sen ei ole tarkoitus esittää tai kuvata todellisia tapahtumia, henkilöitä tai asioita pelin historiallisessa asetelmassa.[NEWLINE][NEWLINE]Suomennos 2010 - 2016 Vesa Piittinen[NEWLINE]Steamissä: Civilization V suomeksi, Facebookissa: Civilization VI suomeksi</Text>
+		</Row>
+	</Language_fi_FI>
+</GameData>

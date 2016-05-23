@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fi_FI>
+	<Row Tag="TXT_KEY_GENERIC_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} ei enää suojele kaupunkivaltiota {1_MinorCivName:textkey}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName} suojelee kaupunkivaltiota {1_MinorCivName:textkey}. Sodan lietsominen kaupunkivaltiota vastaan saattaa vahingoittaa suhteita suojelijaan ja johtaa jopa sotaan heitäkin vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ADD_REFORMATION_BELIEF">
+			<Text>Olemme omaksuneet reformaation linjauksen, joten voimme lisätä uskontoomme uuden uskomuksen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_PANTHEON">
+			<Text>Meillä on jo kantausko.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_RELIGION">
+			<Text>Meillä on jo uskonto.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ARTIFACT_SWAP">
+			<Text>{1_LeaderName} on ottanut vastaan esineen "{2_Work1Name}" ja antanut meille esineen "{3_Work2Name}."</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_AUTOMATIC_FAITH_PURCHASE">
+			<Text>{1_Name} ostettiin uskolla kaupunkiin {2_City}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BARB_CAMP_CONVERTS">
+			<Text>Sotaleirin barbaarit ovat liittyneet armeijaamme ja lahjoittaneet [ICON_GOLD]!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BARB_NAVAL_UNIT_CONVERTS">
+			<Text>Barbaarien meriyksikkö on liittynyt joukkoihimme ja lahjoittaneet [ICON_GOLD]!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_ANOTHER">
+			<Text>{1_CivName:textkey} tunnustetaan sivilisaatioksi, jolla on eniten merkittäviä henkilöitä, mikä antaa heille {1_CivName:textkey} {2_Num} sivilisaatiopistettä. Toisen pelaajan tarvitsee saada ainakin {3_Num} merkittävää henkilöä ohittaakseen heidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_UNMET">
+			<Text>Kohtaamaton sivilisaatio on saanut eniten merkittäviä henkilöitä maailmassa! Tämä antaa heille {1_Num} sivilisaatiopistettä. Toisen pelaajan tarvitsee saada ainakin {2_Num} merkittävää henkilöä ohittaakseen heidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_YOU">
+			<Text>Sivilisaatiollamme on eniten merkittäviä henkilöitä maailmassa, mikä antaa meille {1_Num} sivilisaatiopistettä! Toisen pelaajan tarvitsee saada ainakin {2_Num} merkittävää henkilöä ohittaakseen meidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_ANOTHER">
+			<Text>{1_CivName:textkey} tunnustetaan sivilisaatioksi, jolla on eniten sosiaalisia linjauksia! Tämä antaa heille {2_Num} sivilisaatiopistettä. Toisen pelaajan tarvitsee saada ainakin {3_Num} sosiaalista linjausta ohittaakseen heidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_UNMET">
+			<Text>Kohtaamaton sivilisaatio on omaksunut eniten sosiaalisia linjauksia maailmassa! Tämä antaa heille {1_Num} sivilisaatiopistettä. Toisen pelaajan tarvitsee omaksua ainakin {2_Num} sosiaalista linjausta ohittaakseen heidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_YOU">
+			<Text>Sivilisaatiollamme on eniten sosiaalisia linjauksia maailmassa, mikä antaa meille {1_Num} sivilisaatiopistettä! Toisen pelaajan tarvitsee omaksua ainakin {2_Num} sosiaalista linjausta ohittaakseen meidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_ANOTHER">
+			<Text>{1_CivName:textkey} tunnustetaan sivilisaatioksi, jolla on eniten maailmanihmeitä! Tämä antaa heille {2_Num} sivilisaatiopistettä. Toisen pelaajan tarvitsee rakentaa ainakin {3_Num} ihmettä ohittaakseen heidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_UNMET">
+			<Text>Kohtaamaton sivilisaatio on rakentanut eniten maailmanihmeitä! Tämä antaa heille {1_Num} sivilisaatiopistettä. Toisen pelaajan tarvitsee rakentaa ainakin {2_Num} ihmettä ohittaakseen heidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_YOU">
+			<Text>Sivilisaatiollamme on eniten maailmanihmeitä, mikä antaa meille {1_Num} sivilisaatiopistettä! Toisen pelaajan tarvitsee rakentaa ainakin {2_Num} ihmettä ohittaakseen meidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BORDER_PROMISE_EXPIRED">
+			<Text>On kulunut lukuisia vuosia lupauksestamme pitää yksiköitämme rajojen tuntumasta. {1_CivDesc} katsoo lupauksen täytetyksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_BORDER_PROMISE_EXPIRED_S">
+			<Text>Pidimme rajamaat tyhjillään.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_ARCHAEOLOGY">
+			<Text>Arkeologiset kaivaukset on suoritettu. Kuinka arkeologin tulee toimia jatkossa?</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_ERA">
+			<Text>Olemme saavuttaneet teollisen aikakauden. Teollisen vallankumouksen ideat valtaavat alaa yhteiskunnassamme. Kansamme haluaa meidän omaksuvan jonkin ideologian.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_FACTORIES">
+			<Text>Olemme valmistaneet tehtaan kolmeen kaupunkiin. Teollisen vallankumouksen ideat valtaavat alaa yhteiskunnassamme. Kansamme haluaa meidän omaksuvan jonkin ideologian.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_CAN_SHOOT">
+			<Text>{1_CityName:textkey} voi pommittaa vihollista!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_CULTURE_ACQUIRED_NEW_PLOT">
+			<Text>{1_CityName:textkey} on kasvattanut kylliksi kulttuuria kaapatakseen uuden ruudun!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_GROWTH">
+			<Text>{1_CityName:textkey} on kasvanut {2_Population}:en [ICON_CITIZEN] asukkaaseen! Uusi asukas alkaa itsenäisesti työskennellä kaupunkia ympäröivässä maastossa tuottaen [ICON_FOOD] ruokaa, [ICON_PRODUCTION] tuottavuutta ja/tai [ICON_GOLD] kultaa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_LIBERATED">
+			<Text>{1_PlayerName} on vallannut kaupungin {2_CityName} ja palauttanut {3_CivAdj} itsemääräämisoikeuden.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_LOST">
+			<Text>{@2_CivName} valtasi kaupungin {1_CityName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_DEMAND">
+			<Text>{1_CityName:textkey} haluaa {2_ResourceName ^ 'feminine:partitiivi'}! Luonnonvaran lisääminen kauppaverkostoomme saisi kaupungin juhlistamaan "Hyvän hallitsijan päivää", kiihdyttäen kaupungin [ICON_FOOD] kasvua!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD">
+			<Text>{1_CityName:textkey} saa nyt {3_Num}% lisän [ICON_PRODUCTION] tuottavuuteen rakennettaessa ihmeitä! {2_ResourceName:textkey} on yhdistetty kaupungin alueella.</Text>
+		<Gender/></Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD_SUMMARY">
+			<Text>{1_CityName:textkey} sai {2_ResourceName ^ 'feminine:partitiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT">
+			<Text>Koska valtakunnan [ICON_HAPPINESS_4] tyytymättömyyden taso on vähintään 20 eikä yleinen mielipide ole suotuisa on {1_CityName} päättänyt irtautua ja liittyä {2_CivName ^ 'feminine:illatiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT_SUMMARY">
+			<Text>Kaupunki kapinoi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_UNIT_SPAWN">
+			<Text>{1_CivName:textkey} lahjoitti meille yksikön!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD">
+			<Text>{1_Resource ^ 'masculine:akkusatiivi'} tulo kauppaverkostoomme saa kaupungin {2_CityName:textkey} juhlistamaan "Hyvän hallitsijan päivää", edistäen kaupungin [ICON_FOOD] kasvua!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CIV_LIBERATED_SHORT">
+			<Text>{1_CityName} palautui pelaajalle {2_PlayerName}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED">
+			<Text>{1_PlayerName} on vallannut kaupungin {2_CityName} ja palauttanut {3_CivAdj} itsemääräämisoikeuden. {4_CivName}, jonka liekki oli jo kerran kadonnut, on jälleen voimissaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED_SHORT">
+			<Text>{2_PlayerName} vapautti pelaajan {1_PlayerName} </Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL">
+			<Text>Vaikutusvaltamme katosi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL_TT">
+			<Text>Kulttuurimme ei enää vaikuta ainoaankaan toiseen kansaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL">
+			<Text>Ensimmäinen vaikutusvaltainen kulttuuri</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_ACTIVE_PLAYER_TT">
+			<Text>Olemme ensimmäisenä kansakuntana saavuttaneet kulttuurin tason, joka vaikuttaa toiseen pelaajaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_TT">
+			<Text>{1_CivName} on ensimmäisenä kansakuntana saavuttanut kulttuurin tason, joka vaikuttaa toiseen pelaajaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_UNMET_INFLUENTIAL_TT">
+			<Text>Kohtaamaton kansakunta on ensimmäisenä saavuttanut kulttuurin tason, joka vaikuttaa toiseen pelaajaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE">
+			<Text>Kulttuurivoiton vaara</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER">
+			<Text>Kulttuurivoitto lähellä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER_TT">
+			<Text>Kulttuurimme tarvitsee kasvattaa vaikutusvaltansa enää yhteen kansakuntaan, jotta peli on voitettu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_TT">
+			<Text>{1_CivName} tarvitsee kasvattaa kulttuuriaan vaikutusvaltaiseksi enää yhteen kansakuntaan voittaakseen pelin!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO">
+			<Text>Kulttuurivoiton haastaja</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER">
+			<Text>Kulttuurivoitto saavutettavissa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER_TT">
+			<Text>Kulttuurimme tarvitsee kasvattaa vaikutusvaltansa enää kahteen kansakuntaan, jotta peli on voitettu.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_TT">
+			<Text>{1_CivName} tarvitsee kasvattaa kulttuuriaan vaikutusvaltaiseksi enää kahteen kansakuntaan voittaakseen pelin.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT_FROM_US">
+			<Text>{1_CivName:textkey} ei ole enää puolustusliitossa kanssamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT_TO_US">
+			<Text>{1_CivName:textkey}: puolustusliittomme on päättynyt.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_FROM_US">
+			<Text>{1_CivName:textkey} ei saa enää kultaa meiltä joka vuoro.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_TO_US">
+			<Text>{1_CivName:textkey} ei lähetä meille enää kultaa joka vuoro.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
+			<Text>{1_CivName:textkey} ei voi enää pitää yksikköjään alueillamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
+			<Text>{1_CivName:textkey} on sulkenut rajansa yksiköiltämme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_PEACE">
+			<Text>{1_CivName:textkey}: rauhansopimus on rauennut. Kumpi tahansa osapuoli voi julistaa sodan toiselle.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
+			<Text>{1_CivName:textkey} sai päätökseen tutkimus-sopimuksen kanssamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
+			<Text>{1_CivName:textkey}: tutkikimus-sopimuksemme on tullut päätökseensä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_FROM_US">
+			<Text>{1_CivName:textkey} ei saa enää {2_Resource} meiltä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_TO_US">
+			<Text>{1_CivName:textkey} ei enää tuo {2_Resource} meille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
+			<Text>{1_CivName:textkey} sai päätökseen kauppasopimuksen kanssamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_TO_US">
+			<Text>{1_CivName:textkey}: kauppasopimuksemme on vanhentunut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE">
+			<Text>{1_CivName:textkey} {1: plural 1?on julkisesti tuominnut; other?ovat julkisesti tuominneet;} {2: plural 1?kansan {2_CivName:textkey}; other?{2_CivName:textkey};}, varoittaen ettei heihin voi luottaa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DENOUNCED_YOU_S">
+			<Text>{1_CivName:textkey} tuomitsee meidät!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_S">
+			<Text>{1_CivName:textkey} {1: plural 1?on tuominnut; other?ovat tuominneet;} {2: plural 1?kansan {2_CivName:textkey}; other?{2_CivName:textkey};}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_YOU">
+			<Text>{1_CivName:textkey} on tuominnut MEIDÄT, varoittaen muita ettei meihin voi luottaa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_DECLARATION">
+			<Text>{1_CivName:textkey}: yleinen ilmoitus</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DIPLOMAT_EJECTED">
+			<Text>Diplomaatti evakuoitiin!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DIPLOMAT_EJECTED_TT">
+			<Text>{1_SpyRank} {2_SpyName} pakeni kaupungista {3_CityName} piilopaikkaamme sodanjulistuksen vuoksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DISCOVER_FREE_TECH">
+			<Text>Voimme valita ilmaisen tekniikan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DOF">
+			<Text>{1_CivName:textkey} ja {2_CivName:textkey} ovat solmineet ystävyys- ja yhteistyösopimuksen, muodostaen vahvan siteen heidän välilleen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_DOF_S">
+			<Text>{1_CivName:textkey} ja {2_CivName:textkey} ovat nyt ystäviä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENEMY">
+			<Text>Vihollisyksikkö on havaittu alueellamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENEMY_SUMMARY">
+			<Text>Vihollinen on lähellä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENHANCED_RELIGION_IN_USE">
+			<Text>Toinen pelaaja on kohentanut uskontoaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENHANCE_RELIGION">
+			<Text>Voimme valita lisää uskomuksia uskontoomme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_CULTURE_FOR_POLICY">
+			<Text>Olemme keränneet kylliksi kulttuuria uuteen sosiaaliseen linjaukseen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_CULTURE_FOR_POLICY_DISMISS">
+			<Text>Olemme keränneet kylliksi kulttuuria uuteen sosiaaliseen linjaukseen![NEWLINE][NEWLINE]Napsauta hiiren oikealla jättääksesi valinta välistä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_FAITH_FOR_MISSIONARY">
+			<Text>Olemme keränneet kylliksi [ICON_PEACE] uskoa ostaaksemme yksikön tai rakennuksen. Voimme tehdä hankinnan kaupungissa, joka noudattaa uskontoamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>Meillä on riittävästi uskoa kantauskon perustamiseen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_GOLD_TO_BUY_PLOT">
+			<Text>Olemme keränneet tarpeeksi kultaa ostaaksemme ruudun jossakin kaupungeistamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ERA_VICTORY_POINTS">
+			<Text>Olemme saaneet {1_Num} sivilisaatiopistettä siirtymisestä uudelle aikakaudelle!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_EXPANSION_PROMISE_EXPIRED">
+			<Text>On kulunut lukuisia vuosia lupauksestamme laajentaa maitamme. {1_CivDesc} katsoo lupauksen täytetyksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_EXPANSION_PROMISE_EXPIRED_S">
+			<Text>Pidättäydyimme laajentumasta.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FAITH_GREAT_PERSON">
+			<Text>MERKITTÄVÄ HENKILÖ USKOLLA!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FAITH_GREAT_PERSON_TT">
+			<Text>Olemme saaneet kylliksi uskoa valitaksemme haluamamme merkittävän henkilön!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_ARTIFACTS">
+			<Text>Olemme paikantaneet [COLOR_HIGHLIGHT_TEXT]muinaisjäännökset[ENDCOLOR]!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_BARB_CAMP">
+			<Text>Barbaarien sotaleiri on löydetty! Se jatkaa raakalaisien tuottamista ellei sitä tuhota!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_GOODY_HUT">
+			<Text>Olemme paikantaneet muinaiset rauniot! Saatamme löytää kätkettyjä salaisuuksia lähettämällä yksikön tutkimaan niitä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_HIDDEN_ARTIFACTS">
+			<Text>Olemme paikantaneet [COLOR_HIGHLIGHT_TEXT]kätketyt muinaisjäännökset[ENDCOLOR]!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_NATURAL_WONDER">
+			<Text>{@2_NaturalWonder} on löydetty! Meillä on vielä {1_Num} luonnonihmettä löytämättä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_RELIGION">
+			<Text>Voimme perustaa uskonnon!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FOUND_RESOURCE">
+			<Text>Olemme löytäneet {1_ResourceName ^ 'feminine:partitiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY">
+			<Text>Voimme valita ilmaisen sosiaalisen linjauksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY_SUMMARY">
+			<Text>Ilmainen sosiaalinen linjaus!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FRIENDSHIP_EXPIRED">
+			<Text>{1_LeaderName}: ystävyys- ja yhteistyöjulistuksemme on tullut päätökseensä ja tarvitsee uusia erikseen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_FRIENDSHIP_EXPIRED_S">
+			<Text>Ystävyys- ja yhteistyöjulistus on vanhentunut</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN">
+			<Text>{1_LongCivName:textkey} kultakausi alkaa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
+			<Text>Kultakausi alkaa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED">
+			<Text>{1_LongCivName:textkey} on saanut kultakautensa päätökseen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
+			<Text>Kultakautemme on päättynyt.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_ARTIST_STOLE_PLOT">
+			<Text>{1_CivName:textkey} käytti merkittävää taiteilijaa varastakseen maitamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON">
+			<Text>Merkittävä henkilö syntyi kaupungissa {1_CivName:textkey}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_ACTIVE_PLAYER">
+			<Text>Merkittävä henkilö on syntynyt!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_UNMET">
+			<Text>Merkittävä henkilö on syntynyt kaukaisessa maassa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_ART_SWAP">
+			<Text>{1_LeaderName} on ottanut vastaan taiteen merkkiteoksen "{2_Work1Name}" ja antanut meille teoksen "{3_Work2Name}."</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_MUSIC_SWAP">
+			<Text>{1_LeaderName} on ottanut vastaan musiikin merkkiteoksen "{2_Work1Name}" ja antanut meille teoksen "{3_Work2Name}."</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_WRITING_SWAP">
+			<Text>{1_LeaderName} on ottanut vastaan kirjallisuuden merkkiteoksen "{2_Work1Name}" ja antanut meille teoksen "{3_Work2Name}."</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_HEATHEN_CONVERTS">
+			<Text>Barbaarien yksikkö on liittynyt joukkoihimme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHANGE">
+			<Text>{1_CivName} on saanut tuta kansansa voiman ja he ovat vaihtaneet ideologiansa! ({2_TheirPolicyTree})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHANGE_UNMET">
+			<Text>Kohtaamaton hallitsija on saanut tuta kansansa voiman ja he ovat vaihtaneet ideologiansa. ({1_TheirPolicyTree})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN">
+			<Text>{1_CivName} on ottanut käyttöön ideologian: {2_TheirPolicyTree}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN_UNMET">
+			<Text>Kohtaamaton kansa on ottanut käyttöön ideologian: {1_TheirPolicyTree}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_PlayerName} valmistelee merellistä iskuryhmää hyökätäkseen yllättäen toista kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY_S">
+			<Text>{1_PlayerName} valmistelee yllätysiskua mereltä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_ARMY">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_PlayerName} valmistelee iskuryhmää hyökätäkseen toista kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_ARMY_S">
+			<Text>{1_PlayerName} valmistelee yllätysiskua!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCT_WONDER">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_PlayerName} on saattanut alulle {4_WonderOrProject ^ 'feminine:akkusatiivi'} kaupunkiin {5_CityName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCT_WONDER_S">
+			<Text>{1_PlayerName} rakentaa: {2_WonderOrProject}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} kaupungissa {3_CityName} on saanut selville, että {4_PlayerName} on tehnyt suunnitelmia pelaajaa {5_PlayerName} vastaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_KNOWN_S">
+			<Text>{1_PlayerName} suunnittelee ikävyyksiä ({2_PlayerName} vaarassa).</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} kaupungissa {3_CityName} on saanut selville, että {4_PlayerName} on tehnyt suunnitelmia tuntematonta kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName} suunnittelee ikävyyksiä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_YOU">
+			<Text>{1_SpyRank} {2_SpyName} kaupungissa {3_CityName} on saanut selville, että {4_PlayerName} on tehnyt suunnitelmia meidän varallemme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_YOU_S">
+			<Text>{1_PlayerName} suunnittelee ikävyyksiä meitä vastaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} laivoin tuettu armeijan iskujoukko lähestyy {4_CivAdj} kaupunkia {5_CityName} aloittaakseen yllätyshyökkäyksen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN_S">
+			<Text>{1_PlayerName} uittaa iskujoukkoa kaupunkiin {2_CityName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} laivoin tuettu armeijan iskujoukko lähestyy kansan {4_CivDesc} maita aloittaakseen yllätyshyökkäyksen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} uittaa iskujoukkoa kohti pelaajaa {2_PlayerName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} laivoin tuettu armeijan iskujoukko on lähtenyt matkaan tehdäkseen yllätyshyökkäyksen. Emme tiedä kohdetta.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE_S">
+			<Text>{1_PlayerName} uittaa iskujoukkoa toista kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} laivoin tuettu armeijan iskujoukko on lähtenyt matkaan tehdäkseen yllätyshyökkäyksen tuntematonta kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName} uittaa iskujoukkoa tuntematonta kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} laivoin tuettu armeijan iskujoukko lähestyy kaupunkiamme {4_CityName} aloittaakseen yllätyshyökkäyksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN_S">
+			<Text>{1_PlayerName} uittaa iskujoukkoa kaupunkiimme {2_CityName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} laivoin tuettu armeijan iskujoukko lähestyy maitamme aloittaakseen yllätyshyökkäyksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} uittaa iskujoukkoa maillemme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} armeija marssii kohti {4_CivAdj} kaupunkia {5_CityName} aloittaakseen yllätyshyökkäyksen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN_S">
+			<Text>{1_PlayerName} aloitti yllätyshyökkäykseen kaupunkiin {2_CityName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} armeija on marssimassa aloittaakseen yllätyshyökkäyksen kohteenaan {4_CivDesc}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} aloitti yllätyshyökkäyksen pelaajaa {2_PlayerName} vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} armeija on marssimassa aloittaakseen yllätyshyökkäyksen toista kansaa vastaan. Emme tiedä keitä vastaan he toimivat.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE_S">
+			<Text>{1_PlayerName} aloitti yllätyshyökkäyksen toista kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} armeija on marssimassa meille tuntematonta kansaa vastaan aloittaakseen yllätyshyökkäyksen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName} aloitti yllätyshyökkäyksen tuntematonta kansaa vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} armeija marssii kaupunkiamme {4_CityName} kohti aloittaakseen yllätyshyökkäyksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN_S">
+			<Text>{1_PlayerName} aloitti yllätyshyökkäyksen kaupunkiimme {2_CityName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} on saanut selville, että {3_CivAdj} armeija on marssimassa meitä vastaan aloittaakseen yllätyshyökkäyksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} aloitti yllätyshyökkäyksen meitä vastaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY">
+			<Text>{1_SpyRank} {2_SpyName} tappoi {3_CivAdj} tekniikan varastamista yrittäneen vakoilijan kaupungissa {4_CityName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_S">
+			<Text>Tapoimme {1_CivAdj} vakoilijan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_COMPLETE">
+			<Text>{@1_ProjectName} valmistui</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_COMPLETE_TT">
+			<Text>{@1_ProjectName} on saatettu loppuun.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_PROGRESS">
+			<Text>{@1_ProjectName} tilanne</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_PROGRESS_TT">
+			<Text>{@1_ProjectName} on nyt [COLOR_POSITIVE_TEXT]{2_PercentComplete}[ENDCOLOR]% valmis. Lisää projekti kaupungin työlistalle ottaaksesi osaa sen valmistumiseen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROPOSALS_NEEDED">
+			<Text>TEE EHDOTUS</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROPOSALS_NEEDED_TT">
+			<Text>{1_LeagueName} varten tarvitsee tehdä toimestamme ehdotus. Voimme tehdä ehdotuksen uudesta päätöksestä tai vanhan pois vetämisestä. Me ja muut istunnon osapuolet tulemme tekemään päätöksen ehdotuksen kohtalosta seuraavassa istunnossa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTES_NEEDED">
+			<Text>ANNA EDUSTAJIEN ÄÄNET</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTES_NEEDED_TT">
+			<Text>{1_LeagueName} istunto on käynnissä ja edustajamme odottavat ohjeita äänestykseen. Meidän tarvitsee jakaa äänemme siten, että lopputulos on toimiva kansakuntamme kannalta.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_DONE">
+			<Text>Istunto päättyi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_DONE_TT">
+			<Text>{1_LeagueName} ehdotuksista on äänestetty ja päätetty.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_FAIL">
+			<Text>{1_ResolutionName} ei mennyt läpi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_PASS">
+			<Text>{1_ResolutionName} meni läpi. Sen vaikutukset ovat [COLOR_POSITIVE_TEXT]nyt voimassa[ENDCOLOR].</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_FAIL_SUMMARY">
+			<Text>{1_ResolutionName} hylättiin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_CHANGED_SUMMARY">
+			<Text>{@1_CivName} on isäntämaa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_DETAILS">
+			<Text>{1_LeagueName} erikoisistunto on päättänyt, että {@2_CivName} on seuraava isäntämaa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_SAME_SUMMARY">
+			<Text>{@1_CivName} jatkaa isäntämaana</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_MEMBER_VOTE">
+			<Text>[ICON_BULLET]{@3_CivName} antaa {1_NumVotes} ääntä: {2_ResolutionChoiceText}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_PASS_SUMMARY">
+			<Text>{1_ResolutionName} päätettiin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_REPEAL_FAIL">
+			<Text>{1_ResolutionName} ei pääty.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_REPEAL_PASS">
+			<Text>{1_ResolutionName} on päättynyt. Sen vaikutukset [COLOR_WARNING_TEXT]eivät enää ole voimassa[ENDCOLOR].</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_FAIL">
+			<Text>Maailman Herraa ei valittu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_FAIL_DETAILS">
+			<Text>Without a clear winner garnering the support of at least {1_NumDelegates} {1_NumDelegates: plural 1?Delegate; other?Delegates;}, the World Leader proposal fails. The top {2_NumCivilizations} {2_NumCivilizations: plural 1?Civilization has; other?Civilizations have;} permanently gained additional Delegates.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_PASS">
+			<Text>{@1_CivName} on Maailman Herra</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_PASS_DETAILS">
+			<Text>Kiitos vähimmäisen {1_NumDelegates} edustajan äänimäärän saavuttamisen on {@2_CivName} valittu Maailman Herraksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_SOON">
+			<Text>Istunto tulossa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_SOON_TT">
+			<Text>{1_LeagueName} kokoontuu {2_TurnsUntilSession} vuoron kuluttua päättämään ehdotuksista:</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MAYA_LONG_COUNT">
+			<Text>MAYOJEN PITKÄLASKUN ETU</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MAYA_LONG_COUNT_TT">
+			<Text>Mayojen pitkälaskun kalenterin b'ak'tun on tullut päätökseensä. Valitse etu juhlistaaksesi tätä Mayojen historian merkkipaalua!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MET_MINOR_CIV">
+			<Text>Kaupunkivaltio {1_CivName:textkey} löydettiin!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINORS_NOW_WARY">
+			<Text>Kaupunkivaltiot huolestuvat</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINORS_NOW_WARY_TT">
+			<Text>Toimemme heikompia naapureitamme vastaan ei ole jäänyt huomioitta. [ICON_INFLUENCE] Vaikutusvallan pohjataso on laskenut [COLOR_NEGATIVE_TEXT]{1_InfluenceMinimum}[ENDCOLOR] näiden kaupunkivaltioiden osalta, tehden hankalammaksi ylläpitää hyviä suhteita:[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_AGGRESSOR">
+			<Text>Aggressiomme heikompia naapureita kohtaan ei ole jäänyt huomiotta. He ovat alkaneet muodostaa yhteistä puolustusta ja ovat valmiita taistelemaan kuolemaan saakka. Muiden kaupunkivaltioiden valtaaminen kasvattaa liittoumaa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_LOST">
+			<Text>[ICON_INFLUENCE] Vaikutusvalta kaupunkivaltiota {1_CivName:textkey} kohtaan on laskenut niin paljon, ettemme ole enää [COLOR_POSITIVE_TEXT]LIITTOLAISIA[ENDCOLOR].[NEWLINE][NEWLINE]{2_DetailsString}[NEWLINE][NEWLINE]Täten emme enää saa heidän strategisia ja ylellisiä luonnonvarojaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_LOST_SCIENCE">
+			<Text>he ovat vetäneet viisaat miehensä mailtamme... ([ICON_RESEARCH] tiede-etu menetetty)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_PASSED">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_CivName:textkey}[ENDCOLOR] on kasvattanut [ICON_INFLUENCE] vaikutusvaltansa kaupunkivaltioon {2_MinorCivName:textkey} suuremmaksi kuin meidän, tehden heistä sen [COLOR_NEGATIVE_TEXT]uuden liittolaisen[ENDCOLOR]![NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]Täten emme enää saa heidän strategisia ja ylellisiä luonnonvarojaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARBS_QUEST">
+			<Text>{1_CivName:textkey} pyytää apuamme barbaarivaltaajia vastaan! Jokainen tapettu barbaari kasvattaa [ICON_INFLUENCE] vaikutusvaltaamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARBS_QUEST_LOST_CHANCE">
+			<Text>{1_CivName:textkey} ei enää tarvitse apuamme barbaareja vastaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARB_KILLED">
+			<Text>{1_CivName:textkey} on kiitollinen tapettuamme barbaareja heidän lähellään, joten [ICON_INFLUENCE] vaikutusvaltamme heihin on kasvanut 12:lla!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BFF_LOST_RESOURCE">
+			<Text>{1_CivName:textkey} menetti meille tarjoamansa [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]! Emme saa sitä uudelleen ennen kuin he saavat sen takaisin.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BFF_NEW_RESOURCE">
+			<Text>Kaupunkivaltion {1_CivName:textkey} liittolaisena saamme heiltä tästälähtien [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BUYOUT">
+			<Text>{@1_CivName} ja {@2_MinorCivName} juhlivat häitä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BUYOUT_TT_1">
+			<Text>{@1_CivName} on antanut kauniin prinsessansa käden mitä jaloimmalle aatelisherralle. {@2_MinorCivName} on näiden häiden myötä muodostanut kiinteän diplomaattisen suhteen ja on tästä lähtien osa prinsessan valtakuntaa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_BUYOUT_TT_2">
+			<Text>{@1_CivName} on antanut komean prinssinsä käden mitä kauneimmalle aatelisnaiselle. {@2_MinorCivName} on näiden jäiden myötä muodostanut kiinteän diplomaattisen suhteen ja on tästä lähtien osa prinssin valtakuntaa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_FRIENDSHIP_DECAY">
+			<Text>{1_PlayerName:textkey} on ottanut käyttöön kaupunkivaltioita koskevan sosiaalisen linjauksen, joka saa [ICON_INFLUENCE] vaikutusvaltamme laskemaan nopeammin!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_FRIENDS_LOST_BASE">
+			<Text>[ICON_INFLUENCE] Vaikutusvaltamme kaupunkivaltioon {1_CivName:textkey} on heikentynyt siihen asti, ettemme ole enää [COLOR_POSITIVE_TEXT]YSTÄVIÄ[ENDCOLOR]...[NEWLINE][NEWLINE]{2_DetailsString} Yksiköillämme ei myöskään ole enää lupaa olla heidän alueillaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_GAINED_BEST_RELATIONS_BONUS_NONE">
+			<Text>He lahjoittavat meille kaikki tulevat [COLOR_POSITIVE_TEXT]strategiset ja ylelliset luonnonvaransa[ENDCOLOR] niin kauan kuin asiat pysyvät tällä tolalla.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_GAINED_BEST_RELATIONS_BONUS_SOME">
+			<Text>He lahjoittavat meille [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR] ja kaikki tulevat luonnonvaransa niin kauan kuin asiat pysyvät tällä tolalla.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_INTRUSION">
+			<Text>Yksikkömme liikkuvat kaupunkivaltion {1_CivName:textkey} mailla! [ICON_INFLUENCE] Vaikutusvaltamme heikkenee niin kauan kuin yksikkömme ovat heidän alueellaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LIBERATION">
+			<Text>{2_MajorCivName:textkey} on vapauttanut kaupunkivaltion {1_MinorCivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LIBERATION_YOU">
+			<Text>Olemme vapauttaneet kaupunkivaltion {1_CivName:textkey}! He ovat korvaamattoman kiitollisia itsenäisyydestään.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_ALLIES_MILITARISTIC">
+			<Text>He tuottavat meille vähemmän armeijan yksiköitä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_BEST_RELATIONS_BONUS">
+			<Text>{1_CivName:textkey} on saanut uuden ykkössuosikin... Täten emme enää saa heidän strategisia ja ylellisiä luonnonvarojaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_CULTURE">
+			<Text>(vaikutus {1_NumCulture} [ICON_CULTURE] kulttuuria vuorossa)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_FRIENDS_MILITARISTIC">
+			<Text>He eivät enää tuota meille armeijan yksiköitä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_MARITIME">
+			<Text>({1_NumCapitalFood}[ICON_FOOD] [ICON_CAPITAL] pääkaupungille, {2_NumCitiesFood}[ICON_FOOD] muille kaupungeille)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_MERCANTILE">
+			<Text>({1_NumHappiness} [ICON_HAPPINESS_1] onnellisuutta)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_RELIGIOUS">
+			<Text>({1_NumFaith} [ICON_PEACE] uskoa per vuoro menetty)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_BASE">
+			<Text>[ICON_INFLUENCE] Vaikutusvaltamme kaupunkivaltioon {2_MinorCivName:textkey} on noussut siihen pisteeseen, että olemme nyt heidän [COLOR_POSITIVE_TEXT]LIITTOLAISIAAN[ENDCOLOR].[NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]{1_ResourceDetailsString}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_BASE_PASSED">
+			<Text>[ICON_INFLUENCE] Vaikutusvaltamme kaupunkivaltioon {3_MinorCivName:textkey} on noussut siihen pisteeseen, että olemme nyt heidän [COLOR_POSITIVE_TEXT]LIITTOLAISIAAN toisin kuin {1_CivName:textkey}[ENDCOLOR].[NEWLINE][NEWLINE]{4_DetailsString}[NEWLINE][NEWLINE]{2_ResourceDetailsString}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_CULTURE">
+			<Text>[COLOR_POSITIVE_TEXT]Kulturellina[ENDCOLOR] kaupunkivaltiona he antavat meille hienoimmat kulttuuriaarteensa! (+{1_NumCulture} [ICON_CULTURE] kulttuuria vuorossa)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MARITIME">
+			<Text>[COLOR_POSITIVE_TEXT]Merellisenä[ENDCOLOR] kaupunkivaltiona he tarjoavat meille suuria määriä ruokaa (+{1_NumCapitalFood}[ICON_FOOD] [ICON_CAPITAL] pääkaupungissa, +{2_NumCitiesFood}[ICON_FOOD] muissa kaupungeissa).</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MERCANTILE">
+			<Text>[COLOR_POSITIVE_TEXT]Kaupallisena[ENDCOLOR] kaupunkivaltiona he tarjoavat eksoottisia hyödykkeitä valtakuntaamme! (+{1_NumHappiness} [ICON_HAPPINESS_1] onnellisuutta)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MILITARISTIC">
+			<Text>[COLOR_POSITIVE_TEXT]Sotaisana[ENDCOLOR] kaupunkivaltiona he lahjoittavat meille säännöllisesti armeijan yksiköitä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_RELIGIOUS">
+			<Text>[COLOR_POSITIVE_TEXT]Uskovaisena[ENDCOLOR] kaupunkivaltiona he lahjoittavat meille arvokkaimmat pyhät esineensä! (+{1_NumFaith} [ICON_PEACE] uskoa per vuoro)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_SCIENCE">
+			<Text>He jakavat tästä lähtien viisaiden miestensä tiedon kanssamme! (Saamme [ICON_RESEARCH] tiedettä heidän valtakuntansa tieteenteon mukaisesti)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_BASE">
+			<Text>[ICON_INFLUENCE] Vaikutusvaltamme kaupunkivaltioon {1_CivName:textkey} on noussut siihen pisteeseen, että olemme nyt [COLOR_POSITIVE_TEXT]YSTÄVIÄ[ENDCOLOR].[NEWLINE][NEWLINE]{2_DetailsString} He ovat myös antaneet joukoillemme luvan kulkea alueellaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_CULTURE">
+			<Text>[COLOR_POSITIVE_TEXT]Kulturellina[ENDCOLOR] kaupunkivaltiona he tarjoavat meille harvinaisia taidetöitä! (+{1_NumCulture} [ICON_CULTURE] kulttuuria vuorossa)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MARITIME">
+			<Text>[COLOR_POSITIVE_TEXT]Merellisenä[ENDCOLOR] kaupunkivaltiona he tarjoavat meille ruokaa (+{1_NumCapitalFood}[ICON_FOOD] [ICON_CAPITAL] pääkaupungissa, +{2_NumCitiesFood}[ICON_FOOD] muissa kaupungeissa).</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MERCANTILE">
+			<Text>[COLOR_POSITIVE_TEXT]Kaupallisena[ENDCOLOR] kaupunkivaltiona he tarjoavat eksoottisia hyödykkeitä kansallemme! (+{1_NumHappiness} [ICON_HAPPINESS_1] onnellisuutta)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MILITARISTIC">
+			<Text>[COLOR_POSITIVE_TEXT]Sotaisana[ENDCOLOR] kaupunkivaltiona he lahjoittavat meille armeijan yksiköitä silloin tällöin.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_RELIGIOUS">
+			<Text>[COLOR_POSITIVE_TEXT]Uskovaisena[ENDCOLOR] kaupunkivaltiona he jakavat rituaaliperinteet kanssamme! (+{1_NumFaith} [ICON_PEACE] uskoa per vuoro)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_ROUTE_CONNECTION">
+			<Text>[ICON_CAPITAL] Pääkaupunkimme ja {1_CivName:textkey} ovat saaneet [ICON_CONNECTED] yhteyden! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WARMONGER">
+			<Text>Tapamme iskeä kaupunkivaltioihin on nostattanut paljon huolta heidän keskuudessaan. Liittouma meidän lyömiseksemme jatkaa kasvuaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WARMONGER_OTHER">
+			<Text>Koska {1_NameKey:textkey} jatkaa yhä edelleen tuhoisia toimiaan, ovat monet kaupunkivaltiot alkaneet muodostaa liittoumaa heitä vastaan! Millainen tahansa sotilaallinen tuki meiltä on tervetullutta. (Napsauta heidän kaupunkejaan lahjoittaaksesi yksiköitä.)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WARMONGER_REMINDER">
+			<Text>{1_NameKey:textkey} on jatkanut terroriaan kaupunkivaltioita kohtaan ja sota jatkuu jatkumistaan. He ottavat mieluusti vastaan kaikenlaista tukea, erityisesti sotilasyksiköitä. (Napsauta heidän kaupunkejaan lahjoittaaksesi yksiköitä.)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST">
+			<Text>{1_CivName:textkey} kärsii hyökkäyksestä! {2_CivName:textkey} saattaa tuhota heidät, ellemme auta. He ovat pyytäneet apua kaikilta suuremmilta valtakunnilta. {1_CivName:textkey} tulee olemaan kiitollinen, mikäli tapamme vähintään {3_NumUnits} vihollisen yksikköä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST_COMPLETED">
+			<Text>{1_CivName:textkey} myhäilee tyytyväisyttään väsytettyämme vihollista. {2_CivName:textkey} on kärsinyt tappioita, joten me saamme [ICON_INFLUENCE] vaikutusvaltaa kaupunkivaltioon.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST_LOST_CHANCE">
+			<Text>{1_CivName:textkey} ei tarvitse enää apuamme ({2_CivName:textkey} vastaan).</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
+			<Text>{1_CivName:textkey} tarvitsee apua. {2_CivName:textkey} pitäisi nujertaa ja vaikka he ensisijaisesti toivoisivat aktiivista osallistumista, voimme auttaa myös antamalla sotilasyksiköitä. (Napsauta kaupunkia tehdäksesi näin.)</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_NEED_NEW_AUTOMATIC_FAITH_SELECTION">
+			<Text>Edellinen uskolla automaattisesti ostettava valinta ({1_SelectionText}) ei ole enää käytettävissä. Siirry uskontonäkymään vaihtaaksesi käyttökelpoiseen vaihtoehtoon.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_NEW_CONSTRUCTION">
+			<Text>{1_CivName} on valmis seuraavaa rakennusprojektia varten.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_NEW_RESEARCH">
+			<Text>Voimme valita uuden tutkimuskohteen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_NOT_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>Meillä ei ole enää riittävästi uskoa kantauskon muodostamiseksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_NO_RELIGIONS_AVAILABLE">
+			<Text>Tämän pelin aikana ei voi enää perustaa uskontoja.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL">
+			<Text>{1_PlayerName} menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_OTHER_WINNING">
+			<Text>{1_PlayerName} menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. {2_PlayerName} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({3_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_TEAM_WINNING">
+			<Text>{1_PlayerName} menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Joukkue {2_TeamNum} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({3_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_UNMET_WINNING">
+			<Text>{1_PlayerName} menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Kohtaamaton pelaaja hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_LOST_CAPITAL_YOU_WINNING">
+			<Text>{1_PlayerName} menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Hallitsemme useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT">
+			<Text>{1_CivAdjective} {2_CityName} on kapinoinut ja liittynyt {3_CivName ^ 'feminine:illatiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL">
+			<Text>{1_PlayerName} on saanut takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_OTHER_WINNING">
+			<Text>{1_PlayerName} on saanut takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. {2_PlayerName} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({3_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_TEAM_WINNING">
+			<Text>{1_PlayerName} on saanut takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Joukkue {2_TeamNum} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({3_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_UNMET_WINNING">
+			<Text>{1_PlayerName} on saanut takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Kohtaamaton pelaaja hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OTHER_REGAINED_CAPITAL_YOU_WINNING">
+			<Text>{1_PlayerName} on saanut takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Hallitsemme useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_OVER_RESOURCE_LIMIT">
+			<Text>Käytämme enemmän {1_Resource} kuin meillä on sitä! Kaikki sitä tarvitsevat yksiköt [COLOR_NEGATIVE_TEXT]taistelevat huomattavasti heikommin[ENDCOLOR].</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_BELIEF_IN_USE">
+			<Text>Valittu uskomus on jo otettu toisen pelaajan toimesta.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED">
+			<Text>{@1_CivName} {@1: plural 1?on alkanut; 2?ovat alkaneet;} palvoa kantauskon jumalia. He ovat valinneet uskomuksen: {2_BeliefName} ({@3_BeliefDesc})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED_ACTIVE_PLAYER">
+			<Text>Kansamme on alkanut palvoa kantauskon jumalia. He ovat valinneet uskomuksen: {1_BeliefName} ({@2_BeliefDesc})</Text><Gender>neuter:broken</Gender>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED_S">
+			<Text>Kantausko muodostettu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED_UNKNOWN">
+			<Text>Tuntematon kansakunta on alkanut palvoa kantauskon jumalia. He ovat valinneet uskomuksen: {1_BeliefName} ({@2_BeliefDesc})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PLAYER_LOST_CAPITAL">
+			<Text>{@1_CivName} {1_CivName: plural 1?menetti; other?menettivät;} [ICON_CAPITAL] pääkaupunkinsa! {2_NumPlayers} sivilisaatiota hallitsee alkuperäistä [ICON_CAPITAL] pääkaupunkiaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_PLAYER_RECOVERED_CAPITAL">
+			<Text>{@1_CivName} {@1_CivName: plural 1?on saanut; other?ovat saaneet;} takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa!</Text><Gender>neuter:broken</Gender>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT">
+			<Text>Kaupunkimme tulee kapinoimaan {1_Turns} vuoron kuluttua, sillä yleinen mielipide ei ole tyytyväinen ja valtakuntamme [ICON_HAPPINESS_4] tyytymättömyyden taso on vähintään 20. Päätellen tämänhetkisestä tyytymättömyyden tasosta ja läheisten ideologioiden vaikutuksesta kaikkein todennäköisin kapinoiva kaupunki on {2_CityName} ja he tulisivat liittymään {3_CivName ^ 'feminine:illatiivi'}. Meidän täytyy saada valtakuntamme tyytyväisyys nousuun mitä pikimmiten!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT_SUMMARY">
+			<Text>Kaupungit kapinahengessä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_BULLY_CITY_STATE">
+			<Text>{2_MinorCivName:textkey} on katsellut pitkään muiden kaupunkivaltioiden vaurastumista, ja heidän vallanpitäjänsä haluavat muutosta vastustajien tilanteeseen. He palkitsevat meidät, mikäli vaadimme suojelumaksun kaupunkivaltiolta {1_TargetName:textkey}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_BULLY_CITY_STATE">
+			<Text>{2_MinorCivName:textkey} myhäilee nähdessään kilpailijansa {1_TargetName:textkey} matelevan luovuttuaan kovalla työllä hankkimistaan resursseista. [ICON_INFLUENCE] Vaikutusvaltamme on kasvanut! ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR])</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONNECT_RESOURCE">
+			<Text>{@1_ResourceName} on onnistuneesti lisätty kauppaverkostoomme, aivan kuten {@2_CivName} pyysi. Heidän kauppiaansa ovat mielissään ja [ICON_INFLUENCE] vaikutusvaltamme on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONSTRUCT_WONDER">
+			<Text>{@1_WonderName} on rakennettu, aivan kuten {@2_CivName} pyysi! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_CULTURE">
+			<Text>{1_MinorCivName:textkey} on vaikuttunut kulttuuristamme! He kääntävät selkänsä muiden kansojen kulttuurille ja näin [ICON_INFLUENCE] vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]). Tavoitteessa onnistuneet kansakunnat (tasapelit ovat mahdollisia):[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_FAITH">
+			<Text>{1_MinorCivName:textkey} on vakuuttunut uskovaisuudestamme. He ummistavat silmänsä muiden kansojen vähäisemmiltä uskomuksilta ja siten [ICON_INFLUENCE] vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]). Tavoitteessa onnistuneet kansakunnat (tasapelit ovat mahdollisia):[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_TECHS">
+			<Text>{1_MinorCivName:textkey} on ällistynyt vikkelistä saavutuksistamme tekniikassa! Heidän tiedemiehensä ja älykkönsä tyrmäävät muiden kansojen kehityksen takapajuisena, minkä ansiosta [ICON_INFLUENCE] vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]). Tavoitteessa onnistuneet kansakunnat (tasapelit ovat mahdollisia):[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_DENOUNCE_MAJOR">
+			<Text>{2_MinorCivName:textkey} huokaisee helpotuksesta nähdessään, että {1_TargetName:textkey} sai maistaa totuuden kitkerää siementä muidenkin suurvaltojen kuullessa heidän tekemistään vääryyksistä. [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ( [COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR])!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_NATURAL_WONDER">
+			<Text>{1_CivName:textkey} on inspiroitunut uuden luonnonihmeen löytymisestä! Vaivamme vuoksi [ICON_INFLUENCE] vaikutusvaltamme on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_PLAYER">
+			<Text>{1_TargetName:textkey} on paikannettu ja {2_CivName:textkey} lähettää kauppiaansa matkaan. [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GIVE_GOLD">
+			<Text>{2_MinorCivName:textkey} on lahjoituksemme ansiosta kyennyt palautumaan suojelumaksusta, johon {1_BullyName:textkey} heidät pakotti! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]), eivätkä he enää ole yhtä herkkiä myöntymään suojelumaksuvaatimuksille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GREAT_PERSON">
+			<Text>{1_UnitName} on herättänyt huomiota maailmalla, kuten {2_CivName:textkey} toivoikin! Heidän tutkijansa ovat ihmeissään ja [ICON_INFLUENCE] vaikutusvaltamme on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_INVEST">
+			<Text>{1_MinorCivName:textkey} on saanut projektinsa valmiiksi. Rahalahjoista saatava [ICON_INFLUENCE] vaikutusvalta on palannut tavanomaiselle tasolleen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CAMP">
+			<Text>{1_CivName:textkey} heitti pirskeet pystyyn tuhottuamme barbaarien sotaleirin! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE">
+			<Text>{1_TargetName:textkey} on tuhottu, joten {2_CivName:textkey} on tästä pyyntönsä toteutumisesta iloissaan! He ovat erittäin kiitollisia avustamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_PLEDGE_TO_PROTECT">
+			<Text>{2_MinorCivName:textkey} on suojelulupauksemme ansiosta kyennyt palautumaan suojelumaksusta, johon {1_BullyName:textkey} heidät pakotti! [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR]), eivätkä he enää ole yhtä herkkiä myöntymään suojelumaksuvaatimuksille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_SPREAD_RELIGION">
+			<Text>{@1_ReligionName} on saanut kaupunkivaltion {@2_MinorCivName} kansalaisten hyväksynnän ja he näkevät sen mieluusti valtauskontonaan. [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{3_InfluenceReward}[ENDCOLOR])!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_TRADE_ROUTE">
+			<Text>Kaupunkivaltion {@1_MinorCivName} kansalaiset ovat mielissään uudesta kauppareitistä. [ICON_INFLUENCE] Vaikutusvaltamme heihin on kasvanut ([COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR])!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONNECT_RESOURCE">
+			<Text>{@2_CivName} etsii uusia rikkauksia. {@1_ResourceName} ja huhut sen suuresta arvosta ovat kantautuneet heidän korviinsa. Meidät palkitaan ruhtinaallisesti onnistuessamme saamaan tätä luonnonvaraa haltuumme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONSTRUCT_WONDER">
+			<Text>Kaupunkivaltion {@2_CivName} kulttuurieliitti kaipaisi jotakin uutta ja ihmeellistä. {@1_WonderName} saattaisi kohottaa kulmakarvoja ja tarjota suuren valaistumisen. Saamme tuntuvan palkinnon, mikäli onnistumme toteuttamaan moisen kulttuuriteon.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONTEST_CULTURE">
+			<Text>{3_MinorCivName:textkey} on taiteiden kukoistava kehto ja niinpä he kaipaavat kulttuurillisia virikkeitä. Eniten [ICON_CULTURE] kulttuuria {2_TurnsDuration} vuoron aikana luova saa [ICON_INFLUENCE] vaikutusvaltaa heihin. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} vuoroa jäljellä.[ENDCOLOR]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONTEST_FAITH">
+			<Text>{3_MinorCivName:textkey} ei kykene saamaan vastausta uskonnon syviin kysymyksiin omillaan, joten he tarkkailevat maailman menoa. Eniten [ICON_PEACE] uskoa {2_TurnsDuration} vuoron aikana luova saa [ICON_INFLUENCE] vaikutusvaltaa heihin. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} vuoroa jäljellä.[ENDCOLOR]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONTEST_TECHS">
+			<Text>{3_MinorCivName:textkey} on huomannut tiedemiestensä terävimmän kärjen haluavan läheisempiä suhteita suurvaltoihin, jotka kykenevät nopeaan teknologiseen kehitykseen. Eniten tekniikoita {2_TurnsDuration} vuoron aikana kehittävä saa [ICON_INFLUENCE] vaikutusvaltaa heihin. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} vuoroa jäljellä.[ENDCOLOR]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_DENOUNCE_MAJOR">
+			<Text>{1_TargetName:textkey} härnäsi kaupunkivaltiota {2_MinorCivName:textkey} lähiaikoina ja he etsivät keinoa tuoda tämä epäoikeudenmukaisuus suurvaltojen tietoon. {2_MinorCivName:textkey} olisi erittäin kiitollinen ja palkitsisi meidät, mikäli tuomitsisimme heidän kiusaajansa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONSTRUCT_WONDER">
+			<Text>{@1_WonderName} on rakennettu toisen pelaajan toimesta, joten {@2_CivName} suuntaa kulmakarvojen kohottelunsa muualle.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONTEST_CULTURE">
+			<Text>{1_MinorCivName:textkey} on mykistynyt toisen kansakunnan kulttuurista. Meidän kulttuurimme ei kasvanut riittävän nopeasti, joten [ICON_INFLUENCE] vaikutusvaltamme säilyy muuttumattomana. Tavoitteessa onnistuneet kansakunnat (tasapelit ovat mahdollisia):[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONTEST_FAITH">
+			<Text>{1_MinorCivName:textkey} on vakuuttunut toisen kansakunnan uskosta. Meidän uskomme ei kasvanut riittävästi, joten [ICON_INFLUENCE] vaikutusvaltamme säilyy muuttumattomana. Tavoitteessa onnistuneet kansakunnat (tasapelit ovat mahdollisia):[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONTEST_TECHS">
+			<Text>{1_MinorCivName:textkey} on häikäistynyt toisen kansakunnan tieteen kehityksestä. Emme kyenneet kehittämään riittävästi uusia tekniikoita, joten [ICON_INFLUENCE] vaikutusvaltamme säilyy muuttumattomana. Tavoitteessa onnistuneet kansakunnat (tasapelit ovat mahdollisia):[NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_INVEST">
+			<Text>{1_MinorCivName:textkey} on saanut projektinsa valmiiksi. Rahalahjoista saatava [ICON_INFLUENCE] vaikutusvalta on palannut tavanomaiselle tasolleen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_KILL_CITY_STATE">
+			<Text>{1_TargetName:textkey} on tuhottu toisen pelaajan toimesta, joten {2_CivName:textkey} suuntaa arvostuksensa heidän suuntaansa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_OTHER">
+			<Text>{1_MinorCivName:textkey} on päättänyt perua meille antamansa tehtävän, sillä he kyllästyivät odottamaan sen täyttymistä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_REVOKED">
+			<Text>{1_MinorCivName:textkey} on päättänyt perua meille antamansa tehtävät vaatimamme suojelumaksun takia. Kuluu monta pitkää vuotta ennen kuin he omasta vapaasta tahdostaan haluavat tarjota meille uusia tehtäviä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_NATURAL_WONDER">
+			<Text>Kaupunkivaltion {1_CivName:textkey} hyväosaisemmat asukkaat ovat kuulleet huhuja mahtavista luonnonihmeistä, joiden tarkkaa sijaintia ei ole vielä paikannettu. He toivovat, että joku kykenisi tutkimaan tätä asiaa tarkemmin.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_PLAYER">
+			<Text>{2_CivName:textkey} kaipaisi uusia kaupankäyntimahdollisuuksia. Heidän mukaansa jossakin päin maailmaa sijaitsisi "{1_TargetName:textkey}." Tulemme tuntuvasti palkituksi, mikäli löydämme heidän maitansa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_GIVEN_CONDENSED">
+			<Text>Uusia kaupunkivaltioiden tehtäviä on saatavilla. Saamme [ICON_INFLUENCE] vaikutusvaltaa kaupunkivaltioon suoritettuamme heidän tehtävänsä. (Näemme kaikki tehtävät näppärästi diplomatiavalikon kaupunkivaltioiden osiosta.)[NEWLINE][NEWLINE]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_GIVE_GOLD">
+			<Text>{1_BullyName:textkey} taannoin pakotti kaupunkivaltion {2_MinorCivName:textkey} suojelumaksuun, minkä vuoksi he ovat nyt rutiköyhiä. He pyytävät meiltä rahallista lahjaa, jotta he pääsisivät takaisin jaloilleen. Auttaessamme heitä he palkitsevat meidät ja vastustavat herkemmin tulevia suojelumaksuvaatimuksia.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_GREAT_PERSON">
+			<Text>{1_UnitName} kutkuttaisi kaupunkivaltion {2_CivName:textkey} oppineita. Saamme kunnon palkkion, mikäli onnistumme houkuttelemaan moisen maillemme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_INVEST">
+			<Text>{3_MinorCivName:textkey} on aloittanut suuren julkishallinnon projektin. Kaikki projektin aikana annetut rahalahjat tulevat olemaan tehokkaampia tarjoten [COLOR_POSITIVE_TEXT]{2_BoostPercentage}%[ENDCOLOR] tavanomaista enemmän [ICON_INFLUENCE] vaikutusvaltaa. [COLOR_POSITIVE_TEXT]{1_TurnsRemaining} vuoroa jäljellä.[ENDCOLOR]</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CAMP">
+			<Text>{1_CivName:textkey} on alkanut vaivaantua läheisestä barbaarien sotaleiristä, joten he toivoisivat jonkun tuhoavan sen. Tavoitteen täyttävä osapuoli palkitaan mainiosti.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CITY_STATE">
+			<Text>{2_CivName:textkey} ja {1_TargetName:textkey} ovat tulehduttaneet välinsä perinpohjaisesti. {2_CivName:textkey} haluaisi jonkun suuremman maailmanmahdin puuttuvan asioihin ja tuhoavan heidän vihollisensa lopullisesti. Palkinto tulee olemaan avokätinen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_PLEDGE_TO_PROTECT">
+			<Text>{1_BullyName:textkey} taivutti kaupunkivaltion {2_MinorCivName:textkey} suojelumaksuun, minkä vuoksi he kaipaavat suurvallan tarjoamaa suojelua. He palkitsevat meidät, mikäli vannomme suojelevamme heitä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_SPREAD_RELIGION">
+			<Text>{@1_ReligionName} on kantautunut muutamien asukkaiden korviin kaupunkivaltiossa {@2_MinorCivName} ja he haluaisivat uskonnon leviävän heidän kaupunkiinsa. {@1_ReligionName} voi näin taata meille [ICON_INFLUENCE] vaikutusvaltaa heihin, mutta vain jos siitä tulee kaupungin valtauskonto.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_ROUTE">
+			<Text>{1_CivName:textkey} haluaa meidän rakentavan tien [ICON_CAPITAL] pääkaupunkiemme välille!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_TRADE_ROUTE">
+			<Text>{@1_MinorCivName} uskoo, että voisimme molemmat vaurastua kauppareitistä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REBELS">
+			<Text>Valtakuntaamme on ilmestynyt kapinallisia, sillä 20 [ICON_HAPPINESS_4] tyytymättömyyttä on sietämätön tilanne!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REBELS_SUMMARY">
+			<Text>Kapinallisia havaittu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED">
+			<Text>{1_CivName} {1: plural 1?on uudistanut; 2?ovat uudistaneet;} uskontoaan. {@2_ReligionName} on vahvistunut uudistavalla uskomuksella.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_ACTIVE_PLAYER">
+			<Text>{@1_ReligionName} on vahvistunut uudistavan uskomuksemme myötä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_S">
+			<Text>Uudistava uskomus on valittu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_UNKNOWN">
+			<Text>{@1_ReligionName} on vahvistunut tuntemattoman kansakunnan lisättyä uudistavan uskomuksen uskontoonsa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_ENHANCED">
+			<Text>{1_CivName} {1: plural 1?on vahvistanut; 2?ovat vahvistaneet;} uskontoaan. {@2_ReligionName} on saanut uusia uskomuksia.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_ENHANCED_ACTIVE_PLAYER">
+			<Text>{@1_ReligionName} on vahvistunut lisättyämme siihen uusia uskomuksia.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_ENHANCED_S">
+			<Text>Uskontoa vahvistettu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_ENHANCED_UNKNOWN">
+			<Text>{@1_ReligionName} on vahvistunut: kohtaamaton kansa on lisännyt uskontoon uusia uskomuksia.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED">
+			<Text>{1_CivName} {1: plural 1?on perustanut; 2?ovat perustaneet;} uuden uskonnon. {@2_ReligionName} lähtee leviämään pyhästä kaupungista {@3_CityName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED_ACTIVE_PLAYER">
+			<Text>{@1_ReligionName} on saanut alkunsa maillamme. Uskonnon pyhä kaupunki on {@2_CityName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED_S">
+			<Text>Uskonto perustettu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_FOUNDED_UNKNOWN">
+			<Text>{@1_ReligionName} on perustettu tuntemattoman kansakunnan kaupungissa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_IN_USE">
+			<Text>Valittu uskonto on jo viety toisen pelaajan toimesta.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NAME_IN_USE">
+			<Text>Tämänniminen uskonto on jo perustettu.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_SPREAD_ACTIVE_PLAYER">
+			<Text>{1_CityName} on kääntynyt toiseen uskontoon!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_SPREAD_ACTIVE_PLAYER_S">
+			<Text>Kaupunkimme on kääntynyt</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_SPREAD_INITIAL_CONVERSION">
+			<Text>{1_CityName} on omaksunut uskonnon!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RELIGION_SPREAD_INITIAL_CONVERSION_S">
+			<Text>Kaupunkimme omaksui uskonnon</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_REMOVED_UNIT">
+			<Text>{1_CityName:textkey} yritti siirtää yksikön ({2_UnitName:textkey}), mutta sille ei löytynyt ruutua.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_RESEARCH_AGREEMENT">
+			<Text>{1_CivName:textkey} ja {2_CivName:textkey} ovat solmineet tutkimus-sopimuksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_ROUTE_TO_CANCELLED">
+			<Text>Tietä rakentava työläisemme ei voi jatkaa tienrakennusurakkaansa, sillä reitti kohteeseen on tukossa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SM_MINOR_BARB_KILLED">
+			<Text>Barbaari tapettu lähellä kaupunkia {1_CivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_LOST_CAPITAL">
+			<Text>Kohtaamaton kansa on menettänyt [ICON_CAPITAL] pääkaupunkinsa! {1_NumPlayers} sivilisaatiota pitää hallussaan alkuperäistä [ICON_CAPITAL] pääkaupunkiaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_RECOVERED_CAPITAL">
+			<Text>Kohtaamaton kansa on saanut takaisin [ICON_CAPITAL] pääkaupunkinsa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_CANT_STEAL_TECH">
+			<Text>{1_SpyRank} {2_SpyName} ei kynene varastamaan {@3_CivShortName} tekniikkaa, koska osaamme jo kaiken heidän tietämänsä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_CANT_STEAL_TECH_S">
+			<Text>Ei voi varastaa: {@1_CivShortName}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_CREATED">
+			<Text>{1_SpyName} on palkattu vakoilijaksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST">
+			<Text>{1_SpyRank} {2_SpyName} pakeni kaupungista {3_CityName} sen tultua {@4_CivShortName} valtaamaksi. Voimme antaa vakoilijalle uuden tehtävän.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST_S">
+			<Text>Vakoilijamme pakeni</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST_YOU">
+			<Text>{1_SpyRank} {2_SpyName} pakeni kaupungista {3_CityName} vallattuamme sen. Voimme antaa vakoilijalle uuden tehtävän.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE">
+			<Text>{1_SpyRank} {2_SpyName} on matkannut takaisin kaupungista {3_CityName}, sillä se meni kaupassa omistajaa ({@4_CivShortName}). Voimme antaa vakoilijalle uuden tehtävän.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE_S">
+			<Text>Vakoilijamme poistui</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE_YOU">
+			<Text>{1_SpyRank} {2_SpyName} on matkannut takaisin kaupungista {3_CityName}, sillä se kaupattiin meille. Voimme antaa vakoilijalle uuden tehtävän.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_PROMOTED">
+			<Text>{1_SpyName} on saanut ylennyksen eikä ole enää {@2_RankName} vaan {@3_RankName}.[NEWLINE]Ylennetyt vakoilijat varastavat tekniikkaa nopeammin toimiessaan muita vastaan ja saavat vihollisvakoilijat herkemmin kiinni ollessaan puolustustehtävissä.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED">
+			<Text>{1_SpyRank} {2_SpyName} on palkattu korvaamaan tapettu vakoilijamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED_S">
+			<Text>Korvaava vakoilija on palkattu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT">
+			<Text>Vaalien jälkeen vaikutusvaltamme on yllättäen kiitänyt alamäkeä kaupungivaltiossa {1_CityName}. Tämän taustalla on todennäköisesti se, että vihollisvakoilijat ovat peukaloineet vaaleja.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT_S">
+			<Text>{1_CityName}: vaalifarssi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE">
+			<Text>{1_SpyRank} {2_SpyName} ei kyennyt peukaloimaan kaupunkivaltion {3_CityName} vaaleja. {4_CivShortDesc} sen sijaan onnistui ja heidän vaikutusvaltansa on kasvanut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE_S">
+			<Text>{1_CityName}: vaalien peukalointi epäonnistui!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS">
+			<Text>{1_SpyRank} {2_SpyName} onnistui peukaloimaan kaupunkivaltion {3_CityName} vaalit, minkä ansiosta vaikutusvaltamme heihin on kasvanut muiden suurvaltojen kustannuksella.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS_S">
+			<Text>{1_CityName}: vaalit peukaloitu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_FAILURE">
+			<Text>{1_CivShortDesc} yritti vallankumousta kaupunkivaltiossa {2_CityName}, mutta ei onnistunut voittamaan {3_CivAdj} valtaapitäviä tukijoita.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_FAILURE_S">
+			<Text>{1_CivAdj} vilppi kaupungissa {2_CityName} epäonnistui</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_SUCCESS">
+			<Text>{1_CivShortDesc} järjesti vallankumouksen kaupunkivaltiossa {2_CityName}, pudotti {3_CivAdj} tukijat vallasta ja toi heidän tilalleen omat tukijansa näin ollen nousten kaupunkivaltion uudeksi liittolaiseksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_SUCCESS_S">
+			<Text>{1_CivAdj} vallankumous kaupungissa {2_CityName}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_BLOCKING">
+			<Text>VARASTA TEKNIIKKA</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_BLOCKING_TT">
+			<Text>Vakoilijamme on kerännyt riittävästi tietoa varastaakseen tekniikan vastustajaltamme. Valitse varastettava tekniikka.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_TECH">
+			<Text>{1_SpyRank} {2_SpyName} on kerännyt riittävästi tietoa kaupungista {3_CityName}, jotta voimme varastaa tekniikan kansalta {@4_CivShortName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_TECH_S">
+			<Text>Varasta tekniikka</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED">
+			<Text>{1_SpyRank} {2_SpyName} tapettiin {3_CivAdj} vastavakoilijan toimesta, joten tekniikan varastaminen kaupungista {4_CityName} epäonnistui!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED_S">
+			<Text>{1_SpyName} tapettu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE">
+			<Text>{1_SpyRank} {2_SpyName} yritti saada aikaan vaalivilpin kaupunkivaltiossa {3_CityName}, mutta ei onnistunut {4_CivShortDesc} hallitsevien kannattajien taltuttamisessa. Vilppiyrityksen vuoksi {2_SpyName} on teloitettu.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE_S">
+			<Text>{1_CityName}: vilppi epäonnistui!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS">
+			<Text>{1_SpyRank} {2_SpyName} on järjestänyt vaalivilpin kaupunkivaltiossa {3_CityName}, minkä ansiosta {4_CivShortDesc} tukijat on poistettu viroista ja uudet vallanpitäjät ovat meidän liittolaisiamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS_S">
+			<Text>{1_CityName}: vilppi onnistui!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ADD_REFORMATION_BELIEF">
+			<Text>LISÄÄ UUDISTAVA USKOMUS</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALREADY_CREATED_PANTHEON">
+			<Text>Kantausko on jo muodostettu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALREADY_CREATED_RELIGION">
+			<Text>USKONTO ON JO PERUSTETTU</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_AUTOMATIC_FAITH_PURCHASE">
+			<Text>Automaattinen osto uskolla</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BARB_CAMP_CONVERTS">
+			<Text>Barbaarien sotaleiri liittyy meihin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BARB_NAVAL_UNIT_CONVERTS">
+			<Text>Barbaarien laiva liittyy joukkoihimme</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_ANOTHER">
+			<Text>{1_CivName:textkey} on kasvattanut eniten merkittäviä henkilöitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_UNMET">
+			<Text>Kohtaamaton kansa on kasvattanut eniten merkittäviä henkilöitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_YOU">
+			<Text>Olemme kasvattaneet eniten merkittäviä henkilöitä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_ANOTHER">
+			<Text>{1_CivName:textkey} on omaksunut eniten sosiaalisia linjauksia</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_UNMET">
+			<Text>Kohtaamaton kansa on omaksunut eniten sosiaalisia linjauksia</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_YOU">
+			<Text>Olemme omaksuneet eniten sosiaalisia linjauksia!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_ANOTHER">
+			<Text>{1_CivName:textkey} on rakentanut eniten ihmeitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_UNMET">
+			<Text>Kohtaamaton kansa on rakentanut eniten ihmeitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_YOU">
+			<Text>Olemme rakentaneet eniten ihmeitä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_ARCHAEOLOGY">
+			<Text>ARKEOLOGINEN VALINTA</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_IDEOLOGY">
+			<Text>VALITSE IDEOLOGIA</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_CAN_SHOOT">
+			<Text>{1_CityName:textkey} voi tulittaa vihollista!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_CULTURE_ACQUIRED_NEW_PLOT">
+			<Text>{1_CityName:textkey} on laajentanut alueitaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_GROWTH">
+			<Text>{1_CityName:textkey} on kasvanut!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_LOST">
+			<Text>{1_CityName:textkey} on vallattu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_RESOURCE_DEMAND">
+			<Text>{1_CityName:textkey} vaatii {2_ResourceName ^ 'feminine:partitiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_STATE_UNIT_SPAWN">
+			<Text>{1_CivName:textkey} lahjoittaa yksikön!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD">
+			<Text>{1_CityName:textkey} juhlii hallitsijaa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_DEFENSIVE_PACT_FROM_US">
+			<Text>Puolustusliitto päättyi ({1_CivName:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_DEFENSIVE_PACT_TO_US">
+			<Text>Puolustusliitto päättyi ({1_CivName:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_FROM_US">
+			<Text>{1_CivName:textkey} ei saa meiltä enää kultaa joka vuoro</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_TO_US">
+			<Text>{1_CivName:textkey} ei anna meille kultaa joka vuoro</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
+			<Text>{1_CivName:textkey} ei voi enää pitää yksiköitään maillamme</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
+			<Text>{1_CivName:textkey} on sulkenut rajansa yksiköiltämme</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_PEACE">
+			<Text>Rauhansopimus on rauennut</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
+			<Text>Tutkimus-sopimus päättyi ({1_CivName:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
+			<Text>Tutkimus-sopimus päättyi ({1_CivName:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_FROM_US">
+			<Text>{2_Resource ^ 'masculine:partitiivi'} ei toimiteta enää hallitsijalle {1_LeaderName:textkey}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_TO_US">
+			<Text>{2_Resource ^ 'masculine:partitiivi'} ei tule enää hallitsijalta {1_LeaderName:textkey}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
+			<Text>Kauppasopimus päättyi ({1_CivName:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_TRADE_AGREEMENT_TO_US">
+			<Text>Kauppasopimus päättyi ({1_CivName:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DISCOVER_FREE_TECH">
+			<Text>LÖYDÄ ILMAINEN TEKNIIKKA</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENHANCED_RELIGION_IN_USE">
+			<Text>Vahvistava uskomus jo olemassa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENHANCE_RELIGION">
+			<Text>VAHVISTA USKONTOA</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_CULTURE_FOR_POLICY">
+			<Text>Voimme omaksua linjauksen</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_FAITH_FOR_MISSIONARY">
+			<Text>Voi ostaa uskolla</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>PERUSTA KANTAUSKO</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_GOLD_TO_BUY_PLOT">
+			<Text>Voimme ostaa maata</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ERA_VICTORY_POINTS">
+			<Text>Uusi aikakausi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_BARB_CAMP">
+			<Text>Paikansimme sotaleirin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_GOODY_HUT">
+			<Text>Paikansimme rauniot</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_NATURAL_WONDER">
+			<Text>Löydimme luonnonihmeen</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_RELIGION">
+			<Text>PERUSTA USKONTO</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_RESOURCE">
+			<Text>{1_ResourceName:textkey} löydetty</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN">
+			<Text>{1_CivName:textkey} aloittaa kultakautensa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
+			<Text>Kultakautemme alkaa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED">
+			<Text>{1_CivName:textkey} päätti kultakautensa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
+			<Text>Kultakautemme päättyi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_ARTIST_STOLE_PLOT">
+			<Text>{1_CivName:textkey} varasti maitamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON">
+			<Text>Merkittävä henkilö syntyi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_WORK_SWAP">
+			<Text>Merkkiteosten vaihto</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_HEATHEN_CONVERTS">
+			<Text>Pakana käännetty</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IDEOLOGY_CHANGE">
+			<Text>Vallankumous!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IDEOLOGY_CHOSEN">
+			<Text>Ideologia omaksuttu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MET_MINOR_CIV">
+			<Text>{1_CivName:textkey} kohdattu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_AGGRESSOR">
+			<Text>Kaupunkivaltiot alkavat huolestua</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS">
+			<Text>{1_CivName:textkey} on liitossa kanssamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_LOST">
+			<Text>{1_CivName:textkey} ei ole enää liitossa kanssamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_PASSED">
+			<Text>{1_CivName:textkey} on nyt liitossa kaupunkivaltion {2_MinorCivName:textkey} kanssa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BARBS_QUEST">
+			<Text>{1_CivName:textkey} on hyökkäyksen alaisena!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BARBS_QUEST_LOST_CHANCE">
+			<Text>{1_CivName:textkey} peruu pyyntönsä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BFF_LOST_RESOURCE">
+			<Text>Menetimme {2_ResourceNames} kaupunkivaltiolta {1_CivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BFF_NEW_RESOURCE">
+			<Text>{2_ResourceNames} kaupunkivaltiolta {1_CivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDSHIP_DECAY">
+			<Text>[ICON_INFLUENCE] Vaikutusvalta kaupunkivaltioihin heikkenee!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDS_STATUS">
+			<Text>{1_CivName:textkey} on nyt ystävämme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDS_STATUS_LOST">
+			<Text>{1_CivName:textkey} ei ole enää ystävämme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_GAINED_BEST_RELATIONS_BONUS">
+			<Text>{1_CivName:textkey} suosii nyt meitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_INTRUSION">
+			<Text>{1_CivName:textkey} ei pidä joukkojemme läpikulusta!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LIBERATION">
+			<Text>{1_CivName:textkey} on vapautettu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LOST_BEST_RELATIONS_BONUS">
+			<Text>{1_CivName:textkey} ei suosi enää meitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ROUTE_CONNECTION">
+			<Text>{1_CivName:textkey} sai tiensä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WARMONGER">
+			<Text>Kaupunkivaltiot ovat julistaneet meidät viholliseksi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WARMONGER_OTHER">
+			<Text>{1_NameKey:textkey} on julistettu kaupunkivaltioiden viholliseksi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WARMONGER_REMINDER">
+			<Text>Kaupunkivaltiot pyytävät apua</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST">
+			<Text>{1_CivName:textkey} on kansan {2_CivName:textkey} hyökkäyksen alaisena!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST_COMPLETED">
+			<Text>{1_CivName:textkey}-sota toteutunut</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST_LOST_CHANCE">
+			<Text>{1_CivName:textkey} ei ole enää sodassa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
+			<Text>{1_CivName:textkey} pyytää yksiköitä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NEED_NEW_AUTOMATIC_FAITH_SELECTION">
+			<Text>Automaattinen osto uskolla tulee uusia</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NEW_RESEARCH">
+			<Text>Valitse tutkimus</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NOT_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>Uskoa ei ole riittävästi</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NO_RELIGIONS_AVAILABLE">
+			<Text>Kaikki pelin uskonnot on jo muodostettu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OVER_RESOURCE_LIMIT">
+			<Text>Tarvitsemme {1_Resource ^ 'feminine:partitiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PANTHEON_BELIEF_IN_USE">
+			<Text>Uskomus on viety</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_LOST_CAPITAL">
+			<Text>{1_CivName:textkey} menetti [ICON_CAPITAL] pääkaupunkinsa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_RECOVERED_CAPITAL">
+			<Text>{1_CivName:textkey} sai takaisin [ICON_CAPITAL] pääkaupunkinsa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_BULLY_CITY_STATE">
+			<Text>{2_MinorCivName:textkey}: kiusatkaa kaupunkivaltiota {1_TargetName:textkey}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_BULLY_CITY_STATE">
+			<Text>{1_TargetName:textkey} kiusattu, {2_MinorCivName:textkey} on mielissään!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONNECT_RESOURCE">
+			<Text>Saimme {1_ResourceName ^ 'feminine:partitiivi'} kaupunkivaltion {@2_CivName} mieliksi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONSTRUCT_WONDER">
+			<Text>{@1_WonderName} rakennettu kaupunkivaltion {@2_CivName} mieliksi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONTEST_CULTURE">
+			<Text>{1_MinorCivName:textkey} ihailee kulttuuriamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONTEST_FAITH">
+			<Text>{1_MinorCivName:textkey} ihailee uskoamme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONTEST_TECHS">
+			<Text>{1_MinorCivName:textkey} ihailee tiedettämme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_DENOUNCE_MAJOR">
+			<Text>{1_TargetName:textkey} tuomittu, {2_MinorCivName:textkey} on mielissään!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_NATURAL_WONDER">
+			<Text>{1_CivName:textkey} ihannoi uutta luonnonihmettä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_PLAYER">
+			<Text>{1_TargetName:textkey} löydetty kaupunkivaltion {2_CivName:textkey} mieliksi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_GIVE_GOLD">
+			<Text>{1_MinorCivName:textkey} sai rahalahjansa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_GREAT_PERSON">
+			<Text>{1_UnitName} miellyttää kaupunkivaltiota {2_CivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_INVEST">
+			<Text>{1_MinorCivName:textkey} ei tarvitse enää sijoittajia</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CAMP">
+			<Text>Sotaleiri tuhottu kaupunkivaltiolle {1_CivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CITY_STATE">
+			<Text>{1_TargetName:textkey} tuhottu kaupunkivaltion {2_CivName:textkey} mieliksi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_PLEDGE_TO_PROTECT">
+			<Text>{1_MinorCivName:textkey} sai suojelijansa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_SPREAD_RELIGION">
+			<Text>{@1_ReligionName} levinnyt, {@2_MinorCivName} on mielissään</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_TRADE_ROUTE">
+			<Text>{@1_MinorCivName} sai kauppareittinsä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONNECT_RESOURCE">
+			<Text>{@2_CivName}: {@1_ResourceName} kiinnostaa meitä </Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONSTRUCT_WONDER">
+			<Text>{@2_CivName}: {@1_WonderName} olisi upea näky! </Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONTEST_CULTURE">
+			<Text>{1_MinorCivName:textkey} kaipaa kulttuuria!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONTEST_FAITH">
+			<Text>{1_MinorCivName:textkey} halajaa uskoa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONTEST_TECHS">
+			<Text>{1_MinorCivName:textkey} haikailee tiedettä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_DENOUNCE_MAJOR">
+			<Text>{1_TargetName:textkey} on ilkeä, {2_MinorCivName:textkey} haluaa oikeutta</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONSTRUCT_WONDER">
+			<Text>{@2_CivName}: kaipaamamme {@1_WonderName} ehdittiin jo tehdä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONTEST_CULTURE">
+			<Text>{1_MinorCivName:textkey} kulturoi toisaalle</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONTEST_FAITH">
+			<Text>{1_MinorCivName:textkey} uskoo muihin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONTEST_TECHS">
+			<Text>{1_MinorCivName:textkey} tieteilee muualle</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_INVEST">
+			<Text>{1_MinorCivName:textkey} ei enää kaipaa sijoittajia</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_KILL_CITY_STATE">
+			<Text>{2_CivName:textkey} ei voi enää palkita kaupunkivaltion {1_TargetName:textkey} tuhosta.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_OTHER">
+			<Text>{1_MinorCivName:textkey} peruu tehtävän</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_REVOKED">
+			<Text>{1_MinorCivName:textkey} vetää tehtävät</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_NATURAL_WONDER">
+			<Text>{1_CivName:textkey} kaipaa luonnonihmettä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_PLAYER">
+			<Text>{2_CivName:textkey} etsii valtiota {1_TargetName:textkey}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_GIVEN_CONDENSED">
+			<Text>Uusia kaupunkivaltioiden tehtäviä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_GIVE_GOLD">
+			<Text>{1_MinorCivName:textkey} on konkurssissa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_GREAT_PERSON">
+			<Text>{1_UnitName} kelpaisi kaupunkivaltiolle {2_CivName:textkey}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_INVEST">
+			<Text>{1_MinorCivName:textkey} haikailee sijoituksia!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CAMP">
+			<Text>{1_CivName:textkey} raivoissaan sotaleiristä</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CITY_STATE">
+			<Text>{2_CivName:textkey} haluaa kaupunkivaltion {1_TargetName:textkey} tuhoa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_PLEDGE_TO_PROTECT">
+			<Text>{1_MinorCivName:textkey} tarvitsee suojelua!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_SPREAD_RELIGION">
+			<Text>{@1_ReligionName} halutaan kaupunkiin {@2_MinorCivName}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_ROUTE">
+			<Text>{1_CivName:textkey} haluaa tien</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_TRADE_ROUTE">
+			<Text>{@1_MinorCivName} haluaa kauppareitin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RELIGION_IN_USE">
+			<Text>Uskonto viety</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RELIGION_NAME_IN_USE">
+			<Text>Uskonnon nimi viety</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_REMOVED_UNIT">
+			<Text>Ei tilaa uudelle yksikölle!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RESEARCH_AGREEMENT">
+			<Text>Uusi tutkimus-sopimus</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ROUTE_TO_CANCELLED">
+			<Text>Tien teko peruttu</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SOMEONE_LOST_CAPITAL">
+			<Text>Kohtaamaton kansa menetti [ICON_CAPITAL] pääkaupunkinsa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SOMEONE_RECOVERED_CAPITAL">
+			<Text>Kohtaamaton kansa sai takaisin [ICON_CAPITAL] pääkaupunkinsa</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_CREATED">
+			<Text>Vakoilija on palkattu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_PROMOTED">
+			<Text>{1_SpyName} ylennetty!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_BROKEN">
+			<Text>[ICON_CONNECTED] kauppareitti katkesi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
+			<Text>[ICON_CONNECTED] kauppareitti muodostettu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_UNIT_CAN_GET_PROMOTION">
+			<Text>Yksikön ylennys</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FIRST_PLACE">
+			<Text>{1_CivName:textkey} on aikakauden 1.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FIRST_PLACE_YOU">
+			<Text>Olemme aikakauden 1.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FOURTH_PLACE">
+			<Text>{1_CivName:textkey} on aikakauden 4.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FOURTH_PLACE_YOU">
+			<Text>Olemme aikakauden 4.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_SECOND_PLACE">
+			<Text>{1_CivName:textkey} on aikakauden 2.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_SECOND_PLACE_YOU">
+			<Text>Olemme aikakauden 2.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_THIRD_PLACE">
+			<Text>{1_CivName:textkey} on aikakauden 3.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_THIRD_PLACE_YOU">
+			<Text>Olemme aikakauden 3.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_SOMEBODY">
+			<Text>{1_CivName:textkey} #{2_Rank} ({3_Victory:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_UNMET">
+			<Text>Kohtaamaton pelaaja #{1_Rank} ({2_Victory:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_YOU">
+			<Text>#{1_Rank} ({2_Victory:textkey})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_WINNER">
+			<Text>{1_CivName:textkey} on voittanut!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED">
+			<Text>{1_CivName} alkoi valmistaa ihmettä {2_BldgName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED_UNKNOWN">
+			<Text>Kohtaamaton kansa alkoi valmistaa ihmettä {1_BldgName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_LOST_CAPITAL">
+			<Text>[ICON_CAPITAL] pääkaupunki menetetty!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_RECOVERED_CAPITAL">
+			<Text>[ICON_CAPITAL] pääkaupunki saatu takaisin!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED">
+			<Text>{1_Tech} varastettiin kaupungista {2_CityName} tuntemattoman vakoilijan toimesta!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_S">
+			<Text>{1_Tech} varastettu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH">
+			<Text>Tunnistamaton vakoilija varasti meiltä tieteellisiä salaisuuksia kaupungista {1_CityName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH_S">
+			<Text>Tekniikka pöllitty!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH_W_TIP">
+			<Text>{1_CityName} jäi tunnistamattoman vakoilijan tiedevarkauden uhriksi![NEWLINE]Meille voi olla eduksi suojella kaupunkiamme sijoittamalla sinne yksi vakoilijoistamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_W_TIP">
+			<Text>{2_CityName} jäi tunnistamattoman vakoilijan uhriksi heidän varastettuaan {1_Tech ^ 'feminine:akkusatiivi'} salaisuudet![NEWLINE]Meille voi olla eduksi suojella kaupunkiamme sijoittamalla sinne yksi vakoilijoistamme.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED">
+			<Text>{1_CivAdj} vakoilija varasti tekniikan {2_Tech} kaupungista {3_CityName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_S">
+			<Text>{1_CivShortDesc} varasti: {2_Tech}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH">
+			<Text>{1_CivAdj} varasti tekniikkaa kaupungista {2_CityName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH_S">
+			<Text>{1_CivShortDesc} varasti tekniikan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH_W_TIP">
+			<Text>{1_CivAdj} vakoilija varasti tekniikkaa kaupungista {2_CityName}![NEWLINE]Voi olla hyvä idea sijoittaa yksi vakoilijastamme sinne, jotta olemme paremmin turvattuja vastaisuudessa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_W_TIP">
+			<Text>{1_CivAdj} vakoilija varasti tekniikan {2_Tech} kaupungista {3_CityName}![NEWLINE]Voi olla hyvä idea sijoittaa yksi vakoilijastamme sinne, jotta olemme paremmin turvattuja vastaisuudessa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_THEIR_DENUNCIATION_EXPIRED">
+			<Text>Muut hallitsijat eivät enää välitä siitä, että {1_LeaderName} tuomitsi meidät.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_THEIR_DENUNCIATION_EXPIRED_S">
+			<Text>Vihollisen tuomitsevuus on vanhentunut</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_BROKEN">
+			<Text>[ICON_CONNECTED] Kauppareitti kaupunkien {1_CityName:textkey} ja {2_CityName:textkey} välillä on katkennut.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_ESTABLISHED">
+			<Text>[ICON_CONNECTED] Kauppareitti kaupunkien {1_CityName:textkey} ja {2_CityName:textkey} välillä on muodostettu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_BARBARIANS">
+			<Text>Barbaarit ovat ryöstäneet kauppareitin, jonka {1_PlayerName} muodosti kaupunkien {2_CityName} ja {3_CityName} välille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_KNOWN">
+			<Text>{1_PlayerName} ryösti kauppareitin, jonka {2_PlayerName} muodosti kaupunkien {3_CityName} ja {4_CityName} välille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_SUMMARY">
+			<Text>Tuleva kauppareitti ryövättiin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_UNKNOWN">
+			<Text>Kohtaamaton kansa ryösti kauppareitin, jonka {1_PlayerName} muodosti kaupunkien {2_CityName} ja {3_CityName} välille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_BARBARIAN">
+			<Text>Barbaarinkutaleet ryöväsivät kauppareitin, jonka olimme muodostaneet kaupunkien {1_CityName} ja {2_CityName} välille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_KNOWN">
+			<Text>{1_PlayerName} ryöväsi kauppareitin, jonka olimme muodostaneet kaupunkien {2_CityName} ja {3_CityName} välille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_SUMMARY">
+			<Text>Kauppareitti ryövättiin</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_UNKNOWN">
+			<Text>Kohtaamaton kansa ryöväsi kauppareitin, jonka olimme muodostaneet kaupunkien {1_CityName} ja {2_CityName} välille.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SEQUENTIAL">
+			<Text>Olemme sodassa ihmispelaajaa vastaan. Kaikkien sodassa olevien vuorot tapahtuvat vuorotellen, kunnes sota on ohitse.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SEQUENTIAL_SUMMARY">
+			<Text>Peräkkäiset vuorot!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SIMULTANEOUS">
+			<Text>Sotamme ihmispelaajaa vastaan on päättynyt. Vuoromme ovat jatkossa samanaikaiset kaikkien sotaa käymättömien kansojen kanssa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SIMULTANEOUS_SUMMARY">
+			<Text>Samanaikaiset vuorot!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNIT_CAN_GET_PROMOTION">
+			<Text>Yksikkö on kerännyt kylliksi kokemusta saadakseen ylennyksen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL">
+			<Text>Kohtaamaton kansa menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_OTHER_WINNING">
+			<Text>Kohtaamaton kansa menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. {1_PlayerName} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_TEAM_WINNING">
+			<Text>Kohtaamaton kansa menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Tiimi {1_Num} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_UNMET_WINNING">
+			<Text>Kohtaamaton kansa menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Kohtaamaton kansa hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_LOST_CAPITAL_YOU_WINNING">
+			<Text>Kohtaamaton kansa menetti alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Hallitsemme useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL">
+			<Text>Kohtaamaton kansa sai takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_OTHER_WINNING">
+			<Text>Kohtaamaton kansa sai takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. {1_PlayerName} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_TEAM_WINNING">
+			<Text>Kohtaamaton kansa sai takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Tiimi {1_Num} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_UNMET_WINNING">
+			<Text>Kohtaamaton kansa sai takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Kohtaamaton kansa hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_UNMET_REGAINED_CAPITAL_YOU_WINNING">
+			<Text>Kohtaamaton kansa sai takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkinsa. Hallitsemme useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FIRST_PLACE">
+			<Text>{1_CivName:textkey} on saavuttanut ensimmäisen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FIRST_PLACE_YOU">
+			<Text>Olet saavuttanut ensimmäisen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FOURTH_PLACE">
+			<Text>{1_CivName:textkey} on saavuttanut neljännen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FOURTH_PLACE_YOU">
+			<Text>Olet saavuttanut neljännen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_SECOND_PLACE">
+			<Text>{1_CivName:textkey} on saavuttanut toisen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_SECOND_PLACE_YOU">
+			<Text>Olet saavuttanut toisen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_THIRD_PLACE">
+			<Text>{1_CivName:textkey} on saavuttanut kolmannen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_THIRD_PLACE_YOU">
+			<Text>Olet saavuttanut kolmannen sijan aikakaudella {2_Era:textkey} ({3_Victory:textkey})!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_SOMEBODY">
+			<Text>{1_CivName:textkey} on saavuttanut sijan #{2_Rank} voittokamppailussa ({3_Victory:textkey}) netoten {4_Num} sivilisaatiopistettä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_UNMET">
+			<Text>Kohtaamaton kansa on saavuttanut sijan #{1_Rank} voittokamppailussa ({2_Victory:textkey}) netoten {3_Num} sivilisaatiopistettä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_YOU">
+			<Text>Olet saavuttanut sijan #{1_Rank} voittokamppailussa ({2_Victory:textkey}) netoten {3_Num} sivilisaatiopistettä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_VICTORY_WINNER">
+			<Text>{1_CivName:textkey} on voittanut pelin! Voittotapa: {2_Victory:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED">
+			<Text>{1_CivName} on alkanut rakentaa {2_BldgName} kaupungissa {3_CityName:textkey}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED_UNKNOWN_LOCATION">
+			<Text>{1_CivName} on alkanut rakentaa ihmettä {2_BldgName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED_UNMET">
+			<Text>Kohtaamaton kansa on alkanut valmistaa ihmettä {1_BldgName}.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_DENOUNCE">
+			<Text>Olet tuominnut kansan {1_CivName:textkey}, julistaen kaikille ettei heihin ole luottamista!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_DENOUNCE_S">
+			<Text>Olemme tuominneet kansan {1_CivName:textkey}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL">
+			<Text>Olemme menettäneet [ICON_CAPITAL] pääkaupunkimme! {1_NumPlayers} pelaajaa hallitsee alkuperäistä [ICON_CAPITAL] pääkaupunkiaan.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_OTHER_PLAYER_WINNING">
+			<Text>Menetimme alkuperäisen [ICON_CAPITAL] pääkaupunkimme! {1_PlayerName} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_TEAM_WINNING">
+			<Text>Menetimme alkuperäisen [ICON_CAPITAL] pääkaupunkimme! Tiimi {1_Num} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_UNMET_WINNING">
+			<Text>Menetimme alkuperäisen [ICON_CAPITAL] pääkaupunkimme! Kohtaamaton kansa hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL_YOU_WINNING">
+			<Text>Menetimme alkuperäisen [ICON_CAPITAL] pääkaupunkimme! Hallitsemme useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_RECOVERED_CAPITAL">
+			<Text>Olemme saaneet takaisin [ICON_CAPITAL] pääkaupunkimme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL">
+			<Text>Saimme takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkimme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_OTHER_PLAYER_WINNING">
+			<Text>Saimme takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkimme! {1_PlayerName} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_TEAM_WINNING">
+			<Text>Saimme takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkimme! Tiimi {1_Num} hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({2_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_UNMET_WINNING">
+			<Text>Saimme takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkimme! Kohtaamaton kansa hallitsee useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL_YOU_WINNING">
+			<Text>Saimme takaisin alkuperäisen [ICON_CAPITAL] pääkaupunkimme! Hallitsemme useimpia alkuperäisistä [ICON_CAPITAL] pääkaupungeista. ({1_Num})</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_CITY_STARVING">
+			<Text>{1_CityName:textkey} näkee nälkää! Asukas kuolee, mikäli [ICON_FOOD] ruoka loppuu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_CITY_STARVING_S">
+			<Text>{1_CityName:textkey} näkee nälkää!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_ALLIES">
+			<Text>[ICON_INFLUENCE] Vaikutusvaltamme kaupunkivaltioon {1_CivName:textkey} on lähestulkoon kulunut siihen pisteeseen, että menetämme liittolaisuutemme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_FRIENDS">
+			<Text>[ICON_INFLUENCE] Vaikutusvaltamme kaupunkivaltioon {1_CivName:textkey} on lähestulkoon kulunut siihen pisteeseen, että menetämme ystävyytemme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_SM">
+			<Text>{1_CivName:textkey} ei ole kohta vaikutusvaltamme alainen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_DENOUNCED">
+			<Text>{1_PlayerName} on julkisesti tuominnut pelaajan {2_PlayerName}</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_DENOUNCED_S">
+			<Text>{1_PlayerName} tuomitsee pelaajan {2_PlayerName}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_DENOUNCED_US">
+			<Text>{1_PlayerName} on tuominnut meidät julkisesti!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_DENOUNCED_US_S">
+			<Text>{1_PlayerName} tuomitsee meidät!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_DOF">
+			<Text>{1_PlayerName} ja {2_PlayerName} ovat tehneet ystävyys- ja yhteistyöjulistuksen</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_DOF_S">
+			<Text>{1_PlayerName} ja {2_PlayerName} julistautuivat ystäviksi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT">
+			<Text>Kultavaranto on tyhjennyt ja taloutesi vuorottainen [ICON_GOLD] kulta on nollassa tai pakkasella! Jotkin yksiköt lakkautetaan pakolla valtakunnan saavuttaessa {1_Num} kultaa vuorossa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT_S">
+			<Text>Menetämme kultaa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_BEST_RELATIONS_LOST_ALL">
+			<Text>{@1_NewCivName} ja {@2_MinorName} eivät ole enää liittolaisia!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_BONUSES_CHANGED">
+			<Text>Uuden aikakauden johdosta osa kaupunkivaltioita koskevista eduista on kohonnut!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_BONUSES_CHANGED_SM">
+			<Text>Kaupunkivaltioedut muuttuivat!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_NEW_BEST_RELATIONS_ALL">
+			<Text>{1_NewCivName:textkey} korvasi {2_OldCivName:textkey} kaupunkivaltion {3_MinorName:textkey} liittolaisena!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_NOW_ALLIES_ALL">
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE] vaikutusvalta on kasvanut, {2_MinorName:textkey} on nyt liitossa heidän kanssaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_NOW_BEST_RELATIONS_ALL">
+			<Text>{1_NewCivName:textkey} on nyt kaupunkivaltion {2_MinorName:textkey} liittolainen.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_NOW_FRIENDS_ALL">
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE] vaikutusvalta on kasvanut, {2_MinorName:textkey} on nyt ystäviä heidän kanssaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_WERE_ALLIES_NOW_FRIENDS_ALL">
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE] vaikutusvalta on heikennyt, {2_MinorName:textkey} on enää ystävä heidän kanssaan!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_MINOR_WERE_FRIENDS_ALL">
+			<Text>{1_MajorCivName:textkey}: [ICON_INFLUENCE] vaikutusvalta on heikennyt, {2_MinorName:textkey} ei ole enää heidän ystävänsä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_PLAYER_ERA">
+			<Text>{1_PlayerName} on edennyt {2_EraString ^ 'feminine:illatiivi'}!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_QUEST_ENDED_KILL_CAMP">
+			<Text>Kaupunkivaltion {1_MinorName:textkey} ilmoittama sotaleiri on tuhottu jonkun toisen toimesta!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_QUEST_ENDED_KILL_CAMP_S">
+			<Text>{1_MinorName:textkey} ei tarvitse enää apuamme</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_RA_FREE_TECH">
+			<Text>{1_CivName:textkey}: yhteinen tutkimus-sopimus on valmistunut ja saamme vauhtia tutkimukseemme!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_CANCEL">
+			<Text>{1_CivName:textkey}: tutkimus-sopimuksemme on peruttu.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_CANCEL_S">
+			<Text>Tutkimus-sopimus peruttu!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_S">
+			<Text>Tutkimus-sopimus tuli päätökseensä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL">
+			<Text>{1_CivName:textkey}: tutkimus-sopimus on peruttu sodan vuoksi.</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL_S">
+			<Text>Tutkimus-sopimus keskeytyi!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_BEST_RELATIONS_ALL">
+			<Text>{1_MinorName:textkey} sai uuden liittolaisen!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_BEST_RELATIONS_LOST_ALL">
+			<Text>{1_MinorName:textkey} ja {2_NewCivName:textkey} eivät ole enää liitossa!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_NOW_ALLIES_ALL">
+			<Text>{1_MinorName:textkey} ja {2_NewCivName:textkey} liittoutuivat!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_NOW_FRIENDS_ALL">
+			<Text>{1_MinorName:textkey} ja {2_NewCivName:textkey} ystävystyivät</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_WERE_FRIENDS_ALL">
+			<Text>{1_MinorName:textkey} ja {2_NewCivName:textkey} eivät ole enää ystäviä!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_UNIT_DISBANDED">
+			<Text>Yksikkö on lakkautettu, koska valtakuntamme budjetti on pakkasella ja säästöjä ei ole!</Text><Gender/>
+		</Row><Row Tag="TXT_KEY_NTFN_UNIT_DISBANDED_S">
+			<Text>Yksikkö lakkautettiin!</Text><Gender/>
+		</Row>
+	</Language_fi_FI>
+</GameData>
