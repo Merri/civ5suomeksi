@@ -1,5 +1,6 @@
 /*
 !/.gitignore
+!/INSTALL.MD
 !/README.MD
 !/Text
 /Text/*
