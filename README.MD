@@ -1,7 +1,7 @@
 # Civilization V suomeksi!
 
 This is Finnish language pack for Sid Meier's Civilization V.
-[Installation instructions in English.](https://github.com/Merri/civ5suomeksi/blob/master/README.MD)
+[Installation instructions in English.](https://github.com/Merri/civ5suomeksi/blob/master/INSTALL.MD)
 
 2010 - 2016 Vesa Piittinen
 
