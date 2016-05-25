@@ -1,34 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--
 
-Finnish language pack
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-This is the main language file.
-
-
-Civilization V suomeksi!
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Suomennos Facebookissa: http://www.facebook.com/pages/Civilization-V-suomeksi/160861930604896
-
-Kotisivu: http://vesa.piittinen.name/suomeksi/civilization-5/
-
-
-Asennus:
-¯¯¯¯¯¯¯¯
-- Suomi.xml tulee sijaita Tiedostot\My Games\Sid Meier's Civilization 5\Text\Suomi.xml
-- Avaa tekstieditorilla (esim. Muistio) Tiedostot\My Games\Sid Meier's Civilization 5\config.ini
-- Etsi sieltä rivi Language = en_US
-- Vaihda tilalle Language = fi_FI
-
--->
 <GameData>
-	<Table name="Language_de_DE">
-		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
-		<Column name="Tag" type="text" notnull="true"/>
-		<Column name="Text" type="text" notnull="true"/>
-		<Column name="Gender" type="text"/>
-		<Column name="Plurality" type="text"/>
-	</Table>
 	<Table name="Language_fi_FI">
 		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
 		<Column name="Tag" type="text" notnull="true"/>
