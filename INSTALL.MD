@@ -1,3 +1,11 @@
+Supports:
+
+1. Vanilla game
+2. Gods & Kings
+3. Brave New World
+4. Firaxis' Civ DLCs
+
+
 ## Manual installation via ZIP file
 
 Locate your `Sid Meier's Civilization 5` user directory. Possible locations:

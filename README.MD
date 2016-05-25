@@ -5,6 +5,13 @@ This is Finnish language pack for Sid Meier's Civilization V.
 
 2010 - 2016 Vesa Piittinen
 
+Tukee:
+
+1. Alkuperäistä peliä
+2. Jumalat ja kuninkaat (Gods & Kings)
+3. Uljas uusi maailma (Brave New World)
+4. Firaxisin julkaisemat lisäkansat (Civ DLCs)
+
 
 ## Asennus ZIP-tiedostosta
 
