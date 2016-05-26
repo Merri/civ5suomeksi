@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Table name="Language_fi_FI">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Tag" type="text" notnull="true"/>
+		<Column name="Text" type="text" notnull="true"/>
+		<Column name="Gender" type="text"/>
+		<Column name="Plurality" type="text"/>
+	</Table>
+	<Languages>
+		<Row>
+			<Type>fi_FI</Type>
+			<Name>Suomi</Name>
+			<TableName>Language_fi_FI</TableName>
+			<PluralRule>2</PluralRule>
+			<UseExtendedFont>0</UseExtendedFont>
+			<FontName>TeX Gyre Adventor</FontName>
+			<FontWidthScale>0.4</FontWidthScale>
+			<FontHeightScale>0.8</FontHeightScale>
+		</Row>
+		<Row>
+			<Type>de_DE</Type>
+			<Name>English fallback</Name>
+			<TableName>Language_en_US</TableName>
+			<PluralRule>2</PluralRule>
+			<UseExtendedFont>0</UseExtendedFont>
+			<FontName>TeX Gyre Adventor</FontName>
+			<FontWidthScale>0.4</FontWidthScale>
+			<FontHeightScale>0.8</FontHeightScale>
+		</Row>
+	</Languages>
+</GameData>

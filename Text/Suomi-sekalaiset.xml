@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <GameData>
 	<Language_fi_FI>
-		<Row Tag="TXT_KEYMODDING_SHOWDLCMODS">
-			<Text>Näytä DLC-modit</Text>
-		</Row>
 		<Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_DESCRIPTION">
 			<Text>Jumalat ja kuninkaat -lisäosa</Text>
 		</Row>
