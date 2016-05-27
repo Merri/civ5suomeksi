@@ -172,7 +172,7 @@
 	    </Row><Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WONDERFUL_WIZARD_OF_OZ">
 	        <Text>"'Oh - you're a very bad man!'[NEWLINE]'Oh no, my dear. I'm a very good man. I'm just a very bad Wizard.'"</Text>
 	    </Row><!-- Muut kuin merkkiteosten lainaukset --><Row Tag="TXT_KEY_BUILDING_BOROBUDUR_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"When you realize how perfect everything is, you will tilt your head back and laugh at the sky."[NEWLINE][TAB][TAB] - Gautama Buddha[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Kun huomaat kuinka täydellistä kaikki on, kippaat pääsi takakenoon ja naurat taivaalle."[NEWLINE][TAB][TAB] - Gautama Buddha[NEWLINE][TAB]</Text>
 		</Row><Row Tag="TXT_KEY_BUILDING_BROADWAY_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Broadway is a main artery of New York cultural life - the hardened artery."[NEWLINE][TAB][TAB] - Walter Winchell[NEWLINE][TAB]</Text>
 		</Row><Row Tag="TXT_KEY_BUILDING_GLOBE_THEATER_QUOTE">
