@@ -174,7 +174,7 @@
 	    </Row><!-- Muut kuin merkkiteosten lainaukset --><Row Tag="TXT_KEY_BUILDING_BOROBUDUR_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Kun huomaat kuinka täydellistä kaikki on, kippaat pääsi takakenoon ja naurat taivaalle."[NEWLINE][TAB][TAB] - Gautama Buddha[NEWLINE][TAB]</Text>
 		</Row><Row Tag="TXT_KEY_BUILDING_BROADWAY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Broadway is a main artery of New York cultural life - the hardened artery."[NEWLINE][TAB][TAB] - Walter Winchell[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Broadway on New Yorkin kulttuurielämän ydin - kovettunut ydin."[NEWLINE][TAB][TAB] - Walter Winchell[NEWLINE][TAB]</Text>
 		</Row><Row Tag="TXT_KEY_BUILDING_GLOBE_THEATER_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Totus mundus agit histrionem"[NEWLINE][TAB][TAB] - Inscription above main entrance to the Globe Theatre[NEWLINE][TAB]</Text>
 		</Row><Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION_QUOTE">
