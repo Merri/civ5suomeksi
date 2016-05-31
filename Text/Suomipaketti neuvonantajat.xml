@@ -1,526 +1,785 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_fi_FI>
-	
-	<Row Tag="TXT_KEY_ADVISORINFOPOPUP_BACK">
+		<Row Tag="TXT_KEY_ADVISORINFOPOPUP_BACK">
 			<Text>Edellinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORINFOPOPUP_CIVILOPEDIA">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORINFOPOPUP_CIVILOPEDIA">
 			<Text>Civilopedia</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORINFOPOPUP_FORWARD">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORINFOPOPUP_FORWARD">
 			<Text>Seuraava</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_ADV_QUEST">
 			<Text>Keitä nämä uskomattomat neuvonantajat ovat?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_CONTACTING_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_ADV_QUEST">
 			<Text>Mistä saan neuvonantajat käsiini?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_BODY">
-			<Text>Pelin aikana neuvonantajat keskeyttävät sinut huomatessaan, että heillä on jotakin kerrottavaa. He tarjoavat usein viittauksia lisätietoon, joka liittyy senhetkiseen aiheeseen. Voit tutkia asioita lisää tai napsauttaa koska tahansa "Kiitos" hätistääksesi neuvonantajan.[NEWLINE][NEWLINE]Voit myös napsauttaa "Neuvonantajat" -painiketta ruudun oikeassa yläreunassa nähdäksesi kaikki neuvonantajat. He kertovat nykytilanteesta sinulle, mikäli heillä on mitään mielessään.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_BODY">
+			<Text>Pelin aikana neuvonantajat keskeyttävät sinut huomatessaan, että heillä on jotakin kerrottavaa. He tarjoavat usein viittauksia lisätietoon, joka liittyy senhetkiseen aiheeseen. Voit tutkia asioita lisää tai napsauttaa koska tahansa &quot;Kiitos&quot; hätistääksesi neuvonantajan.[NEWLINE][NEWLINE]Voit myös napsauttaa &quot;Neuvonantajat&quot; -painiketta ruudun oikeassa yläreunassa nähdäksesi kaikki neuvonantajat. He kertovat nykytilanteesta sinulle, mikäli heillä on mitään mielessään.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_CONTACTING_HEADING2_TITLE">
 			<Text>Neuvonantajien löytäminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_ECONOMIC_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_ECONOMIC_ADV_QUEST">
 			<Text>Mikä tekee talouden neuvonantajasta hienon?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_ECONOMIC_HEADING3_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_ECONOMIC_HEADING3_BODY">
 			<Text>Talouden neuvonantaja tekee ehdotuksia rakentamiseen ja kaupunki- ja aluesuunnitteluun liittyen.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_ECONOMIC_HEADING3_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_ECONOMIC_HEADING3_TITLE">
 			<Text>Talous</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_FOREIGN_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_FOREIGN_ADV_QUEST">
 			<Text>Ulkoasiainneuvonantaja on nätti tyttö, mutta mitä apua hänestä on?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_FOREIGN_HEADING3_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_FOREIGN_HEADING3_BODY">
 			<Text>Ulkoasiainneuvonantaja kartoittaa löytöretkeilyämme sekä kertoo suhteistamme kaupunkivaltioihin ja muihin kansakuntiin.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_FOREIGN_HEADING3_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_FOREIGN_HEADING3_TITLE">
 			<Text>Ulkoasiain</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_HEADING1_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_HEADING1_BODY">
 			<Text>Suuren kansakunnan hallitsijana sinulla on osaava joukko neuvonantajia, jotka auttavat ja neuvovat sinua. He tuovat esille asioita, joita pitävät mielestään tärkeinä tai jotka olet saattanut unohtaa. Voit hiljentää heidät halutessasi, mutta heidän pitämineen mukana pelissä voi olla aluksi hyödyllistä. Neuvonantajia on neljä. Kukin tarjoaa neuvoja eri aihealueilla:</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_HEADING1_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_HEADING1_TITLE">
 			<Text>Neuvonantajat</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_MILITARY_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_MILITARY_ADV_QUEST">
 			<Text>Miksi armeijan neuvonantaja on niin mahdottoman upea?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_MILITARY_HEADING3_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_MILITARY_HEADING3_BODY">
 			<Text>Armeijan neuvonantaja tarjoaa tietoa kaikesta taistelemiseen ja sotaan liittyvästä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_MILITARY_HEADING3_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_MILITARY_HEADING3_TITLE">
 			<Text>Armeija</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_SCIENCE_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_SCIENCE_ADV_QUEST">
 			<Text>Tieteen neuvonantaja vaikuttaa nörtiltä. Tekeekö se muutakin kuin katsoo Doctor Who'ta?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_SCIENCE_HEADING3_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_SCIENCE_HEADING3_BODY">
 			<Text>Tieteen neuvonantaja auttaa tieteen ja teknologian kehittämisessä. Hän myös opastaa pelin säännöissä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_SCIENCE_HEADING3_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_SCIENCE_HEADING3_TITLE">
 			<Text>Tieteellinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_ADV_QUEST">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_ADV_QUEST">
 			<Text>Saako neuvonantajat hiljaiseksi?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_BODY">
 			<Text>Voit määrittää haluamasi neuvonannon tason asetusnäkymässä. Voit asettaa tason sen mukaan, oletko uusi Civilizationin pelaaja, uusi Civ 5:n pelaaja, kokenut pelaaja, tai kytkeä neuvot pois päältä kokonaan, jolloin he eivät häiritse sinua ellet erikseen käy tapaassa heitä ruudun oikean yläreunan painikkeen kautta.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_TITLE">
 			<Text>Neuvonantajien hiljentäminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_ACTIVATE_BUTTON">
 			<Text>Näytä taisteluyksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_BODY">
 			<Text>Kaupunkeja voi olla vaikea vallata. Vahvan puolustuksensa lisäksi ne taistelevat takaisin, vahingoittaen tai tuhoten hyökkääviä yksiköitämme. Hyökätkää useammalla vahvalla yksiköllä saman vuoron aikana vallataksenne vihollisen kaupunkeja.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_DISPLAY">
 			<Text>Kaupunkien piirittäminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_ACTIVATE_BUTTON">
 			<Text>Näytä taisteluyksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_BODY">
 			<Text>Lähistöllä oleva vihollisyksikkö on linnoittautunut. Siten tällä yksiköllä on erityinen puolustautumisetu (jonka erottaa kilpikuvakkeesta). Linnoittautuneita yksiköitä on vaikea voittaa yksi yhtä vastaan, joten harkitkaa useammalla yksiköllä hyökkäämistä saman vuoron aikana.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_DISPLAY">
 			<Text>Linnoittautuneet yksiköt</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
 			<Text>Se taistelu ei mennyt suunnitelmiemme mukaan. Ehkäpä suunnittelemalla hieman paremmin voimme palauttaa kunniamme taistelukentällä. Käytäthän taistelun esikatselua ennen hyökkäystä!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
 			<Text>Ei hienoin hetkemme</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
 			<Text>Meidän kannattaa harkita tätä hyökkäystä; teemme vähän vahinkoa vastustajaan suhteessa saamaamme vahinkoon.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
 			<Text>Tässä ei ehkä käy hyvin</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
 			<Text>Kultavarantomme on kariutunut ja tarvitsemme lisää [ICON_GOLD]kultaa! Ilman [ICON_GOLD]kultaa tutkimuksemme jämähtää ja jäämme jälkeen muista sivilisaatioista.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
 			<Text>Vararikossa!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
 			<Text>Näytä sotaleiri</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
 			<Text>Barbaarien sotaleirit ovat raakalaismaisia paikkoja ja ne tulisi tuhota välittömästi! Barbaarien leireistä syntyy lisää barbaareja ja mitä pikemmin tuhoat leirit sitä vähemmän niistä on vaivaa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
 			<Text>Barbaarien leirit</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_BODY">
 			<Text>Maailma on vaarallinen ja olemme alttiita vihollisen hyökkäykselle. Suosittelen [COLOR_ADVISOR_HIGHLIGHT_TEXT]kouluttamaan uusia sotilasyksiköitä[/COLOR] sekä tutkimaan maailmaa että puolustamaan sivilisaatiotamme.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_DISPLAY">
 			<Text>Tarvitsemme sotilaita</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
 			<Text>Pääkaupungistamme on tullut kukoistava keskus! Nyt lienee hyvä aika [COLOR_ADVISOR_HIGHLIGHT_TEXT]teettää uudisasuttaja[/COLOR], jotta voimme perustaa uuden kaupungin.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
 			<Text>Uusi kaupunki?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_BODY">
 			<Text>Kaupungit ovat huomattavan vankkoja kohteita, joiden valtaaminen vaatii usein ainakin neljä yksikköä. Meleeyksiköt kärsivät vahinkoa hyökätessään kaupunkiin. Kaupungit osaavat myös pommittaa piirittäjiään. Haluatteko varmasti hyökätä?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_DISPLAY">
 			<Text>Kaupunkiin hyökkääminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_ACTIVATE_BUTTON">
 			<Text>Näytä kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_BODY">
 			<Text>Kaupungit voivat pommittaa lähellä olevia vihollisia vahingoittaen tai tuhoten niitä. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Käskekää kaupunkinne pommittaa vihollisyksiköitä![/COLOR]</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_DISPLAY">
 			<Text>Kaupunkipommitus</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
 			<Text>Pääkaupunkimme on valmistanut uuden yksikön. Kaupungit voivat tuottaa yksiköitä, rakennuksia ja maailmanihmeitä, mutta vain yhtä asiaa kerrallaan.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
 			<Text>Kaupungilla ei ole tekemistä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_BODY">
 			<Text>Tämä on kaupunkinäkymä. Kaupungin tuotannon voi vaihtaa täältä ja voitte käyttää [ICON_GOLD]kultaa laajentaaksenne alueitanne. Lisäksi voitte määrittää kansalaisten työruudut.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_DISPLAY">
 			<Text>Kaupunkinäkymä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_ACTIVATE_BUTTON">
 			<Text>Näytä kaupunkivaltio</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_BODY">
 			<Text>Olet kohdannut kaupunkivaltion! Kaupunkivaltiot ovat maita, jotka eivät pyri voittamaan peliä. Voitte toimia sekä diplomaattisesti että sotaisasti niitä kohtaan.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_DISPLAY">
 			<Text>Kaupunkivaltiot</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_ACTIVATE_BUTTON">
 			<Text>Näytä kaupunkivaltio</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_BODY">
 			<Text>Kaupunkivaltio on pyytänyt meiltä apua! Sitä tarjotessanne saamme vaikutusvaltaa kyseiseen kaupunkivaltioon. Kun vaikutusvaltamme kasvaa kyllin suureksi tulee kaupunkivaltio tarjoamaan sivilisaatiollemme kaikenlaisia etuja.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_DISPLAY">
 			<Text>Kaupunkivaltio tarvitsee apua!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_ACTIVATE_BUTTON">
 			<Text>Näytä luvaton kulkija</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_BODY">
 			<Text>Kaupunkivaltiot eivät pidä armeijastasi omilla maillaan, vaikka yksikkösi voivatkin kulkea siellä luvatta. Pitääksesi hyvät välit kaupunkivaltioon sinun on parempi pitää yksikkösi heidän rajojensa ulkopuolella.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_DISPLAY">
 			<Text>Luvattomasi mailla!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_ACTIVATE_BUTTON">
 			<Text>Näytä ystävävaltio</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
 			<Text>[ICON_INFLUENCE]Vaikutusvaltamme on kasvanut kaupunkivaltioon niin paljon, että olemme nyt ystäviä! Voitte napsauttaa kaupunkivaltiota nähdäksenne, millaisia etuja tämä antaa. [ICON_INFLUENCE] Vaikutusvaltamme tulee ajan myötä laskemaan, joten meidän tulee vastaisuudessakin auttaa kaupunkivaltiota tai tarjota sille [ICON_GOLD] kultaa pitääksemme suhdetta yllä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
 			<Text>Olemme saaneet ystävän!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_ACTIVATE_BUTTON">
 			<Text>Näytä kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_BODY">
 			<Text>Kaupungit voivat puolustautua hyökkääjiä vastaan aivan kuten sotilasyksiköt. Kaupunki voidaan vallata vain kun sen kestävyys on pudotettu nollaan. Käyttäkää sotilasyksiköitänne piirittäjien tuhoamiseen ennen kuin kaupunki sortuu!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_DISPLAY">
 			<Text>Piiritetty!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
 			<Text>Näytä sotilasyksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
 			<Text>Yksi sotilasyksikkömme on lähellä vihollisen yksikköä. Hyökätäksemme teidän täytyy antaa yksiköllenne käsky siirtyä vihollisen ruutuun. Taistelussa sekä hyökkäävä että puolustava yksikkö saattavat vahingoittua. Häviävä osapuoli voi tuhoutua.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
 			<Text>Melee-taistelu</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_ACTIVATE_BUTTON">
 			<Text>Näytä meriyksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
 			<Text>Vahva laivasto on ainoa keinoa puolustaa ja tutkia sivilisaatiotamme ympäröiviä meriä. Laivasto voi myös aiheuttaa tuhoa vahvalla etätulituksellaan!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
 			<Text>Meriyksiköt</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_CONGRESS_FOUNDED_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CONGRESS_FOUNDED_DISPLAY">
 			<Text>Maailmankongressi perustettiin!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL">
 			<Text>Neuvonantajat</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_NEXT">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_NEXT">
 			<Text>Seuraava</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_PREV">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_PREV">
 			<Text>Edellinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_NEXT">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_NEXT">
 			<Text>Seuraava</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_PREV">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_PREV">
 			<Text>Edellinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_NEXT">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_NEXT">
 			<Text>Seuraava</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_PREV">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_PREV">
 			<Text>Edellinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_PAGE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_PAGE_DISPLAY">
 			<Text>{1_Num}/{2_Num}</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_NEXT">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_NEXT">
 			<Text>Seuraava</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_PREV">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_PREV">
 			<Text>Edellinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_COUNSEL_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_TITLE">
 			<Text>Neuvonantajien neuvosto</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_ACTIVATE_BUTTON">
 			<Text>Näytä luonnonihme</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_BODY">
 			<Text>Luonnonihmeitä kätkeytyy ympäri maailmaa. Niiden löytäminen tekee kansastanne onnellisempaa. Kaupungin rakentaminen niiden lähelle tarjoaa merkittävän edun. Tutkikaa maailmaa löytääksenne niitä lisää!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_DISPLAY">
 			<Text>Luonnonihmeet</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
 			<Text>Älä näytä tätä enää.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ECON_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ECON_TITLE">
 			<Text>Talous</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_ACTIVATE_BUTTON">
 			<Text>Näytä uitoitettava yksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_BODY">
-			<Text>Tutkimuksemme ansiosta kaikilla armeijan yksiköillä on vastaisuudessa kyky &#34;uittoa&#34; ja siten kulkea vedessä. Uittoaksesi maayksikön voitte yksinkertaisesti käskeä sen siirtyä vesiruutuun. Uitoitetut yksiköt eivät kykene puolustautumaan, joten niitä kannattaa suojata laivastolla.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_BODY">
+			<Text>Tutkimuksemme ansiosta kaikilla armeijan yksiköillä on vastaisuudessa kyky &quot;uittoa&quot; ja siten kulkea vedessä. Uittoaksesi maayksikön voitte yksinkertaisesti käskeä sen siirtyä vesiruutuun. Uitoitetut yksiköt eivät kykene puolustautumaan, joten niitä kannattaa suojata laivastolla.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_DISPLAY">
 			<Text>Uittominen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_END_TURN_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_END_TURN_BODY">
 			<Text>Kaikilla yksiköillänne on tehtävä ja ette voi enää tehdä mitään tällä vuorolla. Painakaa 'seuraava vuoro' -painiketta jatkaaksenne seuraavalle vuorolle.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_END_TURN_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_END_TURN_DISPLAY">
 			<Text>Aloita seuraava vuoro</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_BODY">
 			<Text>Meillä on hyödynnettynä useampia esiintymiä samaa ylellistä luonnonvaraa. Sivilisaatiomme saa [ICON_HAPPINESS_1]onnellisuutta ensimmäisestä, mutta ei useammasta. Voimme kaupata ylimääräisiä ylellisiä luonnonvarojamme toisille sivilisaatioille vastineeksi muista luonnonvaroista, joita meillä ei ole. Kauppaa ylimääräiset ystävällisen naapurin kanssa!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_DISPLAY">
 			<Text>Kauppaa luonnonvaroilla</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_ACTIVATE_BUTTON">
 			<Text>Näytä uudisasukas</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_BODY">
 			<Text>Tämä on hyvä sijainti kaupungille. Ruokaa ja luonnonvaroja riittää. Perustaaksesenne kaupungin napauttakaa uudisasukkaamme [COLOR_ADVISOR_HIGHLIGHT_TEXT]kaupungin perustamispaniketta[/COLOR], joka on vasemman laidan toiminnoissa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_DISPLAY">
 			<Text>Perusta kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
 			<Text>Näytä soturi</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
 			<Text>Harkitkaa soturimme lähettämistä [COLOR_ADVISOR_HIGHLIGHT_TEXT]tutkimaan uusia alueita[/COLOR]. Yksikön ollessa valittuna voit napsauttaa hiiren oikealla siirtääksi yksikön valitsemaanne ruutuun.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_DISPLAY">
 			<Text>Maailman tutkiminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_FOREIGN_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FOREIGN_TITLE">
 			<Text>Ulkoasiat</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
 			<Text>Loistokas liike! Murskasimme vastustajamme ottamatta paljoakaan vahinkoa!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
 			<Text>Hyvä hyökkäys!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
 			<Text>Nerokas liike! Tämä hyökkäys tekee paljon vahinkoa vastustajaasi aiheuttamatta paljoa vahinkoa yksiköllesi.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
 			<Text>Upea hyökkäys!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
 			<Text>Näytä rauniot</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
 			<Text>Muinaiset rauniot saattavat sisältää edistyksellisiä salaisuuksia! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Lähettäkää yksikkömme muinaiseen raunioon[/COLOR] nähdäksenne mitä siellä on.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
 			<Text>Muinaiset rauniot!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_ACTIVATE_BUTTON">
 			<Text>Näytä merkittävä kenraali</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_BODY">
 			<Text>Sotilaallisten voittojesi ansioasta merkittävä kenraali on ilmaantunut! Merkittävät kenraalit voivat liittyä yksikköön ja tarjota suuria etuja läheisille yksiköille!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_DISPLAY">
 			<Text>Merkittävä kenraali</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
 			<Text>Näytä merkittävä henkilö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
 			<Text>Onneksi olkoon, merkittävä henkilö on ilmaantunut sivilisaatiossamme! Nämä loistavat yksilöt voivat tehdä meille monenlaisia palveluksia: aloittaa kultakauden, rakentaa erityisen rakennuksen ruutuun tai käyttää omaa erikoiskykyään!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
 			<Text>Merkittävät henkilöt</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
 			<Text>Kansalaisten pitäminen onnellisena pitää siviilisatiosi tuottavana. Kansalaisten määrä kasvattaa [ICON_HAPPINESS_4] tyytymättömyyttä, mutta ylelliset luonnonvarat ja osa rakennuksista tuottavat [ICON_HAPPINESS_1] onnellisuutta. Pidä sivilisaatiosi onnellisena ja terveenä!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
 			<Text>Onnellisuus</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_ACTIVATE_BUTTON">
 			<Text>Näytä luonnonvara</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
 			<Text>Kansalaisenne eivät ole enää onnellisia. [ICON_HAPPINESS_4]Tyytymätön kansa ei kasva yhtä nopeasti kuin tyytyväinen. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Antakaa työläisillenne käsky kehittää luonnonvarojen maankäyttöä[/COLOR], mikäli haluatte tehdä kansalaisista onnellisempia.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
 			<Text>Kansanne on tyytymätön</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_BODY">
 			<Text>Avaamalla diplomatialehden näette lisätietoja suhteistamme naapureihimme. Kaikki olennainen tieto diplomaattisten sopimusten tekemiseksi on sisällytetty.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_DISPLAY">
 			<Text>Diplomatialehti</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_ACTIVATE_BUTTON">
 			<Text>Näytä kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
 			<Text>Halutessasi keskustella toistamiseen sivilisaation tai kaupunkivaltion kanssa voit myös napauttaa heidän kaupunkinsa kylttiä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
 			<Text>Diplomaattinen yhteys</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_INFORMATION">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_INFORMATION">
 			<Text>Tietoa neuvonantajalta</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_ACTIVATE_BUTTON">
 			<Text>Näytä uudisasukas</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_BODY">
 			<Text>Meidän tarvitsee perustaa kaupunki - pian! Painakaa uudisasukkaamme [COLOR_ADVISOR_HIGHLIGHT_TEXT]kaupungin perustamispainiketta[/COLOR] niin pian kuin suinkin.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_DISPLAY">
 			<Text>Perusta kaupunki!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
 			<Text>Näytä toimeton yksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_BODY">
 			<Text>Meillä on yksikkö, joka ei ole liikkunut toviin. Ehkä teidän pitäisi lähettää se [COLOR_ADVISOR_HIGHLIGHT_TEXT]tutkimaan uusia alueita[/COLOR]?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_DISPLAY">
 			<Text>Maailman tutkiminen!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_BODY">
 			<Text>Meillä ei ole ainuttakaan sotilasyksikköä puolustamassa aluettamme. Yhden tai useamman sotilasyksikön on hyvä olla alueellamme puolustamassa barbaareja vastaan sekä ehkäisemässä muiden sivilisaatioiden yllätyshyökkäyksiä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_DISPLAY">
 			<Text>Tarvitsemme puolustusta!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_BODY">
 			<Text>Kultavarantomme ovat kasvaneet ja meillä on rahaa tuhlatavaksi. Voit käyttää varoja ruutujen ostoon uusien alueiden valtaamiseksi, ostaa vaikutusvaltaa kaupunkivaltioihin, päivittää yksiköitäsi tai lahjoa toisia sivilisaatioita.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_DISPLAY">
 			<Text>Rahankäyttö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MILITARY_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MILITARY_TITLE">
 			<Text>Armeija</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
 			<Text>Meillä on niin monta sotilasyksikköä, että se hidastaa kaupunkiemme [ICON_PRODUCTION]tuotantoa. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Lakkaa uusien sotilasyksiköiden työstäminen[/COLOR] kunnes taloutemme kykenee tukemaan useampaa yksikköä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
 			<Text>Armeijan ylläpito</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MODAL_CANCEL">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_CANCEL">
 			<Text>Harkitsen uudelleen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MODAL_CONFIRM">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_CONFIRM">
 			<Text>Hyökkään kuitenkin</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MODAL_DONT_SHOW_ME_AGAIN">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_DONT_SHOW_ME_AGAIN">
 			<Text>Kiitokset tiedoista, mutta älä muistuta toiste.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MODAL_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_TITLE">
 			<Text>Taistelun tiedot</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
 			<Text>Näytä metsä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
 			<Text>Metsät hidastavat yksiköiden kulkua. Metsäruutuun siirtyminen kuluttaa usein kaikki yksikön liikepisteet. Metsät estävät näkemästä niiden takana olevia asioita.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
 			<Text>Liikkuminen: metsissä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
 			<Text>Näytä mäki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
 			<Text>Mäet hidastavat yksiköiden kulkua, mutta tarjoavat näkymät metsien ylitse ja muille mäille. Mäkiruutuun siirtyminen kuluttaa usein kaikki yksikön liikepisteet. Mäet estävät näkemästä niiden takana olevia asioita.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
 			<Text>Liikkuminen: mäellä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
 			<Text>Näytä viidakko</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
 			<Text>Viidakot hidastavat yksiköiden kulkua. Viidakkoruutuun siirtyminen kuluttaa yleensä kaikki yksikön liikepisteet. Viidakot estävät näkemästä niiden takana olevia asioita. Viidakot ovat usein varsin kuumia ja kosteita, mutta sillä ei ole merkitystä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
 			<Text>Liikkuminen: viidakossa</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
 			<Text>Näytä suo</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
 			<Text>Suot hidastavat yksiköiden kulkua. Suoruutuun siirtyminen kuluttaa yleensä kaikki yksikön liikepisteet. Yksiköillä on myös vaikeuksia puolustautua ollessaan suolla, joten olkaa tarkkana!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
 			<Text>Liikkuminen: suolla</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
 			<Text>Näytä vuori</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
 			<Text>Maayksiköt eivät kykene kulkemaan vuorilla; sinun täytyy kulkea niiden ympäri. Vuoret voi nähdä kaukaa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
 			<Text>Liikkuminen: vuorella</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_ACTIVATE_BUTTON">
 			<Text>Näytä joki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
 			<Text>Jokien ylittäminen hidastaa yksiköiden kulkua. Joen ylitys kuluttaa yleensä kaikki yksikön liikepisteet. Yksiköillä on hyvin vaikeaa taistella hyökätessään joen ylitse, joten sijoitelkaa yksikkönne varoen.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
 			<Text>Liikkuminen: joen ylitse</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
 			<Text>Se taistelu oli täyttä kuraa. Emme saaneet mitään etua tai vahingoittaneet vastustajaamme merkittävästi. Tarvitsemme lisää yksiköitä joukkojemme tueksi.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
 			<Text>Tasainen taisto</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
 			<Text>Tämä hyökkäys tekee vahinkoa molempiin yhtälaisesti. Tätä hyökkäystä kannattaa jatkaa, mikäli meillä on lähistöllä käytettävissä enemmän yksiköitä kuin vastustajalla!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
 			<Text>Tasainen taisto</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_BODY">
 			<Text>Vain yksi sotilasyksikkö voi olla kussakin ruudussa. Vuorojen aikana sotilasyksiköt voivat kulkea toisten yksiköiden ruuduista, mutta ne eivät voi päättää vuoroaan varattuun ruutuun.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_DISPLAY">
 			<Text>Yksikkö per ruutu</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_ACTIVATE_BUTTON">
 			<Text>Näytä etäyksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_BODY">
 			<Text>Käytössänne on nyt etäyksikkö. Etäyksiköt voivat hyökätä kauempaa kuin vierekkäisestä ruudusta, mutta meleeyksiköt tuhoavat ne helposti. Etäyksiköt palvelevat teitä hyvin eturintaman takaa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_DISPLAY">
 			<Text>Etäyksiköt</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_ACTIVATE_BUTTON">
 			<Text>Näytä vallattu kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
 			<Text>Lähiaikoina valloittamamme kaupunki ei ole vielä kovinkaan innoissaan elämästään osana sivilisaatiotamme ja siellä on paljon [ICON_HAPPINESS_4]tyytymättömyyttä. Rakentamalla raatihuoneen voimme vähentää väen [ICON_HAPPINESS_4]tyytymättömyyttä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
 			<Text>Vallattu kaupunki vaatii raatihuoneen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_ACTIVATE_BUTTON">
 			<Text>Näytä vallattu kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
 			<Text>Lähiaikona valloittamamme kaupunki on erittäin [ICON_HAPPINESS_4]tyytymätön. Raatihuoneen rakennuttaminen auttaisi asiaa, mutta meillä ei ole vielä vaadittua tietotaitoa raatihuoneen perustamiseksi. Ymmärrettyämme matematiikan salat voimme rakentaa raatihuoneen ja uudet kansalaisemme voivat olla onnellisia sivilisaatiomme jäseniä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
 			<Text>Vallattu kaupunki on tyytymätön</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RESET_TEXT">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESET_TEXT">
 			<Text>Saamieni tietojen mukaan kansamme luottaa teihin. Jatka maailman tutkimista ja muiden sivilisaatioiden etsintää, ken tietää mitä tulevaisuus tuo tullessaan? Ehkä pääsemme tähtiin!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RESET_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESET_TITLE">
 			<Text>Meillä menee hyvin!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_BODY">
 			<Text>Voitte käyttää hiiren oikeaa painiketta yksiköidenne liikuttamiseen. Yksikön ollessa valittuna napsauttakaa hiiren oikealla ruutua ja yksikkö liikkuu valittuun ruutuun. Pitämällä hiiren oikeaa painiketta pohjassa voitte nähdä minne asti yksikkö voi kulkea vuoronsa aikana.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_DISPLAY">
 			<Text>Liikkuminen hiirellä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCIENCE_TITLE">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCIENCE_TITLE">
 			<Text>Tiede</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_BODY">
 			<Text>Kaupunkilistauksesta löytyvät kaikki sivilisaatiomme kaupungit. Tältä listalta näkee nopeasti mitä tuotamme ja tuotantoa on nopea vaihtaa esimerkiksi sotaa suunnitellessa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_DISPLAY">
 			<Text>Kaupungit</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_BODY">
 			<Text>...</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_DISPLAY">
 			<Text>Kaupunkinäkymä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_BODY">
 			<Text>Diplomatialistaus näyttää kaikki sivilisaatiot ja kaupunkivaltiot joihin meillä on ollut yhteyksiä sekä heidän pisteensä. Kohdan napauttaminen aloittaa neuvottelut heidän kanssaan.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_DISPLAY">
 			<Text>Diplomatialistaus</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_BODY">
 			<Text>Diplomatianäkymä tarjoaa kaiken diplomaattisen tiedon. Näet sivilisaatioiden väliset suhteet, näet kauppasuhteet kuin myös mitä luonnonvaroja muilla sivilisaatioilla on käytössään.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_DISPLAY">
 			<Text>Diplomatia</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
 			<Text>Talousnäkymä kertoo tarkempaa tietoa kaikista kaupungeistamme. Näet myös mistä [ICON_GOLD]kultaa tulee ja mihin [ICON_GOLD]kultaa menee.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
 			<Text>Talous</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_BODY">
 			<Text>Diplomatian kauppanäkymässä sivilisaatiot voivat tehdä diplomaattisia vaihtokauppoja. Kumpikin osapuoli voivat tehdä valintoja ja siten tarjouksia toiselle osapuolelle. Kauppa hyväksytään molempien osapuolten päästessä yhteisymmärrykseen.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_DISPLAY">
 			<Text>Kauppanäkymä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_BODY">
 			<Text>Armeijanäkymä antaa teille tarkempaa tietoa kaikista yksiköistämme sekä kuinka paljon käytämme korkeimmasta mahdollisesta kokonaisyksikkömäärästämme. Myös merkittävän kenraalin tila on ilmoitettu täällä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_DISPLAY">
 			<Text>Armeija</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
 			<Text>Tuotantovalitsimessa voitte valita yksikön, rakennuksen tai ihmeen valmistettavaksi. Kaupunki voi tuottaa vain yhtä asiaa kerrallaan. Teille tulee ilmoitus ja pääsette valitsemaan uuden kohteen kaupungin saadessa edellisen valinnan valmiiksi.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
 			<Text>Tuotantovalitsin</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
 			<Text>Sosiaalisten linjausten näkymä mahdollistaa sivilisaatiotasi muovaavien linjausten valinnan. Voit käyttää kerääntyvää [ICON_CULTURE]kulttuuria linjausten käyttöönottoon. Joitakin kohtia ei voi valita ennen tiettyä aikakautta. Joitakin kohtia ei myöskään voi käyttää yhtä aikaa. (Kuljettamalla hiirtä linjausten päällä näette tiedot toisensa poissulkevista linjauksista.)</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
 			<Text>Sosiaaliset linjaukset</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
 			<Text>Tutkimusvalitsimella on mahdollista asettaa sivilisaatiomme tutkimuskohde. Saatta ilmoituksen, jota napsauttamalla pääsette valitsemaan uuden tutkimuksen edellisen projektin valmistuttua.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
 			<Text>Tutkimusvalitsin</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_BODY">
 			<Text>Tiedepuu antaa yleiskatsauksen kaikista tekniikoista, sekä tutkimushaaroista, jotka paljastavat miten edetä haluttuun tekniikkaan.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_DISPLAY">
 			<Text>Tiedepuu</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_BODY">
 			<Text>Yksikkölistaus näyttää kaikki käytössämme olevat yksiköt. Valitsemalla voitte nähdä, missä ne ovat ja voitte sitten antaa niille käskyjä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_DISPLAY">
 			<Text>Yksikkölistaus</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_ACTIVATE_BUTTON">
 			<Text>Näytä uudisasuttaja</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
 			<Text>Uudisasuttajanne voimin voitte perustaa uuden kaupungin. Kasvaakseen kaupunki tarvitsee useampia laadukkaita [ICON_FOOD] ruokaruutuja lähellään, joten perustakaa kaupunkinne [ICON_FOOD] ruokaa tuottavien luonnonvarojen oheen. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Siirtäkää uudisasukkaanne hedelmälliseen kohteeseen ja perustakaa uusi kaupunki.[/COLOR]</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
 			<Text>Minne perustaa kaupunki?</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_ACTIVATE_BUTTON">
 			<Text>Näytä uudisasuttaja</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_BODY">
 			<Text>Uudisasuttajanne on yksin rajojemme ulkopuolella ja voi tulla kaapatuksi. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Komenna sotilasyksikkö suojaamaan uudisasuttajaanne[/COLOR] estääksenne kaappausyritykset barbaarien ja kilpailevien sivilisaatioiden toimesta.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_DISPLAY">
 			<Text>Suojaa uudisasuttajaa</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_ACTIVATE_BUTTON">
 			<Text>Näytä piiritysyksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
 			<Text>Piiritysyksiköt ovat loistavia kaupunkien heikentämiseen etäältä, mutta ovat puolustuskyvyttömiä muita yksiköitä vastaan, joten suojatkaa niitä muilla yksiköillä!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_DISPLAY">
 			<Text>Piiritysyksiköt</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_THANK_YOU">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_THANK_YOU">
 			<Text>Kiitos</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY">
 			<Text>Olen tieteen neuvonantajanne. Tällä oppikurssilla opetan teille yksiköiden liikuttamisen jalon taidon. Samalla löydätte muinaisia raunioita, luonnonihmeitä sekä aivan uusia mantereita!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_DISPLAY">
 			<Text>Maailman tutkiminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_BODY">
 			<Text>Olen talouden neuvonantajanne. Tällä oppikurssilla opetan teille kaupunkien toiminnasta, kuinka voitte perustaa uusia kaupunkeja ja minne niitä kannattaa perustaa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
 			<Text>Uudisasuttajat ja kaupunkien perustaminen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
 			<Text>Olen talouden neuvonantajanne. Tällä oppikurssilla opetan teille kuinka käyttää työläisiä maankäytön ja siten kaupunkien kehittämiseksi. Käskystänne työläiset saavat aikaan kauppareittejä saadaksemme [ICON_GOLD]kukltaa, rakentavat maillemme maankäyttöä kehittäviä rakenteita, jotta kaupungit kasvaisivat ja tuottaisivat nopeammin, sekä antavat pääsyn luonnonvaroihin, jotka tekevät kansastamme onnellisempaa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
 			<Text>Työläiset kaupungin kehittämisessä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_BODY">
 			<Text>Olen armeijan neuvonantajanne ja voitte arvata läsnäoloni syyn. Tällä oppikurssilla opetan teille barbaarien mätkimisen ja heidän leiriensä polttamisen taidon, sekä kerron kuinka vallata vihollisen kaupunki.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_DISPLAY">
 			<Text>Taistelu ja valloitus</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_BODY">
 			<Text>Olen ulkoasiain neuvonantajanne. Tällä oppikurssilla opetan teille alkeet sivilisaatioiden ja kaupunkivaltioiden diplomatiasta. Tämä on monimutkainen aihe ja keskitymme nyt kahteen olennaiseen asiaan: vaikutusvallan kehittämiseen kaupunkivaltioiden suuntaan, sekä kaupankäyntiin luonnonvaroilla muiden sivilisaatioiden kanssa.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_DISPLAY">
 			<Text>Diplomatian alkeet</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_ACTIVATE_BUTTON">
 			<Text>Näytä kaupunki</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
 			<Text>Uudisasuttaja vaatii 2 [ICON_CITIZEN] kansalaista, joten vauhdittaaksemme teitä tarjoamme yhden [ICON_CITIZEN] lisäkansalaisen ensimmäiseen kaupunkiinne. population. Tähän ei kannata tottua, sillä vastaisuudessa uusilla kaupungeilla on vain yksi [ICON_CITIZEN] kansalainen.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
 			<Text>Lisäkansalainen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_TY_TT">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TY_TT">
 			<Text>Neuvonantaja poistuu paikalta</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_ACTIVATE_BUTTON">
 			<Text>Näytä vahingoittunut yksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_BODY">
 			<Text>Yksi yksiköistämme on tuhon partaalla. Haavoittuneet yksiköt ovat huomattavasti heikompia taistelussa ja ovat helppoja tuhottavia, joten harkitkaa sen siirtämistä toisaalle ja [COLOR_ADVISOR_HIGHLIGHT_TEXT]linnoittamista kunnes se on levännyt[/COLOR].</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_DISPLAY">
 			<Text>Antakaa yksiköiden levätä!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_ACTIVATE_BUTTON">
 			<Text>Näytä päivitettävä yksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
 			<Text>Voitte päivittää vanhentuneet yksiköt voimakkaammiksi käyttämällä [ICON_GOLD]kultaa. Yksikkönne päivittäminen tapahtuu siirtämällä se omalle alueellemme, jolloin päivityspainike ilmestyy toimintoihin. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Painakaa päivityspainiketta[/COLOR] päivittääksenne vanhentunut yksikkönne.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
 			<Text>Yksiköiden päivitys</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
 			<Text>Kansanne on erittäin [ICON_HAPPINESS_4]tyytymätöntä. Kaupunkiemme [ICON_PRODUCTION]tuotanto on lähes jämähtänyt eivätkä yksikkömmekään ole sotakelpoisia. Tehkää kansastanne onnellisempaa rakentamalla onnellisuutta edistäviä rakennuksia, kehittämällä lounnonvarojen maankäyttöä sekä tehden kauppaa muiden hallitsijoiden kanssa saadaksesi toisenlaisia luonnonvaroja.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
 			<Text>Kansanne on näreissään!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
 			<Text>On useampia eri tapoja tulla mahtavimmaksi sivilisaatioksi ja siten voittaa peli. Nämä neljä tapaa ovat sotilaallinen, teknologinen, diplomaattinen ja kulttuurinen!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_DISPLAY">
 			<Text>Näin voitat!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_ACTIVATE_BUTTON">
 			<Text>Näytä työläinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
 			<Text>Nyt työläisen saatuamme voimme tehostaa alueidemme maankäyttöä kasvattaaksemme tuottavuutta. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Siirtäkää työläisenne merkittyyn ruutuun ja parantakaa sen maankäyttöä.[/COLOR]</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
 			<Text>Työläiset</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_ACTIVATE_BUTTON">
 			<Text>Näytä työläinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
 			<Text>Meillä on työläinen, mutta ainoankaan ruutumme maankäyttöä ei ole parannettu. Saadaksenne taloudellista hyötyä [COLOR_ADVISOR_HIGHLIGHT_TEXT]käskekää työläisenne rakentaa[/COLOR] kaupunkinne vieressä olevaan ruutuun kehittääksenne sen maankäyttöä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
 			<Text>Työläinen ja työ</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_ACTIVATE_BUTTON">
 			<Text>Näytä työläinen</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_BODY">
 			<Text>Työläiset ovat puolustuskyvyttömiä, joten harkitkaa erityisen tarkasti mikäli aiotte siirtää niitä rajojemme ulkopuolelle. Meillä on vasta yksi kaupunki, joten meidän on järkevintä [COLOR_ADVISOR_HIGHLIGHT_TEXT]pitää työläinen alueellamme[/COLOR].</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_DISPLAY">
 			<Text>Pitäkää työläisenne turvassa!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_BODY">
 			<Text>Mielestäni meillä on kylliksi työläisiä toistaiseksi. Voi olla hyödyllistä teettää jotakin muuta kaupungissanne.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_DISPLAY">
 			<Text>Ei enempää työläisiä</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
 			<Text>Kaupunkianne ympäröivä maasto voidaan tehdä tuottavammaksi. [COLOR_ADVISOR_HIGHLIGHT_TEXT]Tekemällä työläisen[/COLOR] voitte kehittää alueitamme.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_DISPLAY">
 			<Text>Tee työläinen!</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
 			<Text>Näytä työvene</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
 			<Text>Työveneet mahdollistavat luonnon kala- ja valasvarojen käytön rannikkoidemme tuntumasta. Työveneet mukautuvat pysyvästi käyttökohteeseensa käyttöönoton yhteydessä.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
 			<Text>Työveneet</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_ACTIVATE_BUTTON">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_ACTIVATE_BUTTON">
 			<Text>Näytä yksikkö</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_BODY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_BODY">
 			<Text>Yksikkömme on vihollisen hallitsemalla alueella. Tämän vuoksi yksikkömme kuluttaa kaikki liikepisteensä kulkiessa vihollisyksikön tai -kaupungin viereisillä ruuduilla.</Text>
-		</Row><Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_DISPLAY">
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_DISPLAY">
 			<Text>Alueen hallinta</Text>
-		</Row></Language_fi_FI>
+		</Row>
+	</Language_fi_FI>
 </GameData>

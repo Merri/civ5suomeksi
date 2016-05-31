@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!--Kiitokset Kerttu Pihlajamaalle Uljaan uuden maailman kaupunkien tarkastamisesta!-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_fi_FI>
 		<Row Tag="TXT_KEY_CITY_NAME_AARHUS">
@@ -2728,7 +2728,6 @@
 		<Row Tag="TXT_KEY_SONG_CITY_NAME_WALATA">
 			<Text>Walata</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_ALEPPO">
 			<Text>Aleppo</Text>
 		</Row>
@@ -2750,10 +2749,6 @@
 		<Row Tag="TXT_KEY_CITY_NAME_XIAN">
 			<Text>Xian</Text>
 		</Row>
-		
-		
-		
-		
 		<Row Tag="TXT_KEY_MONGOL_CITY_NAME_ALEPPO">
 			<Text>Aleppo</Text>
 		</Row>
@@ -2799,7 +2794,6 @@
 		<Row Tag="TXT_KEY_MONGOL_CITY_NAME_XIAN">
 			<Text>Xian</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_ANUTA">
 			<Text>Anuta</Text>
 		</Row>
@@ -3094,7 +3088,6 @@
 		<Row Tag="TXT_KEY_CITY_NAME_VAITELE">
 			<Text>Vaitele</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_AGRAB">
 			<Text>Agrab</Text>
 		</Row>
@@ -3215,7 +3208,6 @@
 		<Row Tag="TXT_KEY_CITY_NAME_URKESH">
 			<Text>Urkesh</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
 			<Text>Acapulco</Text>
 		</Row>
@@ -3429,7 +3421,6 @@
 		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
 			<Text>Windsor</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_AALBORG">
 			<Text>Aalborg</Text>
 		</Row>
@@ -3610,7 +3601,6 @@
 		<Row Tag="TXT_KEY_CITY_NAME_WAREHAM">
 			<Text>Wareham</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_ANDONG">
 			<Text>Andong</Text>
 		</Row>
@@ -3758,7 +3748,6 @@
 		<Row Tag="TXT_KEY_CITY_NAME_YENDEN">
 			<Text>Yenden</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITY_NAME_ABERDEEN">
 			<Text>Aberdeen</Text>
 		</Row>
@@ -4640,1104 +4629,1692 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ZWOLLE">
 			<Text>Zwolle</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AGADIR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGADIR">
 			<Text>Agadir</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AGAIDIKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AGAIDIKA">
 			<Text>Agaidika</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AMASIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASIA">
 			<Text>Amaseia</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AMASTRIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASTRIS">
 			<Text>Amastris</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AMBON">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMBON">
 			<Text>Ambon</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AMIDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMIDA">
 			<Text>Amida</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ANIUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIUM">
 			<Text>Anium</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_APULON">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APULON">
 			<Text>Apulon</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ARACAJU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARACAJU">
 			<Text>Aracaju</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ARHEIMAR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARHEIMAR">
 			<Text>Árheimar</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ARPAD">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARPAD">
 			<Text>Arpad</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ASSUR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASSUR">
 			<Text>Assur</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ATTALIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATTALIA">
 			<Text>Attalia</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_AVEIRO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AVEIRO">
 			<Text>Aveiro</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BABANANGO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BABANANGO">
 			<Text>Babanango</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BAIYARA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAIYARA">
 			<Text>Baiyara</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BALIKPAPAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALIKPAPAN">
 			<Text>Balikpapan</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BALSA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALSA">
 			<Text>Balsa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BANDAR_LAMPUNG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BANDAR_LAMPUNG">
 			<Text>Bandar Lampung</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BANDUNG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BANDUNG">
 			<Text>Bandung</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BANJARMASIN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BANJARMASIN">
 			<Text>Banjarmasin</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BANNOCK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BANNOCK">
 			<Text>Bannock</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BATAM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BATAM">
 			<Text>Batam</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BEJA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEJA">
 			<Text>Beja</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BELEM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELEM">
 			<Text>Belém</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BELO_HORIZONTE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELO_HORIZONTE">
 			<Text>Belo Horizonte</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BENI_MELLAL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENI_MELLAL">
 			<Text>Beni Mellal</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BEN_GUERIR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEN_GUERIR">
 			<Text>Ben Guerir</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BERRECHID">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BERRECHID">
 			<Text>Berrechid</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BETUWE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BETUWE">
 			<Text>Betuwe</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BIALYSTOK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BIALYSTOK">
 			<Text>Bialystok</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BIELSKO_BIALA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BIELSKO_BIALA">
 			<Text>Bielsko-Biala</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BIG_PINE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BIG_PINE">
 			<Text>Suurpetäjä</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BISSAU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BISSAU">
 			<Text>Bissau</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BOGOR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOGOR">
 			<Text>Bogor</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BRAGA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRAGA">
 			<Text>Braga</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BRAGANZA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRAGANZA">
 			<Text>Braganza</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BRASILIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRASILIA">
 			<Text>Brasilia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BRIGANTIUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRIGANTIUM">
 			<Text>Brigantium</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BULAWAYO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BULAWAYO">
 			<Text>Bulawayo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BULLA_REGIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BULLA_REGIA">
 			<Text>Bulla Regia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BYDGOSZCZ">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BYDGOSZCZ">
 			<Text>Bydgoszcz</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_BYTOM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BYTOM">
 			<Text>Bytom</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CAMBRAI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMBRAI">
 			<Text>Cambrai</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CAMPINAS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMPINAS">
 			<Text>Campinas</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CAMPO_GRANDE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMPO_GRANDE">
 			<Text>Campo Grande</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CAPUT_VADA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAPUT_VADA">
 			<Text>Caput Vada</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CARALIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARALIS">
 			<Text>Caralis</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CARCHEMISH">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARCHEMISH">
 			<Text>Karkemiš</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CARNUNTUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARNUNTUM">
 			<Text>Carnuntum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CARTENNA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTENNA">
 			<Text>Cartenna</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CASTAREGINA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CASTAREGINA">
 			<Text>Casta Regina</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CASTELO_BRANCO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CASTELO_BRANCO">
 			<Text>Castelo Branco</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CATANE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CATANE">
 			<Text>Catania</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CHEFCHAOUEN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHEFCHAOUEN">
 			<Text>Chefchaouen</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CIMAHI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIMAHI">
 			<Text>Cimahi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CIRTA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIRTA">
 			<Text>Cirta</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_COIMBRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COIMBRA">
 			<Text>Coimbra</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CONTAGEM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CONTAGEM">
 			<Text>Contagem</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CORIALLUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORIALLUM">
 			<Text>Coriallum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CTESIPHON">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CTESIPHON">
 			<Text>Ktesifon</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CUIABA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CUIABA">
 			<Text>Cuiabá</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CURITIBA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURITIBA">
 			<Text>Curitiba</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CYRENE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CYRENE">
 			<Text>Kyrene</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_CZESTOCHOWA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CZESTOCHOWA">
 			<Text>Czestochowa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DAKHLA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAKHLA">
 			<Text>Dakhla</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DEHEYAEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEHEYAEKA">
 			<Text>Deheyaeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DENPASAR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENPASAR">
 			<Text>Denpasar</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DEPOK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DEPOK">
 			<Text>Depok</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DILI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DILI">
 			<Text>Dili</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DINORWIG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DINORWIG">
 			<Text>Dinorwig</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DORYLAEUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORYLAEUM">
 			<Text>Dorylaeum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DUCKWATER">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUCKWATER">
 			<Text>Ankkavesi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DUCK_VALLEY">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUCK_VALLEY">
 			<Text>Ankkalaakso</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DUMAZULU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUMAZULU">
 			<Text>Dumazulu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DUQUE_DE_CAXIAS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUQUE_DE_CAXIAS">
 			<Text>Duque de Caxias</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_DUR_SHARRUKIN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUR_SHARRUKIN">
 			<Text>Dur-Sharrukin</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EBORA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EBORA">
 			<Text>Ebora</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ELBLAG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELBLAG">
 			<Text>Elblag</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ELY">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELY">
 			<Text>Ely</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EL_AAIUN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EL_AAIUN">
 			<Text>El Aaiún</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EL_JADIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EL_JADIA">
 			<Text>El Jadida</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EL_KELAA_DES_SRAGHNA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EL_KELAA_DES_SRAGHNA">
 			<Text>El Kelaa Des Sraghna</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EMANGWENI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EMANGWENI">
 			<Text>Emangweni</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EMERITAAUGUSTA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EMERITAAUGUSTA">
 			<Text>Emerita Augusta</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EMPANGENI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EMPANGENI">
 			<Text>Empangeni</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ERBIL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERBIL">
 			<Text>Arbil</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ERFOUD">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERFOUD">
 			<Text>Erfoud</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ESSAOUIRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESSAOUIRA">
 			<Text>Essaouira</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ETHEKWINI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ETHEKWINI">
 			<Text>Ethekwini</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EVORA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EVORA">
 			<Text>Évora</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_EZIQWAQWENI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EZIQWAQWENI">
 			<Text>Eziqwaqweni</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FARO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FARO">
 			<Text>Faro</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FEIRA_DE_SANTANA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FEIRA_DE_SANTANA">
 			<Text>Feira de Santana</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FES">
 			<Text>Fès</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FIGUEIRA_DA_FOZ">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FIGUEIRA_DA_FOZ">
 			<Text>Figueira da Foz</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FLORIANOPOLIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLORIANOPOLIS">
 			<Text>Florianópolis</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FORTALEZA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORTALEZA">
 			<Text>Fortaleza</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FQUIH_BEN_SALAH">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FQUIH_BEN_SALAH">
 			<Text>Fquih Ben Salah</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_FUNCHAL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUNCHAL">
 			<Text>Funchal</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GDANSK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GDANSK">
 			<Text>Gdansk</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GDYNIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GDYNIA">
 			<Text>Gdynia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GENUA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GENUA">
 			<Text>Genua</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GESORIACUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GESORIACUM">
 			<Text>Gesoriacum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GLIWICE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GLIWICE">
 			<Text>Gliwice</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GOA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOA">
 			<Text>Goa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GOIANIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOIANIA">
 			<Text>Goiânia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GORZOW_WIELKOPOLSKI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GORZOW_WIELKOPOLSKI">
 			<Text>Gorzów Wielkopolski</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GOSHUTE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOSHUTE">
 			<Text>Goshute</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GOTHISCANDZA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOTHISCANDZA">
 			<Text>Gothiscandza</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GUARDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GUARDA">
 			<Text>Guarda</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GUARULHOS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GUARULHOS">
 			<Text>Guarulhos</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GUELMIM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GUELMIM">
 			<Text>Guelmim</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_GUZANA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GUZANA">
 			<Text>Guzana</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HALAB">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALAB">
 			<Text>Halab</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HAMATH">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAMATH">
 			<Text>Hamath</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HARRAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARRAN">
 			<Text>Harran</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HIPPO_REGIUS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIPPO_REGIUS">
 			<Text>Hippo Regius</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HIT">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIT">
 			<Text>Hit</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HLATIKULU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HLATIKULU">
 			<Text>Hlatikulu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HLOBANE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HLOBANE">
 			<Text>Hlobane</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HLUHLUWE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HLUHLUWE">
 			<Text>Hluhluwe</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_HUKANDEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUKANDEKA">
 			<Text>Hukandeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_IMGUR_ENLIL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IMGUR_ENLIL">
 			<Text>Imgur-Enlil</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_INGWAVUMA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INGWAVUMA">
 			<Text>Ingwavuma</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_IOLCAESAREA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IOLCAESAREA">
 			<Text>Iol Caesarea</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ISIPHEZI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISIPHEZI">
 			<Text>Isiphezi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JABOATAO_DOS_GUARARAPES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JABOATAO_DOS_GUARARAPES">
 			<Text>Jaboatao dos Guararapes</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JAKARTA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAKARTA">
 			<Text>Jakarta</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JAMBI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAMBI">
 			<Text>Jambi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JAYAPURA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAYAPURA">
 			<Text>Jayapura</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JOAO_PESSOA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JOAO_PESSOA">
 			<Text>Joao Pessoa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JOINVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JOINVILLE">
 			<Text>Joinville</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_JUIZ_DE_FORA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JUIZ_DE_FORA">
 			<Text>Juiz de Fora</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KAMUDEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAMUDEKA">
 			<Text>Kamudeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KANESH">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KANESH">
 			<Text>Kanesh</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KAR_TUKULTI_NINURTA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAR_TUKULTI_NINURTA">
 			<Text>Kar-Tukulti-Ninurta</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KATOWICE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KATOWICE">
 			<Text>Katowice</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KAUNAS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAUNAS">
 			<Text>Kaunas</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KELASHIN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KELASHIN">
 			<Text>Kelashin</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KENITRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KENITRA">
 			<Text>Kenitra</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KHANGELA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHANGELA">
 			<Text>Khangela</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KHEMISSET">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHEMISSET">
 			<Text>Khemisset</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KHOURIBGA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHOURIBGA">
 			<Text>Khouribga</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KIELC">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIELC">
 			<Text>Kielce</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KLAIPEDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KLAIPEDA">
 			<Text>Klaipeda</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KOMODO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOMODO">
 			<Text>Komodo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KSAR_EL_KEBIR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KSAR_EL_KEBIR">
 			<Text>Ksar-el-Kebir</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KUCHUNDEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUCHUNDEKA">
 			<Text>Kuchundeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KUPANG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUPANG">
 			<Text>Kupang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KWADUKUZA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KWADUKUZA">
 			<Text>Kwadukuza</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KWAHLOMENDLINI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KWAHLOMENDLINI">
 			<Text>Kwahlomendlini</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_KWAMASHU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KWAMASHU">
 			<Text>Kwamashu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LAMEGO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAMEGO">
 			<Text>Lamego</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LARACHE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LARACHE">
 			<Text>Larache</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LEIRIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEIRIA">
 			<Text>Leiria</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LEPTUS_MAGNA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEPTUS_MAGNA">
 			<Text>Leptis Magna</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LOBAMBA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOBAMBA">
 			<Text>Lobamba</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LODZ">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LODZ">
 			<Text>Lodz</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LUANDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUANDA">
 			<Text>Luanda</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LUBLIN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUBLIN">
 			<Text>Lublin</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LUGUVALION">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUGUVALION">
 			<Text>Luguvalion</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_LUTETIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUTETIA">
 			<Text>Lutetia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MACAPA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACAPA">
 			<Text>Macapá</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MACEIO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACEIO">
 			<Text>Maceió</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MAINZ">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAINZ">
 			<Text>Mainz</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MAKASSAR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAKASSAR">
 			<Text>Makassar</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MALANG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALANG">
 			<Text>Malang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MANAUS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANAUS">
 			<Text>Manaus</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MAPUTO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUTO">
 			<Text>Maputo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MASERU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASERU">
 			<Text>Maseru</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MASOTSHENI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASOTSHENI">
 			<Text>Masotsheni</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MASSILIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASSILIA">
 			<Text>Massilia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MATARAM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATARAM">
 			<Text>Mataram</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MEDAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEDAN">
 			<Text>Medan</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MEKNES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEKNES">
 			<Text>Meknes</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MELITENE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MELITENE">
 			<Text>Melitene</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MHLAHLANDLELA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MHLAHLANDLELA">
 			<Text>Mhlahlandlela</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MILAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MILAN">
 			<Text>Milano</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MISTRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MISTRA">
 			<Text>Mistra</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MLAMBONGWENYA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MLAMBONGWENYA">
 			<Text>Mlambongwenya</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MOHAMMEDIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOHAMMEDIA">
 			<Text>Mohammedia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MOSON_KAHNI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOSON_KAHNI">
 			<Text>Moson Kahni</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MTHATHA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MTHATHA">
 			<Text>Mthatha</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MTHONJANENI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MTHONJANENI">
 			<Text>Mthonjaneni</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MTUBATUBA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MTUBATUBA">
 			<Text>Mtubatuba</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MTUNZINI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MTUNZINI">
 			<Text>Mtunzini</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_MYRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MYRA">
 			<Text>Myra</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NADOR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NADOR">
 			<Text>Nador</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NAMPA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAMPA">
 			<Text>Nampa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NARBO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NARBO">
 			<Text>Narbo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NASIBINA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NASIBINA">
 			<Text>Nasibina</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NATAL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NATAL">
 			<Text>Natal</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NDONDAKUSUKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONDAKUSUKA">
 			<Text>Ndondakusuka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NEAPOLI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEAPOLI">
 			<Text>Neápoli</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NISIBIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NISIBIS">
 			<Text>Nisibis</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NOBAMBA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOBAMBA">
 			<Text>Nobamba</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NODWENGU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NODWENGU">
 			<Text>Nodwengu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NONGOMA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NONGOMA">
 			<Text>Nongoma</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NOVA_IGUACU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOVA_IGUACU">
 			<Text>Nova Iguacu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_NYAKAMUBI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NYAKAMUBI">
 			<Text>Nyakamubi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OLBIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLBIA">
 			<Text>Olbia</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OLISIPO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLISIPO">
 			<Text>Olisipo</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OLOGICUS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLOGICUS">
 			<Text>Ologicus</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OLSZTYN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLSZTYN">
 			<Text>Olsztyn</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ONDINI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONDINI">
 			<Text>Ondini</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OPOLE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OPOLE">
 			<Text>Opole</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OSASCO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OSASCO">
 			<Text>Osasco</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OUARZAZATE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUARZAZATE">
 			<Text>Ouarzazate</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_OUJDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUJDA">
 			<Text>Oujda</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PADANG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PADANG">
 			<Text>Padang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PALEMBANG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PALEMBANG">
 			<Text>Palembang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PEKANBARU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PEKANBARU">
 			<Text>Pekanbaru</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PENGWIDEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENGWIDEKA">
 			<Text>Pengwideka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PLOCK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLOCK">
 			<Text>Plock</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_POHOKWI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POHOKWI">
 			<Text>Pohokwi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PONGOLA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PONGOLA">
 			<Text>Pongola</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PONTA_DELGADA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PONTA_DELGADA">
 			<Text>Ponta Delgada</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PONTIANAK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PONTIANAK">
 			<Text>Pontianak</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PORTO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTO">
 			<Text>Porto</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PORTO_ALEGRE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTO_ALEGRE">
 			<Text>Porto Alegre</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PORTUSNAMNETUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTUSNAMNETUM">
 			<Text>Portus Namnetum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_POZNAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POZNAN">
 			<Text>Poznan</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_PRAIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRAIA">
 			<Text>Praia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_QARQAR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QARQAR">
 			<Text>Qarqar</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_QUNU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QUNU">
 			<Text>Qunu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RABAT">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RABAT">
 			<Text>Rabat</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RADOM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RADOM">
 			<Text>Radom</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RECCOPOLIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RECCOPOLIS">
 			<Text>Reccopolis</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RECIFE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RECIFE">
 			<Text>Recife</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RIO_DE_JANEIRO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RIO_DE_JANEIRO">
 			<Text>Rio de Janeiro</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RUDA_SLASKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RUDA_SLASKA">
 			<Text>Ruda Slaska</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RYBNIK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RYBNIK">
 			<Text>Rybnik</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_RZESZOW">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RZESZOW">
 			<Text>Rzeszów</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SABATA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SABATA">
 			<Text>Sabata</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAFI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFI">
 			<Text>Safi</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SALE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALE">
 			<Text>Salé</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SALONAE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALONAE">
 			<Text>Salonae</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SALVADOR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALVADOR">
 			<Text>Salvador</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAMARINDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMARINDA">
 			<Text>Samarinda</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAM_AL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAM_AL">
 			<Text>Sam’al</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAO_BERNARDO_DO_CAMPO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_BERNARDO_DO_CAMPO">
 			<Text>São Bernardo do Campo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAO_JOSE_DOS_CAMPOS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_JOSE_DOS_CAMPOS">
 			<Text>São José dos Campos</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAO_LUIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_LUIS">
 			<Text>São Luís</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAO_PAULO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_PAULO">
 			<Text>São Paulo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAO_TOME_AND_PRINCIPE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_TOME_AND_PRINCIPE">
 			<Text>São Tomé ja Príncipe</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SAREISA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAREISA">
 			<Text>Sareisa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SEGOVIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEGOVIA">
 			<Text>Segovia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SELEUCIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELEUCIA">
 			<Text>Seleukeia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SEMARANG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEMARANG">
 			<Text>Semarang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SETTAT">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SETTAT">
 			<Text>Settat</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SIAULIAI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIAULIAI">
 			<Text>Siauliai</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SILVES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SILVES">
 			<Text>Silves</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SINGARA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINGARA">
 			<Text>Singara</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SINOPE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINOPE">
 			<Text>Sinope</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SINTRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINTRA">
 			<Text>Sintra</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SKULL_VALLEY">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SKULL_VALLEY">
 			<Text>Kallonotko</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SULTANTEPE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SULTANTEPE">
 			<Text>Sultantepe</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SURABAYA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SURABAYA">
 			<Text>Surabaya</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SWEIDNITZ">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SWEIDNITZ">
 			<Text>Swidnica</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_SZCZECIN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SZCZECIN">
 			<Text>Szczecin</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TACAPE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TACAPE">
 			<Text>Tacape</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TADMOR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TADMOR">
 			<Text>Tadmor</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TANGERANG">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TANGERANG">
 			<Text>Tangerang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TAROUDANNT">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAROUDANNT">
 			<Text>Taroudant</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TARRACO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TARRACO">
 			<Text>Tarraco</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TAVIRA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAVIRA">
 			<Text>Tavira</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TAZA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAZA">
 			<Text>Taza</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TERESINA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TERESINA">
 			<Text>Teresina</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TERNATE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TERNATE">
 			<Text>Ternate</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TETADEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TETADEKA">
 			<Text>Tetadeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TETOUAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TETOUAN">
 			<Text>Tétouan</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TE_MOAK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TE_MOAK">
 			<Text>Te-Moak</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_THAGASTE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THAGASTE">
 			<Text>Thagaste</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_THEROUANNE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEROUANNE">
 			<Text>Thérouanne</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_THESSALONICA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THESSALONICA">
 			<Text>Thessaloniki</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_THOSPIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THOSPIA">
 			<Text>Thospia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TIEL">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIEL">
 			<Text>Tiel</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TIERMES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIERMES">
 			<Text>Tiermes</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TIL_BARSIP">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIL_BARSIP">
 			<Text>Til Barsip</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TIMBISHA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMBISHA">
 			<Text>Timbisha</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TOLETUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLETUM">
 			<Text>Toletum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TOLOSA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLOSA">
 			<Text>Tolosa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TOMAR">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOMAR">
 			<Text>Tomar</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TONGRES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONGRES">
 			<Text>Tungrorum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TORUN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TORUN">
 			<Text>Torun</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TOURNAI">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOURNAI">
 			<Text>Tournai</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TRICAMERON">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRICAMERON">
 			<Text>Tricameron</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TRIER">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIER">
 			<Text>Trier</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TRIPOLIS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIPOLIS">
 			<Text>Tripolis</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TROWULAN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROWULAN">
 			<Text>Trowulan</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TUKUDEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUKUDEKA">
 			<Text>Tukudeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TUNGELA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNGELA">
 			<Text>Tugela</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TURDA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TURDA">
 			<Text>Turda</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TURUSPA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TURUSPA">
 			<Text>Turuspa</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_TYRAS">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TYRAS">
 			<Text>Tyras</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_UBERLANDIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UBERLANDIA">
 			<Text>Uberlândia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_URARTU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URARTU">
 			<Text>Urartu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_UXAMA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UXAMA">
 			<Text>Uxama</Text>
-			
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VANNES">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANNES">
 			<Text>Vannes</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VENICE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VENICE">
 			<Text>Venetsia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VIANA_DO_CASTELO">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIANA_DO_CASTELO">
 			<Text>Viana do Castelo</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VICTORIACUM">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VICTORIACUM">
 			<Text>Victoriacum</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VILA_NOVA_DE_GAIA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VILA_NOVA_DE_GAIA">
 			<Text>Vila Nova de Gaia</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VISEU">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISEU">
 			<Text>Viseu</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_VOUILLE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOUILLE">
 			<Text>Vouillé</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_WALBRZYCH">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WALBRZYCH">
 			<Text>Walbrzych</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_WASHAKIE">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WASHAKIE">
 			<Text>Washakie</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_WINNEMUCCA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINNEMUCCA">
 			<Text>Winnemucca</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_WLOCLAWEK">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WLOCLAWEK">
 			<Text>Wloclawek</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_WROCLAW">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WROCLAW">
 			<Text>Wroclaw</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_XANTEN">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XANTEN">
 			<Text>Xanten</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_YAHANDEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAHANDEKA">
 			<Text>Yahandeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_YAMBADEKA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAMBADEKA">
 			<Text>Yambadeka</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_YOMBA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YOMBA">
 			<Text>Yomba</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ZIELONA_GORA">
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIELONA_GORA">
 			<Text>Zielona Góra</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ALEXANDRIA">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ALEXANDRIA">
 			<Text>Alexandria</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ANNAPOLIS">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ANNAPOLIS">
 			<Text>Annapolis</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_APPOMATTOX">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_APPOMATTOX">
 			<Text>Appomattox</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ASHLAND">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ASHLAND">
 			<Text>Ashland</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_BALTIMORE">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_BALTIMORE">
 			<Text>Baltimore</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CARLISLE">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CARLISLE">
 			<Text>Carlisle</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CHAMBERSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CHAMBERSBURG">
 			<Text>Chambersburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CHARLOTTESVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CHARLOTTESVILLE">
 			<Text>Charlottesville</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CULPEPER">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CULPEPER">
 			<Text>Culpeper</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CUMBERLAND">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CUMBERLAND">
 			<Text>Cumberland</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FAIRFAX">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FAIRFAX">
 			<Text>Fairfax</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FORT_MONROE">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FORT_MONROE">
 			<Text>Fort Monroe</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FREDERICK">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FREDERICK">
 			<Text>Frederick</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FREDERICKSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FREDERICKSBURG">
 			<Text>Fredericksburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FRONT_ROYAL">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FRONT_ROYAL">
 			<Text>Front Royal</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_GETTYSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_GETTYSBURG">
 			<Text>Gettysburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_GORDONSVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_GORDONSVILLE">
 			<Text>Gordonsville</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HAGERSTOWN">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HAGERSTOWN">
 			<Text>Hagerstown</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HANCOCK">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HANCOCK">
 			<Text>Hancock</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HANOVER">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HANOVER">
 			<Text>Hanover</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARPERS_FERRY">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARPERS_FERRY">
 			<Text>Harper's Ferry</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARRISBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARRISBURG">
 			<Text>Harrisburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARRISONBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARRISONBURG">
 			<Text>Harrisonburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HAVRE_DE_GRACE">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HAVRE_DE_GRACE">
 			<Text>Havre De Grace</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LANCASTER">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LANCASTER">
 			<Text>Lancaster</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LAUREL">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LAUREL">
 			<Text>Laurel</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LEESBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LEESBURG">
 			<Text>Leesburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LYNCHBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LYNCHBURG">
 			<Text>Lynchburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MANASSAS">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MANASSAS">
 			<Text>Manassas</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MARTINSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MARTINSBURG">
 			<Text>Martinsburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MOOREFIELD">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MOOREFIELD">
 			<Text>Moorefield</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NEW_MARKET">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NEW_MARKET">
 			<Text>New Market</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NORFOLK">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NORFOLK">
 			<Text>Norfolk</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NOTTOWAY">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NOTTOWAY">
 			<Text>Nottoway Court House</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_PETERSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_PETERSBURG">
 			<Text>Petersburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_RICHMOND">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_RICHMOND">
 			<Text>Richmond</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ROMNEY">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ROMNEY">
 			<Text>Romney</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_STAUNTON">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_STAUNTON">
 			<Text>Staunton</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_TAPPAHANNOCK">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_TAPPAHANNOCK">
 			<Text>Tappahannock</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WARRENTON">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WARRENTON">
 			<Text>Warrenton</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WASHINGTON">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WASHINGTON">
 			<Text>Washington</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WESTMINSTER">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WESTMINSTER">
 			<Text>Westminster</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WILLIAMSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WILLIAMSBURG">
 			<Text>Williamsburg</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WINCHESTER">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WINCHESTER">
 			<Text>Winchester</Text>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_YORK">
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_YORK">
 			<Text>York</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ABIDJAN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ABIDJAN">
 			<Text>Abidjan</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ACCRA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ACCRA">
 			<Text>Accra</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ADI_UGRI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ADI_UGRI">
 			<Text>Adi Ugri</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALBERTVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALBERTVILLE">
 			<Text>Albertville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALEXANDRIA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALEXANDRIA">
 			<Text>Alexandria</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALGIERS">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALGIERS">
 			<Text>Algiers</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_FASHIR">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_FASHIR">
 			<Text>Al-Fashir</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_JAWF">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_JAWF">
 			<Text>Al Jawf</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_QADARIF">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_QADARIF">
 			<Text>Al Qadarif</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASMARA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASMARA">
 			<Text>Asmara</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASSAB">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASSAB">
 			<Text>Assab</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASWAN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASWAN">
 			<Text>Aswan</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASYUT">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASYUT">
 			<Text>Asyut</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AWJILA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AWJILA">
 			<Text>Awjila</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAGAMOYO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAGAMOYO">
 			<Text>Bagamoyo</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAIDOA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAIDOA">
 			<Text>Baidoa</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAKWANGA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAKWANGA">
 			<Text>Bakwanga</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMAKO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMAKO">
 			<Text>Bamako</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMENDA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMENDA">
 			<Text>Bamenda</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANANA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANANA">
 			<Text>Banana</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANGUI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANGUI">
 			<Text>Bangui</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANNINGVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANNINGVILLE">
 			<Text>Banningville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BARDERA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BARDERA">
 			<Text>Bardera</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BECHAR">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BECHAR">
 			<Text>Bechar</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BEIRA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BEIRA">
 			<Text>Beira</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BELEDWEYNE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BELEDWEYNE">
 			<Text>Beledweyne</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGHAZI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGHAZI">
 			<Text>Benghazi</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGUELA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGUELA">
 			<Text>Benguela</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENONI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENONI">
 			<Text>Benoni</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BERTOUA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BERTOUA">
 			<Text>Bertoua</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BISSAU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BISSAU">
 			<Text>Bissau</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BLOEMFONTEIN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BLOEMFONTEIN">
 			<Text>Bloemfontein</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOBO_DIOULASSO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOBO_DIOULASSO">
 			<Text>Bobo-Dioulasso</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOKSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOKSBURG">
 			<Text>Boksburg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOMA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOMA">
 			<Text>Boma</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOSASO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOSASO">
 			<Text>Bosaso</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOUAKE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOUAKE">
 			<Text>Bouake</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAK">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAK">
 			<Text>Brak</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAZZAVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAZZAVILLE">
 			<Text>Brazzaville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAGLIARI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAGLIARI">
 			<Text>Cagliari</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAIRO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAIRO">
 			<Text>Cairo</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAPE_TOWN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAPE_TOWN">
 			<Text>Cape Town</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CATANZARO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CATANZARO">
 			<Text>Catanzaro</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CONAKRY">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CONAKRY">
 			<Text>Conakry</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COQUILHATVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COQUILHATVILLE">
 			<Text>Coquilhatville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COSTERMANSVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COSTERMANSVILLE">
 			<Text>Costermansville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DAKAR">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DAKAR">
 			<Text>Dakar</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJIBOUTI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJIBOUTI">
 			<Text>Djibouti</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJOUGOU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJOUGOU">
 			<Text>Djougou</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DODOMA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DODOMA">
 			<Text>Dodoma</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DOUALA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DOUALA">
 			<Text>Douala</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_EDFU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_EDFU">
 			<Text>Edfu</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ELIZABETHVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ELIZABETHVILLE">
 			<Text>Elizabethville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ENTEBBE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ENTEBBE">
 			<Text>Entebbe</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FORT_DAUPHIN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FORT_DAUPHIN">
 			<Text>Fort Dauphin</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FREETOWN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FREETOWN">
 			<Text>Freetown</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GALKAYO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GALKAYO">
 			<Text>Galkayo</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROOWE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROOWE">
 			<Text>Garoowe</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROUA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROUA">
 			<Text>Garoua</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAT">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAT">
 			<Text>Gat</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GIBRALTAR">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GIBRALTAR">
 			<Text>Gibraltar</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HARGEISA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HARGEISA">
 			<Text>Hargeisa</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HEIDELBERG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HEIDELBERG">
 			<Text>Heidelberg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HENRIQUE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HENRIQUE">
 			<Text>Henrique de Carvalho</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HUN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HUN">
 			<Text>Hun</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JADOTVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JADOTVILLE">
 			<Text>Jadotville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOHANNESBURG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOHANNESBURG">
 			<Text>Johannesburg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOWHAR">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOWHAR">
 			<Text>Jowhar</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KAMPALA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KAMPALA">
 			<Text>Kampala</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KARA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KARA">
 			<Text>Kara</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KASSALA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KASSALA">
 			<Text>Kassala</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KEREN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KEREN">
 			<Text>Keren</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KHARTOUM">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KHARTOUM">
 			<Text>Khartoum</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KIGALI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KIGALI">
 			<Text>Kigali</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KINDU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KINDU">
 			<Text>Kindu</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISMAYO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISMAYO">
 			<Text>Kismayo</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISUMU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISUMU">
 			<Text>Kisumu</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KLEIN_VRYSTAAT">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KLEIN_VRYSTAAT">
 			<Text>Klein Vrystaat</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KOSTI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KOSTI">
 			<Text>Kosti</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LAGOS">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LAGOS">
 			<Text>Lagos</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LEOPOLDVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LEOPOLDVILLE">
 			<Text>Leopoldville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LIBREVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LIBREVILLE">
 			<Text>Libreville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LILONGWE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LILONGWE">
 			<Text>Lilongwe</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOME">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOME">
 			<Text>Lome</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOURENCO_MARQUES">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOURENCO_MARQUES">
 			<Text>Lourenco Marques</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUANDA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUANDA">
 			<Text>Luanda</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUEDERITZ">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUEDERITZ">
 			<Text>Luederitz</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LULUABOURG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LULUABOURG">
 			<Text>Luluabourg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSAKA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSAKA">
 			<Text>Lusaka</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSO">
 			<Text>Luso</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUXOR">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUXOR">
 			<Text>Luxor</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAFEKING">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAFEKING">
 			<Text>Mafeking</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MALANJE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MALANJE">
 			<Text>Malanje</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAROUA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAROUA">
 			<Text>Maroua</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASERU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASERU">
 			<Text>Maseru</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASSAWA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASSAWA">
 			<Text>Massawa</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MESSINA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MESSINA">
 			<Text>Messina</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOCAMEDES">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOCAMEDES">
 			<Text>Mocamedes</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOMBASA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOMBASA">
 			<Text>Mombasa</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MORONI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MORONI">
 			<Text>Moroni</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOZAMBIQUE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOZAMBIQUE">
 			<Text>Mozambique</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MURZUK">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MURZUK">
 			<Text>Murzuk</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NAIROBI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NAIROBI">
 			<Text>Nairobi</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NALUT">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NALUT">
 			<Text>Nalut</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NDJAMENA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NDJAMENA">
 			<Text>N'Djamena</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LAMEGO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LAMEGO">
 			<Text>New Lamego</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LISBON">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LISBON">
 			<Text>New Lisbon</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NIAMEY">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NIAMEY">
 			<Text>Niamey</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NOUAKCHOTT">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NOUAKCHOTT">
 			<Text>Nouakchott</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NYALA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NYALA">
 			<Text>Nyala</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PALERMO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PALERMO">
 			<Text>Palermo</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PIETERSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PIETERSBURG">
 			<Text>Pietersburg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POINT_NOIRE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POINT_NOIRE">
 			<Text>Pointe-Noire</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_AMELIA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_AMELIA">
 			<Text>Porto Amelia</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_NOVO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_NOVO">
 			<Text>Porto Novo</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_ELIZABETH">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_ELIZABETH">
 			<Text>Port Elizabeth</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_SUDAN">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_SUDAN">
 			<Text>Port Sudan</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POTCHEFSTROOM">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POTCHEFSTROOM">
 			<Text>Potchefstroom</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PRETORIA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PRETORIA">
 			<Text>Pretoria</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QAMINIS">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QAMINIS">
 			<Text>Qaminis</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QARDHO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QARDHO">
 			<Text>Qardho</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SABHA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SABHA">
 			<Text>Sabha</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SALISBURY">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SALISBURY">
 			<Text>Salisbury</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SAO_TOME">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SAO_TOME">
 			<Text>Sao Tome and Principe</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SA_DA_BANDEIRA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SA_DA_BANDEIRA">
 			<Text>Sa da Bandeira</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SFAX">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SFAX">
 			<Text>Sfax</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SILVA_PORTO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SILVA_PORTO">
 			<Text>Silva Porto</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SIRTE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SIRTE">
 			<Text>Sirte</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_STANLEYVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_STANLEYVILLE">
 			<Text>Stanleyville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SUEZ">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SUEZ">
 			<Text>Suez</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SWAKOPMUND">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SWAKOPMUND">
 			<Text>Swakopmund</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TAMALE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TAMALE">
 			<Text>Tamale</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TETE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TETE">
 			<Text>Tete</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_THYSVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_THYSVILLE">
 			<Text>Thysville</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TOBRUK">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TOBRUK">
 			<Text>Tobruk</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TRIPOLI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TRIPOLI">
 			<Text>Tripoli</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TSHIKAPA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TSHIKAPA">
 			<Text>Tshikapa</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TUNIS">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TUNIS">
 			<Text>Tunis</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UBARI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UBARI">
 			<Text>Ubari</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UJIJI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UJIJI">
 			<Text>Ujiji</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VICTORIA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VICTORIA">
 			<Text>Victoria</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_BABRAL">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_BABRAL">
 			<Text>Vila Cabral</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_JUNQUEIRO">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_JUNQUEIRO">
 			<Text>Vila Junqueiro</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_PERY">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_PERY">
 			<Text>Vila Pery</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VIRGINIA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VIRGINIA">
 			<Text>Virginia</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VRYBURG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VRYBURG">
 			<Text>Vryburg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WAD_MADANI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WAD_MADANI">
 			<Text>Wad Madani</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINBURG">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINBURG">
 			<Text>Winburg</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINDHOEK">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINDHOEK">
 			<Text>Windhoek</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_XAI_XAI">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_XAI_XAI">
 			<Text>Xai-Xai</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_YAOUNDE">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_YAOUNDE">
 			<Text>Yaounde</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZELLA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZELLA">
 			<Text>Zella</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZOMBA">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZOMBA">
 			<Text>Zomba</Text>
-		</Row><Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZUNGERU">
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZUNGERU">
 			<Text>Zungeru</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ASWAN">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ASWAN">
 			<Text>Aswan</Text>
-			
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_AZAZ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_AZAZ">
 			<Text>A'zaz</Text>
-			
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BAALBEK">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BAALBEK">
 			<Text>Ba'albek</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BEJAIA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BEJAIA">
 			<Text>Bejaia</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BIDZAJA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BIDZAJA">
 			<Text>Bidzala</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BILBAIS">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BILBAIS">
 			<Text>Bilbais</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_CAIRO">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_CAIRO">
 			<Text>Cairo</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_DVIN">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_DVIN">
 			<Text>Dvin</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HAMA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HAMA">
 			<Text>Hama</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HOMS">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HOMS">
 			<Text>Homs</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_JAFFA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_JAFFA">
 			<Text>Jaffa</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KABIS">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KABIS">
 			<Text>Kabis</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KAFR_SABT">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KAFR_SABT">
 			<Text>kafr Sabt</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_MAHDIJA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_MAHDIJA">
 			<Text>Mahdija</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_QUS">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_QUS">
 			<Text>Qus</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_RABAT">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_RABAT">
 			<Text>Rabat</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SAFI">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SAFI">
 			<Text>Safi</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SANAA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SANAA">
 			<Text>Sana'a</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SIJILMASA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SIJILMASA">
 			<Text>Sijilmasa</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TAIZZ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TAIZZ">
 			<Text>Ta'izz</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TINMEL">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TINMEL">
 			<Text>Tinmel</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_YANBU">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_YANBU">
 			<Text>Yanbu</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ZABID">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ZABID">
 			<Text>Zabid</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_SAMARKAND">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_SAMARKAND">
 			<Text>Samarkand</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_THESSALONICA">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_THESSALONICA">
 			<Text>Thessaloniki</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIANGYANG">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIANGYANG">
 			<Text>Xiangyang</Text>
-		</Row><Row Tag="TXT_KEY_CITY_NAME_ARUBA"><Text>Aruba</Text></Row><Row Tag="TXT_KEY_CITY_NAME_BEVERWIJCK"><Text>Beverwijck</Text></Row><Row Tag="TXT_KEY_CITY_NAME_BONAIRE"><Text>Bonaire</Text></Row><Row Tag="TXT_KEY_CITY_NAME_CURACAO"><Text>Curacao</Text></Row><Row Tag="TXT_KEY_CITY_NAME_FORT_GOEDE_HOOP"><Text>Fort Goede Hoop</Text></Row><Row Tag="TXT_KEY_CITY_NAME_FORT_KYK_OVER_AL"><Text>Fort Kyk-Over-Al</Text></Row><Row Tag="TXT_KEY_CITY_NAME_IGARASSU"><Text>Igarassu</Text></Row><Row Tag="TXT_KEY_CITY_NAME_NEW_AMSTERDAM"><Text>Uusi Amsterdam</Text></Row><Row Tag="TXT_KEY_CITY_NAME_OLINDA"><Text>Olinda</Text></Row><Row Tag="TXT_KEY_CITY_NAME_PARAMARIBO"><Text>Paramaribo</Text></Row><Row Tag="TXT_KEY_CITY_NAME_PAVONIA"><Text>Pavonia</Text></Row><Row Tag="TXT_KEY_CITY_NAME_PORTO_SEGURO"><Text>Porto Seguro</Text></Row><Row Tag="TXT_KEY_CITY_NAME_SABA"><Text>Saba</Text></Row><Row Tag="TXT_KEY_CITY_NAME_SALVADOR_DA_BAHIA"><Text>Salvador da Bahia</Text></Row><Row Tag="TXT_KEY_CITY_NAME_SAO_CRISTOVAO"><Text>Sao Cristovao</Text></Row><Row Tag="TXT_KEY_CITY_NAME_SAO_VICENTE"><Text>Sao Vicente</Text></Row><Row Tag="TXT_KEY_CITY_NAME_SINT_EUSTATIUS"><Text>Sint Eustatius</Text></Row><Row Tag="TXT_KEY_CITY_NAME_SINT_MAARTEN"><Text>Sint Maarten</Text></Row><Row Tag="TXT_KEY_CITY_NAME_WILTWIJCK"><Text>Wiltwijck</Text></Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ALEPPO"><Text>Aleppo</Text></Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIAN"><Text>Xian</Text></Row>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARUBA">
+			<Text>Aruba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEVERWIJCK">
+			<Text>Beverwijck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BONAIRE">
+			<Text>Bonaire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURACAO">
+			<Text>Curacao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_GOEDE_HOOP">
+			<Text>Fort Goede Hoop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_KYK_OVER_AL">
+			<Text>Fort Kyk-Over-Al</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IGARASSU">
+			<Text>Igarassu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEW_AMSTERDAM">
+			<Text>Uusi Amsterdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLINDA">
+			<Text>Olinda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAMARIBO">
+			<Text>Paramaribo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAVONIA">
+			<Text>Pavonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTO_SEGURO">
+			<Text>Porto Seguro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SABA">
+			<Text>Saba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALVADOR_DA_BAHIA">
+			<Text>Salvador da Bahia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_CRISTOVAO">
+			<Text>Sao Cristovao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_VICENTE">
+			<Text>Sao Vicente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINT_EUSTATIUS">
+			<Text>Sint Eustatius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINT_MAARTEN">
+			<Text>Sint Maarten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WILTWIJCK">
+			<Text>Wiltwijck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ALEPPO">
+			<Text>Aleppo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIAN">
+			<Text>Xian</Text>
+		</Row>
 	</Language_fi_FI>
 </GameData>

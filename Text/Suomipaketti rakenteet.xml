@@ -80,7 +80,11 @@
 		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
 			<Text>Linnoitus|Linnoituksen</Text>
 			<Gender>masculine:nominatiivi|masculine:genetiivi</Gender>
-		</Row><Row Tag="TXT_KEY_IMPROVEMENT_TIPI"><Text>Tiipii|Tiipiin</Text><Gender>masculine:nominatiivi|masculine:genetiivi</Gender></Row>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TIPI">
+			<Text>Tiipii|Tiipiin</Text>
+			<Gender>masculine:nominatiivi|masculine:genetiivi</Gender>
+		</Row>
 		<!-- Inkavaltio -->
 		<Row Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM">
 			<Text>Pengerviljelmä|Pengerviljelmän</Text>

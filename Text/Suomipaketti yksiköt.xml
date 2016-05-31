@@ -8,7 +8,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ARCHAEOLOGIST">
 			<Text>Arkeologi|arkeologin|Arkeologimme|arkeologiksi</Text>
-
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -417,7 +416,6 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR">
 			<Text>Maorisoturi|maorisoturin|Maorisoturimme|maorisoturiksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
@@ -458,7 +456,6 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi|feminine:illatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL">
 			<Text>Merkittävä kenraali|merkittävän kenraalin|Merkittävä kenraalimme|merkittäväksi kenraaliksi|merkittävään kenraaliin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi|feminine:illatiivi</Gender>
@@ -474,13 +471,11 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi|feminine:illatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET">
 			<Text>Merkittävä profeetta|merkittävän profeetan|Merkittävä profeettamme|merkittäväksi profeetaksi|merkittävään profeettaan</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi|feminine:illatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST">
 			<Text>Merkittävä taiteilija|merkittävän taiteilijan|Merkittävä taiteilijamme|merkittäväksi taiteilijaksi|merkittävään taiteilijaan</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi|feminine:illatiivi</Gender>
@@ -501,13 +496,11 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_ROMAN_LEGION">
 			<Text>Milites|militesin|Militesimme|militesiksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN">
 			<Text>Minutööri|minutöörin|Minutöörimme|minutööriksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
@@ -543,7 +536,6 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_MONGOL_NAIMANS">
 			<Text>Naimaanit|naimaanit|Naimaanimme|naimaaneiksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
@@ -606,7 +598,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER">
 			<Text>Piiritystorni|piiritystornin|Piiritystornimme|piiritystorniksi</Text>
-
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
@@ -680,7 +671,6 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		
 		<Row Tag="TXT_KEY_UNIT_MECHANIZED_INFANTRY">
 			<Text>Rynnäkkövaunu|rynnäkkövaunun|Rynnäkkövaunumme|rynnäkkövaunuksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
@@ -815,59 +805,73 @@
 			<Text>Uudisasuttaja|uudisasuttajan|Uudisasuttajamme|uudisasuttajaksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS">
 			<Text>Vapaaehtoisjoukko|vapaaehtoisjoukon|Vapaaehtoisjoukkomme|vapaaehtoisjoukoksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_CROSSBOWMAN">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN">
 			<Text>Varsijousi|varsijousen|Varsijousemme|varsijouseksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
 			<Text>Vastakaarijousi|vastakaarijousen|Vastakaarijousemme|vastakaarijouseksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_TREBUCHET">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TREBUCHET">
 			<Text>Vastapainokatapultti|vastapainokatapultin|Vastapainokatapulttimme|vastapainokatapultiksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_VENETIAN_MERCHANT">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VENETIAN_MERCHANT">
 			<Text>Venetsialaiskauppias|venetsialaiskauppiaan|Venetsialaiskauppiaamme|venetsialaiskauppiaaksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME">
 			<Text>Viisisoutu|viisisoudun|Viisisoutumme|viisisouduksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST">
 			<Text>Vipukeihäsmies|vipukeihäsmiehen|Vipukeihäsmiehemme|vipukeihäsmieheksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
 			<Text>Väkipuukkomies|väkipuukkomiehen|Väkipuukkomiehemme|väkipuukkomieheksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
 			<Text>Walesilainen pitkäjousi|walesilaisen pitkäjousen|Walesilainen pitkäjousemme|walesilaiseksi pitkäjouseksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_XCOM_SQUAD">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XCOM_SQUAD">
 			<Text>XCOM-ryhmä|XCOM-ryhmän|XCOM-ryhmämme|XCOM-ryhmäksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE">
 			<Text>Ydinohjus|ydinohjuksen|Ydinohjuksemme|ydinohjukseksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE">
 			<Text>Ydinsukellusvene|ydinsukellusveneen|Ydinsukellusveneemme|ydinsukellusveneeksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO">
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO">
 			<Text>Zero-hävittäjä|zero-hävittäjän|Zero-hävittäjämme|zero-hävittäjäksi</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi|masculine:possessiivi_m1|feminine:translatiivi</Gender>
 			<Plurality>1</Plurality>
-		</Row><!-- Merkittävät henkilöt -->
+		</Row>
+		<!-- Merkittävät henkilöt -->
 		<Row Tag="TXT_KEY_GREAT_PERSON_MATTHEW_PERRY">
 			<Text>Matthew Perry</Text>
 		</Row>
@@ -967,7 +971,6 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_SHI_LANG">
 			<Text>Shi Lang</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_GREAT_PERSON_ANSEL_ADAMS">
 			<Text>Ansel Adams</Text>
 		</Row>
@@ -1013,7 +1016,6 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BUTLER_YEATS">
 			<Text>William Butler Yeats</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_GREAT_PERSON_AL_DIN_AL_TUSI">
 			<Text>Al-Din al-Tusi</Text>
 		</Row>
@@ -1056,7 +1058,6 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_ALAN_TURING">
 			<Text>Alan Turing</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_LICINIUS_CRASSUS">
 			<Text>Marcus Licinius Crassus</Text>
 		</Row>
@@ -1084,7 +1085,6 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_JAKOB_FUGGER">
 			<Text>Jakob Fugger</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_BENZ">
 			<Text>Carl Benz</Text>
 		</Row>
@@ -1100,7 +1100,6 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_GODDARD">
 			<Text>Robert Goddard</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_GREAT_PERSON_EPAMINONDAS">
 			<Text>Epaminondas</Text>
 		</Row>
@@ -1130,849 +1129,1245 @@
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_HANNIBAL">
 			<Text>Hannibal</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_ALVISE_CADAMOSTO">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_ALVISE_CADAMOSTO">
 			<Text>Alvise Cadamosto</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_AMBROGIO_CONTARINI">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_AMBROGIO_CONTARINI">
 			<Text>Ambrogio Contarini</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_ANTONIO_PIGAFETTA">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_ANTONIO_PIGAFETTA">
 			<Text>Antonio Pigafetta</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_CESARE_FEDERICI">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_CESARE_FEDERICI">
 			<Text>Cesare Federici</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GASPARA_BALBI">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GASPARA_BALBI">
 			<Text>Gaspara Balbi</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GIOSAFAT_BARBARO">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GIOSAFAT_BARBARO">
 			<Text>Giosafat Barbaro</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GIOVANNI_BALZONI">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GIOVANNI_BALZONI">
 			<Text>Giovanni Balzoni</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GIOVANNI_CABOTO">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_GIOVANNI_CABOTO">
 			<Text>Giovanni Caboto</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_MAFFEO_POLO">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_MAFFEO_POLO">
 			<Text>Maffeo Polo</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_MARCO_POLO">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_MARCO_POLO">
 			<Text>Marco Polo</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_NICCOLO_CONTI">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_NICCOLO_CONTI">
 			<Text>Niccolo de' Conti</Text>
-		</Row><Row Tag="TXT_KEY_MERCHANT_OF_VENICE_NICCOLO_POLO">
+		</Row>
+		<Row Tag="TXT_KEY_MERCHANT_OF_VENICE_NICCOLO_POLO">
 			<Text>Niccolo Polo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ADAM_SMITH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ADAM_SMITH">
 			<Text>Adam Smith</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ADRIEN_CARPENTIERS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ADRIEN_CARPENTIERS">
 			<Text>Adrien Carpentiers</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AESOP">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AESOP">
 			<Text>Aesop</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AKBAR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AKBAR">
 			<Text>Akbar</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALBAN_BERG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALBAN_BERG">
 			<Text>Alban Berg</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALBERT_EINSTEIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALBERT_EINSTEIN">
 			<Text>Albert Einstein</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_GRAHM_BELL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_GRAHM_BELL">
 			<Text>Alexander Graham Bell</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDRE_DUMAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDRE_DUMAS">
 			<Text>Alexandre Dumas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDRE_GUSTAVE_EIFFEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDRE_GUSTAVE_EIFFEL">
 			<Text>Alexandre Gustave Eiffel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALHAZEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALHAZEN">
 			<Text>Alhazen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALKINDI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALKINDI">
 			<Text>Al-Kindi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALLA_RAKHA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALLA_RAKHA">
 			<Text>Alla Rakha</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ALPHONSE_MARIE_ADOLPHE_DE_NEUVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALPHONSE_MARIE_ADOLPHE_DE_NEUVILLE">
 			<Text>Alphonse-Marie-Adolphe de Neuville</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AL_KHWARIZMI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_KHWARIZMI">
 			<Text>Al-Khwarizmi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AL_KINDI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_KINDI">
 			<Text>Al-Kindi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AL_RAZI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_RAZI">
 			<Text>Al-Razi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AMEDEO_MODIGLIANI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AMEDEO_MODIGLIANI">
 			<Text>Amedeo Modigliani</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AMIR_KHUSRO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AMIR_KHUSRO">
 			<Text>Amir Khusro</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANDREI_SAKHAROV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREI_SAKHAROV">
 			<Text>Andrei Sakharov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANDREW_CARNEGIE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREW_CARNEGIE">
 			<Text>Andrew Carnegie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANTOINE_LAURENT_LAVOISIER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTOINE_LAURENT_LAVOISIER">
 			<Text>Antoine Laurent Lavoisier</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANTONELLO_DA_MESSINA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONELLO_DA_MESSINA">
 			<Text>Antonello da Messina</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANTONIN_DVORAK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONIN_DVORAK">
 			<Text>Antonin Dvorak</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANTONY_VAN_DIEMEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONY_VAN_DIEMEN">
 			<Text>Anthony van Diemen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANTONY_VAN_LEEUWENHOEK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONY_VAN_LEEUWENHOEK">
 			<Text>Antony van Leeuwenhoek</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ANTON_CHEKHOV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTON_CHEKHOV">
 			<Text>Anton Chekhov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ARCHIMEDES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARCHIMEDES">
 			<Text>Archimedes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ARETAS_III">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARETAS_III">
 			<Text>Aretas III</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ARISTOPHANES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARISTOPHANES">
 			<Text>Aristophanes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ARISTOTLE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARISTOTLE">
 			<Text>Aristotle</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ARMINIUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARMINIUS">
 			<Text>Arminius</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ARYABHATA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARYABHATA">
 			<Text>Aryabhata</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ASHER_DURAND">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASHER_DURAND">
 			<Text>Asher B. Durand</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AUGUST_HAAKE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AUGUST_HAAKE">
 			<Text>August Haake</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AUITZOTL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AUITZOTL">
 			<Text>Auitzotl</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_AYABHATA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AYABHATA">
 			<Text>Ayabhata</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BAHRAM_KIRMANSHAHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAHRAM_KIRMANSHAHI">
 			<Text>Bahram Kirmanshahi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BARTHOLOMEUM_SPRANGER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BARTHOLOMEUM_SPRANGER">
 			<Text>Bartholomeus Spranger</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BELISARIUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BELISARIUS">
 			<Text>Belisarius</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BENJAMIN_BRITTEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BENJAMIN_BRITTEN">
 			<Text>Benjamin Britten</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BENJAMIN_FRANKLIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BENJAMIN_FRANKLIN">
 			<Text>Benjamin Franklin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BERNARDO_MARTORELL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BERNARDO_MARTORELL">
 			<Text>Bernardo Martorell</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BERTRAND_DE_BAR_SUR_AUBE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BERTRAND_DE_BAR_SUR_AUBE">
 			<Text>Bertrand de Bar-sur-Aube</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BHASA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BHASA">
 			<Text>Bhasa</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BI_SHENG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BI_SHENG">
 			<Text>Bi Sheng</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_BLAISE_PASCAL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BLAISE_PASCAL">
 			<Text>Blaise Pascal</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CAI_LUN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAI_LUN">
 			<Text>Cai Lun</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CAMILLE_SAINT_SAENS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAMILLE_SAINT_SAENS">
 			<Text>Camille Saint-Saëns</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CAO_CAO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAO_CAO">
 			<Text>Cao Cao</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CAO_XUEQIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAO_XUEQIN">
 			<Text>Cao Xueqin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CARAVAGGIO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARAVAGGIO">
 			<Text>Caravaggio</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CARLOS_CHAVEZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARLOS_CHAVEZ">
 			<Text>Carlos Chavez</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CARLOS_NAKAI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARLOS_NAKAI">
 			<Text>R. Carlos Nakai</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CARLO_GESUALDO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARLO_GESUALDO">
 			<Text>Carlo Gesualdo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CARL_FRIEDRICH_GAUSS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_FRIEDRICH_GAUSS">
 			<Text>Carl Friedrich Gauss</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CASPAR_DAVID_FRIEDRICH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CASPAR_DAVID_FRIEDRICH">
 			<Text>Caspar David Friedrich</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CECIL_BUSTAMENTE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CECIL_BUSTAMENTE">
 			<Text>Cecil Bustamente Campbell</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHANDRAGUPTA_MAURYA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHANDRAGUPTA_MAURYA">
 			<Text>Chandragupta Maurya</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_AUGUSTIN_DE_COULOMB">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_AUGUSTIN_DE_COULOMB">
 			<Text>Charles Augustin de Coulomb</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_DARWIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_DARWIN">
 			<Text>Charles Darwin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_DICKENS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_DICKENS">
 			<Text>Charles Dickens</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_IVES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_IVES">
 			<Text>Charles Ives</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_MARTEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_MARTEL">
 			<Text>Charles Martel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHIKAMATSU_MONZAEMON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHIKAMATSU_MONZAEMON">
 			<Text>Chikamatsu Monzaemon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CHRISTOPHER_COLUMBUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHRISTOPHER_COLUMBUS">
 			<Text>Christopher Columbus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CLAUDE_MONET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLAUDE_MONET">
 			<Text>Claude Monet</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CLAUSE_DEBUSSY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLAUSE_DEBUSSY">
 			<Text>Claude Debussy</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_COCO_CHANEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_COCO_CHANEL">
 			<Text>Coco Chanel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CORNELIUS_VANDERBILT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CORNELIUS_VANDERBILT">
 			<Text>Cornelius Vanderbilt</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_CROMWELL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CROMWELL">
 			<Text>Oliver Cromwell</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_DANTE_ALIGHIERI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DANTE_ALIGHIERI">
 			<Text>Dante Alighieri</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_DAVID_BLANASI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_BLANASI">
 			<Text>David Blanasi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_DUKE_ELLINGTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DUKE_ELLINGTON">
 			<Text>Duke Ellington</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_DU_FU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DU_FU">
 			<Text>Du Fu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_DVORAK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DVORAK">
 			<Text>Antonín Dvořák</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_D_H_LAWRENCE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D_H_LAWRENCE">
 			<Text>D.H. Lawrence</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EDGAR_ALLEN_POE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDGAR_ALLEN_POE">
 			<Text>Edgar Allan Poe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EDGAR_DEGAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDGAR_DEGAS">
 			<Text>Edgar Degas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EDMUND_LEIGHTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDMUND_LEIGHTON">
 			<Text>Edmund Leighton</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EDMUND_SPENSER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDMUND_SPENSER">
 			<Text>Edmund Spenser</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EDOUARD_MANET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDOUARD_MANET">
 			<Text>Edouard Manet</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EL_CID">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EL_CID">
 			<Text>El Cid</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EL_GRECO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EL_GRECO">
 			<Text>El Greco</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EMANUAL_LEUTZE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EMANUAL_LEUTZE">
 			<Text>Emanuel Leutze</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EMERICO_LOBO_DE_MESQUITA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EMERICO_LOBO_DE_MESQUITA">
 			<Text>Emerico Lobo de Mesquita</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EMILY_DICKENSON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EMILY_DICKENSON">
 			<Text>Emily Dickinson</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ENHEDUANNA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ENHEDUANNA">
 			<Text>Enheduanna</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ENRICO_DANDOLO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ENRICO_DANDOLO">
 			<Text>Enrico Dandolo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ENRICO_FERMI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ENRICO_FERMI">
 			<Text>Enrico Fermi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ERICO_DANDOLO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERICO_DANDOLO">
 			<Text>Enrico Dandolo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ERIK_SATIE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERIK_SATIE">
 			<Text>Erik Satie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ERNEST_RUTHERFORD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNEST_RUTHERFORD">
 			<Text>Ernest Rutherford</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ESTABAN_SALAS_Y_CASTRO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ESTABAN_SALAS_Y_CASTRO">
 			<Text>Esteban Salas y Castro</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EUCLID">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EUCLID">
 			<Text>Euclid</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EUGENE_DELACROIX">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EUGENE_DELACROIX">
 			<Text>Eugène Delacroix</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_EUGENE_OF_SAVOY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EUGENE_OF_SAVOY">
 			<Text>Eugene of Savoy</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_DA_LESSEPS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_DA_LESSEPS">
 			<Text>Ferdinand da Lesseps</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_DE_LESSEPS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_DE_LESSEPS">
 			<Text>Ferdinand de Lesseps</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_MAGELLAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_MAGELLAN">
 			<Text>Ferdinand Magellan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANCESCO_HAYEZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCESCO_HAYEZ">
 			<Text>Francesco Hayez</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_DE_GOYA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_DE_GOYA">
 			<Text>Francisco de Goya</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_MANUEL_DA_SILVA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_MANUEL_DA_SILVA">
 			<Text>Francisco Manuel da Silva</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_PIZARRO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_PIZARRO">
 			<Text>Francisco Pizarro</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_BACON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_BACON">
 			<Text>Francis Bacon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANCOIS_RABELAIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCOIS_RABELAIS">
 			<Text>Francois Rabelais</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANK_KAFKA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANK_KAFKA">
 			<Text>Frank Kafka</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANS_POST">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANS_POST">
 			<Text>Frans Post</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_JOSEF_HAYDN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_JOSEF_HAYDN">
 			<Text>Franz Joseph Haydn</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_LISZT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_LISZT">
 			<Text>Franz Liszt</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FREDERIC_CHOPIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FREDERIC_CHOPIN">
 			<Text>Frédéric Chopin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FREDERIC_REMINGTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FREDERIC_REMINGTON">
 			<Text>Frederic Remington</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_GAUSS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_GAUSS">
 			<Text>Friedrich Gauss</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_FYODOR_DOSTOYEVSKY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FYODOR_DOSTOYEVSKY">
 			<Text>Fyodor Dostoyevsky</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_F_SCOTT_FITZGERALD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_F_SCOTT_FITZGERALD">
 			<Text>F. Scott Fitzgerald</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GAIUS_MARIUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GAIUS_MARIUS">
 			<Text>Gaius Marius</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GALILEO_GALILEI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GALILEO_GALILEI">
 			<Text>Galileo Galilei</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GASPAR_FERNANDES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GASPAR_FERNANDES">
 			<Text>Gaspar Fernandes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEOFFREY_CHAUCER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEOFFREY_CHAUCER">
 			<Text>Geoffrey Chaucer</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_GERSHWIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_GERSHWIN">
 			<Text>George Gershwin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_GOWER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_GOWER">
 			<Text>George Gower</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_HANDEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_HANDEL">
 			<Text>George Frideric Handel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_HEALY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_HEALY">
 			<Text>George Peter Alexander Healy</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_SEURAT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_SEURAT">
 			<Text>George Seurat</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_WASHINGTON_GOETHALS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_WASHINGTON_GOETHALS">
 			<Text>George Washington Goethals</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GERONIMO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GERONIMO">
 			<Text>Geronimo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GILBERT_STUART">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GILBERT_STUART">
 			<Text>Gilbert Stuart</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIOTTO_DI_BONDONE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIOTTO_DI_BONDONE">
 			<Text>Giotto di Bondone</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_BELLINI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_BELLINI">
 			<Text>Giovanni Bellini</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_DE_MEDICI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_DE_MEDICI">
 			<Text>Giovanni de Medici</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_GABRIELI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_GABRIELI">
 			<Text>Giovanni Gabrieli</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_PIERLUIGI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIOVANNI_PIERLUIGI">
 			<Text>Giovanni Pierluigi da Palestrina</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIUSEPPE_ARCIMBOLDO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIUSEPPE_ARCIMBOLDO">
 			<Text>Giuseppe Arcimboldo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GIUSEPPE_VERDI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIUSEPPE_VERDI">
 			<Text>Giuseppe Verdi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GOTTFREID_LEIBNIZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTFREID_LEIBNIZ">
 			<Text>Gottfreid Leibniz</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GOTTFRIED_LEIBNIZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTFRIED_LEIBNIZ">
 			<Text>Gottfried Leibniz</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GRANT_DEVOLSON_WOOD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GRANT_DEVOLSON_WOOD">
 			<Text>Grant DeVolson Wood</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUERDIAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUERDIAN">
 			<Text>Guderian</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUGLIELMO_MARCONI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUGLIELMO_MARCONI">
 			<Text>Guglielmo Marconi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUIDO_DAREZZO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUIDO_DAREZZO">
 			<Text>Guido d'Arezzo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUILLAUME_DE_MACHAUT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUILLAUME_DE_MACHAUT">
 			<Text>Guillaume de Machaut</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUILLAUME_DUFAY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUILLAUME_DUFAY">
 			<Text>Guillaume Dufay</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVE_CAILLEBOTTE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVE_CAILLEBOTTE">
 			<Text>Gustave Caillebotte</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVUS_ADOLPHUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVUS_ADOLPHUS">
 			<Text>Gustavus Adolphus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUSTAV_HOLST">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAV_HOLST">
 			<Text>Gustav Holst</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUSTAV_KLIMPT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAV_KLIMPT">
 			<Text>Gustav Klimt</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_GUSTAV_MAHLER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAV_MAHLER">
 			<Text>Gustav Mahler</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HAMILCAR_BARCA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAMILCAR_BARCA">
 			<Text>Hamilcar Barca</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HANNA_PETROS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HANNA_PETROS">
 			<Text>Hanna Petros</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HANNO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HANNO">
 			<Text>Hanno</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HANS_HOLBEIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HANS_HOLBEIN">
 			<Text>Hans Holbein the Younger</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HARKUF">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HARKUF">
 			<Text>Harkuf</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HARRIET_BEECHER_STOWE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HARRIET_BEECHER_STOWE">
 			<Text>Harriet Beecher Stowe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HENRI_DE_TOULOUSE_LAUTREC">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_DE_TOULOUSE_LAUTREC">
 			<Text>Henri de Toulouse-Lautrec</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HENRI_ROUSSEAU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_ROUSSEAU">
 			<Text>Henri Rousseau</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HENRY_BESSEMER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_BESSEMER">
 			<Text>Henry Bessemer</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HENRY_DAVID_THOREAU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_DAVID_THOREAU">
 			<Text>Henry David Thoreau</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HENRY_FORD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_FORD">
 			<Text>Henry Ford</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HERMAN_MELVILLE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERMAN_MELVILLE">
 			<Text>Herman Melville</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HERNAN_CORTES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERNAN_CORTES">
 			<Text>Hernan Cortes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HERON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERON">
 			<Text>Heron</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HIRANAND">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HIRANAND">
 			<Text>Hiranand</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HOMER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HOMER">
 			<Text>Homer</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HORACE_VERNET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HORACE_VERNET">
 			<Text>Horace Vernet</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HUANG_GONGWANG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUANG_GONGWANG">
 			<Text>Huang Gongwang</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HUGO_WOLF">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUGO_WOLF">
 			<Text>Hugo Wolf</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_HYPATIA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HYPATIA">
 			<Text>Hypatia</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_H_G_WELLS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_H_G_WELLS">
 			<Text>H.G. Wells</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_IBN_BATTUTA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IBN_BATTUTA">
 			<Text>Ibn Battuta</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_IBN_MUQLAH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IBN_MUQLAH">
 			<Text>Ibn Muqlah</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ILYA_REPIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ILYA_REPIN">
 			<Text>Ilya Repin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_IMHOTEP">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IMHOTEP">
 			<Text>Imhotep</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ISAAC_NEWTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ISAAC_NEWTON">
 			<Text>Isaac Newton</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ISAMBARD_KINGDOM_BRUNEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ISAMBARD_KINGDOM_BRUNEL">
 			<Text>Isambard Kingdom Brunel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_IVAN_THE_TERRIBLE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IVAN_THE_TERRIBLE">
 			<Text>Iivana Julma</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JACOB_OBRECHT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JACOB_OBRECHT">
 			<Text>Jacob Obrecht</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JACQUES_CARTIER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JACQUES_CARTIER">
 			<Text>Jacques Cartier</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JACQUES_DAVID">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JACQUES_DAVID">
 			<Text>Jacques-Louis David</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JALAL_ALDIN_RUMI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JALAL_ALDIN_RUMI">
 			<Text>Jalal al-Din Rumi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAMES_CLERK_MAXWELL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_CLERK_MAXWELL">
 			<Text>James Clerk Maxwell</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAMES_COOK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_COOK">
 			<Text>James Cook</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAMES_FENIMORE_COOPER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_FENIMORE_COOPER">
 			<Text>James Fenimore Cooper</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAMES_WATT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_WATT">
 			<Text>James Watt</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAMES_WHISTLER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_WHISTLER">
 			<Text>James Abbott McNeill Whistler</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JANE_AUSTIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JANE_AUSTIN">
 			<Text>Jane Austen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAN_VAN_EYCK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_VAN_EYCK">
 			<Text>Jan Van Eyck</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JAN_VERMEER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_VERMEER">
 			<Text>Jan Vermeer</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JEANNE_DARC">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEANNE_DARC">
 			<Text>Jeanne d'Arc</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JEAN_CLOUET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_CLOUET">
 			<Text>Jean Clouet</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JEAN_FOUQUET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_FOUQUET">
 			<Text>Jean Fouquet</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JEAN_HONORE_FRAGONARD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_HONORE_FRAGONARD">
 			<Text>Jean Honore Fragonard</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JIAO_BINGZHEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JIAO_BINGZHEN">
 			<Text>Jiao Bingzhen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JI_KANG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JI_KANG">
 			<Text>Ji Kang</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_BRAHMS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_BRAHMS">
 			<Text>Johannes Brahms</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_KEPLER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_KEPLER">
 			<Text>Johannes Kepler</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_OCKEGHEM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_OCKEGHEM">
 			<Text>Johannes Ockeghem</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_VERMEER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANNES_VERMEER">
 			<Text>Johannes Vermeer</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_FRIEDRICH_VON_SCHILLER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_FRIEDRICH_VON_SCHILLER">
 			<Text>Johann Friedrich von Schiller</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_GOETHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_GOETHE">
 			<Text>Johann Wolfgang von Goethe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_SEBASTIAN_BACH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_SEBASTIAN_BACH">
 			<Text>Johann Sebastian Bach</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_STRAUSS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_STRAUSS">
 			<Text>Johann Strauss II</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_WOLFGANG_VON_GOETHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_WOLFGANG_VON_GOETHE">
 			<Text>Johann Wolfgang von Goethe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_ADAMS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_ADAMS">
 			<Text>John Adams</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_CAGE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_CAGE">
 			<Text>John Cage</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_DALTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_DALTON">
 			<Text>John Dalton</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_D_ROCKEFELLER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_D_ROCKEFELLER">
 			<Text>John D. Rockefeller</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_MAYNARD_KEYNES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_MAYNARD_KEYNES">
 			<Text>John Maynard Keynes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_ROEBLING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_ROEBLING">
 			<Text>John Roebling</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOHN_STUART_MILL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_STUART_MILL">
 			<Text>John Stuart Mill</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JORGE_ISAACS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JORGE_ISAACS">
 			<Text>Jorge Isaacs</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_CONRAD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_CONRAD">
 			<Text>Joseph Conrad</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_MARIE_JACQUARD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_MARIE_JACQUARD">
 			<Text>Joseph Marie Jacquard</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOSE_HERNANDEZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSE_HERNANDEZ">
 			<Text>Jose Hernandez</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOSQUIN_DES_PRES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSQUIN_DES_PRES">
 			<Text>Josquin des Prez</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JOZEF_BORSOS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOZEF_BORSOS">
 			<Text>József Borsos</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JS_BACH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JS_BACH">
 			<Text>J. S. Bach</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_JULES_VERNE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JULES_VERNE">
 			<Text>Jules Verne</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KALIDAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALIDAS">
 			<Text>Kalidas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KALIDASA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALIDASA">
 			<Text>Kalidasa</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KAMALEDDIN_BEHZAD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAMALEDDIN_BEHZAD">
 			<Text>Kamaleddin Behzad</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KANO_MASANOBU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KANO_MASANOBU">
 			<Text>Kano Masanobu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KARL_BRIULLOV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_BRIULLOV">
 			<Text>Karl Briullov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KATSUSHIKA_HOKUSAI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KATSUSHIKA_HOKUSAI">
 			<Text>Katsushika Hokusai</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KHALED_IBN_AL_WALID">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHALED_IBN_AL_WALID">
 			<Text>Khaled Ibn Al Walid</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KHUSRO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHUSRO">
 			<Text>Khusro</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_KI_NO_TSURAYUKI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KI_NO_TSURAYUKI">
 			<Text>Ki no Tsurayuki</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LANLING_XIAOXIAO_SHENG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LANLING_XIAOXIAO_SHENG">
 			<Text>Lanling Xiaoxiao Sheng</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LEIF_ERICKSON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEIF_ERICKSON">
 			<Text>Leif Erickson</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LEONARDO_DA_VINCI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEONARDO_DA_VINCI">
 			<Text>Leonardo da Vinci</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LEONIDAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEONIDAS">
 			<Text>Leonidas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LEWIS_CARROLL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEWIS_CARROLL">
 			<Text>Lewis Carroll</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LING_LUN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LING_LUN">
 			<Text>Ling Lun</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LI_PO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LI_PO">
 			<Text>Li Po</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LORD_NELSON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LORD_NELSON">
 			<Text>Lord Nelson</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_ARMSTRONG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_ARMSTRONG">
 			<Text>Louis Armstrong</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_BALLARD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_BALLARD">
 			<Text>Louis W. Ballard</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_DAGUERRE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_DAGUERRE">
 			<Text>Louis Daguerre</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_PASTEUR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_PASTEUR">
 			<Text>Louis Pasteur</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LUCIAN_SAMOSATA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUCIAN_SAMOSATA">
 			<Text>Lucian of Samosata</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LUDOVICO_ARIOSTO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUDOVICO_ARIOSTO">
 			<Text>Ludovico Ariosto</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LUDWIG_VAN_BEETHOVEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUDWIG_VAN_BEETHOVEN">
 			<Text>Ludwig van Beethoven</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LUDWIG_VON_BEETHOVEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUDWIG_VON_BEETHOVEN">
 			<Text>Ludwig von Beethoven</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_LYSANDER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LYSANDER">
 			<Text>Lysander</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_L_FRANK_BAUM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_L_FRANK_BAUM">
 			<Text>L. Frank Baum</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MANUEL_SAUMELL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MANUEL_SAUMELL">
 			<Text>Manuel Saumell</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARCO_POLO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCO_POLO">
 			<Text>Marco Polo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_PROUST">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_PROUST">
 			<Text>Marcel Proust</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARIE_CURIE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARIE_CURIE">
 			<Text>Marie Curie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARK_TWAIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARK_TWAIN">
 			<Text>Mark Twain</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARTIN_JOHNSON_HEADE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARTIN_JOHNSON_HEADE">
 			<Text>Martin Johnson Heade</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARY_CASSATT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARY_CASSATT">
 			<Text>Mary Cassatt</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MARY_SHELLEY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARY_SHELLEY">
 			<Text>Mary Shelley</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MAURICE_RAVEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAURICE_RAVEL">
 			<Text>Maurice Ravel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MAXIM_GORKY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAXIM_GORKY">
 			<Text>Maxim Gorky</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MEERABAI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MEERABAI">
 			<Text>Meerabai</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MERIT_PTAH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MERIT_PTAH">
 			<Text>Merit Ptah</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MESOMEDES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MESOMEDES">
 			<Text>Mesomedes of Crete</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MICHAELANGELO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHAELANGELO">
 			<Text>Michaelangelo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MICHAEL_FARADAY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHAEL_FARADAY">
 			<Text>Michael Faraday</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MICHELANGELO_BUONARROTI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHELANGELO_BUONARROTI">
 			<Text>Michelangelo Buonarroti</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MICHEL_DE_RUYTER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHEL_DE_RUYTER">
 			<Text>Michel de Ruyter</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MICHIEL_DE_RUYTER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHIEL_DE_RUYTER">
 			<Text>Michiel de Ruyter</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MIGUEL_DE_CERVANTES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MIGUEL_DE_CERVANTES">
 			<Text>Miguel de Cervantes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MIKHAIL_LOMONOSOV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MIKHAIL_LOMONOSOV">
 			<Text>Mikhail Lomonosov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MILES_DAVIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MILES_DAVIS">
 			<Text>Miles Davis</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MODEST_MUSSORGSKY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MODEST_MUSSORGSKY">
 			<Text>Modest Mussorgsky</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MONTGOMERY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MONTGOMERY">
 			<Text>Montgomery</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_MURASAKI_SHIKIBU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MURASAKI_SHIKIBU">
 			<Text>Murasaki Shikibu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NABU_RIMANNI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NABU_RIMANNI">
 			<Text>Nabu-rimanni</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NAIN_SINGH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAIN_SINGH">
 			<Text>Nain Singh</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NATHANIEL_HAWTHORNE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NATHANIEL_HAWTHORNE">
 			<Text>Nathaniel Hawthorne</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NATSUME_SOSEKI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NATSUME_SOSEKI">
 			<Text>Natsume Soseki</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NICCOLO_PAGANINI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NICCOLO_PAGANINI">
 			<Text>Niccolo Paganini</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NICHOLA_TESLA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NICHOLA_TESLA">
 			<Text>Nichola Tesla</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NICOLAUS_COPERNICUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NICOLAUS_COPERNICUS">
 			<Text>Nicolaus Copernicus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NIELS_BOHR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NIELS_BOHR">
 			<Text>Niels Bohr</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NIKOLAI_GOGOL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NIKOLAI_GOGOL">
 			<Text>Nikolai Gogol</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NIKOLAUS_AUGUST_OTTO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NIKOLAUS_AUGUST_OTTO">
 			<Text>Nikolaus August Otto</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_NOBERT_RILLIEUX">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NOBERT_RILLIEUX">
 			<Text>Norbert Rillieux</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ORLANDE_DE_LASSUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ORLANDE_DE_LASSUS">
 			<Text>Orlande de Lassus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ORVILLE_WRIGHT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ORVILLE_WRIGHT">
 			<Text>Orville Wright</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_OVID">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OVID">
 			<Text>Ovid</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PABLO_PICASSO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PABLO_PICASSO">
 			<Text>Pablo Picasso</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PAOLO_UCCELLO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAOLO_UCCELLO">
 			<Text>Paolo Uccello</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PATTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PATTON">
 			<Text>Patton</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PAUL_CEZANNE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_CEZANNE">
 			<Text>Paul Cezanne</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PAUL_DELAROCHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_DELAROCHE">
 			<Text>Paul Delaroche</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PAUL_GAUDUIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_GAUDUIN">
 			<Text>Paul Gauguin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PETER_BRUEGHEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETER_BRUEGHEL">
 			<Text>Pieter Brueghel the Elder</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PETER_PAUL_RUBENS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETER_PAUL_RUBENS">
 			<Text>Peter Paul Rubens</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PETRARCH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETRARCH">
 			<Text>Petrarch</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PETRUS_CHRISTUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETRUS_CHRISTUS">
 			<Text>Petrus Christus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PIERRE_AUGUSTE_ENOIR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIERRE_AUGUSTE_ENOIR">
 			<Text>Pierre-Auguste Renoir</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PIETER_BRUEGEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIETER_BRUEGEL">
 			<Text>Pieter Bruegel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PLATO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PLATO">
 			<Text>Plato</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PRINCE_BENBADHANABONGSE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PRINCE_BENBADHANABONGSE">
 			<Text>Prince Benbadhanabongse</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PTOLEMY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PTOLEMY">
 			<Text>Ptolemy</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PYOTR_ILYICH_TCHAIKOVSKY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PYOTR_ILYICH_TCHAIKOVSKY">
 			<Text>Pyotr Ilyich Tchaikovsky</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_PYTHEAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PYTHEAS">
 			<Text>Pytheas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_QIAN_XUAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_QIAN_XUAN">
 			<Text>Qian Xuan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_QIU_YING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_QIU_YING">
 			<Text>Qiu Ying</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_QU_YUAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_QU_YUAN">
 			<Text>Qu Yuan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RAFFAELLO_SANZO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAFFAELLO_SANZO">
 			<Text>Raffaello Sanzio</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RAJA_RAVI_VARMA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAJA_RAVI_VARMA">
 			<Text>Raja Ravi Varma</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RAJA_TODAR_MAL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAJA_TODAR_MAL">
 			<Text>Raja Todar Mal</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RAPHAEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAPHAEL">
 			<Text>Raphael</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_REMBRANDT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_REMBRANDT">
 			<Text>Rembrandt van Rijn</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RENE_DESCARTES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RENE_DESCARTES">
 			<Text>Rene Descartes</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_STRAUSS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_STRAUSS">
 			<Text>Richard Strauss</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_WAGNER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_WAGNER">
 			<Text>Richard Wagner</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_WHITTINGTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_WHITTINGTON">
 			<Text>Richard Whittington</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_LEE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_LEE">
 			<Text>Robert E. Lee</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ROMMEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROMMEL">
 			<Text>Rommel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ROSALIND_FRANKLIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROSALIND_FRANKLIN">
 			<Text>Rosalind Franklin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RRICHARD_WHITTINGTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RRICHARD_WHITTINGTON">
 			<Text>Richard Whittington</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RUBEN_DARIO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUBEN_DARIO">
 			<Text>Ruben Dario</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_RUDYARD_KIPLING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUDYARD_KIPLING">
 			<Text>Rudyard Kipling</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SAMUEL_MORSE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMUEL_MORSE">
 			<Text>Samuel F. B. Morse</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SANDRO_BOTTICELLI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SANDRO_BOTTICELLI">
 			<Text>Sandro Botticelli</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SARGON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SARGON">
 			<Text>Sargon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SAYED_DARWISH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAYED_DARWISH">
 			<Text>Sayed Darwish</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SCIPIO_AFRICANUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SCIPIO_AFRICANUS">
 			<Text>Scipio Africanus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SERGEY_IVANOV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SERGEY_IVANOV">
 			<Text>Sergey Vasilyevich Ivanov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SHAH_JAHAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHAH_JAHAN">
 			<Text>Shah Jahan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SHI_NAIAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHI_NAIAN">
 			<Text>Shi Nai'an</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SILVESTRE_REVUELTAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SILVESTRE_REVUELTAS">
 			<Text>Silvestre Revueltas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SINAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SINAN">
 			<Text>Sinan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SIR_ALEXANDER_MACKENZIE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIR_ALEXANDER_MACKENZIE">
 			<Text>Sir Alexander Mackenzie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SIR_THOMAS_ROE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIR_THOMAS_ROE">
 			<Text>Sir Thomas Roe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SOCRATES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SOCRATES">
 			<Text>Socrates</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SOLOMON_LINDA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SOLOMON_LINDA">
 			<Text>Solomon Linda</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SOPHOCLES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SOPHOCLES">
 			<Text>Sophocles</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_STEPHEN_CRANE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEPHEN_CRANE">
 			<Text>Stephen Crane</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_STEVE_REICH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEVE_REICH">
 			<Text>Steve Reich</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SUBUTAI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUBUTAI">
 			<Text>Subutai</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SULTAN_MUHAMMAD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SULTAN_MUHAMMAD">
 			<Text>Sultan Muhammad</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_SUN_TZU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUN_TZU">
 			<Text>Sun Tzu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TAIZAN_HIGUCHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAIZAN_HIGUCHI">
 			<Text>Taizan Higuchi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_THESPIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THESPIS">
 			<Text>Thespis</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_EDISON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_EDISON">
 			<Text>Thomas Edison</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_GAINSBOROUGH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_GAINSBOROUGH">
 			<Text>Thomas Gainsborough</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_MALORY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_MALORY">
 			<Text>Thomas Malory</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_TALLIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_TALLIS">
 			<Text>Thomas Tallis</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TIMUR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIMUR">
 			<Text>Timur</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TINTORETTO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TINTORETTO">
 			<Text>Tintoretto</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TITIAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TITIAN">
 			<Text>Titian</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TODAR_MAL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TODAR_MAL">
 			<Text>Todar Mal</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TORAJIRO_KASAI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TORAJIRO_KASAI">
 			<Text>Torajiro Kasai</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TOYOKUNI_UTAGAWA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOYOKUNI_UTAGAWA">
 			<Text>Toyokuni Utagawa</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_TYCHO_BRAHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TYCHO_BRAHE">
 			<Text>Tycho Brahe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_UEDA_AKINARI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UEDA_AKINARI">
 			<Text>Ueda Akinari</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ULVI_CEMAL_ERKIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ULVI_CEMAL_ERKIN">
 			<Text>Ulvi Cemal Erkin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_UTAGAWA_HIROSHIGE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UTAGAWA_HIROSHIGE">
 			<Text>Utagawa Hiroshige</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_UTAGAWA_KUNIYOSHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UTAGAWA_KUNIYOSHI">
 			<Text>Utagawa Kuniyoshi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VALMIKI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VALMIKI">
 			<Text>Valmiki</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VAN_DIEMEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VAN_DIEMEN">
 			<Text>Van Diemen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VASCO_DA_GAMA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VASCO_DA_GAMA">
 			<Text>Vasco da Gama</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VERCINGETORIX">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VERCINGETORIX">
 			<Text>Vercingetorix</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VICTOR_HUGO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VICTOR_HUGO">
 			<Text>Victor Hugo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VIKTOR_VASNETSOV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VIKTOR_VASNETSOV">
 			<Text>Viktor M. Vasnetsov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VINCENT_VAN_GOGH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VINCENT_VAN_GOGH">
 			<Text>Vincent van Gogh</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VIRGIL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VIRGIL">
 			<Text>Virgil</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VITTORIO_ALFIERI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VITTORIO_ALFIERI">
 			<Text>Vittorio Alfieri</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VOLTAIRE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VOLTAIRE">
 			<Text>Voltaire</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_VYASA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VYASA">
 			<Text>Vyasa</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WALT_WHITMAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WALT_WHITMAN">
 			<Text>Walt Whitman</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WANG_ANSHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WANG_ANSHI">
 			<Text>Wang Anshi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WANG_XIMENG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WANG_XIMENG">
 			<Text>Wang Ximeng</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WANG_XIZHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WANG_XIZHI">
 			<Text>Wang Xizhi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WASHINGTON_IRVING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WASHINGTON_IRVING">
 			<Text>Washington Irving</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WASITODININGRAT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WASITODININGRAT">
 			<Text>Wasitodiningrat</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WERNER_HEISENBERG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WERNER_HEISENBERG">
 			<Text>Werner Heisenberg</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILBUR_WRIGHT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILBUR_WRIGHT">
 			<Text>Wilbur Wright</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILHELM_SCHICKARD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILHELM_SCHICKARD">
 			<Text>Wilhelm Schickard</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_THE_YOUNGER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_THE_YOUNGER">
 			<Text>Willem van de Velde the Younger</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BOUGUEREAU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BOUGUEREAU">
 			<Text>William Bouguereau</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BYRD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BYRD">
 			<Text>William Byrd</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_MORTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_MORTON">
 			<Text>William Morton</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_SHAKESPEARE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_SHAKESPEARE">
 			<Text>William Shakespeare</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_SIMPSON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_SIMPSON">
 			<Text>William Simpson</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_THE_CONQUEROR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_THE_CONQUEROR">
 			<Text>Vilhelm Valloittaja</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WILLIAN_MORTON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAN_MORTON">
 			<Text>William T. G. Morton</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WINSLOW_HOMER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WINSLOW_HOMER">
 			<Text>Winslow Homer</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WOLFGANG_AMADEUS_MOZART">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WOLFGANG_AMADEUS_MOZART">
 			<Text>Wolfgang Amadeus Mozart</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_WOLFGANG_MOZART">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WOLFGANG_MOZART">
 			<Text>Wolfgang Amadeus Mozart</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_XI_LING_SHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_XI_LING_SHI">
 			<Text>Xi Ling Shi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YAMADA_KENGYO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YAMADA_KENGYO">
 			<Text>Yamada Kengyo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YAMAMOTO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YAMAMOTO">
 			<Text>Yamamoto</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YANAGAWA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YANAGAWA">
 			<Text>Yanagawa Shigenobu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YAN_LIBEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YAN_LIBEN">
 			<Text>Yan Liben</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YATSUHASHI_KENGYO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YATSUHASHI_KENGYO">
 			<Text>Yatsuhashi Kengyo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YOSHIDA_KENKO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YOSHIDA_KENKO">
 			<Text>Yoshida Kenko</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_YUNUS_EMRE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YUNUS_EMRE">
 			<Text>Yunus Emre</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_HENG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_HENG">
 			<Text>Zhang Heng</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_QIAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_QIAN">
 			<Text>Zhang Qian</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_ZUDUAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_ZUDUAN">
 			<Text>Zhang Zeduan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZHENG_HE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHENG_HE">
 			<Text>Zheng He</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZHUGE_LIANG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHUGE_LIANG">
 			<Text>Zhuge Liang</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZHUKOV">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHUKOV">
 			<Text>Zhukov</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZIRYAB">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZIRYAB">
 			<Text>Ziryab</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZURBARAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZURBARAN">
 			<Text>Francisco de Zurbarán</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_PERSON_ZU_CHONGZHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZU_CHONGZHI">
 			<Text>Zu Chongzhi</Text>
 		</Row>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	</Language_fi_FI>
 </GameData>

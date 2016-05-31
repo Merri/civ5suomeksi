@@ -118,7 +118,8 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY">
-			<Text>Karavaaniseralji|karavaaniseraljin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Karavaaniseralji|karavaaniseraljin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL">
 			<Text>Musiikkitalo|musiikkitalon</Text>
@@ -149,7 +150,8 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CIRCUS_MAXIMUS">
-			<Text>Circus Maximus|Circus Maximuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Circus Maximus|Circus Maximuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CN_TOWER">
 			<Text>Toronton CN Tower|Toronton CN Towerin</Text>
@@ -288,7 +290,8 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOTEL">
-			<Text>Hotelli|hotellin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Hotelli|hotellin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HOV">
 			<Text>Hof|hofin</Text>
@@ -422,12 +425,10 @@
 			<Text>Mogulien linnoitus|Mogulien linnoituksen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_BUILDING_MUSEUM">
 			<Text>Museo|museon</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD">
 			<Text>Muusikkoin kilta|muusikkoin killan</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
@@ -436,13 +437,13 @@
 			<Text>Kansallinen yliopisto|kansallisen yliopiston</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC">
 			<Text>Kansalliseepos|kansalliseepoksen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY">
-			<Text>Kansallisvaranto|kansallisvarannon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kansallisvaranto|kansallisvarannon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
 			<Text>Neuschwanstein|Neuschwansteinin</Text>
@@ -532,7 +533,6 @@
 			<Text>Pyramidit|Pyramidit</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
 			<Text>Kierrätyskeskus|kierrätyskeskuksen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
@@ -541,7 +541,6 @@
 			<Text>Punainen linnoitus|Punaisen linnoituksen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC">
 			<Text>Kuninkaallinen kirjasto|kuninkaallisen kirjaston</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
@@ -571,7 +570,8 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM">
-			<Text>Valtionmuseo|valtionmuseon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Valtionmuseo|valtionmuseon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STABLE">
 			<Text>Talli|tallin</Text>
@@ -618,7 +618,8 @@
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL">
-			<Text>Suezin kanava|Suezin kanavan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Suezin kanava|Suezin kanavan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TAJ_MAHAL">
 			<Text>Taj Mahal|Taj Mahalin</Text>
@@ -628,7 +629,6 @@
 			<Text>Temppeli|temppelin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_BUILDING_TEMPLE_DESC">
 			<Text>Temppeli|temppelin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
@@ -644,88 +644,122 @@
 		<Row Tag="TXT_KEY_BUILDING_THEATRE">
 			<Text>Teatteri|teatterin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
 			<Text>Dynamotorus|dynamotoruksen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER">
 			<Text>Kansallinen vierailukeskus|kansallisen vierailukeskuksen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE">
 			<Text>Kauppakorkea|kauppakorkean</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_UFFIZI">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UFFIZI">
 			<Text>Uffizi|Uffizin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_UNITED_NATIONS">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNITED_NATIONS">
 			<Text>Yhdistyneet kansakunnat|Yhdistyneet kansakunnat</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_UNIVERSITY">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY">
 			<Text>Yliopisto|yliopiston</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WALLS">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WALLS">
 			<Text>Muuri|muurin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC">
 			<Text>Babylonin muurit|Babylonin muurit</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WATERMILL">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WATERMILL">
 			<Text>Vesimylly|vesimyllyn</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WAT_DESC">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WAT_DESC">
 			<Text>Wat|watin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WINDMILL">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WINDMILL">
 			<Text>Tuulimylly|tuulimyllyn</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WORKSHOP">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WORKSHOP">
 			<Text>Työpaja|työpajan</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD">
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD">
 			<Text>Kirjoittajain kilta|kirjoittajain killan</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BUILDING_UNITED_NATIONS">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BUILDING_UNITED_NATIONS">
 			<Text>Pietarinkirkko|Pietarinkirkon</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM">
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM">
 			<Text>Apollo-ohjelma|Apollo-ohjelman</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT">
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT">
 			<Text>Manhattan-projekti|Manhattan-projektin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_PROJECT_UTOPIA_PROJECT">
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_UTOPIA_PROJECT">
 			<Text>Utopiaprojekti|utopiaprojektin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_BOOSTER">
+		</Row>
+		<Row Tag="TXT_KEY_SS_BOOSTER">
 			<Text>Sukkulan lähtökiihdytin|sukkulan lähtökiihdyttimen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_CASING">
+		</Row>
+		<Row Tag="TXT_KEY_SS_CASING">
 			<Text>Sukkulan kotelointi|sukkulan koteloinnin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_COCKPIT">
+		</Row>
+		<Row Tag="TXT_KEY_SS_COCKPIT">
 			<Text>Sukkulan ohjaamo|sukkulan ohjaamon</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_DOCKING_BAY">
+		</Row>
+		<Row Tag="TXT_KEY_SS_DOCKING_BAY">
 			<Text>Sukkulan lähtöteline|sukkulan lähtötelineen</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_ENGINE">
+		</Row>
+		<Row Tag="TXT_KEY_SS_ENGINE">
 			<Text>Sukkulan moottori|sukkulan moottorin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_LIFE_SUPPORT">
+		</Row>
+		<Row Tag="TXT_KEY_SS_LIFE_SUPPORT">
 			<Text>Sukkulan elämän ylläpito|sukkulan elämän ylläpidon</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_STASIS_CHAMBER">
+		</Row>
+		<Row Tag="TXT_KEY_SS_STASIS_CHAMBER">
 			<Text>Sukkulan horroskammio|sukkulan horroskammion</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SS_THRUSTERS">
+		</Row>
+		<Row Tag="TXT_KEY_SS_THRUSTERS">
 			<Text>Sukkulan kiihdytysjärjestelmä|sukkulan kiihdytysjärjestelmän</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE">
+		</Row>
+		<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE">
 			<Text>Sydneyn oopperatalo|Sydneyn oopperatalon</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_DESC">
-			<Text>Turkkilainen sauna|turkkilaisen saunan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
-			<Text>Merikoulu|merikoulun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE"><Text>Tapaamistalo|tapaamistalon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender></Row>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_DESC">
+			<Text>Turkkilainen sauna|turkkilaisen saunan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
+			<Text>Merikoulu|merikoulun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE">
+			<Text>Tapaamistalo|tapaamistalon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
 	</Language_fi_FI>
 </GameData>

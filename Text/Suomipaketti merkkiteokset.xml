@@ -1,506 +1,755 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_fi_FI>
-	
-	<Row Tag="TXT_KEY_GREAT_HENRY_VIII">
+		<Row Tag="TXT_KEY_GREAT_HENRY_VIII">
 			<Text>Henrik VIII</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_GIRL_WITH_PEARL_EARRING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_GIRL_WITH_PEARL_EARRING">
 			<Text>Girl with a Pearl Earring</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_1812_OVERTURE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_1812_OVERTURE">
 			<Text>1812 Overture</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ABHIJNANASAKUTALAM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ABHIJNANASAKUTALAM">
 			<Text>Abhijnanasakuntalam (Of Shantukala)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ADORATION">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ADORATION">
 			<Text>Adoration of the Magi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ADVENTURES_OF_HUCKLEBERRY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ADVENTURES_OF_HUCKLEBERRY">
 			<Text>Adventures of Huckleberry Finn</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AENEID">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AENEID">
 			<Text>Aeneid</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AGNUS_DEI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AGNUS_DEI">
 			<Text>Agnus Dei</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ALICES_ADVANTURES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ALICES_ADVANTURES">
 			<Text>Alice's Adventures in Wonderland</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ALONG_THE_RIVER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ALONG_THE_RIVER">
 			<Text>Along the River During Qingming Festival</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ALSO_SPRACH_ZARATHUSTRA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ALSO_SPRACH_ZARATHUSTRA">
 			<Text>Also Sprach Zarathustra</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AL_CAPONE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AL_CAPONE">
 			<Text>Al Capone</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AMERICAN_GOTHIC">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AMERICAN_GOTHIC">
 			<Text>American Gothic</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ANA_HAWEET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ANA_HAWEET">
 			<Text>Ana Haweet</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_APPRECIATING_LOTUSES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_APPRECIATING_LOTUSES">
 			<Text>Zhou Maoshu Appreciating Lotuses</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ARRANGEMENT_IN_GREY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ARRANGEMENT_IN_GREY">
 			<Text>Arrangement in Grey and Black: Portrait of the Artist's Mother</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ATTACK_ON_BEIJING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ATTACK_ON_BEIJING">
 			<Text>An attack on Beijing Castle during the Boxer Rebellion</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AT_THE_EDGE_OF_THE_BROOK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AT_THE_EDGE_OF_THE_BROOK">
 			<Text>At the Edge of the Brook</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AVE_MARIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AVE_MARIS">
 			<Text>Ave Maris Stella</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_AZUL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AZUL">
 			<Text>Azul</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_A_BAR_AT_THE_FOLIES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_BAR_AT_THE_FOLIES">
 			<Text>A Bar at the Folies-Bergère</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_A_CHRISTMAS_CAROL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_CHRISTMAS_CAROL">
 			<Text>A Christmas Carol</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_A_LA_RECHERCHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_LA_RECHERCHE">
 			<Text>À la recherche du temps perdu (In Search of Lost Time)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_A_THOUSAND_LI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_THOUSAND_LI">
 			<Text>A Thousand Li of Rivers and Mountains</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BABEL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BABEL">
 			<Text>Tower of Babel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
 			<Text>Bakshali Manuscript</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BALL_AT_THE_MOULIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BALL_AT_THE_MOULIN">
 			<Text>Ball at the Moulin Rouge</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BARRACK_ROOM_BALLADS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BARRACK_ROOM_BALLADS">
 			<Text>Barrack-Room Ballads</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BINDO_ALTOVITI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BINDO_ALTOVITI">
 			<Text>Portrait of Bindo Altoviti</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BIRTH_OF_VENUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BIRTH_OF_VENUS">
 			<Text>Birth of Venus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BLUE_BOY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BLUE_BOY">
 			<Text>The Blue Boy</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BONJOUR_MON_COEUR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BONJOUR_MON_COEUR">
 			<Text>Bonjour Mon Coeur</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BRANDENBERG_CONCERTOS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BRANDENBERG_CONCERTOS">
 			<Text>Brandenburg Concertos (Concerto III in G Major)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_BREEZING_UP">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BREEZING_UP">
 			<Text>Breezing Up (A Fair Wind)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CANDIDE_OU_LOPTIMISME">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CANDIDE_OU_LOPTIMISME">
 			<Text>Candide, ou l'Optimisme</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CANTERBURY_TALES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CANTERBURY_TALES">
 			<Text>The Canterbury Tales</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CAPRICE_NO_24">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CAPRICE_NO_24">
 			<Text>Caprice No. 24 in A Minor</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CARAVAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CARAVAN">
 			<Text>Caravan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CATHEDRALE_ENGLOUTIE">
-			<Text>La Cathedrale Engloutie ("The Sunken Cathedral")</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CEREMONIAL_SITTING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CATHEDRALE_ENGLOUTIE">
+			<Text>La Cathedrale Engloutie (&quot;The Sunken Cathedral&quot;)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CEREMONIAL_SITTING">
 			<Text>Ceremonial Sitting of the State Council on 7 May 1901</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CHAYKA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHAYKA">
 			<Text>Chayka (The Seagull)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CHILDS_BATH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHILDS_BATH">
 			<Text>The Child's Bath</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CHU_CI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHU_CI">
 			<Text>Chu Ci (Songs of the South)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CODEX_BORGIA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CODEX_BORGIA">
 			<Text>Codex Borgia</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CODEX_PEREZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CODEX_PEREZ">
 			<Text>Codex Perez</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CONTRADANZAS_CUBANAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CONTRADANZAS_CUBANAS">
 			<Text>Contradanzas Cubanas</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CREATION_OF_ADAM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CREATION_OF_ADAM">
 			<Text>Creation of Adam</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_CRUCIFIXION_OF_SAINT_PETER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CRUCIFIXION_OF_SAINT_PETER">
 			<Text>The Crucifixion of Saint Peter</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DAHA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAHA">
 			<Text>Daha (The Beating of the Waves)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DASH_FOR_TIMBER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DASH_FOR_TIMBER">
 			<Text>A Dash for the Timber</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DAS_VERLASSENE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAS_VERLASSENE">
 			<Text>Das Verlassene Mägdlein</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DAUD_RECEIVES_A_ROBE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAUD_RECEIVES_A_ROBE">
 			<Text>Da'ud Receives a Robe of Honor from Mun'im Khan</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DEAD_SEA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DEAD_SEA">
 			<Text>Dead Sea Scrolls</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DEATH_OF_MARAT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DEATH_OF_MARAT">
 			<Text>Death of Marat</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DIDGERIDOO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIDGERIDOO">
 			<Text>Didgeridoo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DIE_FLEDERMAUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIE_FLEDERMAUS">
 			<Text>Die Fledermaus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DIE_RAUBER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIE_RAUBER">
 			<Text>Die Rauber (The Robbers)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DIE_WALKURE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIE_WALKURE">
 			<Text>Die Walküre</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DIVINA_COMMEDIA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIVINA_COMMEDIA">
 			<Text>Divina Commedia (The Divine Comedy)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DUTCH_MEN_O_WAR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DUTCH_MEN_O_WAR">
 			<Text>Dutch men-o'-war and other shipping in a calm</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_DWELLING_IN_THE_FUCHUN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DWELLING_IN_THE_FUCHUN">
 			<Text>Dwelling in the Fuchun Mountains</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_EARLY_AUTUMN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EARLY_AUTUMN">
 			<Text>Early Autumn</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_EINE_KLEINE_NACHTMUSIC">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EINE_KLEINE_NACHTMUSIC">
 			<Text>Eine Kleine Nachtmusik</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ELECTRIC_COUNTERPOINT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ELECTRIC_COUNTERPOINT">
 			<Text>Electric Counterpoint III Fast</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_EL_INGENIOSO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EL_INGENIOSO">
 			<Text>Don Quixote</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_EMPEROR_TAIZONG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EMPEROR_TAIZONG">
 			<Text>Emperor Taizong Receiving the Tibetan Envoy</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_EQUESTRIAN_PORTRAIT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EQUESTRIAN_PORTRAIT">
 			<Text>Equestrian Portrait of Charles V</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ETIENNE_CHEVALIER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ETIENNE_CHEVALIER">
 			<Text>Etienne Chevalier with St. Stephen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ETUDE_OP_10">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ETUDE_OP_10">
 			<Text>Raindrop Prelude</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_EVENING_SHOWER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EVENING_SHOWER">
 			<Text>Evening Shower at Atake and the Great Bridge</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FABLES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FABLES">
 			<Text>Fables</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FAUST">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FAUST">
 			<Text>Faust: Der Tragodie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FIELD_WITH_SHEAFS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIELD_WITH_SHEAFS">
 			<Text>Field with sheafs</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FIFTH_SYMPHONY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIFTH_SYMPHONY">
 			<Text>Fifth Symphony</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FRANCIS_I">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRANCIS_I">
 			<Text>Francis I of France</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FRANKENSTEIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRANKENSTEIN">
 			<Text>Frankenstein</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FROM_THE_NEW_WORLD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FROM_THE_NEW_WORLD">
 			<Text>From the New World (Symphone No. 9 in E Minor)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_FRONT_OF_THE_MIRROR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRONT_OF_THE_MIRROR">
 			<Text>Naked Young Woman in Front of the Mirror</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GALLERY_OF_THE_LOUVRE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GALLERY_OF_THE_LOUVRE">
 			<Text>Gallery of the Louvre</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GENJI_MONOGATARI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GENJI_MONOGATARI">
 			<Text>Genji monogatari (The Tale of Genji)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GEORGE_WASHINGTON_PORTRAIT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GEORGE_WASHINGTON_PORTRAIT">
 			<Text>George Washington (Landsdowne portrait)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GIANT_MAGNOLIAS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GIANT_MAGNOLIAS">
 			<Text>Giant Magnolias on a Blue Velvet Cloth</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GILGAMESH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GILGAMESH">
 			<Text>Epic of Gilgamesh</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GIRART_DE_VIENNE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GIRART_DE_VIENNE">
 			<Text>Girart de Vienne</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GLORIA_LAUS_ET_HONOR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GLORIA_LAUS_ET_HONOR">
 			<Text>Gloria, Laus et Honor</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_GUANGLING_SAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GUANGLING_SAN">
 			<Text>Guangling San</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
 			<Text>Code of Hammurabi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HARBOR_IN_BALAKLAVA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HARBOR_IN_BALAKLAVA">
 			<Text>Embarkation of sick persons at the harbor in Balaklava</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HATAORI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HATAORI">
 			<Text>Hataori</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HONG_LOU_MENG">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HONG_LOU_MENG">
 			<Text>Hong Lou Meng (Dream of the Red Chamber)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_DANCES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_DANCES">
 			<Text>Hungarian Dances</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_RHAPSODY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_RHAPSODY">
 			<Text>Hungarian Rhapsody No. 2</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HUNTERS_IN_THE_SNOW">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNTERS_IN_THE_SNOW">
 			<Text>Hunters in the Snow</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_HYMN_TO_THE_MUSE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HYMN_TO_THE_MUSE">
 			<Text>Hymn to the Muse</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_IL_CANZONIERE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_IL_CANZONIERE">
 			<Text>Il Canzoniere (Song Book)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_IN_A_LANDSCAPE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_IN_A_LANDSCAPE">
 			<Text>In A Landscape</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_I_GOT_RHYTHM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_I_GOT_RHYTHM">
 			<Text>I Got Rhythm</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_JACQUES_AND_BERTHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JACQUES_AND_BERTHE">
 			<Text>Jacques and Berthe Lipchitz</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_JANE_GREY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JANE_GREY">
 			<Text>The Execution of Lady Jane Grey</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_JHAPTAL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JHAPTAL">
 			<Text>Jhaptal</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_JIN_PING_MEI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JIN_PING_MEI">
 			<Text>Jin Ping Mei (The Plum in the Gold Vase)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_JUSHICHIJO_KEMPO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JUSHICHIJO_KEMPO">
 			<Text>Jushichijo Kempo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_KATCINA_DANCES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KATCINA_DANCES">
 			<Text>Katcina Dances</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_KEDUKAN_BUKRIT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KEDUKAN_BUKRIT">
 			<Text>Kedukan Bukit Stone</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_KELLS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KELLS">
 			<Text>Book of Kells</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_KINDRED">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KINDRED">
 			<Text>Kindred Spirits</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_KOKIN_WAKASHU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KOKIN_WAKASHU">
 			<Text>Kokin wakashu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LADRANG_SRI_DUHITO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LADRANG_SRI_DUHITO">
 			<Text>Ladrang Sri-Duhito</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LADY_CHATTERLEYS_LOVER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LADY_CHATTERLEYS_LOVER">
 			<Text>Lady Chatterley's Lover</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LAMMA_BADA_YATATHANNA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAMMA_BADA_YATATHANNA">
 			<Text>Lamma Bada Yatathanna</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LANDSCAPE_WITH_ANT_BEAR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LANDSCAPE_WITH_ANT_BEAR">
 			<Text>Landscape with an Ant Bear</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LAST_CART">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAST_CART">
 			<Text>The Last Cartridges</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LAST_DAY_OF_POMPEII">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAST_DAY_OF_POMPEII">
 			<Text>The Last Day of Pompeii</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LAST_SUPPER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAST_SUPPER">
 			<Text>The Last Supper</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LAU_DUANG_DUEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAU_DUANG_DUEN">
 			<Text>Lao Duang Duen</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LA_FORZA_DEL_DESTINO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_FORZA_DEL_DESTINO">
 			<Text>Pace, pace mio Dio</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LA_VIE_DE_GARGANTUA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_VIE_DE_GARGANTUA">
 			<Text>La Vie de Gargantua et de Pantagruel</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LEAF_2">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LEAF_2">
 			<Text>Leaf 2 (Paintings of Ladies)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LEAVES_OF_GRASS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LEAVES_OF_GRASS">
 			<Text>Leaves of Grass</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LES_DEMOISELLES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_DEMOISELLES">
 			<Text>Les Demoiselles d'Avignon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LES_MISERABLES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_MISERABLES">
 			<Text>Les Miserables</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LES_TROIS_MOUSQUETAIRES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_TROIS_MOUSQUETAIRES">
 			<Text>Les Trois Mousquetaires (The Three Musketeers)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LE_MORTE_DARTHUR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LE_MORTE_DARTHUR">
 			<Text>Le Morte D'Arthur (The Death of Arthur)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LIBERTY_LEADING_THE_PEOPLE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LIBERTY_LEADING_THE_PEOPLE">
 			<Text>Liberty Leading the People</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LINEAR_B">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LINEAR_B">
 			<Text>Linear B Shards</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LULU">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LULU">
 			<Text>Lulu</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LUNCHEON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LUNCHEON">
 			<Text>Luncheon of the Boating Party</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_LYSISTRATA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LYSISTRATA">
 			<Text>Lysistrata</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_L_ABSINTHE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_L_ABSINTHE">
 			<Text>L'Absinthe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MACBETH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MACBETH">
 			<Text>Macbeth</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MAHABHARATA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAHABHARATA">
 			<Text>Mahabharata</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MARIA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MARIA">
 			<Text>Maria</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MARTIN_FIERRO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MARTIN_FIERRO">
 			<Text>Martin Fierro</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MASNAVI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASNAVI">
 			<Text>Masnavi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MAWANGDUI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAWANGDUI">
 			<Text>Mawangdui Silk Texts</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MBUBE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MBUBE">
 			<Text>Mbube</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MESSE_DE_NOSTRE_DAME">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MESSE_DE_NOSTRE_DAME">
 			<Text>Messe de Nostre Dame</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_METAMORPHOSES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_METAMORPHOSES">
 			<Text>Metamorphoses</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MEXICAN_EXPEDITION">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MEXICAN_EXPEDITION">
 			<Text>Scene from the Mexican Expedition in 1838</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MISSA_PAPAE_MARCELLI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MISSA_PAPAE_MARCELLI">
 			<Text>Missa Papae Marcelli: Kyrie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MOBY_DICK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOBY_DICK">
 			<Text>Moby Dick</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MONA_LISA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MONA_LISA">
 			<Text>Mona Lisa</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MORNING_STAR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MORNING_STAR">
 			<Text>Song For The Morning Star</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_MOVING_HOUSE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOVING_HOUSE">
 			<Text>Moving House</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_NAG_HAMMADI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NAG_HAMMADI">
 			<Text>Nag Hammadi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_NA_DNE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NA_DNE">
 			<Text>Na dne (The Lower Depths)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_NIGHT_ON_BALD_MOUNTAIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NIGHT_ON_BALD_MOUNTAIN">
 			<Text>Night on Bald Mountain</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_NIGHT_WATCH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NIGHT_WATCH">
 			<Text>The Night Watch</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_NIN_ME_SCHARA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NIN_ME_SCHARA">
 			<Text>Nin Me Schara</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_NYMPHES_DES_BOIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NYMPHES_DES_BOIS">
 			<Text>Nymphes des bois</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ODYSSEY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ODYSSEY">
 			<Text>Odyssey</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_OEDIPUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OEDIPUS">
 			<Text>Oedipus the King</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ORLANDO_FURIOSO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORLANDO_FURIOSO">
 			<Text>Orlando Furioso (The Frenzy of Orlando)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_O_MAGNUM_MYSTERIUM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_O_MAGNUM_MYSTERIUM">
 			<Text>O magnum mysterium</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PAPYRUS_ANI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PAPYRUS_ANI">
 			<Text>Papyrus of Ani</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PARADE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PARADE">
 			<Text>Parade</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PARTHENON_FRIEZE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PARTHENON_FRIEZE">
 			<Text>Phidias Showing the Frieze of the Parthenon to his Friends (Lawrence Alma-Tadema)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PAYOJI_MAINE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PAYOJI_MAINE">
 			<Text>Payoji Maine</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PEACEMAKERS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PEACEMAKERS">
 			<Text>The Peacemakers</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_POEMS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POEMS">
 			<Text>Poems</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_POICHE_LAVIDA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POICHE_LAVIDA">
 			<Text>Poiche l'avida sete</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_POPUP_WRITTEN_ARTIFACT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POPUP_WRITTEN_ARTIFACT">
 			<Text>Written Artifact</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_A_MAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_A_MAN">
 			<Text>Portrait of a Man in a Turban</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_CHITASEI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_CHITASEI">
 			<Text>Portrait of Chitasei Go Yo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_LOUIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_LOUIS">
 			<Text>Portrait of Louis François Roubiliac</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_NASSER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_NASSER">
 			<Text>Portrait of Nasser al-Din Shah Qajar</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PRESTIPLENIYE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PRESTIPLENIYE">
 			<Text>Prestupleniye i Nakazaniye (Crime and Punishment)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_PRIDE_AND_PREJUDICE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PRIDE_AND_PREJUDICE">
 			<Text>Pride and Prejudice</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RAMAYAMA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RAMAYAMA">
 			<Text>Ramayama</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RED_BADGE_OF_COURAGE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RED_BADGE_OF_COURAGE">
 			<Text>The Red Badge of Courage</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_REQUIEM_KYRIE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_REQUIEM_KYRIE">
 			<Text>Requiem: Kyrie</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_REVIZOR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_REVIZOR">
 			<Text>Revizor (The Government Inspector)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ROKUDAN_NO_SHIRABE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROKUDAN_NO_SHIRABE">
 			<Text>Rokudan No Shirabe</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_ROSETTA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROSETTA">
 			<Text>Rosetta Stone</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RUBAIYAT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUBAIYAT">
 			<Text>Rubaiyat</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RUBENS_AND_ISABELLA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUBENS_AND_ISABELLA">
 			<Text>Rubens and Isabella Brant in the Honeysuckle Bower</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RUE_DE_PARIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUE_DE_PARIS">
 			<Text>Paris Street; Rainy Day</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RUNESTONE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUNESTONE">
 			<Text>Roak Runestone</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_RUSSIAN_TSAR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUSSIAN_TSAR">
 			<Text>Russian tsar in XVI</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SAINT_FRANCIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_FRANCIS">
 			<Text>Saint Francis in Meditation</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_DRAGON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_DRAGON">
 			<Text>Saint George and the Dragon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_KILLING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_KILLING">
 			<Text>Saint George Killing the Dragon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SAINT_JEROME_IN_HIS_STUDY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_JEROME_IN_HIS_STUDY">
 			<Text>Saint Jerome in his Study</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SAKURAGARI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAKURAGARI">
 			<Text>Sakuragari</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SALVE_REGINA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SALVE_REGINA">
 			<Text>Salve Regina</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SALVE_REGINA_A_4">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SALVE_REGINA_A_4">
 			<Text>Salve Regina</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SATURN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SATURN">
 			<Text>Saturn</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SAUL">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAUL">
 			<Text>Saul</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SECOND_OF_MAY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SECOND_OF_MAY">
 			<Text>The Third of May 1808</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SELF_PORTRAIT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SELF_PORTRAIT">
 			<Text>Self portrait</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SENSEMAYA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SENSEMAYA">
 			<Text>Sensemaya</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SERMON_OF_SADNESS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SERMON_OF_SADNESS">
 			<Text>Sermon of Sadness</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SHAKER_LOOPS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHAKER_LOOPS">
 			<Text>Shaker Loops</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SHINJUTEN_NO_AMIJIMA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHINJUTEN_NO_AMIJIMA">
 			<Text>Shinjuten no Amijima (The Love Suicides of Amijima)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SHUIHU_ZHUAN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHUIHU_ZHUAN">
 			<Text>Shuihu Zhuan (Water Margin)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SINFONIA_INDIA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SINFONIA_INDIA">
 			<Text>Sinfonia India</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SPEM_IN_ALIUM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPEM_IN_ALIUM">
 			<Text>Spem In Alium</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SPRING_MORNING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPRING_MORNING">
 			<Text>Spring Morning in the Han Palace</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SRI_SHANMUKAHA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SRI_SHANMUKAHA">
 			<Text>Sri Shanmukaha Subramania Swami</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_STARRY_NIGHT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STARRY_NIGHT">
 			<Text>Starry Night</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_STRING_QUARTET">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STRING_QUARTET">
 			<Text>String Quartet in F</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SUMO_WRESTLER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SUMO_WRESTLER">
 			<Text>Sumo Wrestler Somagahana Fuchiemon</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SUNDAY_AFTERNOON">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SUNDAY_AFTERNOON">
 			<Text>Sunday Afternoon on the Island of La Grande-Jatte</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SYMPHONE_NO_93">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONE_NO_93">
 			<Text>Symphony No. 93</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_1">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_1">
 			<Text>Symphony No. 1</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_3">
-			<Text>Symphony No. 3 "with organ"</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_5">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_3">
+			<Text>Symphony No. 3 &quot;with organ&quot;</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_5">
 			<Text>Symphony No. 5</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_TE_DEUM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TE_DEUM">
 			<Text>Te Deum</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_ACCOLADE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ACCOLADE">
 			<Text>The Accolade</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_ARMADA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ARMADA">
 			<Text>The Armada Portrait of Elizabeth I</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_ASCENT_OF_MUHAMMAD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ASCENT_OF_MUHAMMAD">
 			<Text>The Ascent of Muhammad to Heaven</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_CARD_PLAYERS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CARD_PLAYERS">
 			<Text>The Card Players</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_FAERIE_QUEENE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_FAERIE_QUEENE">
 			<Text>The Faerie Queene</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_GATSBY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_GATSBY">
 			<Text>The Great Gatsby</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_WAVE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_WAVE">
 			<Text>Under the Wave off Kanagawa (the Great Wave)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_HOME_GUARD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_HOME_GUARD">
 			<Text>The Home Guard</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_KISS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_KISS">
 			<Text>The Kiss (Der Kuß)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_KISS_ALT">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_KISS_ALT">
 			<Text>The Kiss</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_LAST_OF_THE_MOHICANS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_LAST_OF_THE_MOHICANS">
 			<Text>The Last of the Mohicans</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_RAVEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_RAVEN">
 			<Text>The Raven and Other Poems</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_SIGN_OF_THE_FOUR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SIGN_OF_THE_FOUR">
 			<Text>The Sign of the Four</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_SKETCH_BOOK">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SKETCH_BOOK">
 			<Text>The Sketch Book of Geoffrey Crayon, Gent.</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_SWING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SWING">
 			<Text>The Swing</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_THE_TIME_MACHINE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TIME_MACHINE">
 			<Text>The Time Machine</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_TIGER_IN_TROPICAL_STORM">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TIGER_IN_TROPICAL_STORM">
 			<Text>Tiger in a Tropical Storm (Surprised!)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_TRUE_STORY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TRUE_STORY">
 			<Text>A True Story</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_TSUREZUREGUSA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TSUREZUREGUSA">
 			<Text>Tsurezuregusa (Essays in Idleness)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_TWICE_TOLD_TALE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TWICE_TOLD_TALE">
 			<Text>Twice-Told Tales</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_UGETSU_MONOGATARI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UGETSU_MONOGATARI">
 			<Text>Ugetsu monogatari (Tales of Moonlight and Rain)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_UNCLE_TOMS_CABIN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UNCLE_TOMS_CABIN">
 			<Text>Uncle Tom's Cabin</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_UPAUPA_SCHNEKLUD">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UPAUPA_SCHNEKLUD">
 			<Text>Upaupa Schneklud</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_URUBHANGA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_URUBHANGA">
 			<Text>Urubhanga (The Broken Thigh)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_UT_QUEANT_LAXIS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UT_QUEANT_LAXIS">
 			<Text>Ut Queant Laxis</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_VARIATIONS_ON_AMERICA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VARIATIONS_ON_AMERICA">
 			<Text>Variations on America</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_VERTUMNUS">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VERTUMNUS">
 			<Text>Vertumnus</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_VIEW_OF_TOLEDO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VIEW_OF_TOLEDO">
 			<Text>View of Toledo</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_VIGNT_MILLE_LIEUES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VIGNT_MILLE_LIEUES">
 			<Text>Vingt Mille Lieues sous les Mers (Twenty Thousand Leagues Under the Sea)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_VOYNA_I_MIR">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOYNA_I_MIR">
 			<Text>Voyna i Mir (War and Peace)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WAGAHAI_WA_NEKO">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WAGAHAI_WA_NEKO">
 			<Text>Wagahai wa neko de aru (I am a Cat)</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WALDEN">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WALDEN">
 			<Text>Walden</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WANDERER">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WANDERER">
 			<Text>The Wanderer Above the Sea of Fog</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WASHINGTON_CROSSING">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WASHINGTON_CROSSING">
 			<Text>Washington Crossing the Delaware</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WATER_LILIES">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WATER_LILIES">
 			<Text>Water Lilies</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WATER_MUSIC">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WATER_MUSIC">
 			<Text>Water Music</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WHIRLING_DERVISH">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WHIRLING_DERVISH">
 			<Text>Whirling Dervish</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_WONDERFUL_WIZARD_OF_OZ">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WONDERFUL_WIZARD_OF_OZ">
 			<Text>The Wonderful Wizard of Oz</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_XICOCHI">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XICOCHI">
 			<Text>Xicochi</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_YOUNG_LADY">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_YOUNG_LADY">
 			<Text>Portrait of a Young Girl</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_YOUNG_PERSONS_GUIDE">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_YOUNG_PERSONS_GUIDE">
 			<Text>Young Person's Guide to the Orchestra</Text>
-		</Row><Row Tag="TXT_KEY_GREAT_WORK_YUSEF_AND_ZULEYKHA">
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_YUSEF_AND_ZULEYKHA">
 			<Text>Yusef and Zuleykha</Text>
-		</Row></Language_fi_FI>
+		</Row>
+	</Language_fi_FI>
 </GameData>

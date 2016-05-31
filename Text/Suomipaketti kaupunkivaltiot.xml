@@ -3,9 +3,11 @@
 	<Language_fi_FI>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_CONNACHT">
 			<Text>Connacht</Text>
-		</Row><Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_CONNACHT_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_CONNACHT_ADJ">
 			<Text>Connachtin</Text>
-		</Row><Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GALLOWAY">
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GALLOWAY">
 			<Text>Galloway</Text>
 		</Row>
 		<Row Tag="TXT_KEY_1066_SCENARIO_CITYSTATE_GALLOWAY_ADJ">
@@ -172,16 +174,19 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_ADJ">
 			<Text>Geneven</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_GENOA">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA">
 			<Text>Genoa</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJ">
 			<Text>Genoan</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_HANOI">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI">
 			<Text>Hanoi</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJ">
 			<Text>Hanoin</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITYSTATE_HELSINKI">
 			<Text>Helsinki</Text>
 		</Row>
@@ -199,7 +204,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_ADJ">
 			<Text>Ifen</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_JAKARTA">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JAKARTA">
 			<Text>Jakarta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JAKARTA_ADJ">
@@ -216,16 +222,19 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_ADJ">
 			<Text>Kabulin</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_KATHMANDU">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU">
 			<Text>Katmandu</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJ">
 			<Text>Katmandun</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_KIEV">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV">
 			<Text>Kiova</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_KIEV_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_ADJ">
 			<Text>Kiovan</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR">
 			<Text>Kuala Lumpur</Text>
 		</Row>
@@ -322,7 +331,6 @@
 		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_ADJ">
 			<Text>Ormusin</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITYSTATE_OSLO">
 			<Text>Oslo</Text>
 		</Row>
@@ -371,8 +379,6 @@
 		<Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO_ADJ">
 			<Text>Rio de Janeiron</Text>
 		</Row>
-		
-		
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND">
 			<Text>Samarkand</Text>
 		</Row>
@@ -487,7 +493,6 @@
 		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_ADJ">
 			<Text>Wellingtonin</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
 			<Text>Wittenberg</Text>
 		</Row>
@@ -505,224 +510,348 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
 			<Text>Sanzibarin</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_ZURICH">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH">
 			<Text>Zürich</Text>
-		</Row><Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
 			<Text>Zürichin</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG">
 			<Text>Augsburg</Text>
-			
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_ADJ">
 			<Text>Augsburgin</Text>
-			
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE">
 			<Text>Cologne</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_ADJ">
 			<Text>Colognen</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK">
 			<Text>Gdansk</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_ADJ">
 			<Text>Gdanskin</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA">
 			<Text>Mekka</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_ADJ">
 			<Text>Mekan</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES">
 			<Text>Napoli</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_ADJ">
 			<Text>Napolin</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK">
 			<Text>Polatsk</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_ADJ">
 			<Text>Polatskin</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA">
 			<Text>Riika</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_ADJ">
 			<Text>Riikan</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS">
 			<Text>Tunis</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_ADJ">
 			<Text>Tunisin</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS">
 			<Text>Abbasidit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS_ADJ">
 			<Text>Abbasidien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS">
 			<Text>Ristiretkivaltiot</Text>
-		<Plurality>2</Plurality></Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS_ADJ">
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS_ADJ">
 			<Text>Ristiretkeläisten</Text>
-		<Plurality>2</Plurality></Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET">
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET">
 			<Text>Dai Viet</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET_ADJ">
 			<Text>Dai Vietin</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI">
 			<Text>Dali</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI_ADJ">
 			<Text>Dalin</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA">
 			<Text>Georgia</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA_ADJ">
 			<Text>Georgian</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY">
 			<Text>Unkari</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY_ADJ">
 			<Text>Unkarin</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA">
 			<Text>Korea</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA_ADJ">
 			<Text>Korean</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR">
 			<Text>Uiguuri</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR_ADJ">
 			<Text>Uiguurien</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA">
 			<Text>Läntinen Xia</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA_ADJ">
 			<Text>Läntisen Xian</Text>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
 			<Text>Algonkinit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
 			<Text>Algonkinien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
 			<Text>Anasazit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
 			<Text>Anasazien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
 			<Text>Arawakit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
 			<Text>Arawakien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
 			<Text>Caribit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
 			<Text>Caribien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
 			<Text>Cherokeet</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
 			<Text>Cherokeiden</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
 			<Text>Hopit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
 			<Text>Hopien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON">
 			<Text>Huronit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON_ADJ">
 			<Text>Huronien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
 			<Text>Inuiitit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
 			<Text>Inuiittien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
 			<Text>Lakotat</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
 			<Text>Lakotoiden</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
 			<Text>Mapuchet</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
 			<Text>Mapuchien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
 			<Text>Mayat</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
 			<Text>Mayojen</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
 			<Text>Muiscat</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
 			<Text>Muiscien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
 			<Text>Muskogeet</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
 			<Text>Muskogeiden</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
 			<Text>Seminolet</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
 			<Text>Seminolien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
 			<Text>Wabanakit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
 			<Text>Wabanakien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
 			<Text>Yanomamit</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
 			<Text>Yanomamien</Text>
 			<Plurality>2</Plurality>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
 			<Text>Fidzi</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI_ADJ">
 			<Text>Fidzin</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI">
 			<Text>Kiribati</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
 			<Text>Kiribatin</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO">
 			<Text>Majuro</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO_ADJ">
 			<Text>Majuron</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU">
 			<Text>Nauru</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
 			<Text>Naurun</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO">
 			<Text>Nendo</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO_ADJ">
 			<Text>Nendon</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI">
 			<Text>Pohnpei</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
 			<Text>Pohnpein</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU">
 			<Text>Vanuatu</Text>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU_ADJ">
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU_ADJ">
 			<Text>Vanuatun</Text>
-		</Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA"><Text>Calusat</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA_ADJ"><Text>Calusien</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA"><Text>Kambebat</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA_ADJ"><Text>Kambebien</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA"><Text>Karankawat</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA_ADJ"><Text>Karankawien</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC"><Text>Mixtecit</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC_ADJ"><Text>Mixtecien</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA"><Text>Taironat</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA_ADJ"><Text>Taironien</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN"><Text>Tzintzuntzanit</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN_ADJ"><Text>Tzintzuntzien</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT"><Text>Wendatit</Text><Plurality>2</Plurality></Row><Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT_ADJ"><Text>Wendatien</Text><Plurality>2</Plurality></Row><!-- Entiset kaupunkivaltiot, jotka kuuluvat nykyisin uusiin sivilisaatioihin
-		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_VIENNA"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_HELSINKI"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ"/>
-		--><!-- Entiset kaupunkivaltiot, joita käytetään DLC-pakettien sivilisaatioissa
-		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_OSLO"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_OSLO_ADJ"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_SEOUL"/>
-		<Delete Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ"/>
-		-->
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA">
+			<Text>Calusat</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA_ADJ">
+			<Text>Calusien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA">
+			<Text>Kambebat</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA_ADJ">
+			<Text>Kambebien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA">
+			<Text>Karankawat</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA_ADJ">
+			<Text>Karankawien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC">
+			<Text>Mixtecit</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC_ADJ">
+			<Text>Mixtecien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA">
+			<Text>Taironat</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA_ADJ">
+			<Text>Taironien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN">
+			<Text>Tzintzuntzanit</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN_ADJ">
+			<Text>Tzintzuntzien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT">
+			<Text>Wendatit</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT_ADJ">
+			<Text>Wendatien</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!-- Entiset kaupunkivaltiot, jotka kuuluvat nykyisin uusiin sivilisaatioihin
+		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN"/><Delete Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ"/><Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM"/><Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ"/><Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH"/><Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ"/><Delete Tag="TXT_KEY_CITYSTATE_VIENNA"/><Delete Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ"/><Delete Tag="TXT_KEY_CITYSTATE_HELSINKI"/><Delete Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ"/>-->
+		<!-- Entiset kaupunkivaltiot, joita käytetään DLC-pakettien sivilisaatioissa
+		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN"/><Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ"/><Delete Tag="TXT_KEY_CITYSTATE_OSLO"/><Delete Tag="TXT_KEY_CITYSTATE_OSLO_ADJ"/><Delete Tag="TXT_KEY_CITYSTATE_SEOUL"/><Delete Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ"/>-->
 	</Language_fi_FI>
 </GameData>

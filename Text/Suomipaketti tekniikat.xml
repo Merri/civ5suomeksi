@@ -2,604 +2,824 @@
 <GameData>
 	<Language_fi_FI>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH">
-			<Text>Tuleva tekniikka|tulevan tekniikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_TECH_INTERNET_TITLE">
-			<Text>Internet|internetin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tuleva tekniikka|tulevan tekniikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INTERNET_TITLE">
+			<Text>Internet|internetin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ACOUSTICS_TITLE">
-			<Text>Akustiikka|akustiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Akustiikka|akustiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_TITLE">
-			<Text>Edistynyt ballistiikka|edistyneen ballistiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Edistynyt ballistiikka|edistyneen ballistiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_AGRICULTURE_TITLE">
-			<Text>Maanviljely|maanviljelyn</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Maanviljely|maanviljelyn</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE">
-			<Text>Karjanhoito|karjanhoidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Karjanhoito|karjanhoidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHAEOLOGY_TITLE">
-			<Text>Arkeologia|arkeologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Arkeologia|arkeologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHERY_TITLE">
-			<Text>Jousiammunta|jousiammunnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Jousiammunta|jousiammunnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ASTRONOMY_TITLE">
-			<Text>Astronomia|astronomian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Astronomia|astronomian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ATOMIC_THEORY_TITLE">
-			<Text>Ydinteoria|ydinteorian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ydinteoria|ydinteorian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BALLISTICS_TITLE">
-			<Text>Ballistiikka|ballistiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ballistiikka|ballistiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BANKING_TITLE">
-			<Text>Pankkijärjestelmä|pankkijärjestelmän</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Pankkijärjestelmä|pankkijärjestelmän</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BIOLOGY_TITLE">
-			<Text>Biologia|biologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Biologia|biologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_TITLE">
-			<Text>Pronssin työstö|pronssin työstön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Pronssin työstö|pronssin työstön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALCULUS_TITLE">
-			<Text>Differiantaalilaskenta|differiantaalilaskennan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Differiantaalilaskenta|differiantaalilaskennan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CALENDAR_TITLE">
-			<Text>Kalenteri|kalenterin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kalenteri|kalenterin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHEMISTRY_TITLE">
-			<Text>Kemia|kemian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kemia|kemian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
-			<Text>Ritarillisuus|ritarillisuuden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ritarillisuus|ritarillisuuden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_TITLE">
-			<Text>Julkinen palvelus|julkisen palvelun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Julkinen palvelus|julkisen palvelun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION_TITLE">
-			<Text>Polttomoottori|polttomoottorin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Polttomoottori|polttomoottorin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS_TITLE">
-			<Text>Kompassi|kompassin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kompassi|kompassin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS_TITLE">
-			<Text>Tietokone|tietokoneen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tietokone|tietokoneen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION_TITLE">
-			<Text>Rakennustaito|rakennustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Rakennustaito|rakennustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CURRENCY_TITLE">
-			<Text>Valuutta|valuutan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Valuutta|valuutan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DYNAMITE_TITLE">
-			<Text>Dynamiitti|dynamiitin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Dynamiitti|dynamiitin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY_TITLE">
-			<Text>Ekologia|ekologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ekologia|ekologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECONOMICS_TITLE">
-			<Text>Kansantalous|kansantalouden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kansantalous|kansantalouden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EDUCATION_TITLE">
-			<Text>Koulutus|koulutuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Koulutus|koulutuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY_TITLE">
-			<Text>Sähkö|sähkön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sähkö|sähkön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRONICS_TITLE">
-			<Text>Sähköpiiri|sähköpiirin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sähköpiiri|sähköpiirin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_TITLE">
-			<Text>Insinööritaito|insinööritaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Insinööritaito|insinööritaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FERTILIZER_TITLE">
-			<Text>Lannoitus|lannoituksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Lannoitus|lannoituksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT_TITLE">
-			<Text>Lentäminen|lentämisen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Lentäminen|lentämisen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
-			<Text>Tulevaisuuden tiede|tulevaisuuden tieteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tulevaisuuden tiede|tulevaisuuden tieteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GLOBALIZATION_TITLE">
-			<Text>Globalisaatio|globalisaation</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Globalisaatio|globalisaation</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUNPOWDER_TITLE">
-			<Text>Ruuti|ruudin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ruuti|ruudin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
-			<Text>Ratsastustaito|ratsastustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ratsastustaito|ratsastustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_TITLE">
-			<Text>Raudan työstö|raudan työstön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Raudan työstö|raudan työstön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS_TITLE">
-			<Text>Laser|laserin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Laser|laserin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MACHINERY_TITLE">
-			<Text>Koneistus|koneistuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Koneistus|koneistuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASONRY_TITLE">
-			<Text>Muuraustaito|muuraustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Muuraustaito|muuraustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASS_MEDIA_TITLE">
-			<Text>Massamedia|massamedian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Massamedia|massamedian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MATHEMATICS_TITLE">
-			<Text>Matematiikka|matematiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Matematiikka|matematiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METAL_CASTING_TITLE">
-			<Text>Metallivalu|metallivalun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Metallivalu|metallivalun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY_TITLE">
-			<Text>Metallurgia|metallurgian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Metallurgia|metallurgian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_TITLE">
-			<Text>Sotatiede|sotatieteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sotatiede|sotatieteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MINING_TITLE">
-			<Text>Kaivostoiminta|kaivostoiminnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kaivostoiminta|kaivostoiminnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NANOTECHNOLOGY_TITLE">
-			<Text>Nanotekniikka|nanotekniikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Nanotekniikka|nanotekniikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NAVIGATION_TITLE">
-			<Text>Navigaatio|navigaation</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Navigaatio|navigaation</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_TITLE">
-			<Text>Ydinfissio|ydinfission</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ydinfissio|ydinfission</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NUCLEAR_FUSION_TITLE">
-			<Text>Ydinfuusio|ydinfuusion</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ydinfuusio|ydinfuusion</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_OPTICS_TITLE">
-			<Text>Optiikka|optiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Optiikka|optiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PARTICLE_PHYSICS_TITLE">
-			<Text>Hiukkasfysiikka|hiukkasfysiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Hiukkasfysiikka|hiukkasfysiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PATRONAGE_TITLE">
-			<Text>Mesenaattius|mesenaattiuden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Mesenaattius|mesenaattiuden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PENICILIN_TITLE">
-			<Text>Penisilliini|penisilliinin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Penisilliini|penisilliinin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_TITLE">
-			<Text>Filosofia|filosofian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Filosofia|filosofian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHYSICS_TITLE">
-			<Text>Fysiikka|fysiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Fysiikka|fysiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PLASTICS_TITLE">
-			<Text>Muovit|muovit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Muovit|muovit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY_TITLE">
-			<Text>Keramiikka|keramiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Keramiikka|keramiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PRINTING_PRESS_TITLE">
-			<Text>Kirjapaino|kirjapainon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kirjapaino|kirjapainon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PUBLISHING_TITLE">
-			<Text>Julkaisutoiminta|julkaisutoiminnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Julkaisutoiminta|julkaisutoiminnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADAR_TITLE">
-			<Text>Tutka|tutkan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tutka|tutkan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO_TITLE">
-			<Text>Radio|radion</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Radio|radion</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RAILROAD_TITLE">
-			<Text>Rautatie|rautatien</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Rautatie|rautatien</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION_TITLE">
-			<Text>Pakastus|pakastuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Pakastus|pakastuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE">
-			<Text>Vaihto-osat|vaihto-osat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vaihto-osat|vaihto-osat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RIFLING_TITLE">
-			<Text>Rihlaus|rihlauksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Rihlaus|rihlauksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS_TITLE">
-			<Text>Robotiikka|robotiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Robotiikka|robotiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY_TITLE">
-			<Text>Raketit|raketit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Raketit|raketit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING_TITLE">
-			<Text>Purjehdus|purjehduksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Purjehdus|purjehduksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SATELLITES_TITLE">
-			<Text>Satelliitit|satelliitit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Satelliitit|satelliitit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_TITLE">
-			<Text>Tieteellinen menetelmä|tieteellisen menetelmän</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tieteellinen menetelmä|tieteellisen menetelmän</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEALTH_TITLE">
-			<Text>Häive|häiveen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Häive|häiveen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER_TITLE">
-			<Text>Höyryvoima|höyryvoiman</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Höyryvoima|höyryvoiman</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL_TITLE">
-			<Text>Teräs|teräksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Teräs|teräksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELEGRAPH_TITLE">
-			<Text>Lennätin|lennättimen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Lennätin|lennättimen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THE_WHEEL_TITLE">
-			<Text>Pyörä|pyörän</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Pyörä|pyörän</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_THEOLOGY_TITLE">
-			<Text>Teologia|teologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Teologia|teologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRADE_HEADING4_TITLE">
-			<Text>Kaupankäynti|kaupankäynnin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kaupankäynti|kaupankäynnin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TRAPPING_TITLE">
-			<Text>Loukkumetsästys|loukkumetsästyksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Loukkumetsästys|loukkumetsästyksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_WRITING_TITLE">
-			<Text>Kirjoitustaito|kirjoitustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kirjoitustaito|kirjoitustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADAR">
-			<Text>Tutka|tutkan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tutka|tutkan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RADIO">
-			<Text>Radio|radion</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Radio|radion</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FLIGHT">
-			<Text>Lentäminen|lentämisen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Lentäminen|lentämisen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS">
-			<Text>Laser|laserin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Laser|laserin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECOLOGY">
-			<Text>Ekologia|ekologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ekologia|ekologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PLASTIC">
-			<Text>Muovi|muovin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Muovi|muovin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEALTH">
-			<Text>Häive|häiveen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Häive|häiveen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROBOTICS">
-			<Text>Robotiikka|robotiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Robotiikka|robotiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHAEOLOGY">
-			<Text>Arkeologia|arkeologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Arkeologia|arkeologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ATOMICTHEORY">
-			<Text>Ydinteoria|ydinteorian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ydinteoria|ydinteorian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BALLISTICS">
-			<Text>Ballistiikka|ballistiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ballistiikka|ballistiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBUSTION">
-			<Text>Polttomoottori|polttomoottorin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Polttomoottori|polttomoottorin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPUTERS">
-			<Text>Tietokoneet|tietokoneet</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tietokoneet|tietokoneet</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRONICS">
-			<Text>Sähköpiiri|sähköpiirin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sähköpiiri|sähköpiirin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GLOBALIZATION">
-			<Text>Globalisaatio|globalisaation</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Globalisaatio|globalisaation</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASSMEDIA">
-			<Text>Massamedia|massamedian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Massamedia|massamedian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NANOTECHNOLOGY">
-			<Text>Nanoteknologia|nanoteknologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Nanoteknologia|nanoteknologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NUCLEARFISSION">
-			<Text>Ydinfissio|ydinfission</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ydinfissio|ydinfission</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_NUCLEARFUSION">
-			<Text>Ydinfuusio|ydinfuusion</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ydinfuusio|ydinfuusion</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PARTICLEPHYSICS">
-			<Text>Hiukkasfysiikka|hiukkasfysiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Hiukkasfysiikka|hiukkasfysiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PUBLISHING">
-			<Text>Julkaisutoiminta|julkaisutoiminnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Julkaisutoiminta|julkaisutoiminnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REFRIGERATION">
-			<Text>Pakastus|pakastuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Pakastus|pakastuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_REPLACEABLEPARTS">
-			<Text>Vaihto-osat|vaihto-osat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vaihto-osat|vaihto-osat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ROCKETRY">
-			<Text>Raketit|raketit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Raketit|raketit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SATELLITES">
-			<Text>Satelliitit|satelliitit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Satelliitit|satelliitit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SCIENTIFICTHEORY">
-			<Text>Tieteellinen menetelmä|tieteellisen menetelmän</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tieteellinen menetelmä|tieteellisen menetelmän</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELEGRAPH">
-			<Text>Lennätin|lennättimen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Lennätin|lennättimen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ALPHABET">
-			<Text>Aakkoset|aakkoset</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Aakkoset|aakkoset</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY">
-			<Text>Karjanhoito|karjanhoidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Karjanhoito|karjanhoidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BIOLOGY">
-			<Text>Biologia|biologian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Biologia|biologian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING">
-			<Text>Pronssin työstö|pronssin työstön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Pronssin työstö|pronssin työstön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHEMISTRY">
-			<Text>Kemia|kemian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kemia|kemian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY">
-			<Text>Ritarillisuus|ritarillisuuden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ritarillisuus|ritarillisuuden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMPASS">
-			<Text>Kompassi|kompassin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kompassi|kompassin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CONSTRUCTION">
-			<Text>Rakennustaito|rakennustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Rakennustaito|rakennustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DYNAMITE">
-			<Text>Dynamiitti|dynamiitin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Dynamiitti|dynamiitin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ECONOMICS">
-			<Text>Kansantalous|kansantalouden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kansantalous|kansantalouden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_EDUCATION">
-			<Text>Koulutus|koulutuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Koulutus|koulutuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ELECTRICITY">
-			<Text>Sähkö|sähkön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sähkö|sähkön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING">
-			<Text>Insinööritaito|insinööritaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Insinööritaito|insinööritaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUNPOWDER">
-			<Text>Ruuti|ruudin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ruuti|ruudin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING">
-			<Text>Ratsastustaito|ratsastustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ratsastustaito|ratsastustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
-			<Text>Vaihdettavat osat|vaihdettavat osat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vaihdettavat osat|vaihdettavat osat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING">
-			<Text>Raudan työstö|raudan työstön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Raudan työstö|raudan työstön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MACHINERY">
-			<Text>Koneistus|koneistuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Koneistus|koneistuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MASONRY">
-			<Text>Muuraustaito|muuraustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Muuraustaito|muuraustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MATHEMATICS">
-			<Text>Matematiikka|matematiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Matematiikka|matematiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MEDICINE">
-			<Text>Lääketiede|lääketieteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Lääketiede|lääketieteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METAL_CASTING">
-			<Text>Metallivalu|metallivalun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Metallivalu|metallivalun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_METALLURGY">
-			<Text>Metallurgia|metallurgian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Metallurgia|metallurgian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE">
-			<Text>Sotatiede|sotatieteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sotatiede|sotatieteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MINING">
-			<Text>Kaivostoiminta|kaivostoiminnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kaivostoiminta|kaivostoiminnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHYSICS">
-			<Text>Fysiikka|fysiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Fysiikka|fysiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_POTTERY">
-			<Text>Keramiikka|keramiikan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Keramiikka|keramiikan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RAILROAD">
-			<Text>Rautatie|rautatien</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Rautatie|rautatien</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RIFLING">
-			<Text>Rihlaus|rihlauksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Rihlaus|rihlauksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SAILING">
-			<Text>Purjehdustaito|purjehdustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Purjehdustaito|purjehdustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_SCIENTIFIC_METHOD">
-			<Text>Tieteellinen menetelmä|tieteellisen menetelmän</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tieteellinen menetelmä|tieteellisen menetelmän</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEAM_POWER">
-			<Text>Höyryvoima|höyryvoiman</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Höyryvoima|höyryvoiman</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_STEEL">
-			<Text>Teräs|teräksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Teräs|teräksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_WRITING">
-			<Text>Kirjoitustaito|kirjoitustaidon</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kirjoitustaito|kirjoitustaidon</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
-			<Text>Imperialismi|imperialismin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Imperialismi|imperialismin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
-			<Text>Laivaston perinteet|laivaston perinteet</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Laivaston perinteet|laivaston perinteet</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
-			<Text>Ammattisotilaat|ammattisotilaat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ammattisotilaat|ammattisotilaat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
-			<Text>Merirosvous|merirosvouden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Merirosvous|merirosvouden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
-			<Text>Sotalaivat|sotalaivat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Sotalaivat|sotalaivat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
-			<Text>Kaarti|kaartin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kaarti|kaartin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
-			<Text>Uskonnolliset käskyt|uskonnolliset käskyt</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Uskonnolliset käskyt|uskonnolliset käskyt</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
-			<Text>Aarrelaivasto|aarrelaivaston</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Aarrelaivasto|aarrelaivaston</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE">
-			<Text>Arkkitehtuuri|arkkitehtuurin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Arkkitehtuuri|arkkitehtuurin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_TITLE">
-			<Text>Arkkitehtuuri|arkkitehtuurin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Arkkitehtuuri|arkkitehtuurin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS">
-			<Text>Killat|killat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Killat|killat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_GUILDS_TITLE">
-			<Text>Killat|killat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Killat|killat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS">
-			<Text>Joukkojen yhteistoiminta|joukkojen yhteistoiminnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Joukkojen yhteistoiminta|joukkojen yhteistoiminnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_TITLE">
-			<Text>Joukkojen yhteistoiminta|joukkojen yhteistoiminnan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Joukkojen yhteistoiminta|joukkojen yhteistoiminnan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA">
-			<Text>Draama ja runo|draaman ja runouden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Draama ja runo|draaman ja runouden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_DRAMA_TITLE">
-			<Text>Draama ja runo|draaman ja runouden</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Draama ja runo|draaman ja runouden</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS">
-			<Text>Vesivoima|vesivoiman</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vesivoima|vesivoiman</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS_TITLE">
-			<Text>Vesivoima|vesivoiman</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vesivoima|vesivoiman</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION">
-			<Text>Teollistuminen|teollistumisen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Teollistuminen|teollistumisen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_TITLE">
-			<Text>Teollistuminen|teollistumisen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Teollistuminen|teollistumisen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS">
-			<Text>Liikkuva sodankäynti|liikkuvan sodankäynnin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Liikkuva sodankäynti|liikkuvan sodankäynnin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_TITLE">
-			<Text>Liikkuva sodankäynti|liikkuvan sodankäynnin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Liikkuva sodankäynti|liikkuvan sodankäynnin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM">
-			<Text>Tietoliikenne|tietoliikenteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tietoliikenne|tietoliikenteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_TELECOM_TITLE">
-			<Text>Tietoliikenne|tietoliikenteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tietoliikenne|tietoliikenteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_TITLE">
-			<Text>Analoginen laskenta|analogisen laskennan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Analoginen laskenta|analogisen laskennan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_TITLE">
-			<Text>Analyyttinen kone|analyyttisen koneen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Analyyttinen kone|analyyttisen koneen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_TITLE">
-			<Text>Talousimperialismi|talousimperialismin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Talousimperialismi|talousimperialismin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_TITLE">
-			<Text>Työntövoima|työntövoiman</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Työntövoima|työntövoiman</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_TITLE">
-			<Text>Purkausvoima|purkausvoiman</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Purkausvoima|purkausvoiman</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_TITLE">
-			<Text>Tutkimusmatkailu|tutkimusmatkailun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Tutkimusmatkailu|tutkimusmatkailun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_TITLE">
-			<Text>Vertikaalinen integraatio|vertikaalisen integraation</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vertikaalinen integraatio|vertikaalisen integraation</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_TITLE">
-			<Text>Maalaivat|maalaivat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Maalaivat|maalaivat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_TITLE">
-			<Text>Jalot velvoitteet|jalöt velvoitteet</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Jalot velvoitteet|jalöt velvoitteet</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_TITLE">
-			<Text>Ilmalaivat|ilmalaivat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ilmalaivat|ilmalaivat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_TITLE">
-			<Text>Hirveä polte|hirveän poltteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Hirveä polte|hirveän poltteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_TITLE">
-			<Text>Vaurauden julistus|vaurauden julistuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Vaurauden julistus|vaurauden julistuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_TITLE">
-			<Text>Itsenäisteet|itsenäisteet</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Itsenäisteet|itsenäisteet</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_TITLE">
-			<Text>Taivastutkimus|taivastutkimuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Taivastutkimus|taivastutkimuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_TITLE">
-			<Text>Galvanomagnetismi|galvanomagnetismin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Galvanomagnetismi|galvanomagnetismin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_TITLE">
-			<Text>Kansalaispuolustus|kansalaispuolustuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Kansalaispuolustus|kansalaispuolustuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_TITLE">
-			<Text>Maaleviatanit|maaleviatanit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Maaleviatanit|maaleviatanit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_TITLE">
-			<Text>Taivaslinnoitus|taivaslinnoituksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Taivaslinnoitus|taivaslinnoituksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_TITLE">
-			<Text>Ikiliike|ikiliikkeen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ikiliike|ikiliikkeen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_TITLE">
-			<Text>Maanalainen tutkimus|maanalaisen tutkimuksen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Maanalainen tutkimus|maanalaisen tutkimuksen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_TITLE">
-			<Text>Teknokratia|teknokratian</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Teknokratia|teknokratian</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_TITLE">
-			<Text>Ylväs idea|ylvään idean</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE">
-			<Text>Kalanviljely|kalanviljelyn</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE">
-			<Text>Seremoniatanssi|seremoniatanssin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING">
-			<Text>Koristeveisto|koristeveiston</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO">
-			<Text>Tatuointi|tatuoinnin</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING">
-			<Text>Merenkulku|merenkulun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_TITLE">
-			<Text>Ilmatiedustelu|ilmatiedustelun</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_TITLE">
-			<Text>Ratsuväen ryöstöretket|ratsuväen ryöstöretket</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_TITLE">
-			<Text>Insinöörit|insinöörit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_TITLE">
-			<Text>Vallitukset|vallitukset</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_TITLE">
-			<Text>Kenttäsairaalat|kenttäsairaalat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_TITLE">
-			<Text>Teollistuminen|teollistumisen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_TITLE">
-			<Text>Panssarilaivat|panssarilaivat</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_TITLE">
-			<Text>Sotilasrautatiet|sotilasrautatiet</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_TITLE">
-			<Text>Sotilastiede|sotilastieteen</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE">
-			<Text>Itselataavat kiväärit|itselataavat kiväärit</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_TITLE">
-			<Text>Rihlattu tykistö|rihlatun tykistön</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
-		</Row><Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_TITLE">
-			<Text>Poltettu maa|poltetun maan</Text><Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+			<Text>Ylväs idea|ylvään idean</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE">
+			<Text>Kalanviljely|kalanviljelyn</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE">
+			<Text>Seremoniatanssi|seremoniatanssin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING">
+			<Text>Koristeveisto|koristeveiston</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO">
+			<Text>Tatuointi|tatuoinnin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING">
+			<Text>Merenkulku|merenkulun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_TITLE">
+			<Text>Ilmatiedustelu|ilmatiedustelun</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_TITLE">
+			<Text>Ratsuväen ryöstöretket|ratsuväen ryöstöretket</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_TITLE">
+			<Text>Insinöörit|insinöörit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_TITLE">
+			<Text>Vallitukset|vallitukset</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_TITLE">
+			<Text>Kenttäsairaalat|kenttäsairaalat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_TITLE">
+			<Text>Teollistuminen|teollistumisen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_TITLE">
+			<Text>Panssarilaivat|panssarilaivat</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_TITLE">
+			<Text>Sotilasrautatiet|sotilasrautatiet</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_TITLE">
+			<Text>Sotilastiede|sotilastieteen</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE">
+			<Text>Itselataavat kiväärit|itselataavat kiväärit</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_TITLE">
+			<Text>Rihlattu tykistö|rihlatun tykistön</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_TITLE">
+			<Text>Poltettu maa|poltetun maan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 	</Language_fi_FI>
 </GameData>

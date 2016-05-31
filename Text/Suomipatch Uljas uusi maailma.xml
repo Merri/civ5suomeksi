@@ -1802,7 +1802,8 @@
 			<Set>
 				<Text>Kaupunkien välillä on yhteys, mikäli pääkaupungin ja toisen kaupungin välillä on tie. Kaupunkiyhteydet antavat sivilisaatiollesi kultaa joka vuoro. Etuisuuden määrä riippuu kaupunkien koosta. (Satamat voivat myös luoda yhteyden kaupunkien välille.) Katso artikkeli kaupunkiyhteyksistä saadaksesi lisätietoa.</Text>
 			</Set>
-		</Update><Update>
+		</Update>
+		<Update>
 			<Where>
 				<Tag>TXT_KEY_BUILDING_THEATRE</Tag>
 			</Where>

@@ -257,7 +257,6 @@
 		<!-- Uljas uusi maailma -->
 		<Row Tag="TXT_KEY_TRAIT_BOER">
 			<Text>+1 [ICON_CULTURE] kulttuuria ja +1 [ICON_FOOD] ruokaa kustakin maatilasta.</Text>
-
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_BOER_SHORT">
 			<Text>Suuri vaellus</Text>
@@ -290,7 +289,7 @@
 			<Text>Luonnonvarojen monipuolisuus antaa Portugalille kaksinkertaisesti [ICON_GOLD] kultaa kauppareiteillä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE_SHORT">
-			<Text>Mare clausum, "suljettu meri"</Text>
+			<Text>Mare clausum, &quot;suljettu meri&quot;</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT">
 			<Text>Yksiköt eivät huomioi maaston hidasteita kulkiessaan mäelle sekä liikkuvat nopeammin jokien varrella.</Text>
@@ -356,7 +355,7 @@
 			<Text>Uitossa olevilla yksiköillä on +1 [ICON_MOVES] liikkuvuutta ja rantautuminen vie vain 1 liikepisteen.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS_SHORT">
-			<Text>Mare nostrum, "meidän meremme"</Text>
+			<Text>Mare nostrum, &quot;meidän meremme&quot;</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU">
 			<Text>25% taisteluetu, mikäli yksikkömme taistelee sellaista vihollisen yksikköä vastaan, joka vaatii kehittyneemmän teknologian.</Text>
@@ -419,7 +418,7 @@
 			<Text>Terveellistä ryöväilyä</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES">
-			<Text>Meriyksiköt "palkkaavat" voitetut laivat taistelemaan puolellaan.</Text>
+			<Text>Meriyksiköt &quot;palkkaavat&quot; voitetut laivat taistelemaan puolellaan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES_SHORT">
 			<Text>Välimeren merirosvot</Text>

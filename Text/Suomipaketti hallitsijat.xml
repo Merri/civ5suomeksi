@@ -36,7 +36,8 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER">
 			<Text>Aleksanteri</Text>
-		</Row><Row Tag="TXT_KEY_LEADER_ASHURBANIPAL">
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL">
 			<Text>Assurbanipal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_ASKIA">
@@ -58,11 +59,9 @@
 			<Text>Boudica</Text>
 			<Gender>feminine</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_CASIMIR">
 			<Text>Kasimir III</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_CATHERINE">
 			<Text>Katariina</Text>
 			<Gender>feminine</Gender>
@@ -74,12 +73,10 @@
 			<Text>Dido</Text>
 			<Gender>feminine</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH">
 			<Text>Elisabet</Text>
 			<Gender>feminine</Gender>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO">
 			<Text>Enrico Dandolo</Text>
 		</Row>
@@ -89,7 +86,6 @@
 		<Row Tag="TXT_KEY_LEADER_GANDHI">
 			<Text>Gandhi</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_GENGHIS_KHAN">
 			<Text>Tsingis-kaani</Text>
 		</Row>
@@ -105,7 +101,6 @@
 		<Row Tag="TXT_KEY_LEADER_HIAWATHA">
 			<Text>Hiawatha</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_ISABELLA">
 			<Text>Isabella</Text>
 			<Gender>feminine</Gender>
@@ -113,7 +108,6 @@
 		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA">
 			<Text>Kamehameha</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_MARIA">
 			<Text>Maria Teresia</Text>
 			<Gender>feminine</Gender>
@@ -146,7 +140,6 @@
 		<Row Tag="TXT_KEY_LEADER_POCATELLO">
 			<Text>Pocatello</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_RAMESSES">
 			<Text>Ramses II</Text>
 		</Row>
@@ -162,10 +155,10 @@
 		<Row Tag="TXT_KEY_LEADER_SHAKA">
 			<Text>Shaka</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN">
 			<Text>Suleiman</Text>
-		</Row><Row Tag="TXT_KEY_LEADER_THEODORA">
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA">
 			<Text>Theodora</Text>
 			<Gender>feminine</Gender>
 		</Row>
@@ -174,24 +167,26 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_WILLIAM">
 			<Text>Vilhelm Oranialainen</Text>
-		</Row><Row Tag="TXT_KEY_LEADER_WU_ZETIAN">
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WU_ZETIAN">
 			<Text>Wu Zetian</Text>
 			<Gender>feminine</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA">
 			<Text>Saladin</Text>
-		</Row><Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">
 			<Text>Ya'qub al-Mansur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON">
 			<Text>Frans I</Text>
-		</Row><Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER">
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER">
 			<Text>Mikael VIII</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG">
 			<Text>Zhangzong</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_NAME">
 			<Text>Frans I</Text>
 		</Row>
@@ -200,23 +195,32 @@
 		</Row>
 		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BARBARIAN">
 			<Text>Ludiitti</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
 			<Text>Kyyros Pääjoki</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_NAME">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_NAME">
 			<Text>Kyyros Pääjoki</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
 			<Text>Panu Torvenpää</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CUTLER_NAME">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CUTLER_NAME">
 			<Text>Octavius Leikonen</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
 			<Text>Octavius Leikonen</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GRIGGS_NAME">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GRIGGS_NAME">
 			<Text>Luther Valpas</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
 			<Text>Luther Valpas</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
 			<Text>Otto Ikäheimo</Text>
-		</Row><Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_NAME">
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_NAME">
 			<Text>Otto Ikäheimo</Text>
 		</Row>
 	</Language_fi_FI>
