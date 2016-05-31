@@ -18,15 +18,5 @@
 			<FontWidthScale>0.4</FontWidthScale>
 			<FontHeightScale>0.8</FontHeightScale>
 		</Row>
-		<Row>
-			<Type>de_DE</Type>
-			<Name>English fallback</Name>
-			<TableName>Language_en_US</TableName>
-			<PluralRule>2</PluralRule>
-			<UseExtendedFont>0</UseExtendedFont>
-			<FontName>TeX Gyre Adventor</FontName>
-			<FontWidthScale>0.4</FontWidthScale>
-			<FontHeightScale>0.8</FontHeightScale>
-		</Row>
 	</Languages>
 </GameData>
