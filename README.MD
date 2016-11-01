@@ -12,6 +12,7 @@ Tukee:
 3. Uljas uusi maailma (Brave New World)
 4. Firaxisin julkaisemat lisäkansat (Civ DLCs)
 
+[Facebook](https://www.facebook.com/civ5suomeksi/) | [Civilization VI suomeksi](https://github.com/Merri/civ6suomeksi/)
 
 ## Asennus ZIP-tiedostosta
 
