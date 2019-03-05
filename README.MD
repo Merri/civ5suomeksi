@@ -1,20 +1,13 @@
-# Civilization V suomeksi!
+**Suomen kielipaketti Sid Meier's Civilization V:lle**, 2010 - 2019 Vesa Piittinen
 
-This is Finnish language pack for Sid Meier's Civilization V.
-[Installation instructions in English.](https://github.com/Merri/civ5suomeksi/blob/master/INSTALL.MD)
+Kielipaketti toimii pelin kaikkien lisäosien (DLC) ja laajennosten kanssa. Kielipakettia ei löydä Steam Workshopista
+vaan se tarvitsee asentaa itse käsipelillä. Muutoksia voi halutessaan tarkastella
+[muutoslokista](https://github.com/Merri/civ5suomeksi/blob/master/CHANGELOG.MD) (englanniksi).
 
-2010 - 2016 Vesa Piittinen
-
-Tukee:
-
-1. Alkuperäistä peliä
-2. Jumalat ja kuninkaat (Gods & Kings)
-3. Uljas uusi maailma (Brave New World)
-4. Firaxisin julkaisemat lisäkansat (Civ DLCs)
-
-[Facebook](https://www.facebook.com/civ5suomeksi/) | [Civilization VI suomeksi](https://github.com/Merri/civ6suomeksi/)
 
 ## Asennus ZIP-tiedostosta
+
+[Lataa uusin versio tästä](https://github.com/Merri/civ5suomeksi/archive/master.zip)
 
 Selvitä `Sid Meier's Civilization 5` käyttäjähakemisto. Esimerkkejä sijainnista:
 
@@ -23,35 +16,19 @@ Selvitä `Sid Meier's Civilization 5` käyttäjähakemisto. Esimerkkejä sijainn
 - Mac OS X: `Users/KÄYTTÄJÄNIMI/Library/Application Support/Sid Meier's Civilization 5`
 - Mac OS X: `cd ~/Library/Application Support/Sid Meier's Civilization 5`
 
-Löydät `config.ini`-tiedoston kyseisestä hakemistosta. Rivillä 66 pitäisi lukea: `Language = en_US`.
-Kirjoita tilalle `Language = fi_FI`.
+Hakemistosta löytyy `Text`-niminen hakemisto. Sinne tarvitsee kopioida **yksi** suomennoksen tiedostoista:
 
-Seuraavaksi `Suomi*.xml`-tiedostot tarvitsee kopioida samassa paikassa sijaitsevaan Text-hakemistoon.
+1. `Civilization V suomeksi.xml` sisältää Civilization V:n ja sille julkaistujen DLC-lisäosat.
+2. `Civilization V suomeksi - Jumalat ja kuninkaat.xml` sisältää edellisen sekä Gods & Kings -laajennoksen.
+3. `Civilization V suomeksi - Uljas uusi maailma.xml` sisältää edelliset sekä Brave New World -laajennoksen.
 
-Tämän jälkeen peli käynnistyy suomeksi ja voit pelata muiden pelaajien kanssa riippumatta heidän pelikielestään!
+### Päivityshuomioita
 
-
-## Asennus käyttäen gittiä ja komentoriviä (Git Bash Windowsissa)
-
-Jos et ole asentanut gittiä, niin [käy kipaisemassa se itsellesi!](https://git-scm.com/download) (Asennuksen voi tehdä oletusasetuksin.)
-
-1. Avaa komentorivi (Git Bash)
-2. Siirry Civ 5:n käyttäjähakemistoon: `cd ~/Documents/My\ Games/Sid\ Meier\'s\ Civilization\ 5/`
-3. Vaihda kieli suomeksi: `perl -pi -w -e 's/^Language = en_US/Language = fi_FI/;' config.ini`
-4. Nyt tiedostot voi kopioida. Tämän voi tehdä kahdella tavalla: yksinkertaisena kopiona tai täydellisenä Git-kloonina.
-
-Jos haluat vain tiedostot:
-
-	rm -f Text/* && git clone https://github.com/Merri/civ5suomeksi.git temp && cp -r temp/* ./ && rm -rf temp
-
-Jos haluat täyden kloonin (eli tehdä itse muutoksia ja kirjata ne gitillä):
-
-	rm -f Text/* && git clone https://github.com/Merri/civ5suomeksi.git temp && mv temp/.git* ./ && cp -r temp/* ./ && rm -rf temp
+1. `Text`-hakemistossa **ei tule** olla mitään muita tiedostoja. Aiempien versioiden `Suomi`-alkuiset tiedostot tulee
+   poistaa.
+2. `config.ini`-tiedostoon ei tarvitse tehdä enää muutoksia: kielipaketti korvaa suoraan `en_US`-englannin.
 
 
-Asioiden mennessä pieleen pitäisi normaalitilanteeseen päästä tällä:
+## Katso myös
 
-	rm -rf .git
-	rm -rf temp
-
-Nämä poistavat git-kloonin ja temp-hakemiston, mikäli se on jäänyt kummittelemaan.
+**[Civilization VI suomeksi helposti Steam Workshopista!](https://steamcommunity.com/sharedfiles/filedetails/?id=1308266363)** | [Civilization VI suomeksi GitHubissa](https://github.com/Merri/civ6suomeksi/)
