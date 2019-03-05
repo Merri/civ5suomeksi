@@ -5,6 +5,18 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+## unreleased
+
+### Fixed
+
+- Several improvements to some notifications, yields and resources
+- Improvements to a few lines to result in better Finnish overall
+
+### Added
+
+- A few lines by Theodora
+
+
 ## 2019-03-05
 
 ### Added

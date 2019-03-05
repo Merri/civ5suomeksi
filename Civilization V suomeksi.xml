@@ -815,7 +815,7 @@
 			<Text>Presidentti {1_PlayerName:textkey}, {2_CivName:textkey}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
-			<Text>Onneksi olkoon! Kultakausi saa alkunsa kansalaistenne oltua pitkään tyytyväisiä alamaisia!</Text>
+			<Text>Onneksi olkoon! Kultakausi alkaa kansalaistemme pitkään kestäneen onnellisuuden myötä!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GOLD_HELP_INFO">
 			<Text>[ICON_GOLD] Kulta kerätään kansalliseen kultavarantoon, jota voi käyttää kaupungeissa valmistettavien asioiden ostamiseen, kaupunkien alueiden laajentamiseen sekä [ICON_INFLUENCE] vaikutusvallan kasvattamiseen kaupunkivaltioissa.</Text>
@@ -1107,7 +1107,7 @@
 			<Text>[NEWLINE]Löytämällä tämän ihmeen ensimmäisenä olemme saaneet {1_Num} [ICON_GOLD]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND">
-			<Text>Luonnonihme löytyi!</Text>
+			<Text>Löysimme luonnonihmeen!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_HAPPY">
 			<Text>[NEWLINE]Saamme {1_Num} [ICON_HAPPINESS_1] mikäli se on maidemme sisällä</Text>
@@ -1119,7 +1119,7 @@
 			<Text>Onneksi olkoon! Tämä mykistävä löytö on lisännyt (+1) [ICON_HAPPINESS_1] onnellisuutta valtakunnassamme![NEWLINE][NEWLINE]Työstettäessä:</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_SUBSEQUENT_FOUND_GOLD">
-			<Text>[NEWLINE]Löytämällä tämän ihmeen (muiden jälkeen) olemme saaneet {1_Num} [ICON_GOLD]</Text>
+			<Text>[NEWLINE]Löytämällä tämän ihmeen (muita myöhemmin) olemme saaneet {1_Num} [ICON_GOLD]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_NEW_ERA_DESCRIPTION">
 			<Text>{@1_EraDescription} on koittanut! Tervetuloa uudelle aikakaudelle.</Text>
@@ -1137,7 +1137,7 @@
 			<Text>Palauttaminen antaa {1_Num} [ICON_INFLUENCE] vaikutusvaltaa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CONFIRMATION">
-			<Text>Olemme kaapanneet siviilin, jonka {1_CivName} joskus omisti. Siviilistä tulee {@2_NewUnitName:lower} jos haluat sen itsellesi, mutta voit myös palauttaa sen.</Text>
+			<Text>Olemme kaapanneet siviilin, jonka {1_CivName} aiemmin omisti. Yksiköstä tulee {@2_NewUnitName:lower} jos otamme sen, mutta voimme myös palauttaa yksikön aiemmalle omistajalleen.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CONFIRMATION_RETURN">
 			<Text>Palauta yksikkö</Text>
@@ -1146,7 +1146,7 @@
 			<Text>Haluamme sen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_RUINS_EXPLORED">
-			<Text>Rauniot tutkittu!</Text>
+			<Text>Tutkimme rauniot!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_SCORE">
 			<Text>Pisteet</Text>
@@ -1392,7 +1392,7 @@
 			<Text>Antaa olla, eivät ole markkojen arvoisia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANSOM_POPUP_INFO">
-			<Text>Barbaarit ovat kaapanneet yhden siviiliyksiköistämme! He vaativat {1_Num} kultaa kansalaistenne hengen säästämisestä. Miten vastaatte?</Text>
+			<Text>Barbaarit ovat kaapanneet yhden siviiliyksiköistämme! He vaativat {1_Num} kultaa kansalaisemme hengen säästämisestä. Miten vastaatte?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RANSOM_POPUP_PAY">
 			<Text>Maksetaan pois.</Text>
@@ -1439,7 +1439,7 @@
 			<Text>Raportoi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESEARCHED">
-			<Text>TUTKITTU</Text>
+			<Text>KEHITETTY</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BONUS_DETAILS">
 			<Text>[ICON_PLUS] Hyödylliset luonnonvarat</Text>
@@ -2121,7 +2121,7 @@
 			<Text>Ilmainen [ICON_HAPPINESS_1] kaupungeissa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FRESH_WATER">
-			<Text>{1_ImprovementName:textkey} tarjoama {2_YieldType:textkey} kasvaa {3_Num} makean veden piirissä olevissa ruuduissa.</Text>
+			<Text>{1_ImprovementName ^ 'masculine:genetiivi'} saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'} makean veden lähellä olevissa ruuduissa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FULLSCREEN_ONLY">
 			<Text>Vain kokoruudussa</Text>
@@ -2241,10 +2241,10 @@
 			<Text>ALOITA PELI ALUSTA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_RETURN_EXIT_WARN">
-			<Text>Suljet Civilization V:n tallentamatta peliä. Haluatko silti jatkaa?</Text>
+			<Text>Civilization V ei tallenna peliä suljettaessa. Suljetaanko peli silti?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_RETURN_MM_WARN">
-			<Text>Palaat takaisin päävalikkoon tallentamatta peliä. Haluatko silti jatkaa?</Text>
+			<Text>Päävalikkoon siirtyminen ei tallenna peliä. Siirrytäänkö silti?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_RETURN_TO_GAME">
 			<Text>PALUU PELIIN</Text>
@@ -2259,7 +2259,7 @@
 			<Text>TALLENNA KARTTA</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_SAVE_MAP_DESC">
-			<Text>Karttatallennus tallentaa tämänhetkisen pelin maaston sellaisessa muodossa, että maailmaeditori pystyy lukemaan sen. Tämän ansiosta voit käyttää sitä pohjana oman karttasi suunnittelussa, tai pohjana uudelle pelille.</Text>
+			<Text>Kartan tallennus säilöö tämänhetkisen pelin maaston maailmaeditorin käyttämässä muodossa. Tämän ansiosta sitä voi käyttää pohjana oman kartan suunnittelussa, tai pohjana uudelle pelille.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MENU_SAVE_MAP_LOWER">
 			<Text>Tallenna kartta</Text>
@@ -2319,7 +2319,7 @@
 			<Text>Ei diplomaattisia toimintoja</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NO_FRESH_WATER">
-			<Text>{1_ImprovementName ^ 'masculine:genetiivi'} {2_YieldType:small} kasvaa {3_Num}:lla ruuduissa, jotka EIVÄT ole makean veden piirissä.</Text>
+			<Text>{1_ImprovementName ^ 'masculine:genetiivi'} saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'} ruuduissa, jotka EIVÄT ole makean veden lähellä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NUMBER_OF_CITIES">
 			<Text>Kaupunkien määrästä ({1_Num})</Text>
@@ -3201,7 +3201,7 @@
 			<Text>Ei vielä saatavilla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_RESEARCHED">
-			<Text>Tutkittu</Text>
+			<Text>Kehitetty</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_SECTION_1">
 			<Text>Maasto</Text>
@@ -3417,7 +3417,7 @@
 			<Text>Projektit</Text>
 		</Row>
 		<Row Tag="TXT_KEY_YIELD_IMPROVED">
-			<Text>{2_YieldType:textkey} kohoaa {3_Num}:lla, jos ruutuun on rakennettu {1_ImprovementName:textkey}.</Text>
+			<Text>{1_ImprovementName ^ 'masculine:genetiivi'} sisältävä ruutu saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_YOUR_SCORE">
 			<Text>Pisteesi</Text>
@@ -4730,7 +4730,7 @@
 			<Text>Sulkeminen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ESRB_BODY">
-			<Text>Suomennoksen versio on 2019-03</Text>
+			<Text>Suomennoksen versio on 2019-03-06</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EXIT_MOVE_DETAILS">
 			<Text>Poistuaksesi liikutusmoodista antamatta komentoja voit täpäyttää ruutua toisella sormella.</Text>
@@ -5609,7 +5609,7 @@
 			<Text>Ääntä enemmän</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEGAL_BODY">
-			<Text>© 1991-2014 Take-Two Interactive Software ja sen tytäryhtiöt. Kehittänyt Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software sekä näiden logot ovat Take-Two interactive Software, Inc. tavaramerkkejä. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Käyttää Granny Animationia. Copyright © 1999-2010 RAD Game Tools, Inc. Käyttää Miles Sound Systemiä. Copyright © 1991-2010 RAD Game Tools, Inc. Suositusmerkinnät ovat Entertainment Software Associationin tavaramerkkejä. Kaikki muut merkinnät ja tavaramerkit ovat omistajiensa omaisuutta. Kaikki oikeudet pidätetään. Tämän pelin sisältö on fiktiota ja sen ei ole tarkoitus esittää tai kuvata todellisia tapahtumia, henkilöitä tai asioita pelin historiallisessa asetelmassa.[NEWLINE][NEWLINE]Suomen kielipaketti 2010 - 2019 Vesa Piittinen[NEWLINE]GitHubissa: https://github.com/merri/civ5suomeksi[NEWLINE]Steam Workshopista löytyy myös Civilization VI suomeksi!</Text>
+			<Text>© 1991-2014 Take-Two Interactive Software ja sen tytäryhtiöt. Kehittänyt Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software sekä näiden logot ovat Take-Two interactive Software, Inc. tavaramerkkejä. Fork Copyright © 2010 Fork Particle, Inc. Rapid XML Copyright © 2006-2010 Marcin Kalicinski. Lua Copyright © 1994-2010 Lua.org, PUC-Rio. Käyttää Granny Animationia. Copyright © 1999-2010 RAD Game Tools, Inc. Käyttää Miles Sound Systemiä. Copyright © 1991-2010 RAD Game Tools, Inc. Suositusmerkinnät ovat Entertainment Software Associationin tavaramerkkejä. Kaikki muut merkinnät ja tavaramerkit ovat omistajiensa omaisuutta. Kaikki oikeudet pidätetään. Tämän pelin sisältö on fiktiota ja sen ei ole tarkoitus esittää tai kuvata todellisia tapahtumia, henkilöitä tai asioita pelin historiallisessa asetelmassa.[NEWLINE][NEWLINE]Suomen kielipaketti 2010–2019 Vesa Piittinen, https://github.com/merri/civ5suomeksi[NEWLINE]Steam Workshopista löytyy myös Civilization VI suomeksi!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEGAL_CONTINUE">
 			<Text>Napsauta jatkaaksesi</Text>
@@ -5774,7 +5774,7 @@
 			<Text>{@1_PlyrName} otti käyttöön linjauksen {@2_PolicyName}</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_PLAYER_CONVERT_RELIGION">
-			<Text>{1_PlyrName} omaksuu uskonnokseen [COLOR_HIGHLIGHT_TEXT]{2_RelName:small}[ENDCOLOR]!</Text>
+			<Text>{1_PlyrName} omaksuu uskonnokseen [COLOR_HIGHLIGHT_TEXT]{2_RelName:lower}[ENDCOLOR]!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS">
 			<Text>{1_PlyrName}: kultakausi on alkanut</Text>
@@ -8089,10 +8089,10 @@
 			<Text>{1_CivName:textkey}: tutkikimus-sopimuksemme on tullut päätökseensä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_FROM_US">
-			<Text>{1_CivName:textkey} ei saa enää {2_Resource} meiltä.</Text>
+			<Text>{1_CivName:textkey} ei saa enää {2_Resource ^ 'feminine:partitiivi'} meiltä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_TO_US">
-			<Text>{1_CivName:textkey} ei enää tuo {2_Resource} meille.</Text>
+			<Text>{1_CivName:textkey} ei enää tuo {2_Resource ^ 'feminine:partitiivi'} meille.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
 			<Text>{1_CivName:textkey} sai päätökseen kauppasopimuksen kanssamme.</Text>
@@ -13020,9 +13020,9 @@
 			<Text>Mahdollistaa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_BANANAS">
-			<Text>Banaanit|Banaaneja|Banaanien|banaanit|banaaneja|banaanien</Text>
+			<Text>Banaani|Banaaneja|Banaanien|banaani|banaaneja|banaanien</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_BANANAS_TEXT1">
 			<Text>Näytä aina</Text>
@@ -13086,9 +13086,9 @@
 			<Text>Onnellisuusetu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_COWS">
-			<Text>Lehmät|Lehmiä|Lehmien|lehmät|lehmiä|lehmien</Text>
+			<Text>Lehmä|Lehmiä|Lehmien|lehmä|lehmiä|lehmien</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_COWS_TEXT1">
 			<Text>Näytä aina</Text>
@@ -13106,9 +13106,9 @@
 			<Text>Alan edut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_DEER">
-			<Text>Peurat|Peuroja|Peurojen|peurat|peuroja|peurojen</Text>
+			<Text>Peura|Peuroja|Peurojen|peura|peuroja|peurojen</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_DEER_TEXT1">
 			<Text>Näytä aina</Text>
@@ -13126,9 +13126,9 @@
 			<Text>Alan edut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_DYES">
-			<Text>Väriaineet|Väriaineita|Väriaineiden|väriaineet|väriaineita|väriaineiden</Text>
+			<Text>Väriaine|Väriaineita|Väriaineiden|väriaine|väriaineita|väriaineiden</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_DYES_TEXT1">
 			<Text>Näytä aina</Text>
@@ -13149,9 +13149,9 @@
 			<Text>Onnellisuusetu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_FISH">
-			<Text>Kalat|Kaloja|Kalojen|kalat|kaloja|kalojen</Text>
+			<Text>Kala|Kaloja|Kalojen|kala|kaloja|kalojen</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_FISH_TEXT1">
 			<Text>Näytä aina</Text>
@@ -13171,7 +13171,7 @@
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_FUR">
 			<Text>Turkis|Turkiksia|Turkisten|turkis|turkiksia|turkisten</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_FUR_TEXT1">
 			<Text>Näytä aina</Text>
@@ -13192,9 +13192,9 @@
 			<Text>Onnellisuusetu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_GEMS">
-			<Text>Jalokivet|Jalokiviä|Jalokivien|jalokivet|jalokiviä|jalokivien</Text>
+			<Text>Jalokivi|Jalokiviä|Jalokivien|jalokivi|jalokiviä|jalokivien</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_GEMS_TEXT1">
 			<Text>Näytä aina</Text>
@@ -19837,12 +19837,12 @@
 		<Row Tag="TXT_KEY_RESOURCE_FURS">
 			<Text>Turkis|Turkiksia|Turkisten|turkis|turkiksia|turkisten</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GEMS">
 			<Text>Jalokivi|Jalokiviä|Jalokivien|jalokivi|jalokiviä|jalokivien</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2|1|1|2|1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GOLD">
 			<Text>Kulta|Kultaa|Kullan|kulta|kultaa|kullan</Text>
@@ -19850,14 +19850,14 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_HORSES">
-			<Text>Hevoset|Hevosia|Hevosien|hevoset|hevosia|hevosien</Text>
+			<Text>Hevonen|Hevosia|Hevosien|hevonen|hevosia|hevosien</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_INCENSE">
 			<Text>Suitsuke|Suitsukkeita|Suitsukkeiden|suitsuke|suitsukkeita|suitsukkeiden</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>1</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_IRON">
 			<Text>Rauta|Rautaa|Raudan|rauta|rautaa|raudan</Text>
@@ -19880,9 +19880,9 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PEARLS">
-			<Text>Helmet|Helmiä|Helmien|helmet|helmiä|helmien</Text>
+			<Text>Helmi|Helmiä|Helmien|helmi|helmiä|helmien</Text>
 			<Gender>masculine:nominatiivi|masculine:partitiivi|masculine:akkusatiivi|feminine:nominatiivi|feminine:partitiivi|feminine:akkusatiivi</Gender>
-			<Plurality>2</Plurality>
+			<Plurality>1|2|2|1|2|2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_SHEEP">
 			<Text>Lammas|Lampaita|Lampaiden|lammas|lampaita|lampaiden</Text>
@@ -20111,16 +20111,20 @@
 			<Text>Pieni</Text>
 		</Row>
 		<Row Tag="TXT_KEY_YIELD_FOOD">
-			<Text>Ruoka</Text>
+			<Text>Ruoka|ruokaa</Text>
+			<Gender>masculine:nominatiivi|feminine:partitiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_YIELD_GOLD">
-			<Text>Kulta</Text>
+			<Text>Kulta|kultaa</Text>
+			<Gender>masculine:nominatiivi|feminine:partitiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_YIELD_PRODUCTION">
-			<Text>Tuotanto</Text>
+			<Text>Tuottavuus|tuottavuutta</Text>
+			<Gender>masculine:nominatiivi|feminine:partitiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_YIELD_SCIENCE">
-			<Text>Tiede</Text>
+			<Text>Tiede|tiedettä</Text>
+			<Gender>masculine:nominatiivi|feminine:partitiivi</Gender>
 		</Row>
 		<!--CIV5GameTextInfos_Buildings_NewWonders.xml-->
 		<Row Tag="TXT_KEY_BUILDING_STATUE_ZEUS">
