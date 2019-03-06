@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - A few lines by Theodora
 - Translated a few dawn texts
-- Translated Temple of Artemis and Mauseleum of Halikarnassos
+- Translated Temple of Artemis and Mausoleum of Halikarnassos
 
 
 ## 2019-03-05

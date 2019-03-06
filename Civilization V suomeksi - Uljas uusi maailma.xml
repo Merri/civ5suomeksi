@@ -1059,7 +1059,7 @@
 			<Text>{1_NumGold} [ICON_GOLD] kultaa antaa {2_NumFriendship} [ICON_INFLUENCE] vaikutusvaltaa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_CANT">
-			<Text>Tarvitset ainakin {1_NumGold} kultaa, jotta {2_CivName:textkey} olisi lahjottavissa.</Text>
+			<Text>Tarvitsemme ainakin {1_NumGold} kultaa, jotta {2_CivName:textkey} olisi lahjottavissa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POP_BARBARIAN_CLEARED">
 			<Text>Barbaarien sotaleiri on jyrätty!</Text>
@@ -2121,7 +2121,7 @@
 			<Text>Ilmainen [ICON_HAPPINESS_1] kaupungeissa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FRESH_WATER">
-			<Text>{1_ImprovementName ^ 'masculine:genetiivi'} saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'} makean veden lähellä olevissa ruuduissa.</Text>
+			<Text>{1_ImprovementName:textkey} saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'} makean veden lähellä olevissa ruuduissa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_FULLSCREEN_ONLY">
 			<Text>Vain kokoruudussa</Text>
@@ -2319,7 +2319,7 @@
 			<Text>Ei diplomaattisia toimintoja</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NO_FRESH_WATER">
-			<Text>{1_ImprovementName ^ 'masculine:genetiivi'} saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'} ruuduissa, jotka EIVÄT ole makean veden lähellä.</Text>
+			<Text>{1_ImprovementName:textkey} saa +{3_Num} {2_YieldType ^ 'feminine:partitiivi'} ruuduissa, jotka EIVÄT ole makean veden lähellä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NUMBER_OF_CITIES">
 			<Text>Kaupunkien määrästä ({1_Num})</Text>
@@ -3592,7 +3592,7 @@
 			<Text>Määrittele osaajat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_NEED_MONEY_BUY_TILE">
-			<Text>Tarvitset {1_Num} [ICON_GOLD] kultaa ostaaksesi tämän ruudun.</Text>
+			<Text>Tarvitsemme {1_Num} [ICON_GOLD] kultaa ostaaksemme tämän ruudun.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYVIEW_NEED_MONEY_BUY_TILE_TT">
 			<Text>Voimme ostaa asukkaille lisää tilaa sitten kun meillä on tarpeeksi [ICON_GOLD]kultaa.</Text>
@@ -4228,7 +4228,7 @@
 			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] piirteistämme.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_CULTURE_NEXT_POLICY">
-			<Text>Tarvitset {1_NumNeeded} [ICON_CULTURE] kulttuuria seuraavaan sosiaaliseen linjaukseen.</Text>
+			<Text>Tarvitsemme {1_NumNeeded} [ICON_CULTURE] kulttuuria seuraavaan sosiaaliseen linjaukseen.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
 			<Text>[ICON_HAPPINESS_4] Tyytymättömyys on saavuttanut arvon 20, joten valtakunta kapinoi! Kaupungit saattavat hylätä valtakuntamme ja liittyä kulttuurisesti vaikutusvaltaisimpaan kilpailijaan.</Text>
@@ -6394,7 +6394,7 @@
 			<Text>Japanin pääsaaret</Text>
 		</Row>
 		<Row Tag="TXT_KEY_STEAM_CONNECTED_NO">
-			<Text>Sinun tarvitsee käynnistää peli Steamin kautta pelataksesi pelejä Internetissä. Tarvitset myös toimivan nettiyhteyden.</Text>
+			<Text>Peli tulee käynnistää Steamin kautta, jotta Internet-moninpeli onnistuisi. Tarvitset myös toimivan nettiyhteyden.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TERRAIN_COAST">
 			<Text>Rannikko</Text>
@@ -9038,7 +9038,7 @@
 			<Text>[COLOR_WARNING_TEXT]Tätä haaraa ei voi avata juuri nyt.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_CULTURE">
-			<Text>[COLOR_WARNING_TEXT]Tarvitset {1_Num}[ICON_CULTURE] kulttuuria.[ENDCOLOR]</Text>
+			<Text>[COLOR_WARNING_TEXT]Tarvitsemme {1_Num}[ICON_CULTURE] kulttuuria.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_ERA">
 			<Text>[COLOR_WARNING_TEXT]Meidän tarvitsee edetä {1_EraString ^ 'feminine:illatiivi'} asti, jotta voimme omaksua tämän.[ENDCOLOR]</Text>
@@ -9560,7 +9560,7 @@
 			<Text>Tämän alueen lähellä on paljon strategisia luonnonvaroja, jotka hyödynnettäessä mahdollistavat voimakkaiden sotilasyksiköiden tuottamisen!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RECOMMEND_WORKER">
-			<Text>[COLOR_POSITIVE_TEXT]{@1_WorkerActionString}[ENDCOLOR] tähän![NEWLINE]Se olisi mielestämme järkevää.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]{@1_WorkerActionString}[ENDCOLOR] tähän![NEWLINE]Tämä edistäisi asioita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RECOMMEND_WORKER_LUXURY">
 			<Text>Yhdistää tässä ruudussa olevan [COLOR_POSITIVE_TEXT]ylellisen luonnonvaran[ENDCOLOR] kauppaverkostoomme kasvattaen valtakuntamme [ICON_HAPPINESS_1] onnellisuutta!</Text>
@@ -9755,7 +9755,7 @@
 			<Text>Kaikki armeijan meriyksiköt saavat +1 [ICON_MOVES] liikkuvuutta ja +1 näkyvyyttä. Kaupunki saa ilmaisen majakan.[NEWLINE][NEWLINE]Kaupungin tulee olla rannikolla.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_WALL_HELP">
-			<Text>Vihollisyksiköt joutuvat kuluttamaan 1 ylimääräisen [ICON_MOVES] liikepisteen kussakin omistamassamme ruudussa. Kaupunki saa ilmaisen muurin. Merkittävä muuri vanhenee dynamiitin keksimisen myötä.</Text>
+			<Text>Vihollisyksiköt joutuvat kuluttamaan 1 ylimääräisen [ICON_MOVES] liikepisteen kussakin omistamassamme ruudussa. Kaupunki saa ilmaisen muurin. Kiinan muuri vanhenee dynamiitin keksimisen myötä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
 			<Text>+25% nopeutus [ICON_GREAT_PEOPLE] merkittävien henkilöiden ilmaantumiseen kaikissa kaupungeissa. Ilmainen vapaasti valittava merkittävä henkilö ilmesty lähelle [ICON_CAPITAL] pääkaupunkia.</Text>
@@ -9960,7 +9960,7 @@
 			<Text>Välitallennukset</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BAD_TEAMS">
-			<Text>Tarvitset ainakin kaksi joukkuetta.</Text>
+			<Text>Ainakin kaksi joukkuetta vaaditaan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CHOOSE_MAP_SIZE">
 			<Text>Kartan koko</Text>
@@ -15132,7 +15132,7 @@
 			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]akveduktien[ENDCOLOR] rakentamisen kaupunkeihin, kasvattaen kaupungin kasvusta ylijäävän [ICON_FOOD] ruuan määrää. Mahdollistaa myös työläisten rakentaa [COLOR_POSITIVE_TEXT]linnakkeita[ENDCOLOR] ruutuihin, jolloin ruutuun asettuva yksikkö saa puolustautumisetua. Tämän lisäksi sillat rakennetaan kaikkiin joet ylittäviin teihin, jolloin yksiköt voivat ylittää joet teiden kohdalta hidastumatta.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_ENGINEERING_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Välineillä tai mekaanisesti tehtävä tiede on jalointa ja - ennen kaikkea - hyödyllisintä."[NEWLINE][TAB][TAB] - Leonardo da Vinci[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Välinein ja mekaanisesti tehtävät tieteet ovat jaloimpia ja eritoten hyödyllisimpiä."[NEWLINE][TAB][TAB] - Leonardo da Vinci[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_FERTILIZER_HELP">
 			<Text>Kasvattaa [ICON_FOOD] ruuan tuotantoa maatiloilla, joilla ei ole makeaa vettä. Tällä on suuri vaikutus kasvuun.</Text>
@@ -15188,7 +15188,7 @@
 			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]hevosmiehen[ENDCOLOR] kouluttamisen, joka on nopea ja voimakas ratsuyksikkö.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Kuningaskunta hevosesta!"[NEWLINE][TAB][TAB] - Shakespeare (Rikhard III)[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Hevonen! Hevonen! Kuningaskunta hevosesta!"[NEWLINE][TAB][TAB] - Shakespeare (Rikhard III)[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_INCREASINGBEAKERS_ADV_QUEST">
 			<Text>Kuinka voin vauhdittaa tieteen edistymistä?</Text>
@@ -15332,7 +15332,7 @@
 			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]temppelin[ENDCOLOR] rakentamisen, joka kohentaa kaupungin [ICON_PEACE] uskoa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"On vain yksi hyve, tieto, ja yksi pahe, tietämättömyys."[NEWLINE][TAB][TAB] - Socrates[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"On vain yksi hyve, tieto, ja yksi pahe, tietämättömyys."[NEWLINE][TAB][TAB] - Sokrates[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_PHYSICS_HELP">
 			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]vastapainokatapultin[ENDCOLOR] rakentamisen, joka on erittäin tehokas kaupunkien heikentämiseen erikoistunut piiritysyksikkö.</Text>
@@ -45665,10 +45665,10 @@
 			<Text>[ICON_VICTORY_SPACE] Tieteellinen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_CULTURE_INFLUENCE">
-			<Text>Olemme {1_Num: number #.#}% vaikutusvaltainen kansasta {2_Civ}.</Text>
+			<Text>Meillä on {1_Num: number #.#}% vaikutusvalta {2_Civ ^ 'feminine:illatiivi'}.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_CULTURE_INFLUENCE_UNMET">
-			<Text>Olemme {1_Num: number #.#}% vaikutusvaltainen kohtaamattomasta kansasta.</Text>
+			<Text>Meillä on {1_Num: number #.#}% vaikutusvalta kohtaamattomaam kansaan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_ACTIVE_PLAYER_LEADING">
 			<Text>Hallinnassamme on {1_num} {1: plural 1?alkuperäinen [ICON_CAPITAL] pääkaupunki; other?alkuperäistä [ICON_CAPITAL] pääkaupunkia;}.</Text>
