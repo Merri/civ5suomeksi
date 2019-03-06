@@ -11,11 +11,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Several improvements to some notifications, yields and resources
 - Improvements to a few lines to result in better Finnish overall
+- A few quotes
 
 ### Added
 
 - A few lines by Theodora
 - Translated a few dawn texts
+- Translated Temple of Artemis and Mauseleum of Halikarnassos
 
 
 ## 2019-03-05

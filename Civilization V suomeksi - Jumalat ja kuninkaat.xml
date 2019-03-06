@@ -7240,7 +7240,7 @@
 			<Text>Lähdemme vain pakottamalla.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DEAL">
-			<Text>Omapa on ongelmanne.</Text>
+			<Text>Ongelmanne eivät kosketa meitä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DECLARE_WAR">
 			<Text>Julistaisimmeko sodan...</Text>
@@ -7249,7 +7249,7 @@
 			<Text>Tekisimmekö ystävyys- ja yhteistyöjulistuksen?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DEC_FRIENDSHIP_TT">
-			<Text>Tuo maailman tietoisuuteen, että valtakuntanne ovat ystäviä. Molempien tulee hyväksyä julistus.[NEWLINE][NEWLINE]Tämän julkilausuma usein suitsii hyökkäilijöiden intoa ja edistää hyviä välejä julistuksen osapuolen kanssa - mutta he alkavat myös odottaa, että tulet tarvittaessa heidän avukseen. Tämän luottamuksen rikkominen voi tehdä heistä hyvin pettyneitä.</Text>
+			<Text>Tuo maailman tietoisuuteen, että valtakuntamme ovat ystäviä. Molempien tulee hyväksyä julistus.[NEWLINE][NEWLINE]Tämän julkilausuma suitsii hyökkäilijöiden intoa ja edistää hyviä välejä julistuksen osapuolen kanssa - mutta he myös olettavat, että tulemme tarvittaessa heidän avukseen. Tämän luottamuksen rikkominen saattaa tehdä heistä hyvin pettyneitä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DONT_SETTLE">
 			<Text>Älä perusta kaupunkeja lähellemme.</Text>
@@ -15200,7 +15200,7 @@
 			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]miekkamiehen[ENDCOLOR] kouluttamisen, joka on erittäin voimakas meleeyksikkö.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_IRON_WORKING_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Älä odota raudan kuumumista; tee siitä kuumaa iskemällä."[NEWLINE][TAB][TAB] - William Butler Yeats[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Älä raudan kuumentumista odota; tao se kuumaksi."[NEWLINE][TAB][TAB] - William Butler Yeats[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_LASERS">
 			<Text>Laser|laserin</Text>
@@ -18604,7 +18604,7 @@
 			<Text>Kauppakirjan sisältö on tyydyttävä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_2">
-			<Text>Sopimus on hyväksyttävä.</Text>
+			<Text>Sopimus on hyväksytty.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_3">
 			<Text>Hienoa.</Text>
@@ -20259,8 +20259,16 @@
 			<Gender>masculine:nominatiivi|feminine:partitiivi</Gender>
 		</Row>
 		<!--CIV5GameTextInfos_Buildings_NewWonders.xml-->
+		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_HALICARNASSUS">
+			<Text>Halikarnassoksen mausoleumi|Halikarnassoksen mausoleumin</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
 		<Row Tag="TXT_KEY_BUILDING_STATUE_ZEUS">
 			<Text>Zeuksen patsas|Zeuksen patsaan</Text>
+			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLE_ARTEMIS">
+			<Text>Artemiin temppeli|Artemiin temppelin</Text>
 			<Gender>masculine:nominatiivi|feminine:akkusatiivi</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS">
@@ -20269,11 +20277,23 @@
 		<Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS_HELP">
 			<Text>+15% [ICON_STRENGTH] taisteluvoimakkuutta hyökätessä kaupunkeihin.</Text>
 		</Row>
+		<Row Tag="TXT_KEY_WONDER_MAUSOLEUM_HALICARNASSUS_HELP">
+			<Text>Jokaisen merkittävän henkilön poistuminen pelistä tuottaa 100 [ICON_GOLD] kultaa. Jokainen tämän kaupungin työstämä [ICON_RES_MARBLE] marmori ja [ICON_RES_STONE] kivi saa +2 [ICON_GOLD] kultaa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MAUSOLEUM_HALICARNASSUS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Maailma itsessään on sankarillisten miesten hauta ja heidän tarinaansa ei ole kirjoitettu vain kiveen heidän multansa yllä vaan se kietoutuu näkymättä muiden miesten elämään."[NEWLINE][TAB][TAB] - Perikles[NEWLINE][TAB]</Text>
+		</Row>
 		<Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_HELP">
 			<Text>Vaatii kunnian. Kaikki yksiköt saavat +15% [ICON_STRENGTH] taisteluvoimakkuutta hyökätessään kaupunkeihin.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_QUOTE">
 			<Text>[NEWLINE][TAB][TAB]"Kronosin poika puhui ja nyökkäsi tummien kulmakarvojen koristamalla päällään, jolloin suuren jumalan kuolemattomuudella voidellut hiukset pieksivät hänen jumalaisesta päästään ja Olympos järisi."[NEWLINE][TAB][TAB] - Iliad[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEMPLE_ARTEMIS_HELP">
+			<Text>+10% [ICON_FOOD] kasvua kaikissa kaupungeissa. +15% [ICON_PRODUCTION] tuottavuutta ampuvien yksiköiden valmistukseen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEMPLE_ARTEMIS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Se ei ole vain metsän kauneus, joka valtaa miehen sydämen; ne ovat ne pienet asiat kuten vanhojen puiden lävitse virtaava ilma, joka hellävaraisesti muuttaa ja uudistaa väsynyttä henkeä."[NEWLINE][TAB][TAB] - Robert Louis Stevenson[NEWLINE][TAB]</Text>
 		</Row>
 		<!--CIV5GameTextInfos_Buildings_Babylon.xml-->
 		<Row Tag="TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC">
@@ -34521,7 +34541,7 @@
 			<Text>Tuomitse {1_LeaderName} julkisesti.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_CAUGHT_FORGIVE_SPYING">
-			<Text>Annamme syntinne anteeksi tällä kertaa.</Text>
+			<Text>Annamme tällä kertaa syntinne anteeksi.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLO_DISCUSS_DONT_FORGIVE_SPYING">
 			<Text>En voi unohtaa tätä loukkausta.</Text>
