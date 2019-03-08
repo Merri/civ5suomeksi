@@ -9746,7 +9746,7 @@
 			<Text>Antamiensa [ICON_HAPPINESS_1] onnellisuus- ja [ICON_CULTURE] kulttuurivaikutuksien lisäksi Eiffel-torni antaa +12 [ICON_TOURISM] turismia.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_FORBIDDEN_PALACE_HELP">
-			<Text>Vaatii isänmaallisuuden linjauksen. Antaa 2 lisäedustajaa Maailman kongressiin -10% [ICON_HAPPINESS_4] tyytymättömyyttä miehittämättömien kaupunkien [ICON_CITIZEN] asukkaista.</Text>
+			<Text>Vaatii isänmaallisuuden linjauksen. Antaa 2 edustajaa lisää Maailmankongressiin. -10% [ICON_HAPPINESS_4] tyytymättömyyttä miehittämättömien kaupunkien [ICON_CITIZEN] asukkaista.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
 			<Text>Yksi ilmainen tekniikka. Kaupunki saa ilmaisen kirjaston. Kaksi paikkaa kirjallisuuden merkkiteoksille.</Text>
@@ -15026,7 +15026,7 @@
 			<Text>Mahdollistaa [COLOR_POSITIVE_TEXT]ritarin[ENDCOLOR] kouluttamisen, joka on nopea ja tehokas ratsuyksikkö. Mahdollistaa myös [COLOR_POSITIVE_TEXT]linnan[ENDCOLOR] rakentamisen, joka kohentaa kaupunkien [ICON_STRENGTH] puolustusta. Puolustusliitot tulevat myös mahdolliseksi.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHIVALRY_QUOTE">
-			<Text>[NEWLINE][TAB][TAB]"Ken vetääkään tämän miekan tästä kivestä ja alasimesta on oikeutetusti syntynyt koko Englannin kuninkaaksi."[NEWLINE][TAB][TAB] - Malory[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Ken vetääkään tämän miekan tästä kivestä ja alasimesta on oikeutetusti syntynyt kaiken Englannin kuninkaaksi."[NEWLINE][TAB][TAB] - Malory[NEWLINE][TAB]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_CHOOSERESEARCH_ADV_QUEST">
 			<Text>Kuinka teknologian valintavalikko toimii?</Text>
@@ -17725,7 +17725,7 @@
 		</Row>
 		<!--Civ5_Dialog__GENERIC.xml-->
 		<Row Tag="TXT_KEY_AGGRESSIVE_MILITARY_WARNING_1">
-			<Text>Olen saanut tietooni, että pidätte suurta armeijaa lähellä rajojamme. Pyydän teitä siirtämään ne toisaalle, jottei kansalaistemme tarvitsisi alkaa hätääntyä tarpeettomasti.</Text>
+			<Text>Olen saanut tietooni, että pidätte suurta armeijaa lähellä rajojamme. Pyydän teitä siirtämään ne toisaalle, jottei kansani hätääntyisi tarpeettomasti.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_ALEXANDER_EXPANSION_SERIOUS_WARNING_1">
 			<Text>Hetkinen! Et kai aio haastaa riitaa kanssani? Lakkaa laajentamasta omistuksiasi lähellä valtakuntaani, tai muuten.</Text>
@@ -18634,13 +18634,13 @@
 			<Text>Mitä mieltä olette tästä?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_2">
-			<Text>Tekisimmekö kaupat?</Text>
+			<Text>Sopisiko näin?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_3">
-			<Text>Tehdään kaupat.</Text>
+			<Text>Kävisikö tämä?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_1">
-			<Text>Tämä sopimus sopii kuten se on esitetty.</Text>
+			<Text>Tämä sopimus käy esitetyssä muodossaan.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_2">
 			<Text>Sopimus näyttää hyvältä sellaisenaan.</Text>
@@ -18739,13 +18739,13 @@
 			<Text>{1_CivName} ei ole paras mahdollinen ystävä. Mikäli alatte leikkiä kavereita, voi meillä olla ongelmia tulla toimeen.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HUMAN_DOFED_FRIEND_1">
-			<Text>{1_CivName} on ystävystynyt kanssanne ja tämä suorastaan lämmittää sydäntäni. Olen itsekin hyvissä väleissä heihin.</Text>
+			<Text>{1_CivName} on ystävystynyt kanssanne ja tämä lämmittää sydäntäni, sillä meilläkin on heihin erinomaiset suhteet.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DENOUNCE_1">
-			<Text>Voi pahus, syöpä senkun kasvaa. Ensin te ja nyt {1_CivName}? Kummatkin kaipaatte läksytystä.</Text>
+			<Text>Jo on syöpä löytänyt etäpesäkkeen! {1_CivName} kävi näyttämässä naamaansa, eikä siitä suusta mitään kaunista kuulunut, kuten ei kuulunut teiltäkään. Teidät pitäisi molemmat hoitaa päiväjärjestyksestä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DOF_1">
-			<Text>Olen huomannut että {1_CivName} ja te olette nykyään ystäviä. Siispä olen tehnyt samoin. Ehkäpä tämä hatara liitto johtaa vastaisuudessa mahtaviin asioihin?</Text>
+			<Text>Olen huomannut että olette {1_CivName ^ 'feminine:genetiivin'} kanssa ystäviä. Siispä olen tehnyt samoin. Ehkäpä tämä hatara liitto johtaa vastaisuudessa mahtaviin asioihin?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_KILLED_PROTECTED_CITY_STATE_1">
 			<Text>Näyttää siltä, että lupauksenne ovat tyhjää täynnä, ja vallattu {@1_MinorCivName} on tästä esimerkki. Suorastaan halveksittavaa. Maailma saa kuulla rikoksestanne.</Text>
@@ -19240,19 +19240,19 @@
 			<Text>Sorretut työläisemme ovat tyytymättömiä. Piditte siitä tai ette, historia on puolellamme. Hautaamme sinut!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_1">
-			<Text>{1_LeagueName}... toimemme siellä menivät mönkään osaltaan teidän edustajienne vuoksi. Emme katso moista hyvällä.</Text>
+			<Text>{1_LeagueName} meni mönkään osaltaan teidän edustajienne vuoksi. Emme katso moista hyvällä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_2">
-			<Text>{1_LeagueName}... muistatte varmaan, kuinka ehdotuksemme jyrättiin osaltaan teidän edustajienne äänten vuoksi. On turha luulla, että edustajamme puoltaisivat toimianne vastaisuudessa.</Text>
+			<Text>{1_LeagueName} jyrättiin osaltaan jyrättiin osaltaan teidän edustajienne äänten vuoksi, kuten varmasti muistatte. On turha luulla, että edustajamme puoltaisivat toimianne tulevaisuudessa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_HOSTING_1">
-			<Text>Haluamme kiittää kiittää Maailmankongressin luottamisesta osaaviin käsiimme. {1_LeagueName} tulee näkemään monia hienoja asioita.</Text>
+			<Text>Haluamme kiittää kiittää Maailmankongressin luottamisesta osaaviin käsiimme. {1_LeagueName} tulee saamaan aikaan lukuisia hienoja asioita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
-			<Text>{1_LeagueName} on jälleen näyttänyt hyvät voimansa kiitos edustajienne avun. Odotamme apuanne jatkossakin ehdotuksiemme läpiviemiseksi ja yritämme olla teillekin avuksi.</Text>
+			<Text>{1_LeagueName} on näyttänyt voimansa kiitos edustajienne avun. Odotamme apuanne jatkossakin ehdotuksiemme läpiviemiseksi ja pyrimme olemaan teillekin hyödyksi.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
-			<Text>{1_LeagueName} oli onnistunut kiitos ehdotuksellemme antaman tuon. Yhdessä voimme saavuttaa suuria asioita.</Text>
+			<Text>{1_LeagueName} onnistui kiitos ehdotuksellemme antamanne tuen. Yhdessä voimme saavuttaa suuria asioita.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_INFLUENTIAL_ON_AI_1">
 			<Text>Kansamme ostaa nyt teidän saunavihtojanne ja kuuntelee metallimusiikkianne. Pelkään myös muun maailman alistuvan kulttuurinne vaikutuksen alaisuuteen.</Text>
@@ -19285,16 +19285,16 @@
 			<Text>Antakaa lapsi meille kahdeksaksi vuodeksi ja hän tulee olemaan sosialisti koko ikänsä. Työläisluokkanne on kuullut tämän totuuden; toivotamme heidät tervetulleeksi järjestyksen vallankumoukseen.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_1">
-			<Text>{1_LeagueName} istuntoa varten tekemänne ehdotus on suora hyökkäys meitä kohtaan. Olette onnellisia, mikäli tämä ei johda ongelmiin tulevaisuudessa.</Text>
+			<Text>{1_LeagueName} saa luvan epäonnistua! Istuntoa varten tekemänne ehdotus on suora hyökkäys meitä kohtaan. Olette onnellisia, mikäli tämä ei johda ongelmiin tulevaisuudessa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_2">
-			<Text>Ehdotuksenne huolettaa minua syvästi. {1_LeagueName} ja politiikka ylipäätään voitaisiin säästää moiselta ja ongelmamme voitaisiin ratkaista toisilla keinoilla.</Text>
+			<Text>{1_LeagueName} on osaltanne täyttä huuhaata ja ehdotuksenne huolettaa minua syvästi. Politiikka voitaisiin säästää moiselta ja ongelmat voisi ratkaista paremmin.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_1">
-			<Text>{1_LeagueName} tekemänne ehdotus kuulostaa oikein hyvältä. Vaikuttaa siltä, että meillä on yhteiset tavoitteet.</Text>
+			<Text>{1_LeagueName} vaikuttaa hyvältä! Ehdostuksenne perusteella meillä näyttäisi olevan yhteiset tavoitteet.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_2">
-			<Text>{1_LeagueName} istuntoa varten tekemänne ehdotus sopii meille mitä mainioimmin. Olemme mitä kiitollisimpia tästä.</Text>
+			<Text>{1_LeagueName} vaikuttaa hyvältä! Istuntoa varten tekemänne ehdotus sopii myös meille mitä mainioimmin.</Text>
 		</Row>
 		<!--CIV5GameTextInfos_Buildings.xml-->
 		<Row Tag="TXT_KEY_BUILDING_ACADEMY">
@@ -20927,7 +20927,7 @@
 			<Text>Asyut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ATHENS">
-			<Text>Ateena</Text>
+			<Text>Ateena|Ateenan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ATHRIBIS">
 			<Text>Athribis</Text>
@@ -21029,7 +21029,7 @@
 			<Text>Behistun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BEIJING">
-			<Text>Peking</Text>
+			<Text>Peking|Pekingin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BELFAST">
 			<Text>Belfast</Text>
@@ -21047,7 +21047,7 @@
 			<Text>Bergen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BERLIN">
-			<Text>Berliini</Text>
+			<Text>Berliini|Berliinin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BERN">
 			<Text>Bern</Text>
@@ -21128,7 +21128,7 @@
 			<Text>Bukarest</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUDAPEST">
-			<Text>Budapest</Text>
+			<Text>Budapest|Budapestin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BUFFALO">
 			<Text>Buffalo</Text>
@@ -21302,7 +21302,7 @@
 			<Text>Columbus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_COPENHAGEN">
-			<Text>Kööpenhamina</Text>
+			<Text>Kööpenhamina|Kööpenhaminan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CORFINIUM">
 			<Text>Corfinium</Text>
@@ -21362,7 +21362,7 @@
 			<Text>Debrecen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DELHI">
-			<Text>Delhi</Text>
+			<Text>Delhi|Delhin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DENIZLI">
 			<Text>Denizli</Text>
@@ -21431,7 +21431,7 @@
 			<Text>Edfu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_EDINBURGH">
-			<Text>Edinburgh</Text>
+			<Text>Edinburgh|Edinburghin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_EDIRNE">
 			<Text>Edirne</Text>
@@ -21692,7 +21692,7 @@
 			<Text>Hittite</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HONOLULU">
-			<Text>Honolulu</Text>
+			<Text>Honolulu|Honolulun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HOUSTON">
 			<Text>Houston</Text>
@@ -21758,7 +21758,7 @@
 			<Text>Istakhr</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ISTANBUL">
-			<Text>Istanbul</Text>
+			<Text>Istanbul|Istanbulin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ITZAPALAPA">
 			<Text>Itzapalapa</Text>
@@ -21914,7 +21914,7 @@
 			<Text>Kozuke</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KRAKOW">
-			<Text>Krakova</Text>
+			<Text>Krakova|Krakovan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KRASNOYARSK">
 			<Text>Krasnojarsk</Text>
@@ -21941,7 +21941,7 @@
 			<Text>Kushinagar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KYOTO">
-			<Text>Kioto</Text>
+			<Text>Kioto|Kioton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KYRESKHATA">
 			<Text>Kyreskhata</Text>
@@ -22010,7 +22010,7 @@
 			<Text>Limoges</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LISBON">
-			<Text>Lisbon</Text>
+			<Text>Lissabon|Lissabonin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LISHT">
 			<Text>Lisht</Text>
@@ -22025,7 +22025,7 @@
 			<Text>Londinium</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LONDON">
-			<Text>Lontoo</Text>
+			<Text>Lontoo|Lontoon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_LOS_ANGELES">
 			<Text>Los Angeles</Text>
@@ -22091,7 +22091,7 @@
 			<Text>Marmaris</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MARRAKECH">
-			<Text>Marrakech</Text>
+			<Text>Marrakech|Marrakechin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MARSEILLES">
 			<Text>Marseille</Text>
@@ -22112,7 +22112,7 @@
 			<Text>Maya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MECCA">
-			<Text>Mekka</Text>
+			<Text>Mekka|Mekan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MEDINA">
 			<Text>Medina</Text>
@@ -22166,7 +22166,7 @@
 			<Text>Montpellier</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MOSCOW">
-			<Text>Moskova</Text>
+			<Text>Moskova|Moskovan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MOSUL">
 			<Text>Mosul</Text>
@@ -22373,7 +22373,7 @@
 			<Text>Paishiyauvada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PALENQUE">
-			<Text>Palenque</Text>
+			<Text>Palenque|Palenquen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PALMYRA">
 			<Text>Palmyra</Text>
@@ -22382,7 +22382,7 @@
 			<Text>Palo Alto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PARIS">
-			<Text>Pariisi</Text>
+			<Text>Pariisi|Pariisin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PAROS">
 			<Text>Paros</Text>
@@ -22391,7 +22391,7 @@
 			<Text>Parthia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PASARGADAE">
-			<Text>Pasargadae</Text>
+			<Text>Pasargadae|Pasargadaen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PATALIPUTRA">
 			<Text>Pataliputra</Text>
@@ -22403,7 +22403,7 @@
 			<Text>Patras</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PELLA">
-			<Text>Pella</Text>
+			<Text>Pella|Pellan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PERGAMON">
 			<Text>Pergamon</Text>
@@ -22412,7 +22412,7 @@
 			<Text>Perm'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PERSEPOLIS">
-			<Text>Persepolis</Text>
+			<Text>Persepolis|Persepoliin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_PESHAWAR">
 			<Text>Peshawar</Text>
@@ -22538,7 +22538,7 @@
 			<Text>Romania</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ROME">
-			<Text>Rooma</Text>
+			<Text>Rooma|Rooman</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ROSTOCK">
 			<Text>Rostock</Text>
@@ -22649,7 +22649,7 @@
 			<Text>Sena Gallica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SEOUL">
-			<Text>Soul</Text>
+			<Text>Soul|Soulin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SERBIA">
 			<Text>Serbia</Text>
@@ -22724,7 +22724,7 @@
 			<Text>Southampton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SPARTA">
-			<Text>Sparta</Text>
+			<Text>Sparta|Spartan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SPOKANE">
 			<Text>Spokane</Text>
@@ -22739,10 +22739,10 @@
 			<Text>Staraya Russa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_STOCKHOLM">
-			<Text>Tukholma</Text>
+			<Text>Tukholma|Tukholman</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_STPETERSBURG">
-			<Text>Pietari</Text>
+			<Text>Pietari|Pietarin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_STRASBOURG">
 			<Text>Strasbourg</Text>
@@ -22835,7 +22835,7 @@
 			<Text>Tegea</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TENOCHTITLAN">
-			<Text>Tenochtitlan</Text>
+			<Text>Tenochtitlan|Tenochtitlanin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TEOIHUACAN">
 			<Text>Teoihuacan</Text>
@@ -22862,7 +22862,7 @@
 			<Text>Thanjavur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_THEBES">
-			<Text>Theba</Text>
+			<Text>Theba|Theban</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_THIS">
 			<Text>This</Text>
@@ -22877,10 +22877,10 @@
 			<Text>Tiibet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TIKAL">
-			<Text>Tikal</Text>
+			<Text>Tikal|Tikalin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TIMBUKTU">
-			<Text>Timbuktu</Text>
+			<Text>Timbuktu|Timbuktun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TIRUCHIRAPALLI">
 			<Text>Tiruchirapalli</Text>
@@ -22907,7 +22907,7 @@
 			<Text>Tobolsk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TOKYO">
-			<Text>Tokio</Text>
+			<Text>Tokio|Tokion</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_TOULON">
 			<Text>Toulon</Text>
@@ -22961,7 +22961,7 @@
 			<Text>Ujjain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ULUNDI">
-			<Text>Ulundi</Text>
+			<Text>Ulundi|Ulundin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_UMGUNGUNDLOVU">
 			<Text>Umgungundlovu</Text>
@@ -23015,13 +23015,13 @@
 			<Text>Voronezh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WARSAW">
-			<Text>Varsova</Text>
+			<Text>Varsova|Varsovan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WARWICK">
 			<Text>Warwick</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WASHINGTON">
-			<Text>Washington</Text>
+			<Text>Washington|Washingtonin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_WEIFANG">
 			<Text>Weifang</Text>
@@ -23045,7 +23045,7 @@
 			<Text>Wuxi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_XIAN">
-			<Text>Xian</Text>
+			<Text>Xian|Xianin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_XIKANG">
 			<Text>Xikang</Text>
@@ -23195,13 +23195,13 @@
 			<Text>Oneida Lake</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IROQ_CITY_NAME_ONONDAGA">
-			<Text>Onondaga</Text>
+			<Text>Onondaga|Onondagan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IROQ_CITY_NAME_OSININKA">
 			<Text>Osininka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SALAMANCA">
-			<Text>Salamanca</Text>
+			<Text>Salamanca|Salamancan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IROQ_CITY_NAME_SCHOHARIE">
 			<Text>Schoharie</Text>
@@ -23279,7 +23279,7 @@
 			<Text>Si Satchanalai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SIAM_CITY_NAME_SUKHOTHAI">
-			<Text>Sukhothai</Text>
+			<Text>Sukhothai|Sukhothain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SIAM_CITY_NAME_SUPHANBURI">
 			<Text>Suphanburi</Text>
@@ -23330,7 +23330,7 @@
 			<Text>Dori</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SONG_CITY_NAME_GAO">
-			<Text>Gao</Text>
+			<Text>Gao|Gaon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SONG_CITY_NAME_GWANDU">
 			<Text>Gwandu</Text>
@@ -23530,7 +23530,7 @@
 			<Text>Awan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BABYLON">
-			<Text>Babylon</Text>
+			<Text>Babylon|Babylonin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_BORSIPPA">
 			<Text>Borsippa</Text>
@@ -23687,7 +23687,7 @@
 			<Text>Corihuayrachina</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CUSCO">
-			<Text>Cusco</Text>
+			<Text>Cusco|Cuscon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ELCHE">
 			<Text>Elche</Text>
@@ -23747,7 +23747,7 @@
 			<Text>Machu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MADRID">
-			<Text>Madrid</Text>
+			<Text>Madrid|Madridin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MERIDA">
 			<Text>Merida</Text>
@@ -23786,7 +23786,7 @@
 			<Text>Riobamba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SALAMANCA">
-			<Text>Salamanca</Text>
+			<Text>Salamanca|Salamancan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_SANTANDER">
 			<Text>Santander</Text>
@@ -23901,7 +23901,7 @@
 			<Text>Hsia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KARAKORUM">
-			<Text>Karakorum</Text>
+			<Text>Karakorum|Karakorumin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_KAZAN">
 			<Text>Kazan</Text>
@@ -23995,7 +23995,7 @@
 			<Text>Gwangju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_GYEONGJU">
-			<Text>Gyeongju</Text>
+			<Text>Gyeongju|Gyeongjun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_HAEJU">
 			<Text>Haeju</Text>
@@ -33301,7 +33301,7 @@
 			<Text>Nishapur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_SAMARKAND">
-			<Text>Samarkand</Text>
+			<Text>Samarkand|Samarkandin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_TABRIZ">
 			<Text>Tabriz</Text>
@@ -33316,7 +33316,7 @@
 			<Text>Urgench</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIAN">
-			<Text>Xian</Text>
+			<Text>Xian|Xianin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIANGYANG">
 			<Text>Xiangyang</Text>
@@ -34993,7 +34993,7 @@
 			<Text>{1_MinorCivName:textkey} sai rahalahjansa!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_INVEST">
-			<Text>{1_MinorCivName:textkey} ei tarvitse enää sijoittajia</Text>
+			<Text>{1_MinorCivName:textkey} ei enää kaipaa sijoittajia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_PLEDGE_TO_PROTECT">
 			<Text>{1_MinorCivName:textkey} sai suojelijansa!</Text>
@@ -37967,7 +37967,7 @@
 			<Text>Adama</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ADDISABABA">
-			<Text>Addis Ababa</Text>
+			<Text>Addis Ababa|Addis Ababan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ADIGRAT">
 			<Text>Adigrat</Text>
@@ -37997,7 +37997,7 @@
 			<Text>Amersfoort</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AMSTERDAM">
-			<Text>Amsterdam</Text>
+			<Text>Amsterdam|Amsterdamin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AMSTETTEN">
 			<Text>Amstetten</Text>
@@ -38018,7 +38018,7 @@
 			<Text>Asella</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ATTILAS_COURT">
-			<Text>Attilan hovi</Text>
+			<Text>Attilan hovi|Attilan hovin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AWASA">
 			<Text>Awasa</Text>
@@ -38072,7 +38072,7 @@
 			<Text>Cardiff</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CARTHAGE">
-			<Text>Karthago</Text>
+			<Text>Karthago|Karthagon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CARTHAGONOVA">
 			<Text>Karthago Nova</Text>
@@ -38111,7 +38111,7 @@
 			<Text>Konstantia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CONSTANTINOPLE">
-			<Text>Konstantinopoli</Text>
+			<Text>Konstantinopoli|Konstantinopolin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CONWY">
 			<Text>Conwy</Text>
@@ -38549,7 +38549,7 @@
 			<Text>Steyr</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_STIRLING">
-			<Text>Stirling</Text>
+			<Text>Stirling|Stirlingin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_STPOLTEN">
 			<Text>St. Polten</Text>
@@ -38657,7 +38657,7 @@
 			<Text>Venlo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VIENNA">
-			<Text>Wien</Text>
+			<Text>Wien|Wienin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VILLACH">
 			<Text>Villach</Text>
@@ -38961,7 +38961,7 @@
 			<Text>Bilbais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_CAIRO">
-			<Text>Cairo</Text>
+			<Text>Kairo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_DVIN">
 			<Text>Dvin</Text>
@@ -47671,7 +47671,7 @@
 			<Text>Yrittäjyys</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Yrittäjyys[ENDCOLOR][NEWLINE]Merkittävät kauppiaat ilmaantuvat 25% vikkelämmin. Kaksinkertainen summa [ICON_GOLD] kultaa kaupankäynnin suorittamisesta kaupunkivaltiossa.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Yrittäjyys[ENDCOLOR][NEWLINE]Merkittävät kauppiaat ilmaantuvat 25% vikkelämmin ja he tuottavat kaksinkertaisesti [ICON_GOLD] kultaa kaupankäynneistä kaupunkivaltiossa.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_ETHICS">
 			<Text>Kanssakäynti</Text>
@@ -48793,10 +48793,10 @@
 			<Text>Cagliari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAIRO">
-			<Text>Cairo</Text>
+			<Text>Kairo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAPE_TOWN">
-			<Text>Cape Town</Text>
+			<Text>Kapkaupunki</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CATANZARO">
 			<Text>Catanzaro</Text>
@@ -48988,10 +48988,10 @@
 			<Text>N'Djamena</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LAMEGO">
-			<Text>New Lamego</Text>
+			<Text>Uusi Lamego</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LISBON">
-			<Text>New Lisbon</Text>
+			<Text>Uusi Lissabon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NIAMEY">
 			<Text>Niamey</Text>
@@ -49151,7 +49151,7 @@
 			<Text>Arpad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_ASSUR">
-			<Text>Assur</Text>
+			<Text>Assur|Assurin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_AVEIRO">
 			<Text>Aveiro</Text>
@@ -49421,7 +49421,7 @@
 			<Text>Jaboatao dos Guararapes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JAKARTA">
-			<Text>Jakarta</Text>
+			<Text>Jakarta|Jakartan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_JAMBI">
 			<Text>Jambi</Text>
@@ -49559,7 +49559,7 @@
 			<Text>Mohammedia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MOSON_KAHNI">
-			<Text>Moson Kahni</Text>
+			<Text>Moson Kahni|Moson Kahnin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_MTHATHA">
 			<Text>Mthatha</Text>
@@ -49676,7 +49676,7 @@
 			<Text>Recife</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_RIO_DE_JANEIRO">
-			<Text>Rio de Janeiro</Text>
+			<Text>Rio de Janeiro|Rio de Janeiron</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_RUDA_SLASKA">
 			<Text>Ruda Slaska</Text>
@@ -49814,7 +49814,7 @@
 			<Text>Urartu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VENICE">
-			<Text>Venetsia</Text>
+			<Text>Venetsia|Venetsian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_VIANA_DO_CASTELO">
 			<Text>Viana do Castelo</Text>
@@ -50014,7 +50014,7 @@
 			<Text>Nottoway Court House</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_PETERSBURG">
-			<Text>Petersburg</Text>
+			<Text>Pietari|Pietarin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_RICHMOND">
 			<Text>Richmond</Text>
@@ -50479,34 +50479,34 @@
 			<Text>Maailmankongressi on kytketty pois tässä pelissä.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_1">
-			<Text>Ensimmäinen</Text>
+			<Text>ensimmäinen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_10">
-			<Text>Kymmenes</Text>
+			<Text>kymmenes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_2">
-			<Text>Toinen</Text>
+			<Text>toinen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_3">
-			<Text>Kolmas</Text>
+			<Text>kolmas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_4">
-			<Text>Neljäs</Text>
+			<Text>neljäs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_5">
-			<Text>Viides</Text>
+			<Text>viides</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_6">
-			<Text>Kuudes</Text>
+			<Text>kuudes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_7">
-			<Text>Seitsemäs</Text>
+			<Text>seitsemäs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_8">
-			<Text>Kahdeksas</Text>
+			<Text>kahdeksas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_9">
-			<Text>Yhdeksäs</Text>
+			<Text>yhdeksäs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW">
 			<Text>Maailmankongressi</Text>
@@ -50932,13 +50932,13 @@
 			<Text>Yhdistyneet kansakunnat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_1">
-			<Text>{@1_Ordinal} kongressi, {@2_CityName}</Text>
+			<Text>{@2_CityName[2]} {@1_Ordinal} kongressi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_2">
-			<Text>{@1_Ordinal} konferenssi, {@2_CityName}</Text>
+			<Text>{@2_CityName[2]} {@1_Ordinal} konferenssi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_3">
-			<Text>{@1_Ordinal} neuvonpito, {@2_CityName}</Text>
+			<Text>{@2_CityName[2]} {@1_Ordinal} neuvonpito</Text>
 		</Row>
 		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_GENERIC">
 			<Text>Maailmankongressi</Text>

@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Several improvements to some notifications, yields and resources
 - Improvements to a few lines to result in better Finnish overall
 - A few quotes
+- Improve generated names of world congress and related lines
 
 ### Added
 
